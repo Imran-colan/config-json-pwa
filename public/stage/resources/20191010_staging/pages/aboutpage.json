@@ -1,0 +1,671 @@
+{
+
+    "pagetitleEn": "About <b>6thStreet</b>",
+    "pagetitleAr": "عن <b>6ᵗʰستريت</b>",
+
+    "descriptionEn": "<h3 class=\"aboutuswrapper-descriptionheading\">Who we are</h3><p class=\"aboutuswrapper-descriptiondetails\">We are an elevated fashion and lifestyle destination committed to styling GCC’s GEN NOW to WOW. We deliver on-trend shoes, bags, outfits, beauty essentials and accessories right at your doorstep in the UAE, KSA, Kuwait, Oman, Qatar &amp; Bahrain. We believe in looking like a million bucks, not spending it – which is why we bring to you over 1200+ global brands at the most accessible prices. <br> <br><i>Off to the gym?</i> Performance sportswear from <u><a href=\"/nike.html\" class=\" \">Nike</a></u>, <u><a href=\"/adidas.html\" class=\" \">Adidas</a></u>, <u><a href=\"/skechers.html\" class=\" \">Skechers</a></u> and On will power up your routine.<br><br><i>Date night tonight?</i> Get elegant outfits from <u><a href=\"/tommy-hilfiger.html\" class=\" \">Tommy Hilfiger</a></u>, <u><a href=\"/calvin-klein.html\" class=\" \">Calvin Klein</a></u> or <u><a href=\"/trendyol.html\" class=\" \">Trendyol</a></u>. Complete your look with shoes &amp; accessories from <u><a href=\"/charles-keith.html\" class=\" \">Charles &amp; Keith</a></u>, <u><a href=\"/dune-london.html\" class=\" \">Dune London</a></u> and <u><a href=\"/aldo.html\" class=\" \">Aldo</a></u> and add finishing touches from our exclusive selection of fragrances designed by top influencers.<br><br><i>Looking for an immersive shopping experience?</i> Come visit GCC’s first phygital store at Dubai Hills Mall. An innovative tech-led space that combines the best of both online &amp; offline shopping with online browsing &amp; smart fitting rooms.<br><br>At 6thStreet, we encourage you to live your best life and we think looking your best is a great place to start. </p>",
+
+    "descriptionAr": "<h3 class=\"aboutuswrapper-descriptionheading aboutuswrapper-descriptionheading_isArabic\">من نحن؟</h3><p class=\"aboutuswrapper-descriptiondetails aboutuswrapper-descriptiondetails_isArabic\">نحن موقع تسوق إلكتروني رائد في منطقة الخليج، حيث نُقدم أرقى تصاميم الملابس، الأحذية والإكسسوارات العصرية للنساء، الرجال والأطفال. يوفر موقع 6 ستريت تشكيلة متنوعة تُرضي جميع الأذواق، فهو يحتوي عل أكثر من 1200 ماركة عالمية بأسعار في متناول الجميع. يمكن التسوق من خلال موقع 6 ستريت في الإمارات العربية المتحدة والمملكة العربية السعودية ودولة الكويت وسلطنة عمان ودولة قطر ومملكة البحرين. <br> <br>حفزّ نفسك على التمرين مع أروع الماركات الرياضية مثل <u><a href=\"/nike.html\" class=\" \">نايك</a></u>, <u><a href=\"/adidas.html\" class=\" \">أديداس</a></u>, <u><a href=\"/skechers.html\" class=\" \">سكتشرز</a></u> واون.<br><br>أما إذا كنت تبحث عن إطلالات أنيقة لمناسباتك المختلفة، اكتشف تشكيلة من التصاميم الخالدة التي لا تزول موضتها من <u><a href=\"/tommy-hilfiger.html\" class=\" \">تومي هيلفيغر</a></u> و<u><a href=\"/calvin-klein.html\" class=\" \">كالفن كلاين</a></u> ولإطلالة عملية عصرية اختر ما يناسبك من <u><a href=\"/tommy-hilfiger.html\" class=\" \">ترينديول</a></u>.<br><br>هل تبحث عن تجربة تسوق ممتعة؟ تعال وقم بزيارة المتجر الفيجيتال الأول في دول مجلس التعاون الخليجي في دبي هيلز مول. مساحة مبتكرة تقنيًا تجمع بين تجربتي التسوق الإلكتروني والتسوق الواقعي مع التصفح عبر الإنترنت وغرف القياس الذكية.<br><br>في 6ستريت ، نشجعك أن تعيش بشكل أفضل ونؤمن بأن الإعتناء بإطلالتك ستكون الخطوة الأولى لذلك. <br><br></p>",
+
+    "video":
+    {
+        "desktop": [
+        {
+            "src": "https://mobilecdn.6thstreet.com/landing_media_assets/About/videosdesk.webm",
+            "type": "video/webm"
+        },
+        {
+            "src": "https://mobilecdn.6thstreet.com/landing_media_assets/About/videosdesk.mp4",
+            "type": "video/mp4"
+        }],
+        "mobile": [
+        {
+            "src": "https://mobilecdn.6thstreet.com/landing_media_assets/About/videosmobi.webm",
+            "type": "video/webm"
+        },
+        {
+            "src": "https://mobilecdn.6thstreet.com/landing_media_assets/About/videosmobi.mp4",
+            "type": "video/mp4"
+        }]
+
+    },
+
+
+    "appLink":
+    {
+        "appleStore":
+        {
+            "app_id": "App1",
+            "app_name": "apple-store",
+            "app_image": "https://static.6media.me/static/version1600320971/frontend/6SNEW/6snew/en_US/images/apple-store-badge.svg",
+            "app_onclick": "https://apps.apple.com/ro/app/6thstreet-com/id1370217070"
+        },
+        "googlePlay":
+        {
+            "app_id": "Google1",
+            "app_name": "google-play",
+            "app_image": "https://static.6media.me/static/version1600320042/frontend/6SNEW/6snew/en_US/images/google-play-badge.svg",
+            "app_onclick": "https://play.google.com/store/apps/details?id=com.apparel.app6thstreet"
+        },
+        "huawei":
+        {
+            "app_id": "Gallery1",
+            "app_name": "huawei",
+            "app_image": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/resources/20190121/en-ae/d/icon_huaweiappgallery.svg",
+            "app_onclick": "https://appgallery.huawei.com/#/app/C102324663"
+        }
+    },
+
+
+    "experienceWidget":
+    {
+        "sectionHeadingEn": "The <b>6thStreet.com</b> experience",
+        "sectionHeadingAr": "تجربة تسوق مميّزة على <b>6 ستريت</b>",
+        "data": [
+        {
+            "height": "475",
+            "imglink": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/globe.png",
+            "text": "Trends from around the world",
+            "ArabicText": "أبرز صيحات الموضة",
+            "textDescription": "1200+ international brands to browse",
+            "textDescriptionArabic": "أكثر من 1200 ماركة عالمية",
+            "link": "/catalogsearch/result/?q=%2B&qid=88b49e11f7414c75016a8915fef6e978&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bbrand_name%5D%5B0%5D=Berastogi+%40+CCC&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+            "width": "84"
+        },
+        {
+            "height": "475",
+            "imglink": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/return.png",
+            "text": "Not feeling your purchase?",
+            "ArabicText": "سياسة الإرجاع",
+            "textDescription": "Return it within 14 days. No-questions-asked.",
+            "textDescriptionArabic": "في حال لم تكن راضياً عن طلبك، يمكن إرجاع المنتج خلال 14 يوم",
+            "link": "/catalogsearch/result/?q=%2B&qid=88b49e11f7414c75016a8915fef6e978&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bbrand_name%5D%5B0%5D=Berastogi+%40+CCC&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+            "width": "84"
+        },
+        {
+            "height": "475",
+            "imglink": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/globe.png",
+            "text": "Can’t pay it all right now?",
+            "ArabicText": "تسوق الآن وادفع لاحقاً",
+            "textDescription": "Shop now & pay later in 4 easy monthly installments",
+            "textDescriptionArabic": "قم بتقسيط مشترياتك على أربعة أقساط شهرية",
+            "link": "/catalogsearch/result/?q=%2B&qid=88b49e11f7414c75016a8915fef6e978&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bbrand_name%5D%5B0%5D=Berastogi+%40+CCC&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+            "width": "84"
+        },
+        {
+            "height": "475",
+            "imglink": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/CA.png",
+            "text": "Spend more & redeem! ",
+            "ArabicText": "تسوق أكثر واسترد نقاطك",
+            "textDescription": "Earn points by linking your Club Apparel account",
+            "textDescriptionArabic": "جمّع نقاط مكافآت بربط حسابك مع حساب كلوب أباريل الخاص بك",
+            "link": "/catalogsearch/result/?q=%2B&qid=88b49e11f7414c75016a8915fef6e978&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bbrand_name%5D%5B0%5D=Berastogi+%40+CCC&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+            "width": "84"
+        },
+        {
+            "height": "475",
+            "imglink": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/clicktoCollect.png",
+            "text": "In-store experience without the hassle?",
+            "ArabicText": "تسوق واستلم بنفسك",
+            "textDescription": "Buy online, pick-up in store with Click & Collect",
+            "textDescriptionArabic": "تسوق أونلاين واستلم طلبك بنفسك من المتجر ",
+            "link": "/catalogsearch/result/?q=%2B&qid=88b49e11f7414c75016a8915fef6e978&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bbrand_name%5D%5B0%5D=Berastogi+%40+CCC&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+            "width": "84"
+        }]
+    },
+
+    "brandWidget":
+    {
+        "sectionHeadingEn": "Brands <b>We love</b>",
+        "sectionHeadingAr": "<b>ماركات </b>الكل يحبها",
+        "AE": [
+            {
+                "height": "475",
+                "link": "/skechers.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Skechers.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/dune-london.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Dune.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/adidas.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Adidas.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/beverly-hills-polo-club.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/BHPC.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/birkenstock.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Berkenstock.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/tommy-hilfiger.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/THWomen.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/calvin-klein.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/+CK.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/naturalizer.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Naturalizer.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/toms.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Toms.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/trendyol.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Trendyol.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/levis.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Levis.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/aeropostale.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Aero.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/nike.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Nike.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/inglot.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/INGLOT.jpg",
+                "width": "355"
+            },
+            {
+                "height": "475",
+                "link": "/puma.html",
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/PUMA.jpg",
+                "width": "355"
+            }
+
+        ],
+        "SA": [
+        {
+            "height": "475",
+            "link": "/skechers.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Skechers.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/dune-london.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Dune.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/adidas.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Adidas.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/beverly-hills-polo-club.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/BHPC.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/birkenstock.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Berkenstock.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/tommy-hilfiger.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/THWomen.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/calvin-klein.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/+CK.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/naturalizer.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Naturalizer.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/toms.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Toms.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/trendyol.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Trendyol.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/levis.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Levis.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/aeropostale.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Aero.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/nike.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Nike.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/inglot.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/INGLOT.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/puma.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/PUMA.jpg",
+            "width": "355"
+        }],
+        "OM": [
+        {
+            "height": "475",
+            "link": "/skechers.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Skechers.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/dune-london.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Dune.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/adidas.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Adidas.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/beverly-hills-polo-club.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/BHPC.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/birkenstock.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Berkenstock.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/tommy-hilfiger.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/THWomen.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/calvin-klein.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/+CK.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/naturalizer.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Naturalizer.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/toms.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Toms.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/trendyol.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Trendyol.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/levis.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Levis.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/aeropostale.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Aero.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/nike.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Nike.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/inglot.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/INGLOT.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/puma.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/PUMA.jpg",
+            "width": "355"
+        }],
+        "QA": [
+        {
+            "height": "475",
+            "link": "/skechers.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Skechers.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/dune-london.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Dune.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/adidas.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Adidas.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/beverly-hills-polo-club.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/BHPC.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/birkenstock.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Berkenstock.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/tommy-hilfiger.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/THWomen.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/calvin-klein.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/+CK.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/naturalizer.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Naturalizer.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/toms.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Toms.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/trendyol.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Trendyol.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/levis.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Levis.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/aeropostale.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Aero.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/nike.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Nike.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/inglot.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/INGLOT.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/puma.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/PUMA.jpg",
+            "width": "355"
+        }],
+        "KW": [
+        {
+            "height": "475",
+            "link": "/skechers.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Skechers.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/dune-london.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Dune.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/adidas.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Adidas.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/beverly-hills-polo-club.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/BHPC.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/birkenstock.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Berkenstock.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/tommy-hilfiger.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/THWomen.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/calvin-klein.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/+CK.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/naturalizer.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Naturalizer.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/toms.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Toms.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/trendyol.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Trendyol.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/levis.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Levis.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/aeropostale.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Aero.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/nike.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Nike.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/inglot.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/INGLOT.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/puma.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/PUMA.jpg",
+            "width": "355"
+        }],
+        "BH": [
+        {
+            "height": "475",
+            "link": "/skechers.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Skechers.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/dune-london.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Dune.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/adidas.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Adidas.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/beverly-hills-polo-club.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/BHPC.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/birkenstock.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Berkenstock.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/tommy-hilfiger.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/THWomen.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/calvin-klein.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/+CK.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/naturalizer.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Naturalizer.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/toms.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Toms.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/trendyol.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Trendyol.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/levis.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Levis.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/aeropostale.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Aero.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/nike.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/Nike.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/inglot.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/INGLOT.jpg",
+            "width": "355"
+        },
+        {
+            "height": "475",
+            "link": "/puma.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/aboutPage/22-11-2022/PUMA.jpg",
+            "width": "355"
+        }]
+    }
+
+}
