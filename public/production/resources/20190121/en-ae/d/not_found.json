@@ -1,0 +1,650 @@
+{
+    "men": [
+    {
+        "type": "grid",
+        "index": 1,
+        "promotion_name": "Men-EN",
+        "tag": "SBC-New",
+        "background_color": "#000000",
+        "items_per_row": 6,
+        "item_height": 240,
+        "header":
+        {
+            "title": "Shop by Category"
+        },
+        "items": [
+        {
+            "promotion_name": "SBC-Clothing",
+            "footer":
+            {
+                "title": "Clothing"
+            },
+            "link": "/men/clothing.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Men_Clothing.jpg",
+            "tag": "Clothing"
+        },
+        {
+            "promotion_name": "SBC-Sportswear",
+            "footer":
+            {
+                "title": "Sportswear"
+            },
+            "link": "/men/sportswear.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Men_Sports.jpg",
+            "tag": "Sportswear"
+        },
+        {
+            "promotion_name": "SBC-Shoes",
+            "footer":
+            {
+                "title": "Shoes"
+            },
+            "link": "/men/shoes.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Men_Footwear.jpg",
+            "tag": "Shoes"
+        },
+        {
+            "promotion_name": "SBC-Bags",
+            "footer":
+            {
+                "title": "Bags"
+            },
+            "link": "/men/bags.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Men_Bags.jpg",
+            "tag": "Bags"
+        },
+        {
+            "promotion_name": "SBC-Accessories",
+            "footer":
+            {
+                "title": "Accessories"
+            },
+            "link": "/men/accessories.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Men_Acc.jpg",
+            "tag": "Accessories"
+        },
+        {
+            "promotion_name": "SBC-Grooming",
+            "footer":
+            {
+                "title": "Grooming"
+            },
+            "link": "/men/grooming.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Men_grooming.jpg",
+            "tag": "Grooming"
+        }],
+        "image_size":
+        {
+            "height": 400,
+            "width": 400
+        }
+    },
+	{
+		"type": "recently_viewed_slider",
+		"index": 2,
+		"promotion_name": "Men-EN",
+		"tag": "Recently Viewed",
+		"query": {
+		"num_results": 20
+	},
+		"header": {
+		"title": "Recently Viewed"
+	}
+},
+    {
+        "type": "vue_recently_viewed_slider",
+        "index": 2,
+        "promotion_name": "Men-EN",
+        "tag": "Recently Viewed",
+        "query":
+        {
+            "num_results": 20
+        },
+        "layout":
+        {
+            "title": "Recently Viewed"
+        }
+    },
+    {
+        "type": "grid",
+        "index": 3,
+        "promotion_name": "Men-EN",
+        "tag": "SBC-New",
+        "background_color": "#000000",
+        "items_per_row": 4,
+        "item_height": 240,
+        "header":
+        {
+            "title": "Explore More"
+        },
+        "items": [
+        {
+            "promotion_name": "Explore-More-Men",
+            "footer":
+            {
+                "title": "Shop Men"
+            },
+            "link": "/men.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_men.jpg",
+            "tag": "Shop Men"
+        },
+        {
+            "promotion_name": "Explore-More-Women",
+            "footer":
+            {
+                "title": "Shop Women"
+            },
+            "link": "/women.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_women.jpg",
+            "tag": "Shop Women"
+        },
+        {
+            "promotion_name": "Explore-More-Kids",
+            "footer":
+            {
+                "title": "Shop Kids"
+            },
+            "link": "/kids.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_kids.jpg",
+            "tag": "Shop Kids"
+        },
+        {
+            "promotion_name": "Explore-More-Home",
+            "footer":
+            {
+                "title": "Shop Home"
+            },
+            "link": "/home.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_Home.jpg",
+            "tag": "Shop Home"
+        }],
+        "image_size":
+        {
+            "height": 157,
+            "width": 375
+        }
+    }],
+    "women": [
+    {
+        "type": "grid",
+        "index": 1,
+        "promotion_name": "Women-EN",
+        "tag": "SBC-New",
+        "background_color": "#000000",
+        "items_per_row": 6,
+        "item_height": 240,
+        "header":
+        {
+            "title": "Shop by Category"
+        },
+        "items": [
+        {
+            "promotion_name": "SBC-Clothing",
+            "footer":
+            {
+                "title": "Clothing"
+            },
+            "link": "/women/clothing.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Women_clothing.jpg",
+            "tag": "Clothing"
+        },
+        {
+            "promotion_name": "SBC-Sportswear",
+            "footer":
+            {
+                "title": "Sportswear"
+            },
+            "link": "/women/sportswear.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Women_Sports.jpg",
+            "tag": "Sportswear"
+        },
+        {
+            "promotion_name": "SBC-Shoes",
+            "footer":
+            {
+                "title": "Shoes"
+            },
+            "link": "/women/shoes.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Women_Sandels.jpg",
+            "tag": "Shoes"
+        },
+        {
+            "promotion_name": "SBC-Bags",
+            "footer":
+            {
+                "title": "Bags"
+            },
+            "link": "/women/bags.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Women_Handbags.jpg",
+            "tag": "Bags"
+        },
+        {
+            "promotion_name": "SBC-Accessories",
+            "footer":
+            {
+                "title": "Accessories"
+            },
+            "link": "/women/accessories.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Women_Acc.jpg",
+            "tag": "Accessories"
+        },
+        {
+            "promotion_name": "SBC-Beauty",
+            "footer":
+            {
+                "title": "Beauty"
+            },
+            "link": "/women/beauty.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Women_Beauty.jpg",
+            "tag": "Beauty"
+        }],
+        "image_size":
+        {
+            "height": 400,
+            "width": 400
+        }
+    },
+	{
+		"type": "recently_viewed_slider",
+		"index": 2,
+		"promotion_name": "Women-EN",
+		"tag": "Recently Viewed",
+		"query": {
+		"num_results": 20
+	},
+		"header": {
+		"title": "Recently Viewed"
+	}
+},
+    {
+        "type": "vue_recently_viewed_slider",
+        "index": 2,
+        "promotion_name": "Women-EN",
+        "tag": "Recently Viewed",
+        "query":
+        {
+            "num_results": 20
+        },
+        "layout":
+        {
+            "title": "Recently Viewed"
+        }
+    },
+    {
+        "type": "grid",
+        "index": 3,
+        "promotion_name": "Men-EN",
+        "tag": "SBC-New",
+        "background_color": "#000000",
+        "items_per_row": 4,
+        "item_height": 240,
+        "header":
+        {
+            "title": "Explore More"
+        },
+        "items": [
+        {
+            "promotion_name": "Explore-More-Men",
+            "footer":
+            {
+                "title": "Shop Men"
+            },
+            "link": "/men.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_men.jpg",
+            "tag": "Shop Men"
+        },
+        {
+            "promotion_name": "Explore-More-Women",
+            "footer":
+            {
+                "title": "Shop Women"
+            },
+            "link": "/women.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_women.jpg",
+            "tag": "Shop Women"
+        },
+        {
+            "promotion_name": "Explore-More-Kids",
+            "footer":
+            {
+                "title": "Shop Kids"
+            },
+            "link": "/kids.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_kids.jpg",
+            "tag": "Shop Kids"
+        },
+        {
+            "promotion_name": "Explore-More-Home",
+            "footer":
+            {
+                "title": "Shop Home"
+            },
+            "link": "/home.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_Home.jpg",
+            "tag": "Shop Home"
+        }],
+        "image_size":
+        {
+            "height": 157,
+            "width": 375
+        }
+    }],
+    "kids": [
+    {
+        "type": "grid",
+        "index": 1,
+        "promotion_name": "Kids-EN",
+        "tag": "SBC-New",
+        "background_color": "#000000",
+        "items_per_row": 6,
+        "item_height": 240,
+        "header":
+        {
+            "title": "Shop by Category"
+        },
+        "items": [
+        {
+            "promotion_name": "SBC-Clothing",
+            "footer":
+            {
+                "title": "Clothing"
+            },
+            "link": "/kids/clothing.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/kids_CLOTHING.jpg",
+            "tag": "Clothing"
+        },
+        {
+            "promotion_name": "SBC-Sportswear",
+            "footer":
+            {
+                "title": "Sportswear"
+            },
+            "link": "/kids/sportswear.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/kids_Sports.jpg",
+            "tag": "Sportswear"
+        },
+        {
+            "promotion_name": "SBC-Shoes",
+            "footer":
+            {
+                "title": "Shoes"
+            },
+            "link": "/kids/shoes.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/kids_footwear.jpg",
+            "tag": "Shoes"
+        },
+        {
+            "promotion_name": "SBC-Bags",
+            "footer":
+            {
+                "title": "Bags"
+            },
+            "link": "/kids/bags.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/kids_bags.jpg",
+            "tag": "Bags"
+        },
+        {
+            "promotion_name": "SBC-Accessories",
+            "footer":
+            {
+                "title": "Accessories"
+            },
+            "link": "/kids/kids-accessories.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/kids_ACC.jpg",
+            "tag": "Accessories"
+        },
+        {
+            "promotion_name": "SBC-Toys-Baby-Care",
+            "footer":
+            {
+                "title": "Toys & Baby Care"
+            },
+            "link": "/toys-essentials.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/kids_TOYS.jpg",
+            "tag": "Toys & Baby Care"
+        }],
+        "image_size":
+        {
+            "height": 400,
+            "width": 400
+        }
+    },
+	{
+		"type": "recently_viewed_slider",
+		"index": 2,
+		"promotion_name": "Kids-EN",
+		"tag": "Recently Viewed",
+		"query": {
+		"num_results": 20
+	},
+		"header": {
+		"title": "Recently Viewed"
+	}
+},
+    {
+        "type": "vue_recently_viewed_slider",
+        "index": 2,
+        "promotion_name": "Kids-EN",
+        "tag": "Recently Viewed",
+        "query":
+        {
+            "num_results": 20
+        },
+        "layout":
+        {
+            "title": "Recently Viewed"
+        }
+    },
+    {
+        "type": "grid",
+        "index": 3,
+        "promotion_name": "Men-EN",
+        "tag": "SBC-New",
+        "background_color": "#000000",
+        "items_per_row": 4,
+        "item_height": 240,
+        "header":
+        {
+            "title": "Explore More"
+        },
+        "items": [
+        {
+            "promotion_name": "Explore-More-Men",
+            "footer":
+            {
+                "title": "Shop Men"
+            },
+            "link": "/men.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_men.jpg",
+            "tag": "Shop Men"
+        },
+        {
+            "promotion_name": "Explore-More-Women",
+            "footer":
+            {
+                "title": "Shop Women"
+            },
+            "link": "/women.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_women.jpg",
+            "tag": "Shop Women"
+        },
+        {
+            "promotion_name": "Explore-More-Kids",
+            "footer":
+            {
+                "title": "Shop Kids"
+            },
+            "link": "/kids.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_kids.jpg",
+            "tag": "Shop Kids"
+        },
+        {
+            "promotion_name": "Explore-More-Home",
+            "footer":
+            {
+                "title": "Shop Home"
+            },
+            "link": "/home.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_Home.jpg",
+            "tag": "Shop Home"
+        }],
+        "image_size":
+        {
+            "height": 157,
+            "width": 375
+        }
+    }],
+    "home": [
+    {
+        "type": "grid",
+        "index": 1,
+        "promotion_name": "Home-EN",
+        "tag": "SBC-New",
+        "background_color": "#000000",
+        "items_per_row": 6,
+        "item_height": 240,
+        "header":
+        {
+            "title": "Shop by Category"
+        },
+        "items": [
+        {
+            "promotion_name": "SBC-Baking",
+            "footer":
+            {
+                "title": "Baking"
+            },
+            "link": "/home/baking.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Home_baking.jpg",
+            "tag": "Baking"
+        },
+        {
+            "promotion_name": "SBC-Cooking",
+            "footer":
+            {
+                "title": "Cooking"
+            },
+            "link": "/home/cooking.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Home_cooking.jpg",
+            "tag": "Cooking"
+        },
+        {
+            "promotion_name": "SBC-Appliances",
+            "footer":
+            {
+                "title": "Appliances"
+            },
+            "link": "/home/electrical.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Home_Appliance.jpg",
+            "tag": "Appliances"
+        },
+        {
+            "promotion_name": "SBC-Home-Utilities",
+            "footer":
+            {
+                "title": "Home Utilities"
+            },
+            "link": "/home/home-utilities.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Home_Home_Utilities.jpg",
+            "tag": "Home Utilities"
+        },
+        {
+            "promotion_name": "SBC-Home-Décor",
+            "footer":
+            {
+                "title": "Home Décor"
+            },
+            "link": "/home/home-decor.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Home_Home_Décor.jpg",
+            "tag": "Home Décor"
+        },
+        {
+            "promotion_name": "SBC-Lighting",
+            "footer":
+            {
+                "title": "Lighting"
+            },
+            "link": "/home/lighting/decorative-lighting.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Home_Lighting.jpg",
+            "tag": "Lighting"
+        }],
+        "image_size":
+        {
+            "height": 400,
+            "width": 400
+        }
+    },
+    {
+        "type": "vue_recently_viewed_slider",
+        "index": 2,
+        "promotion_name": "Home-EN",
+        "tag": "Recently Viewed",
+        "query":
+        {
+            "num_results": 20
+        },
+        "layout":
+        {
+            "title": "Recently Viewed"
+        }
+    },
+    {
+        "type": "grid",
+        "index": 3,
+        "promotion_name": "Men-EN",
+        "tag": "SBC-New",
+        "background_color": "#000000",
+        "items_per_row": 4,
+        "item_height": 240,
+        "header":
+        {
+            "title": "Explore More"
+        },
+        "items": [
+        {
+            "promotion_name": "Explore-More-Men",
+            "footer":
+            {
+                "title": "Shop Men"
+            },
+            "link": "/men.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_men.jpg",
+            "tag": "Shop Men"
+        },
+        {
+            "promotion_name": "Explore-More-Women",
+            "footer":
+            {
+                "title": "Shop Women"
+            },
+            "link": "/women.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_women.jpg",
+            "tag": "Shop Women"
+        },
+        {
+            "promotion_name": "Explore-More-Kids",
+            "footer":
+            {
+                "title": "Shop Kids"
+            },
+            "link": "/kids.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_kids.jpg",
+            "tag": "Shop Kids"
+        },
+        {
+            "promotion_name": "Explore-More-Home",
+            "footer":
+            {
+                "title": "Shop Home"
+            },
+            "link": "/home.html",
+            "url": "https://mobilecdn.6thstreet.com/AllBanners/NoMatch/Explore_more_Home.jpg",
+            "tag": "Shop Home"
+        }],
+        "image_size":
+        {
+            "height": 157,
+            "width": 375
+        }
+    }]
+}
