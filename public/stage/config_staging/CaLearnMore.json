@@ -1,0 +1,190 @@
+{
+  "countries": [
+    {
+      "country": "AE",
+      "data": {
+        "title": "Club Apparel",
+        "title-ar": "كلوب أباريل",
+        "sub-title": "Club Apparel is the GCC’s most rewarding app-based loyalty program.",
+        "sub-title-ar": "كلوب أباريل هو برنامج الولاء الأكثر مكافأة في دول مجلس التعاون الخليجي، وقائم على تطبيق على الهواتف الذكية.",
+        "terms": [
+          {
+            "icon-type": "PointsValue",
+            "term": "Earn 2 points with 100 AED",
+            "term-ar": "اكسب 2 نقطة مقابل كل 100 درهم إماراتي"
+          },
+          {
+            "icon-type": "SalePreviews",
+            "term": "Access exclusive brand sale previews",
+            "term-ar": "لديك إمكانية الوصول لخصومات الماركات الخاصة "
+          },
+          {
+            "icon-type": "NewLaunch",
+            "term": "New Product launches",
+            "term-ar": "إصدارات جديدة من المنتجات"
+          },
+          {
+            "icon-type": "Invitation",
+            "term": "Get invited to club apparel event",
+            "term-ar": "تلقى دعوة لحضور فعالية كلوب أباريل"
+          }
+        ]
+      }
+    },
+    {
+      "country": "SA",
+      "data": {
+        "title": "Club Apparel",
+        "title-ar": "كلوب أباريل",
+        "sub-title": "Club Apparel is the GCC’s most rewarding app-based loyalty program.",
+        "sub-title-ar": "كلوب أباريل هو برنامج الولاء الأكثر مكافأة في دول مجلس التعاون الخليجي، وقائم على تطبيق على الهواتف الذكية.",
+        "terms": [
+          {
+            "icon-type": "PointsValue",
+            "term": "Earn 2 points with 100 SAR",
+            "term-ar": "اكسب 2 نقطة مقابل كل 100 درهم إماراتي"
+          },
+          {
+            "icon-type": "SalePreviews",
+            "term": "Access exclusive brand sale previews",
+            "term-ar": "لديك إمكانية الوصول لخصومات الماركات الخاصة "
+          },
+          {
+            "icon-type": "NewLaunch",
+            "term": "New Product launches",
+            "term-ar": "إصدارات جديدة من المنتجات"
+          },
+          {
+            "icon-type": "Invitation",
+            "term": "Get invited to club apparel event",
+            "term-ar": "تلقى دعوة لحضور فعالية كلوب أباريل"
+          }
+        ]
+      }
+    },
+    {
+      "country": "KW",
+      "data": {
+        "title": "Club Apparel",
+        "title-ar": "كلوب أباريل",
+        "sub-title": "Club Apparel is the GCC’s most rewarding app-based loyalty program.",
+        "sub-title-ar": "كلوب أباريل هو برنامج الولاء الأكثر مكافأة في دول مجلس التعاون الخليجي، وقائم على تطبيق على الهواتف الذكية.",
+        "terms": [
+          {
+            "icon-type": "PointsValue",
+            "term": "Earn 2 points with 100 KWD",
+            "term-ar": "اكسب 2 نقطة مقابل كل 100 درهم إماراتي"
+          },
+          {
+            "icon-type": "SalePreviews",
+            "term": "Access exclusive brand sale previews",
+            "term-ar": "لديك إمكانية الوصول لخصومات الماركات الخاصة "
+          },
+          {
+            "icon-type": "NewLaunch",
+            "term": "New Product launches",
+            "term-ar": "إصدارات جديدة من المنتجات"
+          },
+          {
+            "icon-type": "Invitation",
+            "term": "Get invited to club apparel event",
+            "term-ar": "تلقى دعوة لحضور فعالية كلوب أباريل"
+          }
+        ]
+      }
+    },
+    {
+      "country": "BH",
+      "data": {
+        "title": "Club Apparel",
+        "title-ar": "كلوب أباريل",
+        "sub-title": "Club Apparel is the GCC’s most rewarding app-based loyalty program.",
+        "sub-title-ar": "كلوب أباريل هو برنامج الولاء الأكثر مكافأة في دول مجلس التعاون الخليجي، وقائم على تطبيق على الهواتف الذكية.",
+        "terms": [
+          {
+            "icon-type": "PointsValue",
+            "term": "Earn 2 points with 100 BHD",
+            "term-ar": "اكسب 2 نقطة مقابل كل 100 درهم إماراتي"
+          },
+          {
+            "icon-type": "SalePreviews",
+            "term": "Access exclusive brand sale previews",
+            "term-ar": "لديك إمكانية الوصول لخصومات الماركات الخاصة "
+          },
+          {
+            "icon-type": "NewLaunch",
+            "term": "New Product launches",
+            "term-ar": "إصدارات جديدة من المنتجات"
+          },
+          {
+            "icon-type": "Invitation",
+            "term": "Get invited to club apparel event",
+            "term-ar": "تلقى دعوة لحضور فعالية كلوب أباريل"
+          }
+        ]
+      }
+    },
+    {
+      "country": "OM",
+      "data": {
+        "title": "Club Apparel",
+        "title-ar": "كلوب أباريل",
+        "sub-title": "Club Apparel is the GCC’s most rewarding app-based loyalty program.",
+        "sub-title-ar": "كلوب أباريل هو برنامج الولاء الأكثر مكافأة في دول مجلس التعاون الخليجي، وقائم على تطبيق على الهواتف الذكية.",
+        "terms": [
+          {
+            "icon-type": "PointsValue",
+            "term": "Earn 2 points with 100 OMR",
+            "term-ar": "اكسب 2 نقطة مقابل كل 100 درهم إماراتي"
+          },
+          {
+            "icon-type": "SalePreviews",
+            "term": "Access exclusive brand sale previews",
+            "term-ar": "لديك إمكانية الوصول لخصومات الماركات الخاصة "
+          },
+          {
+            "icon-type": "NewLaunch",
+            "term": "New Product launches",
+            "term-ar": "إصدارات جديدة من المنتجات"
+          },
+          {
+            "icon-type": "Invitation",
+            "term": "Get invited to club apparel event",
+            "term-ar": "تلقى دعوة لحضور فعالية كلوب أباريل"
+          }
+        ]
+      }
+    },
+    {
+      "country": "QA",
+      "data": {
+        "title": "Club Apparel",
+        "title-ar": "كلوب أباريل",
+        "sub-title": "Club Apparel is the GCC’s most rewarding app-based loyalty program.",
+        "sub-title-ar": "كلوب أباريل هو برنامج الولاء الأكثر مكافأة في دول مجلس التعاون الخليجي، وقائم على تطبيق على الهواتف الذكية.",
+        "terms": [
+          {
+            "icon-type": "PointsValue",
+            "term": "Earn 2 points with 100 QAR",
+            "term-ar": "اكسب 2 نقطة مقابل كل 100 درهم إماراتي"
+          },
+          {
+            "icon-type": "SalePreviews",
+            "term": "Access exclusive brand sale previews",
+            "term-ar": "لديك إمكانية الوصول لخصومات الماركات الخاصة "
+          },
+          {
+            "icon-type": "NewLaunch",
+            "term": "New Product launches",
+            "term-ar": "إصدارات جديدة من المنتجات"
+          },
+          {
+            "icon-type": "Invitation",
+            "term": "Get invited to club apparel event",
+            "term-ar": "تلقى دعوة لحضور فعالية كلوب أباريل"
+          }
+        ]
+      }
+    }
+  ]
+}
