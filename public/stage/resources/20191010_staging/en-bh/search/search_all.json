@@ -1,0 +1,123 @@
+{
+    "widgets": [
+    {
+        "type": "recent_searches"
+    },
+    {
+        "type": "circleItemSlider",
+        "items": [
+        {
+            "label": "Skechers",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/S/Skechers.jpg",
+            "link": "/catalogsearch/result/?q=SKECHERS&qid=6d742ce0118a1187a18e68b841ba772b&p=0&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Beverly Hills Polo Club",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/b/bhpc.jpg",
+            "link": "/catalogsearch/result/?q=Beverly+Hills+Polo+Club&qid=446fdad7477a8971fcbae9c7427327f5&p=0&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Aldo",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/aldo.jpg",
+            "link": "/catalogsearch/result/?q=ALDO&qid=7cf8d7f46a02b5d515ac3b46cbba23ed&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Adidas",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/Adidas.jpg",
+            "link": "/catalogsearch/result/?q=ADIDAS&qid=bad336c6497163c52421ce2d6675149c&p=0&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals%2CAdidas+Sport&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Crocs",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/crocs.jpg",
+            "link": "/catalogsearch/result/?q=Crocs&qid=33b346f20fa5b0c11b6a4a5da937d0c5&p=0&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Tommy Hilfiger",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/tommy_hilfiger.jpg",
+            "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=dea9b9b7320d2b5e596339d37c3dd045&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Jeans&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Dune London",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Dune.jpg",
+            "link": "/catalogsearch/result/?q=Dune+London&qid=e3f9cfafcc2cb21a4b25e87de02fcb3b&p=0&dFR%5Bbrand_name%5D%5B0%5D=Dune+London&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen"
+        },
+        {
+            "label": "Trendyol",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/Trendyol.jpg",
+            "link": "/catalogsearch/result/?q=Trendyol&qid=ff6075cd1794ec49dfb6adeb568d9056&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Charles & Keith",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/charles+%26+keith.jpg",
+            "link": "/catalogsearch/result/?q=Charles+%26+Keith&qid=219f4dd94222858326681ce15eae0404&p=0&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith&dFR%5Bgender%5D%5B0%5D=Girl%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+            "label": "Levi's",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/L/levis.jpg",
+            "link": "/catalogsearch/result/?q=Levis&qid=ee96bb3c080040369094451aeecb608f&p=0&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Asics",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/asics.jpg",
+            "link": "/catalogsearch/result/?q=ASICS&qid=242ffd1303e061626b77c6a0ff43ec65&p=0&dFR%5Bbrand_name%5D%5B0%5D=Asics%2CAsics+Tiger%2COnitsuka+Tiger&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+            "label": "Calvin Klein",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+            "link": "/catalogsearch/result/?q=CALVIN+KLEIN&qid=5aa5ee2173fb541c43038493695be8bc&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+            "label": "Aeropostale",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/aeropostale.jpg",
+            "link": "/catalogsearch/result/?q=aeropostale&qid=c228aac7118e9c6a66de5f826c59a672&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "CCC",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+            "link": "/catalogsearch/result/?q=CCC&qid=ea0c0a24427ce3218e2ce00004bba025&p=0&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen"
+        },
+        {
+            "label": "Naturalizer",
+            "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Naturalizer.jpg",
+            "link": "/catalogsearch/result/?q=Naturalizer&qid=634a82681b8e55987b2f639b0c174f14&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Naturalizer&dFR%5Bin_stock%5D%5B0%5D=1"
+        }],
+        "layout":
+        {
+            "title": "Trending brands"
+        }
+    },
+    {
+        "type": "vue_browsing_history_slider",
+        "query":
+        {
+            "filters": [
+            {
+                "field": "gender",
+                "value": "",
+                "type": "exact"
+            }]
+        },
+        "layout":
+        {
+            "title": "Recommended For You"
+        }
+    },
+    {
+        "type": "brand_results_slider",
+        "limit": 20,
+        "layout":
+        {
+            "title": "Results by brand"
+        }
+    },
+    {
+        "type": "product_results_slider",
+        "layout":
+        {
+            "title": "Products"
+        }
+    },
+    {
+        "type": "wishlist"
+    }]
+}
