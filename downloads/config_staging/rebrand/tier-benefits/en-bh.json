@@ -17,7 +17,7 @@
     },
     {
       "key": "get_invited_for_club_apparel_connect_events_with_brands",
-      "label": "Get Invited for Club Apparel Connect Events with Brands",
+      "label": "Get Invited for CLUB AIVI Connect Events with Brands",
       "icon": "https://mobilecdn.6thstreet.com/config_staging/images/card.png"
     },
     {
@@ -43,7 +43,7 @@
   "loyalty_tiers": [
     {
       "tier": "Silver",
-      "points_earning": "Earn Club Apparel Points worth BHD 2 on every BHD 100 Spent",
+      "points_earning": "Earn CLUB AIVI Points worth BHD 2 on every BHD 100 Spent",
       "base_requirement": "Start Shopping to be a Member",
       "benefits": {
         "curated_offers_for_a_unique_experience": "yes",
@@ -54,11 +54,11 @@
         "get_invited_for_club_apparel_connect_events_with_brands": "yes",
         "online_shopping": "Enjoy free Standard and Express Delivery on orders above BHD 12, plus free Quick Delivery on orders above BHD 35."
       },
-      "upgrade_membership": "Start Shopping with Club Apparel now and be a Silver Tier Member."
+      "upgrade_membership": "Start Shopping with CLUB AIVI now and be a Silver Tier Member."
     },
     {
       "tier": "Gold",
-      "points_earning": "Earn Club Apparel Points worth BHD 3 on every BHD 100 Spent",
+      "points_earning": "Earn CLUB AIVI Points worth BHD 3 on every BHD 100 Spent",
       "base_requirement": "Purchases above BHD 1,000",
       "benefits": {
         "curated_offers_for_a_unique_experience": "yes",
@@ -73,7 +73,7 @@
     },
     {
       "tier": "Black",
-      "points_earning": "Earn Club Apparel Points worth BHD 5 on every BHD 100 Spent",
+      "points_earning": "Earn CLUB AIVI Points worth BHD 5 on every BHD 100 Spent",
       "base_requirement": "Purchases above BHD 2,500",
       "benefits": {
         "curated_offers_for_a_unique_experience": "yes",

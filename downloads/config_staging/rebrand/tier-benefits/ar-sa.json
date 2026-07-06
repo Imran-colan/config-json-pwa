@@ -17,7 +17,7 @@
     },
     {
       "key": "get_invited_for_club_apparel_connect_events_with_brands",
-      "label": "احصل على دعوة لفعاليات كلوب أباريل مع العلامات التجارية",
+      "label": "احصل على دعوة لفعاليات كلوب آيفي مع العلامات التجارية",
       "icon": "https://mobilecdn.6thstreet.com/config_staging/images/card.png"
     },
     {
@@ -43,7 +43,7 @@
   "loyalty_tiers": [
     {
       "tier": "Silver",
-      "points_earning": "اكسب نقاط كلوب أباريل بقيمة 2ريال مقابل كل 100 ريال تنفقه",
+      "points_earning": "اكسب نقاط كلوب آيفي بقيمة 2ريال مقابل كل 100 ريال تنفقه",
       "base_requirement": "ابدأ التسوق لتصبح عضواً الآن",
       "benefits": {
         "curated_offers_for_a_unique_experience": "نعم",
@@ -54,11 +54,11 @@
         "get_invited_for_club_apparel_connect_events_with_brands": "نعم",
         "online_shopping": "استمتع بتوصيل عادي أو سريع على الطلبات التي تزيد عن 100 ريال سعودي، بالإضافة إلى توصيل سريع و مجاني على الطلبات التي تزيد عن 350 ريال ."
       },
-      "upgrade_membership": "ابدأ التسوق مع كلوب أباريل الآن وكن عضواً في الفئة الفضية"
+      "upgrade_membership": "ابدأ التسوق مع كلوب آيفي الآن وكن عضواً في الفئة الفضية"
     },
     {
       "tier": "Gold",
-      "points_earning": "اكسب نقاط كلوب أباريل بقيمة 3ريال مقابل كل 100 ريال تنفقه",
+      "points_earning": "اكسب نقاط كلوب آيفي بقيمة 3ريال مقابل كل 100 ريال تنفقه",
       "base_requirement": "المشتريات التي تزيد عن 10,000 ريال",
       "benefits": {
         "curated_offers_for_a_unique_experience": "نعم",
@@ -73,7 +73,7 @@
     },
     {
       "tier": "Black",
-      "points_earning": "اكسب نقاط كلوب أباريل بقيمة 5ريال مقابل كل 100 ريال تنفقه",
+      "points_earning": "اكسب نقاط كلوب آيفي بقيمة 5ريال مقابل كل 100 ريال تنفقه",
       "base_requirement": "المشتريات التي تزيد عن 25,000 ريال",
       "benefits": {
         "curated_offers_for_a_unique_experience": "نعم",
