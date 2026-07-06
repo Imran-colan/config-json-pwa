@@ -5,7 +5,7 @@
 			"mainTitle": "Tier Benefits",
 			"logoUrl": "https://mobilecdn.aivi.com/config_staging/images/silverLogo.png",
 			"subTitle": "SILVER",
-			"desc": "Earn Club Apparel Points worth OMR 2 on every OMR 100 Spent",
+			"desc": "Earn CLUB AIVI Points worth OMR 2 on every OMR 100 Spent",
 			"displayText": "Start Shopping to be a Member",
 			"content": [
 				{
@@ -24,7 +24,7 @@
 					"iconType": "calendar"
 				},
 				{
-					"desc": "Get Invited for Club Apparel Connect events with Brands",
+					"desc": "Get Invited for CLUB AIVI Connect events with Brands",
 					"iconUrl": "https://mobilecdn.aivi.com/config_staging/images/card.png",
 					"iconType": "card"
 				},
@@ -37,7 +37,7 @@
 			"bottomContent": [
 				{
 					"title": "How to be a Silver Tier Member?",
-					"desc": "Start Shopping with Club Apparel now and be a Silver Tier Member."
+					"desc": "Start Shopping with CLUB AIVI now and be a Silver Tier Member."
 				}
 			]
 		},
@@ -46,11 +46,11 @@
 			"mainTitle": "Tier Benefits",
 			"logoUrl": "https://mobilecdn.aivi.com/config_staging/images/goldTierLogo.png",
 			"subTitle": "Gold",
-			"desc": "Earn Club Apparel Points worth OMR 3 on every OMR 100 Spent",
+			"desc": "Earn CLUB AIVI Points worth OMR 3 on every OMR 100 Spent",
 			"displayText": "Purchases above OMR 1,000",
 			"content": [
 				{
-					"desc": "Celebrate your Birthday with 100 points from Club Apparel",
+					"desc": "Celebrate your Birthday with 100 points from CLUB AIVI",
 					"iconUrl": "https://mobilecdn.aivi.com/config_staging/images/celebrate.png",
 					"iconType": "celebrate"
 				},
@@ -70,7 +70,7 @@
 					"iconType": "calendar"
 				},
 				{
-					"desc": "Get invited for Club Apparel Connect events with Brands",
+					"desc": "Get invited for CLUB AIVI Connect events with Brands",
 					"iconUrl": "https://mobilecdn.aivi.com/config_staging/images/card.png",
 					"iconType": "card"
 				},
@@ -92,11 +92,11 @@
 			"mainTitle": "Tier Benefits",
 			"logoUrl": "https://mobilecdn.aivi.com/config_staging/images/blackTierLogo.png",
 			"subTitle": "Black",
-			"desc": "Earn Club Apparel Points worth OMR 5 on every OMR 100 Spent",
+			"desc": "Earn CLUB AIVI Points worth OMR 5 on every OMR 100 Spent",
 			"displayText": "Purchases above OMR 2,500",
 			"content": [
 				{
-					"desc": "Celebrate your Birthday with 200 points from Club Apparel",
+					"desc": "Celebrate your Birthday with 200 points from CLUB AIVI",
 					"iconUrl": "https://mobilecdn.aivi.com/config_staging/images/celebrate.png",
 					"iconType": "celebrate"
 				},
@@ -116,7 +116,7 @@
 					"iconType": "calendar"
 				},
 				{
-					"desc": "Get invited for Club Apparel Connect events with Brands",
+					"desc": "Get invited for CLUB AIVI Connect events with Brands",
 					"iconUrl": "https://mobilecdn.aivi.com/config_staging/images/card.png",
 					"iconType": "card"
 				},

@@ -3,18 +3,18 @@
     "screen": "Our Programme",
     "content": [
         {
-            "title": "About Club Apparel",
+            "title": "About CLUB AIVI",
             "desc": [
-               "Club Apparel is a cardless, mobile app based loyalty program of Apparel Group which comprises of more than 85+ brands and 2,300+ stores across GCC.",
-               "Club Apparel gives you the ability to purchase goods on your accumulated points at any Apparel Group participating stores across GCC."
+               "CLUB AIVI is a cardless, mobile app based loyalty program of Apparel Group which comprises of more than 85+ brands and 2,300+ stores across GCC.",
+               "CLUB AIVI gives you the ability to purchase goods on your accumulated points at any Apparel Group participating stores across GCC."
             ],
             "divider": true
         },
         {
             "title": "How to earn points",
             "desc": [
-               "Club Apparel members are entitled to earn reward points on every purchase of any regular priced merchandise at any Apparel Group participating stores in the GCC.",
-               "To be rewarded in-store, the customer needs to present their dynamic identification barcode on their app at the point of purchase. Club Apparel also provides special bonus points and brand points during promotions and events. These bonus points and brand points can be redeemed across particular stores."
+               "CLUB AIVI members are entitled to earn reward points on every purchase of any regular priced merchandise at any Apparel Group participating stores in the GCC.",
+               "To be rewarded in-store, the customer needs to present their dynamic identification barcode on their app at the point of purchase. CLUB AIVI also provides special bonus points and brand points during promotions and events. These bonus points and brand points can be redeemed across particular stores."
             ],
             "divider": true
         },
@@ -55,24 +55,24 @@
             ]
         },
         {
-            "title": "Club Apparel Tiers",
+            "title": "CLUB AIVI Tiers",
             "tiers": [
                 {
                     "icon": "https://mobilecdn.aivi.com/config/images/silverLogo.png",
                     "title": "Silver Tier",
-                    "text": "Start shopping with us and earn Club Apparel Points worth 2 AED on every 100 AED spent",
+                    "text": "Start shopping with us and earn CLUB AIVI Points worth 2 AED on every 100 AED spent",
                     "link": "Discover Silver Benefits"
                 },
                 {
                     "icon": "https://mobilecdn.aivi.com/config/images/goldTierLogo.png",
                     "title": "Gold Tier",
-                    "text": "Purchases above 10,000 AED and earn Club Apparel Points worth 3 AED on every 100 AED spent",
+                    "text": "Purchases above 10,000 AED and earn CLUB AIVI Points worth 3 AED on every 100 AED spent",
                     "link": "Discover Gold Benefits"
                 },
                 {
                     "icon": "https://mobilecdn.aivi.com/config/images/blackTierLogo.png",
                     "title": "Black Tier",
-                    "text": "Purchases above 25,000 AED and earn Club Apparel Points worth 5 AED on every 100 AED spent",
+                    "text": "Purchases above 25,000 AED and earn CLUB AIVI Points worth 5 AED on every 100 AED spent",
                     "link": "Discover Black Benefits"
                 }
             ]
@@ -81,19 +81,19 @@
             "title": "Rewards",
             "faqs": [
                 {
-     "subtitle": "What is Club Apparel?",
-     "desc": "Club Apparel is the most rewarding loyalty programme in the region. It is an app-based cardless loyalty programme that offers you rewards/points on your purchase that you may spend instantly on your next purchase across our 85+ brands and 2,300+ retail stores in the GCC."
+     "subtitle": "What is CLUB AIVI?",
+     "desc": "CLUB AIVI is the most rewarding loyalty programme in the region. It is an app-based cardless loyalty programme that offers you rewards/points on your purchase that you may spend instantly on your next purchase across our 85+ brands and 2,300+ retail stores in the GCC."
     },
     {
-     "subtitle": "What are the benefits of Club Apparel?",
-     "desc": "Club Apparel members earn rewards/points on their purchases that you may spend instantly on your next purchase across our 85+ brands and 2,300+ retail stores in the GCC."
+     "subtitle": "What are the benefits of CLUB AIVI?",
+     "desc": "CLUB AIVI members earn rewards/points on their purchases that you may spend instantly on your next purchase across our 85+ brands and 2,300+ retail stores in the GCC."
     },
     {
-     "subtitle": "How do I collect Club Apparel rewards/points?",
-     "desc": "Club Apparel rewards/points can be collected by scanning your identification barcode on the app at the point of sale/payment during a transaction."
+     "subtitle": "How do I collect CLUB AIVI rewards/points?",
+     "desc": "CLUB AIVI rewards/points can be collected by scanning your identification barcode on the app at the point of sale/payment during a transaction."
     },
     {
-     "subtitle": "What is the value of Club Apparel points, i.e., what is the value of one point?",
+     "subtitle": "What is the value of CLUB AIVI points, i.e., what is the value of one point?",
      "items": [
       "UAE, KSA & Qatar - 1 point is equal to 1 AED.",
       "Bahrain 10 points = 1 BD / OMR",
@@ -101,8 +101,8 @@
      ]
     },
     {
-     "subtitle": "Where can I redeem my Club Apparel Points?",
-     "desc": "Club Apparel Points can be redeemed at any participating Club Apparel Stores & 6thstreet App in the GCC. The brands are country-specific and hence change from country to country."
+     "subtitle": "Where can I redeem my CLUB AIVI Points?",
+     "desc": "CLUB AIVI Points can be redeemed at any participating CLUB AIVI Stores & 6thstreet App in the GCC. The brands are country-specific and hence change from country to country."
     },
     {
      "subtitle": "Why can't I redeem my points until I log into the app?",
@@ -124,9 +124,9 @@
      "subtitle": "How are my points calculated?",
      "desc": "Points are calculated tier wise.",
      "items": [
-      "Black Tier gets Club Apparel points worth AED 5 on every AED 100 spent.",
-      "Gold Tier gets Club Apparel points worth AED 3 on every AED 100 spent.",
-      " Silver Tier gets Club Apparel points worth AED 2 on every AED 100 spent."
+      "Black Tier gets CLUB AIVI points worth AED 5 on every AED 100 spent.",
+      "Gold Tier gets CLUB AIVI points worth AED 3 on every AED 100 spent.",
+      " Silver Tier gets CLUB AIVI points worth AED 2 on every AED 100 spent."
      ]
     },
     {
@@ -135,15 +135,15 @@
     },
     {
      "subtitle": "What are the benefits for a Gold tier member?",
-     "desc": "A Gold tier member gets 100 points on their birthday, a Private shopping sale of 15% off across all brands one day in a year, and early access to exclusive sale previews. You will also earn Club Apparel points worth AED 3 for every AED 100 spent."
+     "desc": "A Gold tier member gets 100 points on their birthday, a Private shopping sale of 15% off across all brands one day in a year, and early access to exclusive sale previews. You will also earn CLUB AIVI points worth AED 3 for every AED 100 spent."
     },
     {
      "subtitle": "What are the benefits for a Black tier member?",
-     "desc": "Celebrate your birthday with 200 Club Apparel points, a Private Shopping Sale of 15% off across all brands two days a year, and early access to exclusive sale previews. Earn Club Apparel points worth AED 5 on every AED 100 spent."
+     "desc": "Celebrate your birthday with 200 CLUB AIVI points, a Private Shopping Sale of 15% off across all brands two days a year, and early access to exclusive sale previews. Earn CLUB AIVI points worth AED 5 on every AED 100 spent."
     },
     {
      "subtitle": "Can I collect or redeem my points without the app?",
-     "desc": "No, the Club Apparel app is required."
+     "desc": "No, the CLUB AIVI app is required."
     },
     {
      "subtitle": "Do you have an Arabic Version of this App?",
@@ -157,18 +157,18 @@
     "screen": "برنامجنا",
     "content": [
         {
-            "title": "عن كلوب أباريل",
+            "title": "عن كلوب آيفي",
             "desc": [
-               "كلوب أباريل، هي برنامج عضوية لا يحتاج إلى بطاقة وإنما يعتمد على تطبيق يجري تنصيبه على جهاز الهاتف المحمول ويغطي أكثر من 85 علامة تجارية و 2,300+ متجر في مختلف أنحاء دول الخليج العربي.",
-               "يمنحك برنامج عضوية نادي ’كلوب أباريل‘ القدرة على شراء بضائع باستعمال نقاطك المتراكمة من عمليات شرائك السابقة من أي من المتاجر المشاركة في أباريل جروب في مختلف أنحاء دول الخليج العربي."
+               "كلوب آيفي، هي برنامج عضوية لا يحتاج إلى بطاقة وإنما يعتمد على تطبيق يجري تنصيبه على جهاز الهاتف المحمول ويغطي أكثر من 85 علامة تجارية و 2,300+ متجر في مختلف أنحاء دول الخليج العربي.",
+               "يمنحك برنامج عضوية نادي ’كلوب آيفي‘ القدرة على شراء بضائع باستعمال نقاطك المتراكمة من عمليات شرائك السابقة من أي من المتاجر المشاركة في أباريل جروب في مختلف أنحاء دول الخليج العربي."
             ],
             "divider": true
         },
         {
             "title": "كيفية ربح النقاط",
             "desc": [
-                "يحق لأعضاء نادي ’كلوب أباريل‘ كسب نقاط مكافآت مقابل كل عملية شراء يقومون بها لأي منتج بسعره الاعتيادي، من أي متجر مشارك تابع لأباريل جروب داخل دول الخليج العربي",
-               "لكي يجري مكافأتك في المتجر، يحتاج العضو لإبراز باركود التعريف الديناميكي الظاهر ضمن التطبيق الخاص به عند نقطة البيع. كما يقدّم نادي ’كلوب أباريل‘ نقاط حوافز إضافية ونقاط علامات مخصصة خلال فترات العروض الترويجية والأحداث الخاصة. ويمكن صرف نقاط الحوافز هذه في مجموعة محددة من المتاجر."
+                "يحق لأعضاء نادي ’كلوب آيفي‘ كسب نقاط مكافآت مقابل كل عملية شراء يقومون بها لأي منتج بسعره الاعتيادي، من أي متجر مشارك تابع لأباريل جروب داخل دول الخليج العربي",
+               "لكي يجري مكافأتك في المتجر، يحتاج العضو لإبراز باركود التعريف الديناميكي الظاهر ضمن التطبيق الخاص به عند نقطة البيع. كما يقدّم نادي ’كلوب آيفي‘ نقاط حوافز إضافية ونقاط علامات مخصصة خلال فترات العروض الترويجية والأحداث الخاصة. ويمكن صرف نقاط الحوافز هذه في مجموعة محددة من المتاجر."
             ],
             "divider": true
         },
@@ -209,24 +209,24 @@
             ]
         },
         {
-            "title": "فئات كلوب أباريل",
+            "title": "فئات كلوب آيفي",
             "tiers": [
                 {
                     "icon": "https://mobilecdn.aivi.com/config/images/silverLogo.png",
                     "title": "المستوى الفضي",
-                    "text": "ابدأ التسوق معنا واكسب نقاط كلوب أباريل بقيمة 2 درهم إماراتي مقابل كل 100 درهم إماراتي يتم إنفاقها.",
+                    "text": "ابدأ التسوق معنا واكسب نقاط كلوب آيفي بقيمة 2 درهم إماراتي مقابل كل 100 درهم إماراتي يتم إنفاقها.",
                     "link": "اكتشف مزايا الفضة"
                 },
                 {
                     "icon": "https://mobilecdn.aivi.com/config/images/goldTierLogo.png",
                     "title": "المستوى الذهبي",
-                    "text": "المشتريات التي تزيد عن 10,000 درهم إماراتي تكسب نقاط كلوب أباريل بقيمة 3 دراهم إماراتية مقابل كل 100 درهم إماراتي يتم إنفاقها.",
+                    "text": "المشتريات التي تزيد عن 10,000 درهم إماراتي تكسب نقاط كلوب آيفي بقيمة 3 دراهم إماراتية مقابل كل 100 درهم إماراتي يتم إنفاقها.",
                     "link": "اكتشف مزايا الذهب"
                 },
                 {
                     "icon": "https://mobilecdn.aivi.com/config/images/blackTierLogo.png",
                     "title": "المستوى الأسود",
-                    "text": "المشتريات التي تزيد عن 25,000 درهم إماراتي تكسب نقاط كلوب أباريل بقيمة 5 دراهم إماراتية مقابل كل 100 درهم إماراتي يتم إنفاقها.",
+                    "text": "المشتريات التي تزيد عن 25,000 درهم إماراتي تكسب نقاط كلوب آيفي بقيمة 5 دراهم إماراتية مقابل كل 100 درهم إماراتي يتم إنفاقها.",
                     "link": "اكتشف المستوى الأسود"
                 }
             ]
@@ -235,19 +235,19 @@
             "title": "مكافآت",
             "faqs": [
     {
-     "subtitle": "ما هو كلوب أباريل؟",
-     "desc": "كلوب أباريل هو برنامج الولاء الأكثر مكافأة في المنطقة، برنامج ولاء رقمي دون بطاقة، يعمل عبر تطبيق ذكي، ويمنحك نقاطا ومكافآت عند كل عملية شراء حيث يمكنك استخدام هذه النقاط فورا في عملية الشراء التالية عبر أكثر من 85 علامة تجارية و2,300 متجر بيع بالتجزئة في دول مجلس التعاون الخليجي"
+     "subtitle": "ما هو كلوب آيفي؟",
+     "desc": "كلوب آيفي هو برنامج الولاء الأكثر مكافأة في المنطقة، برنامج ولاء رقمي دون بطاقة، يعمل عبر تطبيق ذكي، ويمنحك نقاطا ومكافآت عند كل عملية شراء حيث يمكنك استخدام هذه النقاط فورا في عملية الشراء التالية عبر أكثر من 85 علامة تجارية و2,300 متجر بيع بالتجزئة في دول مجلس التعاون الخليجي"
     },
     {
-     "subtitle": "ما هي مزايا كلوب أباريل؟",
-     "desc": "يمنحك برنامج كلوب أباريل نقاطا ومكافآت عند كل عملية شراء، ويمكنك استخدام هذه النقاط فورا في عملية الشراء التالية عبر أكثر من 85 علامة تجارية و2,300 متجر بيع بالتجزئة في دول الخليج"
+     "subtitle": "ما هي مزايا كلوب آيفي؟",
+     "desc": "يمنحك برنامج كلوب آيفي نقاطا ومكافآت عند كل عملية شراء، ويمكنك استخدام هذه النقاط فورا في عملية الشراء التالية عبر أكثر من 85 علامة تجارية و2,300 متجر بيع بالتجزئة في دول الخليج"
     },
     {
-     "subtitle": "كيف يمكنني جمع مكافآت/نقاط كلوب أباريل؟",
-     "desc": "يمكن جمع مكافآت/ نقاط كلوب أباريل من خلال مسح الرمز التعريفي (الباركود) الخاص بك في التطبيق عند نقطة البيع أو أثناء الدفع في كل عملية شراء."
+     "subtitle": "كيف يمكنني جمع مكافآت/نقاط كلوب آيفي؟",
+     "desc": "يمكن جمع مكافآت/ نقاط كلوب آيفي من خلال مسح الرمز التعريفي (الباركود) الخاص بك في التطبيق عند نقطة البيع أو أثناء الدفع في كل عملية شراء."
     },
     {
-     "subtitle": "ما هي قيمة نقاط كلوب أباريل؟ (كم تساوي النقطة الواحدة؟)",
+     "subtitle": "ما هي قيمة نقاط كلوب آيفي؟ (كم تساوي النقطة الواحدة؟)",
      "items": [
       "الإمارات العربية المتحدة، المملكة العربية السعودية، دولة قطر: كل نقطة واحدة = 1 درهم/ريال",
       "مملكة البحرين: 10 نقاط = 1 دينار بحريني / ريال عُماني",
@@ -255,9 +255,9 @@
      ]
     },
     {
-     "subtitle": "أين يمكنني استبدال نقاط كلوب أباريل؟",
+     "subtitle": "أين يمكنني استبدال نقاط كلوب آيفي؟",
      "items": [
-      "يمكن استبدال نقاط كلوب أباريل في جميع متاجر كلوب أباريل المشاركة، وكذلك عبر تطبيق  6ستريت في دول الخليج",
+      "يمكن استبدال نقاط كلوب آيفي في جميع متاجر كلوب آيفي المشاركة، وكذلك عبر تطبيق  6ستريت في دول الخليج",
       "يرجى الأخذ  بعين الإعتبار أن العلامات التجارية المشاركة تختلف من دولة إلى أخرى"
      ]
     },
@@ -281,9 +281,9 @@
      "subtitle": "كيف يتم احتساب النقاط؟",
      "desc": "يتم احتساب النقاط حسب الفئة:",
      "items": [
-      "الفئة السوداء: يحصل الأعضاء على نقاط كلوب أباريل بقيمة 5 دراهم مقابل كل 100 درهم يتم إنفاقها.",
-      "الفئة الذهبية: يحصل الأعضاء على نقاط كلوب أباريل بقيمة 3 دراهم مقابل كل 100 درهم يتم إنفاقها.",
-      "الفئة الفضية : يحصل الأعضاء على نقاط كلوب أباريل بقيمة 2 درهم مقابل كل 100 درهم يتم إنفاقها."
+      "الفئة السوداء: يحصل الأعضاء على نقاط كلوب آيفي بقيمة 5 دراهم مقابل كل 100 درهم يتم إنفاقها.",
+      "الفئة الذهبية: يحصل الأعضاء على نقاط كلوب آيفي بقيمة 3 دراهم مقابل كل 100 درهم يتم إنفاقها.",
+      "الفئة الفضية : يحصل الأعضاء على نقاط كلوب آيفي بقيمة 2 درهم مقابل كل 100 درهم يتم إنفاقها."
      ]
     },
     {
@@ -295,15 +295,15 @@
     },
     {
      "subtitle": "ما هي مزايا العضو في الفئة الذهبية ؟",
-     "desc": "يحصل عضو الفئة الذهبية على 100 نقطة في عيد ميلاك و تخفيض خاص بنسبة 15% في يوم واحد سنويًا على جميع العلامات التجارية خلال جلسة تسوق خاصة بالإضافة إلى الوصول المبكرللعروض الحصرية قبل باقي الأعضاء كما سيكسب نقاط كلوب أباريل بقيمة 3 دراهم مقابل كل 100 درهم يتم إنفاقها"
+     "desc": "يحصل عضو الفئة الذهبية على 100 نقطة في عيد ميلاك و تخفيض خاص بنسبة 15% في يوم واحد سنويًا على جميع العلامات التجارية خلال جلسة تسوق خاصة بالإضافة إلى الوصول المبكرللعروض الحصرية قبل باقي الأعضاء كما سيكسب نقاط كلوب آيفي بقيمة 3 دراهم مقابل كل 100 درهم يتم إنفاقها"
     },
     {
      "subtitle": "ما هي مزايا العضو في الفئة السوداء؟",
-     "desc": "يحصل عضو الفئة السوداء على 200 نقطة كلوب أباريل في عيد ميلاده وتخفيض خاص بنسبة 15% في يومين سنويًا على جميع العلامات التجارية خلال جلسة تسوق خاصة بالإضافة إلى الوصول المبكر إلى العروض الحصرية قبل باقي الأعضاء كما سيكسب نقاط كلوب أباريل بقيمة 5 دراهم مقابل كل 100 درهم يتم إنفاقها"
+     "desc": "يحصل عضو الفئة السوداء على 200 نقطة كلوب آيفي في عيد ميلاده وتخفيض خاص بنسبة 15% في يومين سنويًا على جميع العلامات التجارية خلال جلسة تسوق خاصة بالإضافة إلى الوصول المبكر إلى العروض الحصرية قبل باقي الأعضاء كما سيكسب نقاط كلوب آيفي بقيمة 5 دراهم مقابل كل 100 درهم يتم إنفاقها"
     },
     {
      "subtitle": "هل يمكنني جمع أو استبدال نقاطي بدون التطبيق؟",
-     "desc": "لا، يتطلب برنامج كلوب أباريل استخدام التطبيق لإتمام جمع واستبدال النقاط"
+     "desc": "لا، يتطلب برنامج كلوب آيفي استخدام التطبيق لإتمام جمع واستبدال النقاط"
     },
     {
      "subtitle": "هل يوجد نسخة باللغة العربية من هذا التطبيق؟",

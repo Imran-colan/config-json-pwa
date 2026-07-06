@@ -17,7 +17,7 @@
     },
     {
       "key": "get_invited_for_club_apparel_connect_events_with_brands",
-      "label": "Get Invited for Club Apparel Connect Events with Brands",
+      "label": "Get Invited for CLUB AIVI Connect Events with Brands",
       "icon": "https://mobilecdn.aivi.com/config_staging/images/card.png"
     },
     {
@@ -43,7 +43,7 @@
   "loyalty_tiers": [
     {
       "tier": "Silver",
-      "points_earning": "Earn Club Apparel Points worth AED 2 on every AED 100 Spent",
+      "points_earning": "Earn CLUB AIVI Points worth AED 2 on every AED 100 Spent",
       "base_requirement": "Start Shopping to be a Member",
       "benefits": {
         "curated_offers_for_a_unique_experience": "yes",
@@ -54,11 +54,11 @@
         "get_invited_for_club_apparel_connect_events_with_brands": "yes",
         "online_shopping": "Enjoy free Standard & Express Delivery on orders above AED 100, plus free Quick Delivery on orders above AED 350."
       },
-      "upgrade_membership": "Start Shopping with Club Apparel now and be a Silver Tier Member."
+      "upgrade_membership": "Start Shopping with CLUB AIVI now and be a Silver Tier Member."
     },
     {
       "tier": "Gold",
-      "points_earning": "Earn Club Apparel Points worth AED 3 on every AED 100 Spent.",
+      "points_earning": "Earn CLUB AIVI Points worth AED 3 on every AED 100 Spent.",
       "base_requirement": "Purchases above AED 10,000",
       "benefits": {
         "curated_offers_for_a_unique_experience": "yes",
@@ -73,7 +73,7 @@
     },
     {
       "tier": "Black",
-      "points_earning": "Earn Club Apparel Points worth AED 5 on every AED 100 Spent.",
+      "points_earning": "Earn CLUB AIVI Points worth AED 5 on every AED 100 Spent.",
       "base_requirement": "Purchases above AED 25,000",
       "benefits": {
         "curated_offers_for_a_unique_experience": "yes",
