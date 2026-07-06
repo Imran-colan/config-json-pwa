@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 1,
+      "promotion_name": "men-Shop-by-brands",
+      "tag": "Shop-by-brands Carousel-1",
+      "items": [
+        {
+          "promotion_name": "Adidas",
+          "tag": "Adidas",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Adidas_Men.jpg",
+          "link": "/adidas.html?q=Adidas&p=0&dFR[brand_name][0]=Adidas&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "BHPC",
+          "tag": "BHPC",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/BHPC _ Women.jpg",
+          "link": "/beverly-hills-polo-club.html?q=Beverly%20Hills%20Polo%20Club&p=0&dFR[brand_name][0]=Beverly%20Hills%20Polo%20Club&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Skechers",
+          "tag": "Skechers",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Skechers_Men.jpg",
+          "link": "/skechers.html?q=Skechers&p=0&dFR[brand_name][0]=Skechers&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Aldo",
+          "tag": "Aldo",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/ALDO_Men.jpg",
+          "link": "/aldo.html?q=Aldo&p=0&dFR[brand_name][0]=Aldo&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Hush Puppies",
+          "tag": "Hush Puppies",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/hush%2Bpuppies-men.jpg",
+          "link": "/hush-puppies.html?q=Hush%20Puppies&p=0&dFR[brand_name][0]=Hush%20Puppies&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "LC Waikiki",
+          "tag": "LC Waikiki",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/lc_waiki.jpg",
+          "link": "/lc-waikiki.html?q=LC%20Waikiki&p=0&dFR[brand_name][0]=LC%20Waikiki&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        }
+      ]
+    }
+  ]
+}

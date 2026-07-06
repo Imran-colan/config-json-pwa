@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 25,
+      "promotion_name": "Kids-En",
+      "tag": "Home-New Carousel-1",
+      "items": [
+        {
+          "promotion_name": "BHPC",
+          "tag": "BHPC",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/BHPC _ Women.jpg",
+          "link": "/beverly-hills-polo-club.html?q=Beverly%20Hills%20Polo%20Club&p=0&dFR[brand_name][0]=Beverly%20Hills%20Polo%20Club&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Adidas",
+          "tag": "Adidas",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Adidas_Men.jpg",
+          "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Baby+Boy%2CBaby+Girl%2CBoy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Skechers",
+          "tag": "Skechers",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Skechers_Men.jpg",
+          "link": "/skechers.html?q=Skechers&p=0&dFR[brand_name][0]=Skechers&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Polo Ralph Lauren",
+          "tag": "Polo Ralph Lauren",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/POLO.jpg",
+          "link": "/polo-ralph-lauren.html?q=Polo%20Ralph%20Lauren&p=0&dFR[brand_name][0]=Polo%20Ralph%20Lauren&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Nike",
+          "tag": "Nike",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/NIKE_MEN.jpg",
+          "link": "/nike.html?q=Nike&p=0&dFR[brand_name][0]=Nike&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Michael Kors",
+          "tag": "Michael Kors",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/MK.jpg",
+          "link": "/kids/footwear.html?q=Kids+Footwear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Unisex%2CGirl%2CBoy&dFR%5Bbrand_name%5D%5B0%5D=Michael+Kors",
+          "width": 240,
+          "height": 322
+        }
+      ]
+    }
+  ]
+}

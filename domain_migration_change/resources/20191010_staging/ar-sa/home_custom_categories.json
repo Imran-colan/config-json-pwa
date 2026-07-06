@@ -1,0 +1,12 @@
+{
+  "beauty": {
+    "is_enabled": true,
+    "label": "مستحضرات التجميل",
+    "file": "home_beauty_women.json"
+  },
+  "home": {
+    "is_enabled": true,
+    "label": "منزل",
+    "file": "home.json"
+  }
+}

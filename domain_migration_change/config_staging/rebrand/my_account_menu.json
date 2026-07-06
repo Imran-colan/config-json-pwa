@@ -1,0 +1,48 @@
+{
+  "top_grid": [
+    "wallet",
+    "club-aivi-menu",
+    "orders-returns",
+    "wishlist"
+  ],
+  "bottom_sections": [
+    {
+      "title": "my_account",
+      "items": [
+        "my-account",
+        "address",
+        "payments",
+        "referral"
+      ]
+    },
+    {
+      "title": "support",
+      "items": [
+        "contact-help",
+        "about-us",
+        "faq",
+        "price-assurance"
+      ]
+    },
+    {
+      "title": "preferences",
+      "items": [
+        "language",
+        "country-region",
+        "locations",
+        "appIcon"
+      ]
+    },
+    {
+      "title": "settings",
+      "items": [
+        "settings"
+      ]
+    }
+  ],
+  "customerSupport": [
+    "free-delivery",
+    "return-policy",
+    "privacy-policy"
+  ]
+}

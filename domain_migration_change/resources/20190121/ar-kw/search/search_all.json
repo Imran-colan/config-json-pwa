@@ -1,0 +1,128 @@
+{
+  "widgets": [
+    {
+      "type": "recent_searches"
+    },
+    {
+      "type": "circleItemSlider",
+      "items": [
+        {
+          "label": "Skechers",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/S/Skechers.jpg",
+          "link": "/catalogsearch/result/?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&qid=96957f3110276ad104765f916fc11f2d&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "label": "Aldo",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/aldo.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A3%D9%84%D8%AF%D9%88&qid=4b865cd943c8ef38f54f5cac6a73a542&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88%2C%D8%A3%D9%84%D8%AF%D9%88+%D8%A3%D9%83%D8%B3%D9%8A%D8%B3%D9%88%D8%B1%D9%8A%D8%B2&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF"
+        },
+        {
+          "label": "Tommy Hilfiger",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/tommy_hilfiger.jpg",
+          "link": "/catalogsearch/result/?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&qid=78071a23cc1b7426f29aff815da6d464&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "label": "Beverly Hills Polo Club",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/b/bhpc.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&qid=6650170dfe8249e2f86fa43a8817078e&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A8%D9%86%D8%A7%D8%AA"
+        },
+        {
+          "label": "Trendyol",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/Trendyol.jpg",
+          "link": "/catalogsearch/result/?q=%D8%AA%D8%B1%D9%8A%D9%86%D8%AF%D9%8A%D9%88%D9%84&qid=aac3326e7ded82d002ec3e3bc763bcad&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D8%B1%D9%8A%D9%86%D8%AF%D9%8A%D9%88%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A8%D9%86%D8%A7%D8%AA"
+        },
+        {
+          "label": "Adidas",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/Adidas.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&qid=e50ea67e661aed0249b40545becc5211&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3%2C%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3+%D8%A7%D9%88%D8%B1%D8%AC%D9%8A%D9%86%D8%A7%D9%84%2C%D8%A3%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84"
+        },
+        {
+          "label": "Levi's",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/L/levis.jpg",
+          "link": "/catalogsearch/result/?q=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&qid=02214798e5f4ffb5ef3c5e65c61e96d5&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "label": "Birkenstock",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/b/birkenstock.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A8%D9%8A%D8%B1%D9%83%D9%86%D8%B3%D8%AA%D9%88%D9%83&qid=4af5e77aa4616b87340c367447f4243e&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D8%B1%D9%83%D9%86%D8%B3%D8%AA%D9%88%D9%83&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "label": "Calvin Klein",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+          "link": "/catalogsearch/result/?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&qid=fa42dd0ffa9bc00015abf36ce9670087&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Charles & Keith",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/charles+%26+keith.jpg",
+          "link": "/catalogsearch/result/?q=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&qid=0c37eb76da89df705bc8c7d4cfdd2abe&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Dune London",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Dune.jpg",
+          "link": "/catalogsearch/result/?q=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86&qid=69e8639fb3ebb6373f308744f04c4c14&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+        },
+        {
+          "label": "LC Waikiki",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/L/lc+waikiki.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&qid=29e5795bbd057ebbeec2db7655a54d8a&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "label": "aeropostale",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/aeropostale.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&qid=764b8fa0ba5794bf32715da1f26b6233&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "label": "Call it Spring",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/call+it+spring.jpg",
+          "link": "/catalogsearch/result/?q=%D9%83%D9%88%D9%84+%D8%A7%D8%AA+%D8%B3%D8%A8%D8%B1%D9%86%D8%AC&qid=dab8320c1a2d5777546b8a4f08956930&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D9%88%D9%84+%D8%A7%D8%AA+%D8%B3%D8%A8%D8%B1%D9%86%D8%AC&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF"
+        },
+        {
+          "label": "Asics",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/asics.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&qid=7496eae8f15d4fdc92ebda58a07c18cb&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3%2C%D8%A3%D8%B3%D9%8A%D9%83%D8%B3+%D8%AA%D8%A7%D9%8A%D8%AC%D8%B1%2C%D8%A3%D9%88%D9%86%D9%8A%D8%AA+%D8%B3%D9%88%D9%83%D8%A7+%D8%AA%D8%A7%D9%8A%D8%AC%D8%B1&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "layout": {
+        "title": "العلامات التجارية الأكثر رواجاً"
+      }
+    },
+    {
+      "type": "vue_browsing_history_slider",
+      "query": {
+        "filters": [
+          {
+            "field": "gender",
+            "value": "",
+            "type": "exact"
+          }
+        ]
+      },
+      "layout": {
+        "title": "موصى بها لك"
+      }
+    },
+    {
+      "type": "brand_results_slider",
+      "limit": 20,
+      "layout": {
+        "title": "النتائج حسب العلامة التجارية"
+      }
+    },
+    {
+      "type": "product_results_slider",
+      "layout": {
+        "title": "المنتجات"
+      }
+    },
+    {
+      "type": "wishlist"
+    },
+    {
+      "type": "category_results_tag_group",
+      "limit": 6,
+      "layout": {
+        "title": "النتائج حسب الفئة"
+      }
+    }
+  ]
+}

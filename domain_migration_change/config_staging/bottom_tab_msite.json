@@ -1,0 +1,68 @@
+{
+  "ae": {
+    "redirect_influencer": false,
+    "redirect_brand": false,
+    "alternateLink_ar": "campaign",
+    "alternateLink_en": "campaign",
+    "icon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/non-active.png",
+    "selectedIcon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/Active.png",
+    "redirect_scratch": false,
+    "label_en": "Outlet",
+    "label_ar": "التخفيضات"
+  },
+  "sa": {
+    "redirect_influencer": false,
+    "redirect_brand": true,
+    "alternateLink_ar": "campaign",
+    "alternateLink_en": "campaign",
+    "icon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/non-active.png",
+    "selectedIcon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/Active.png",
+    "redirect_scratch": false,
+    "label_en": "Outlet",
+    "label_ar": "التخفيضات"
+  },
+  "kw": {
+    "redirect_influencer": true,
+    "redirect_brand": false,
+    "alternateLink_ar": "campaign",
+    "alternateLink_en": "campaign",
+    "icon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/non-active.png",
+    "selectedIcon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/Active.png",
+    "redirect_scratch": false,
+    "label_en": "Outlet",
+    "label_ar": "التخفيضات"
+  },
+  "om": {
+    "redirect_influencer": true,
+    "redirect_brand": false,
+    "alternateLink_ar": "campaign",
+    "alternateLink_en": "campaign",
+    "icon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/non-active.png",
+    "selectedIcon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/Active.png",
+    "redirect_scratch": false,
+    "label_en": "Outlet",
+    "label_ar": "التخفيضات"
+  },
+  "bh": {
+    "redirect_influencer": false,
+    "redirect_brand": false,
+    "alternateLink_ar": "campaign",
+    "alternateLink_en": "campaign",
+    "icon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/non-active.png",
+    "selectedIcon": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-02-2024/Active.png",
+    "redirect_scratch": "",
+    "label_en": "Outlet",
+    "label_ar": "التخفيضات"
+  },
+  "qa": {
+    "redirect_influencer": true,
+    "redirect_brand": true,
+    "alternateLink_ar": "campaign",
+    "alternateLink_en": "campaign",
+    "icon": "https://mobilecdn.6thstreet.com/config_staging/icons/influencer.png",
+    "selectedIcon": "https://mobilecdn.6thstreet.com/config_staging/icons/influencer-active.png",
+    "redirect_scratch": true,
+    "label_en": "Influencer",
+    "label_ar": "المؤثر"
+  }
+}

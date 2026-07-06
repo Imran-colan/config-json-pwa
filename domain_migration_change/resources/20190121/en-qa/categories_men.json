@@ -1,0 +1,1283 @@
+{
+  "data": [
+    {
+      "key": "new_in",
+      "label": "New In",
+      "link": "https://en-ae.6thstreet.com/catalogsearch/result/?q=%2B&qid=b07f6fe37b369257214372c2287861e9&p=0&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&facetFilters=%5B\"promotion_tags.top%3ANEW+IN\"%5D",
+      "design": {
+        "background_color": "#cbb479",
+        "text_color": "#cbb479"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/9-12-24+NEW/Mega-New-in.jpg",
+          "description": "New Arrivals",
+          "link": "/catalogsearch/result/?q=%2B&qid=b07f6fe37b369257214372c2287861e9&p=0&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&facetFilters=%5B\"promotion_tags.top%3ANEW+IN\"%5D"
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/ShoeNewin.jpg",
+              "label": "Shoes",
+              "link": "/men/shoes.html?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/New+IN+Bags.jpg",
+              "label": "Bags",
+              "link": "/men/bags.html?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/clothing-NewIn.jpg",
+              "label": "Clothing",
+              "link": "/men/clothing.html?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Accessories.jpg",
+              "label": "Accessories",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Sports.jpg",
+              "label": "Sports",
+              "link": "/sportswear.html?q=Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+              "itemName": "Sports"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming.jpg",
+              "label": "Grooming",
+              "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+              "itemName": "Grooming"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Shoecare.jpg",
+              "label": "Shoe Care",
+              "link": "/shoe-care.html?p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+              "itemName": "Shoe Care"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium.jpg",
+              "label": "Premium",
+              "link": "/catalogsearch/result/?q=%2B&qid=68d4b4af573e3d8d5620c05140d06116&p=0&dFR%5Bbrand_name%5D%5B0%5D=Boss%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CCarrera%2CCole+Haan%2CGANT%2CGuess%2CHugo%2CHugo+Boss%2CJimmy+Choo%2CKarl+Lagerfeld%2CLacoste%2CLootah%2CMarc+Jacobs%2CMOSCHINO%2CPolaroid%2CRituals%2CSacoor+Brothers%2CTimberland%2CTommy+Hilfiger%2CTommy+Jeans%2CVERSACE&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+              "itemName": "Premium"
+            }
+          ],
+          "button": {
+            "link": "/men/new-in.html?q=Men&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY BRANDS",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "BOOHOOMAN",
+              "link": "/boohooman.html?q=boohooMAN&p=0&hFR%5Bcategories.level0%5D%5B0%5D=boohooMAN&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "BOOHOOMAN"
+            },
+            {
+              "image_url": "-",
+              "label": "ALDO",
+              "link": "/aldo.html?q=Aldo&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Aldo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "ALDO"
+            },
+            {
+              "image_url": "-",
+              "label": "TOMMY HILFIGER",
+              "link": "/tommy-hilfiger.html?q=Tommy+Hilfiger&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tommy+Hilfiger&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "CALVIN KLEIN",
+              "link": "/calvin-klein.html?q=Calvin+Klein&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Calvin+Klein&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "-",
+              "label": "CALL IT SPRING",
+              "link": "/spring.html?q=Call+It+Spring&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Call+It+Spring&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "CALL IT SPRING"
+            },
+            {
+              "image_url": "-",
+              "label": "R&B",
+              "link": "/r-b.html?q=R%26B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=R%26B&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "-",
+              "label": "ASICS",
+              "link": "/asics.html?q=Asics&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Asics&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "ASICS"
+            },
+            {
+              "image_url": "-",
+              "label": "RAY BAN",
+              "link": "/ray-ban.html?q=Ray+Ban&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Ray+Ban&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "RAY BAN"
+            },
+            {
+              "image_url": "-",
+              "label": "CALVIN KLEIN JEANS",
+              "link": "/calvin-klein-jeans.html?q=Calvin+Klein+Jeans&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Calvin+Klein+Jeans&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "CALVIN KLEIN JEANS"
+            },
+            {
+              "image_url": "-",
+              "label": "CROCS",
+              "link": "/crocs.html?q=Crocs&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "CROCS"
+            },
+            {
+              "image_url": "-",
+              "label": "BEVERLY HILLS POLO CLUB",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "HERSCHEL",
+              "link": "/herschel/.html?q=HERSCHEL+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=HERSCHEL&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "HERSCHEL"
+            }
+          ],
+          "button": {
+            "link": "/men/new-in.html?q=Men&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR[in_stock][0]=1&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY BRANDS"
+          },
+          "promotion_name": ""
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "shoes",
+      "label": "Shoes",
+      "link": "/men/shoes.html?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Shoes++mens+copy.jpg",
+          "description": "All-Occasion Shoes",
+          "link": "/men/shoes/sneakers.html?q=Men+Shoes+Sneakers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Sneakers&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "CLARKS",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Clarks&idx=enterprise_magento_en_qa_products",
+              "itemName": "CLARKS"
+            },
+            {
+              "image_url": "-",
+              "label": "SKECHERS",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Skechers&idx=enterprise_magento_en_qa_products",
+              "itemName": "SKECHERS"
+            },
+            {
+              "image_url": "-",
+              "label": "CROCS",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Crocs&idx=enterprise_magento_en_qa_products",
+              "itemName": "CROCS"
+            },
+            {
+              "image_url": "-",
+              "label": "HOKA",
+              "link": "/catalogsearch/result/?q=men+shoes&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hoka&idx=enterprise_magento_en_qa_products",
+              "itemName": "HOKA"
+            },
+            {
+              "image_url": "-",
+              "label": "BIRKENSTOCK",
+              "link": "/catalogsearch/result/?q=men+shoes&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock&idx=enterprise_magento_en_qa_products",
+              "itemName": "BIRKENSTOCK"
+            },
+            {
+              "image_url": "-",
+              "label": "NIKE",
+              "link": "/catalogsearch/result/?q=men+shoes&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Nike&idx=enterprise_magento_en_qa_products",
+              "itemName": "NIKE"
+            },
+            {
+              "image_url": "-",
+              "label": "ALDO",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aldo&idx=enterprise_magento_en_qa_products",
+              "itemName": "ALDO"
+            },
+            {
+              "image_url": "-",
+              "label": "ADIDAS",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "ADIDAS"
+            },
+            {
+              "image_url": "-",
+              "label": "ASICS",
+              "link": "/catalogsearch/result/?q=men+shoes&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Asics&idx=enterprise_magento_en_qa_products",
+              "itemName": "ASICS"
+            },
+            {
+              "image_url": "-",
+              "label": "TOMMY HILFIGER",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "HUSH PUPPIES",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hush+Puppies&idx=enterprise_magento_en_qa_products",
+              "itemName": "HUSH PUPPIES"
+            },
+            {
+              "image_url": "-",
+              "label": "ON",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=ON&idx=enterprise_magento_en_qa_products",
+              "itemName": "ON"
+            },
+            {
+              "image_url": "-",
+              "label": "PUMA",
+              "link": "/catalogsearch/result/?q=men+shoes&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Puma&idx=enterprise_magento_en_qa_products",
+              "itemName": "PUMA"
+            },
+            {
+              "image_url": "-",
+              "label": "STEVE MADDEN",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Steve+Madden&idx=enterprise_magento_en_qa_products",
+              "itemName": "STEVE MADDEN"
+            },
+            {
+              "image_url": "-",
+              "label": "CALL IT SPRING",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&idx=enterprise_magento_en_qa_products",
+              "itemName": "CALL IT SPRING"
+            },
+            {
+              "image_url": "-",
+              "label": "U.S. POLO ASSN.",
+              "link": "/catalogsearch/result/?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=U.S.+Polo+Assn.&idx=enterprise_magento_en_qa_products",
+              "itemName": "U.S. POLO ASSN."
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "SPORTS SHOES",
+              "link": "/men/shoes/sports-shoes.html?q=Men+Shoes+Sports+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Sports+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-SPORTS SHOES",
+              "itemName": "SPORTS SHOES"
+            },
+            {
+              "image_url": "-",
+              "label": "SNEAKERS",
+              "link": "/men/shoes/sneakers.html?q=Men+Shoes+Sneakers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Sneakers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-SNEAKERS",
+              "itemName": "SNEAKERS"
+            },
+            {
+              "image_url": "-",
+              "label": "FORMAL SHOES",
+              "link": "/men/shoes/formal-shoes.html?q=Men+Shoes+Formal+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Formal+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-FORMAL SHOES",
+              "itemName": "FORMAL SHOES"
+            },
+            {
+              "image_url": "-",
+              "label": "SLIP-ONS",
+              "link": "/men/shoes/slip-ons.html?q=Men+Shoes+Slip-ons&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Slip-ons&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-SLIP-ONS",
+              "itemName": "SLIP-ONS"
+            },
+            {
+              "image_url": "-",
+              "label": "SANDALS",
+              "link": "/men/shoes/sandals.html?q=Men+Shoes+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-SANDALS",
+              "itemName": "SANDALS"
+            },
+            {
+              "image_url": "-",
+              "label": "LOAFERS & MOCASSINS",
+              "link": "/men/shoes/loafers-mocassins.html?q=Men+Shoes+Loafers+%26+Moccasins&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Loafers+%26+Moccasins&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-LOAFERS & MOCASSINS",
+              "itemName": "LOAFERS & MOCASSINS"
+            },
+            {
+              "image_url": "-",
+              "label": "FLIP FLOPS AND SLIDES",
+              "link": "/men/shoes/flip-flops-and-slides.html?q=Men+Shoes+Flip+flops+and+Slides&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Flip+flops+and+Slides&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-FLIP FLOPS AND SLIDES",
+              "itemName": "FLIP FLOPS AND SLIDES"
+            },
+            {
+              "image_url": "-",
+              "label": "CLOGS",
+              "link": "/men/shoes/clogs.html?q=Men+Shoes+Clogs&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Clogs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-CLOGS",
+              "itemName": "CLOGS"
+            },
+            {
+              "image_url": "-",
+              "label": "BOOTS",
+              "link": "/men/shoes/boots.html?q=Men+Shoes+Boots&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Boots&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-EN-BOOTS",
+              "itemName": "BOOTS"
+            },
+            {
+              "image_url": "-",
+              "label": "SHOES ACCESSORIES",
+              "link": "/men/shoes/shoe-accessories.html?q=Men+Shoes+Shoes+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Shoes+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "SHOES ACCESSORIES"
+            }
+          ],
+          "button": {
+            "link": "/men/shoes.html?q=Men+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "clothing",
+      "label": "Clothing",
+      "link": "/men/clothing.html?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Clothing_mens.jpg",
+          "description": "Wardrobe Refreshers",
+          "link": "/men/clothing.html?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "LC WAIKIKI",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki&idx=enterprise_magento_en_qa_products",
+              "itemName": "LC WAIKIKI"
+            },
+            {
+              "image_url": "-",
+              "label": "LEVI'S",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s&idx=enterprise_magento_en_qa_products",
+              "itemName": "LEVI'S"
+            },
+            {
+              "image_url": "-",
+              "label": "BEVERLY HILLS POLO CLUB",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&idx=enterprise_magento_en_qa_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "TOMMY HILFIGER",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "CALVIN KLEIN",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "-",
+              "label": "BOOHOOMAN",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=boohooMAN&idx=enterprise_magento_en_qa_products",
+              "itemName": "BOOHOOMAN"
+            },
+            {
+              "image_url": "-",
+              "label": "R&B",
+              "link": "/men/clothing.html?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=R%26B&idx=enterprise_magento_en_qa_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "-",
+              "label": "ADIDAS",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas&idx=enterprise_magento_en_qa_products",
+              "itemName": "ADIDAS"
+            },
+            {
+              "image_url": "-",
+              "label": "BURTON",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Burton&idx=enterprise_magento_en_qa_products",
+              "itemName": "BURTON"
+            },
+            {
+              "image_url": "-",
+              "label": "SKECHERS",
+              "link": "/catalogsearch/result/?q=men+clothing&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Skechers&idx=enterprise_magento_en_qa_products",
+              "itemName": "SKECHERS"
+            },
+            {
+              "image_url": "-",
+              "label": "AEROPOSTALE",
+              "link": "/catalogsearch/result/?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&idx=enterprise_magento_en_qa_products",
+              "itemName": "AEROPOSTALE"
+            },
+            {
+              "image_url": "-",
+              "label": "MAINE",
+              "link": "/catalogsearch/result/?q=men+clothing&qid=2d9856c63016b2feb7d099fdb8c26bf2&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Maine&idx=enterprise_magento_en_qa_products",
+              "itemName": "MAINE"
+            },
+            {
+              "image_url": "-",
+              "label": "LACOSTE",
+              "link": "/men/clothing.html?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Lacoste&idx=enterprise_magento_en_qa_products",
+              "itemName": "LACOSTE"
+            },
+            {
+              "image_url": "-",
+              "label": "KOTON",
+              "link": "/men/clothing.html?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Koton&idx=enterprise_magento_en_qa_products",
+              "itemName": "KOTON"
+            },
+            {
+              "image_url": "-",
+              "label": "TRENDYOL",
+              "link": "/catalogsearch/result/?q=men+clothing&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&idx=enterprise_magento_en_qa_products",
+              "itemName": "TRENDYOL"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "T-SHIRTS",
+              "link": "/men/clothing/t-shirts.html?q=Men+Clothing+T-Shirts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+T-Shirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-T-SHIRTS",
+              "itemName": "T-SHIRTS"
+            },
+            {
+              "image_url": "-",
+              "label": "SHIRTS",
+              "link": "/men/clothing/shirts.html?q=Men+Clothing+Shirts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Shirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-SHIRTS",
+              "itemName": "SHIRTS"
+            },
+            {
+              "image_url": "-",
+              "label": "JEANS",
+              "link": "/men/clothing/jeans.html?q=Men+Clothing+Jeans&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Jeans&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-JEANS",
+              "itemName": "JEANS"
+            },
+            {
+              "image_url": "-",
+              "label": "PANTS & CHINOS",
+              "link": "/men/clothing/pants-chinos.html?q=Men+Clothing+Pants+%26+Chinos&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Pants+%26+Chinos&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Cargos%2CCasual+Pants%2CChinos%2CFormal+Pants&dFR%5BcategoryIds%5D%5B0%5D=15860%2C15863%2C15859%2C15862&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-PANTS & CHINOS",
+              "itemName": "PANTS & CHINOS"
+            },
+            {
+              "image_url": "-",
+              "label": "SPORTSWEAR",
+              "link": "/catalogsearch/result/?q=%2B&qid=bfec9e519bc629780a2530681d73c97d&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Active+Jackets%2CJackets%2CJoggers%2CShorts%2CSwim+Shorts%2CT-Shirts+%26+Vests%2CTank+tops%2CTights%2CTrack+Pants%2CTrack+Pants+%26+Joggers%2CTrack+Suit%2CVest%2CBasketball+Shoes%2CFootball+Shoes%2CRunning+Shoes%2CTennis+Shoes%2CTraining+Shoes%2CWalking+Shoes&dFR%5BcategoryIds%5D%5B0%5D=10117%2C10347%2C10344%2C10346%2C10115%2C15766%2C10348%2C11554%2C10342%2C15762%2C10114%2C10349%2C10285%2C10284%2C19135%2C10286%2C19136%2C19134&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-SPORTSWEAR",
+              "itemName": "SPORTSWEAR"
+            },
+            {
+              "image_url": "-",
+              "label": "SHORTS",
+              "link": "/men/clothing/shorts.html?q=Men+Clothing+Shorts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Shorts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-SHORTS",
+              "itemName": "SHORTS"
+            },
+            {
+              "image_url": "-",
+              "label": "VEST & UNDERWEAR",
+              "link": "/men/clothing/vest-and-underwear.html?q=Men+Clothing+Vest+%26+Underwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Vest+%26+Underwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-VEST & UNDERWEAR",
+              "itemName": "VEST & UNDERWEAR"
+            },
+            {
+              "image_url": "-",
+              "label": "JACKETS & COATS",
+              "link": "/men/clothing/jackets-and-coats.html?q=Men+Clothing+Jackets+%26+Coats&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Jackets+%26+Coats&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-JACKETS & COATS",
+              "itemName": "JACKETS & COATS"
+            },
+            {
+              "image_url": "-",
+              "label": "HOODIES & SWEATSHIRTS",
+              "link": "/men/clothing/hoodies-sweatshirts.html?q=Men+Clothing+Hoodies+%26+Sweatshirts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Hoodies+%26+Sweatshirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-HOODIES & SWEATSHIRTS",
+              "itemName": "HOODIES & SWEATSHIRTS"
+            },
+            {
+              "image_url": "-",
+              "label": "SLEEPWEAR",
+              "link": "/men/clothing/sleepwear.html?q=Men+Clothing+Sleepwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Sleepwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-SLEEPWEAR",
+              "itemName": "SLEEPWEAR"
+            },
+            {
+              "image_url": "-",
+              "label": "SWIMWEAR",
+              "link": "/men/clothing/swimwear.html?q=Men+Clothing+Swimwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Swimwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-SWIMWEAR",
+              "itemName": "SWIMWEAR"
+            },
+            {
+              "image_url": "-",
+              "label": "CLOTHING SETS",
+              "link": "/men/clothing/clothing-sets.html?q=Men+Clothing+Clothing+Set&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Clothing+Set&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-CLOTHING SETS",
+              "itemName": "CLOTHING SETS"
+            },
+            {
+              "image_url": "-",
+              "label": "SWEATERS & CARDIGANS",
+              "link": "/men/clothing/sweaters-cardigans.html?q=Men+Clothing+Sweaters+%26+Cardigans&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Sweaters+%26+Cardigans&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-EN-SWEATERS & CARDIGANS",
+              "itemName": "SWEATERS & CARDIGANS"
+            },
+            {
+              "image_url": "-",
+              "label": "SUIT",
+              "link": "/men/clothing/suit.html?q=Men+Clothing+Suit&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Suit&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "SUIT"
+            },
+            {
+              "image_url": "-",
+              "label": "SOCKS",
+              "link": "/men/accessories/socks.html?q=Men+Accessories+Socks&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Socks&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "SOCKS"
+            }
+          ],
+          "button": {
+            "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "bags",
+      "label": "Bags",
+      "link": "/men/bags.html?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Bags+mens.jpg",
+          "description": "Essential Bags",
+          "link": "/men/bags.html?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "BEVERLY HILLS POLO CLUB",
+              "link": "/catalogsearch/result/?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&idx=enterprise_magento_en_qa_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "HERSCHEL",
+              "link": "/catalogsearch/result/?q=men+bags&qid=85c16ffbef6c7015d7215f93cbce2823&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Herschel&idx=enterprise_magento_en_qa_products",
+              "itemName": "HERSCHEL"
+            },
+            {
+              "image_url": "-",
+              "label": "TOMMY HILFIGER",
+              "link": "/catalogsearch/result/?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "ALDO",
+              "link": "/catalogsearch/result/?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aldo&idx=enterprise_magento_en_qa_products",
+              "itemName": "ALDO"
+            },
+            {
+              "image_url": "-",
+              "label": "CALVIN KLEIN",
+              "link": "/catalogsearch/result/?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein+Jeans%2CCalvin+Klein&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "-",
+              "label": "ADIDAS",
+              "link": "/catalogsearch/result/?q=men+bags&qid=34e7b8945dcf6549f740ad481623a444&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas&idx=enterprise_magento_en_qa_products",
+              "itemName": "ADIDAS"
+            },
+            {
+              "image_url": "-",
+              "label": "WILDCRAFT",
+              "link": "/catalogsearch/result/?q=men+bags&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Wildcraft&idx=enterprise_magento_en_qa_products",
+              "itemName": "WILDCRAFT"
+            },
+            {
+              "image_url": "-",
+              "label": "LC WAIKIKI",
+              "link": "/catalogsearch/result/?q=men+bags&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki&idx=enterprise_magento_en_qa_products",
+              "itemName": "LC WAIKIKI"
+            },
+            {
+              "image_url": "-",
+              "label": "CALL IT SPRING",
+              "link": "/catalogsearch/result/?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&idx=enterprise_magento_en_qa_products",
+              "itemName": "CALL IT SPRING"
+            },
+            {
+              "image_url": "-",
+              "label": "NIKE",
+              "link": "/catalogsearch/result/?q=men+bags&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Nike&idx=enterprise_magento_en_qa_products",
+              "itemName": "NIKE"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "BACKPACKS",
+              "link": "/men/bags/backpacks.html?q=Men+Bags+Backpacks&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags+%2F%2F%2F+Backpacks&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-EN-BACKPACKS",
+              "itemName": "BACKPACKS"
+            },
+            {
+              "image_url": "-",
+              "label": "HANDBAGS",
+              "link": "/men/bags/handbags.html?q=Men+Bags+Handbags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags+%2F%2F%2F+Handbags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-EN-HANDBAGS",
+              "itemName": "HANDBAGS"
+            },
+            {
+              "image_url": "-",
+              "label": "LAPTOP BAGS",
+              "link": "/men/bags/laptop-bags.html?q=Men+Bags+Laptop+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags+%2F%2F%2F+Laptop+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-EN-LAPTOP BAGS",
+              "itemName": "LAPTOP BAGS"
+            },
+            {
+              "image_url": "-",
+              "label": "MESSENGER BAGS",
+              "link": "/men/bags/messenger-bags.html?q=Men+Bags+Messenger+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags+%2F%2F%2F+Messenger+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-EN-MESSENGER BAGS",
+              "itemName": "MESSENGER BAGS"
+            },
+            {
+              "image_url": "-",
+              "label": "SMALL LEATHER GOODS",
+              "link": "/men/bags/small-leather-goods.html?q=Men+Bags+Small+Leather+Goods&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags+%2F%2F%2F+Small+Leather+Goods&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-EN-SMALL LEATHER GOODS",
+              "itemName": "SMALL LEATHER GOODS"
+            },
+            {
+              "image_url": "-",
+              "label": "TRAVEL BAGS",
+              "link": "/men/bags/travel-bags.html?q=Men+Bags+Travel+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags+%2F%2F%2F+Travel+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-EN-TRAVEL BAGS",
+              "itemName": "TRAVEL BAGS"
+            }
+          ],
+          "button": {
+            "link": "/men/bags.html?q=Men+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "accessories",
+      "label": "Accessories",
+      "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Accessories++mens+copy.jpg",
+          "description": "Elevated Accessories",
+          "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas&idx=enterprise_magento_en_qa_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aldo&idx=enterprise_magento_en_qa_products",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly%20Hills%20Polo%20Club&idx=enterprise_magento_en_qa_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+              "label": "Levi's",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Levi%27S&idx=enterprise_magento_en_qa_products",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Skechers&idx=enterprise_magento_en_qa_products",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/herschel.jpg",
+              "label": "Herschel",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Herschel&idx=enterprise_magento_en_qa_products",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Tommy%20Hilfiger&idx=enterprise_magento_en_qa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+BHD+AR/HEMA+LOGO+ENG-1.jpg",
+              "label": "Hema",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hema&idx=enterprise_magento_en_qa_products",
+              "itemName": "Hema"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/call_it_spring.jpg",
+              "label": "Call It Spring",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+It+Spring&idx=enterprise_magento_en_qa_products",
+              "itemName": "Call It Spring"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/h/HushPuppies_Logo.jpg",
+              "label": "Hush Puppies",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hush%20Puppies&idx=enterprise_magento_en_qa_products",
+              "itemName": "Hush Puppies"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+              "label": "Ccc",
+              "link": "/catalogsearch/result/?q=CCC&qid=57a917078c3b53b210e6a3d0b8300473&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Shoes+Accessories%2CBelts%2CSocks%2CWatches%2CCaps+%26+Hats&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Ccc"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lc_waikiki.jpg",
+              "label": "Lc Waikiki",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Lc%20Waikiki&idx=enterprise_magento_en_qa_products",
+              "itemName": "Lc Waikiki"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/asics.jpg",
+              "label": "Asics",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Asics&idx=enterprise_magento_en_qa_products",
+              "itemName": "Asics"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/dune_london.jpg",
+              "label": "Dune London",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dune%20London&idx=enterprise_magento_en_qa_products",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/f5.jpg",
+              "label": "F5",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=F5&idx=enterprise_magento_en_qa_products",
+              "itemName": "F5"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "Calvin Klein",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Calvin%20Klein&idx=enterprise_magento_en_qa_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aeropostale.jpg",
+              "label": "Aeropostale",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&idx=enterprise_magento_en_qa_products",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+              "label": "Nike",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Nike&idx=enterprise_magento_en_qa_products",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/toms.jpg",
+              "label": "Toms",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Toms&idx=enterprise_magento_en_qa_products",
+              "itemName": "Toms"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Belts_men.jpg",
+              "label": "Belts",
+              "link": "/men/accessories/belts.html?q=Men+Accessories+Belts&p=0&hFR[categories.level0][0]=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Belts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Belts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Scarves_men.jpg",
+              "label": "Scarves",
+              "link": "/men/accessories/scarves.html?q=Men+Accessories+Scarves&p=0&hFR[categories.level0][0]=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Scarves&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Scarves"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/13-2-24+NEW/mega-menu/men-ties.jpg",
+              "label": "Ties",
+              "link": "/men/accessories/ties.html?q=Men+Accessories+Ties&p=0&hFR[categories.level0][0]=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Ties&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Ties"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Caps+%26+Hats_men.jpg",
+              "label": "Caps & Hats",
+              "link": "/men/accessories/caps-hats.html?q=Men+Accessories+Caps+%26+Hats&p=0&hFR[categories.level0][0]=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Caps+%26+Hats&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Caps & Hats"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Jewellery_men.jpg",
+              "label": "Jewellery",
+              "link": "/men/accessories/jewellery.html?q=Men+Accessories+Jewellery&p=0&hFR[categories.level0][0]=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Jewellery&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Jewellery"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/13-2-24+NEW/mega-menu/men-tech-accessories.jpg",
+              "label": "Tech Accessories",
+              "link": "/men/accessories/tech-accessories.html?q=Men+Accessories+Tech+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Tech+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Tech Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Sunglasses_men.jpg",
+              "label": "Sunglasses",
+              "link": "/men/sunglasses.html?q=Men+Sunglasses&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Sunglasses&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Sunglasses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/watches_men+copy.jpg",
+              "label": "Watches",
+              "link": "/men/watches.html?q=Men+Watches&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Watches&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Watches"
+            },
+            {
+              "image_url": "-",
+              "label": "TRAVEL ACCESSORIES",
+              "link": "/men/accessories/travel-accessories.html?q=Men+Accessories+Travel+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Travel+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "TRAVEL ACCESSORIES"
+            }
+          ],
+          "button": {
+            "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "grooming",
+      "label": "Grooming",
+      "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_qa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/grooming+Mens.jpg",
+          "description": "Grooming Must-Haves",
+          "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&idx=enterprise_magento_en_qa_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/Cantu.jpg",
+              "label": "Cantu",
+              "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Cantu&idx=enterprise_magento_en_qa_products",
+              "itemName": "Cantu"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+BHD+AR/HEMA+LOGO+ENG-1.jpg",
+              "label": "Hema",
+              "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hema&idx=enterprise_magento_en_qa_products",
+              "itemName": "Hema"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/rituals.jpg",
+              "label": "Rituals",
+              "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Rituals&idx=enterprise_magento_en_qa_products",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/S/swiss-arabian.jpg",
+              "label": "Swiss Arabian",
+              "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Swiss+Arabian&idx=enterprise_magento_en_qa_products",
+              "itemName": "Swiss Arabian"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming-Fragrances.jpg",
+              "label": "Fragrances",
+              "link": "/men/grooming/fragrances.html?q=Men+Grooming+Fragrances&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming+%2F%2F%2F+Fragrances&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Fragrances"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming-Gifts+Sets.jpg",
+              "label": "Gifts Sets",
+              "link": "/men/grooming/gift-sets.html?q=Men+Grooming+Gift+Sets&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming+%2F%2F%2F+Gift+Sets&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Gifts Sets"
+            },
+            {
+              "image_url": "-",
+              "label": "BATH & BODY",
+              "link": "/men/grooming/bath-body.html?q=Men+Grooming+Bath+%26+Body&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming+%2F%2F%2F+Bath+%26+Body&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "BATH & BODY"
+            }
+          ],
+          "button": {
+            "link": "/men/grooming.html?q=Men+Grooming&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "sports",
+      "label": "Sports",
+      "link": "/sportswear.html?q=Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Sports+mens.jpg",
+          "description": "Activewear Favorites",
+          "link": "/sportswear.html?q=Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+          "button_label": ""
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/adidas.html?q=Adidas&p=0&hFR[categories.level0][0]=Adidas&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/skechers.html?q=Skechers&p=0&hFR[categories.level0][0]=Skechers&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/puma.jpg",
+              "label": "Puma",
+              "link": "/puma.html?q=Puma&p=0&hFR[categories.level0][0]=Puma&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/onitsuka_tiger.jpg",
+              "label": "Onitsuka Tiger",
+              "link": "/onitsuka-tiger.html?q=Onitsuka%20Tiger&p=0&dFR[categories.level0][0]=Onitsuka%20Tiger&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Onitsuka Tiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/asics.jpg",
+              "label": "Asics",
+              "link": "/asics.html?q=Asics&p=0&hFR[categories.level0][0]=Asics&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Asics"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/f5.jpg",
+              "label": "F5",
+              "link": "/f5.html?q=F5&p=0&hFR[categories.level0][0]=F5&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "F5"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/fila.jpg",
+              "label": "Fila",
+              "link": "/fila.html?q=Fila&p=0&hFR[categories.level0][0]=Fila&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Fila"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/12-10-2022/Logo/Squatwolf.png",
+              "label": "SQUATWOLF",
+              "link": "/squatwolf.html?q=SQUATWOLF&p=0&hFR[categories.level0][0]=SQUATWOLF&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "SQUATWOLF"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/reebok.jpg",
+              "label": "Reebok",
+              "link": "/reebok.html?q=Reebok&p=0&hFR[categories.level0][0]=Reebok&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Reebok"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/anta.jpg",
+              "label": "Anta",
+              "link": "/anta.html?q=Anta&p=0&hFR[categories.level0][0]=Anta&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Anta"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/SPORT+SHOE.jpg",
+              "label": "Sports Shoes",
+              "link": "/men/shoes/sports-shoes.html?q=Men+Shoes+Sports+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Sports+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Sports Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/SNEAKER.jpg",
+              "label": "Sneakers",
+              "link": "/sportswear.html?q=Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=High+Top%2CLow+Top&dFR%5BcategoryIds%5D%5B0%5D=10301%2C10297&idx=enterprise_magento_en_qa_products",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/T_SHIRTS.jpg",
+              "label": "T-Shirts",
+              "link": "/men/clothing/sportswear.html?q=Men+Clothing+Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=T-Shirts+%26+Vests&dFR%5BcategoryIds%5D%5B0%5D=15766&idx=enterprise_magento_en_qa_products",
+              "itemName": "T-Shirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/SHORTS.jpg",
+              "label": "Shorts",
+              "link": "/men/clothing/activewear.html?q=Men+Clothing+Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Bottoms%2CActive+Shorts%2CCasual+Shorts&dFR%5BcategoryIds%5D%5B0%5D=19275%2C15511%2C15832&idx=enterprise_magento_en_qa_products",
+              "itemName": "Shorts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/Track+pant.jpg",
+              "label": "Tracks & Pants",
+              "link": "/men/clothing/activewear.html?q=Men+Clothing+Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=&hFR%5Bcategories.level1%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=&dFR%5Bcolorfamily%5D%5B0%5D=&dFR%5Bage%5D%5B0%5D=&dFR%5Bdiscount%5D%5B0%5D=&dFR%5Bsizes%5D%5B0%5D=&dFR%5Bprice.AED.default%5D%5B0%5D=&dFR%5Bsize_uk%5D%5B0%5D=&dFR%5Bsize_eu%5D%5B0%5D=&dFR%5Bsize_us%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Track+Pants%2CTrack+Pants+%26+Joggers&dFR%5BcategoryIds%5D%5B0%5D=10342%2C15762&idx=enterprise_magento_en_qa_products",
+              "itemName": "Tracks & Pants"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/track+jacket.jpg",
+              "label": "Windbreaker & Jackets",
+              "link": "/men/clothing/activewear.html?q=Men+Clothing+Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=&hFR%5Bcategories.level1%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=&dFR%5Bcolorfamily%5D%5B0%5D=&dFR%5Bage%5D%5B0%5D=&dFR%5Bdiscount%5D%5B0%5D=&dFR%5Bsizes%5D%5B0%5D=&dFR%5Bprice.AED.default%5D%5B0%5D=&dFR%5Bsize_uk%5D%5B0%5D=&dFR%5Bsize_eu%5D%5B0%5D=&dFR%5Bsize_us%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Active+Jackets%2CJackets&dFR%5BcategoryIds%5D%5B0%5D=10117%2C10347&idx=enterprise_magento_en_qa_products",
+              "itemName": "Windbreaker & Jackets"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/ACCESSORIES.jpg",
+              "label": "Accessories",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Sport%2CAsics%2CF5%2CFila%2CNike%2CPuma%2CSkechers%2CUnder+Armour&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Accessories"
+            }
+          ],
+          "button": {
+            "link": "/sportswear.html?q=Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "premium",
+      "label": "Premium",
+      "link": "/catalogsearch/result/?q=%2B&qid=190cfd43cca75562afff4dc7c727e5db&p=0&dFR%5Bbrand_name%5D%5B0%5D=Boss%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CCarrera%2CCole+Haan%2CECCO%2CGANT%2CGuess%2CHugo%2CJimmy+Choo%2CLacoste%2CRituals%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-12-24+NEW/men+hugo_.jpg",
+          "description": "Premium Picks",
+          "link": "/catalogsearch/result/?q=%2B&qid=190cfd43cca75562afff4dc7c727e5db&p=0&dFR%5Bbrand_name%5D%5B0%5D=Boss%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CCarrera%2CCole+Haan%2CECCO%2CGANT%2CGuess%2CHugo%2CJimmy+Choo%2CLacoste%2CRituals%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/tommy-hilfiger.html?q=Tommy+Hilfiger&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tommy+Hilfiger&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "Calvin Klein",
+              "link": "/calvin-klein.html?q=Calvin+Klein&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Calvin+Klein&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "HUGO",
+              "link": "/hugo.html?q=Hugo&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Hugo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Hugo&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "HUGO"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/Boss+(1).jpg",
+              "label": "BOSS",
+              "link": "/boss.html?q=BOSS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=BOSS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Boss&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "BOSS"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lacoste.jpg",
+              "label": "Lacoste",
+              "link": "/lacoste.html?q=Lacoste&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Lacoste&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Lacoste&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/rituals.jpg",
+              "label": "Rituals",
+              "link": "/rituals.html?q=Rituals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Rituals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Rituals&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/S/Sacoor+Brothers.jpg",
+              "label": "Sacoor Brothers",
+              "link": "/sacoor-brothers.html?q=Sacoor+Brothers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sacoor+Brothers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Sacoor+Brothers&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Sacoor Brothers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-07-2022-Kids/Pending+logos/Timberland-Emblem.jpg",
+              "label": "Timberland",
+              "link": "/timberland.html?q=Timberland&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Timberland&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Timberland&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Timberland"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "Guess",
+              "link": "/guess.html?q=Guess&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Guess&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Guess&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/Carrera.jpg",
+              "label": "Carrera",
+              "link": "/carrera.html?q=Carrera&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Carrera&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Carrera&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Carrera"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Men/Marc+jacobs.jpg",
+              "label": "Marc jacobs",
+              "link": "/marc-jacobs.html?q=Marc+Jacobs&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Marc+Jacobs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Marc+Jacobs&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Marc jacobs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Men/Polaroid.jpg",
+              "label": "Polaroid",
+              "link": "/polaroid.html?q=Polaroid&qid=c12a31263c1717819524eaa3e816cf8a&p=0&dFR%5Bbrand_name%5D%5B0%5D=Polaroid&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "itemName": "Polaroid"
+            },
+            {
+              "image_url": "-",
+              "label": "BOOHOOMAN",
+              "link": "/boohooman.html?q=boohooMAN&p=0&hFR%5Bcategories.level0%5D%5B0%5D=boohooMAN&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=boohooMAN&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_qa_products",
+              "promotion_name": "BOOHOOMAN",
+              "itemName": "BOOHOOMAN"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium-Shoes.jpg",
+              "label": "Shoes",
+              "link": "/men/shoes.html?q=Men+Shoes&p=0&dFR%5Bbrand_name%5D%5B0%5D=Boss%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CCarrera%2CCole+Haan%2CECCO%2CGANT%2CGuess%2CHugo%2CJimmy+Choo%2CLacoste%2CRituals%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium-Bags.jpg",
+              "label": "Bags",
+              "link": "/catalogsearch/result/?q=%2B&qid=190cfd43cca75562afff4dc7c727e5db&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans%2CGuess%2CTommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Bags%2CFashion+Bags%2COffice+Bags%2CTravel+Bags&idx=enterprise_magento_en_qa_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium-Clothing.jpg",
+              "label": "Clothing",
+              "link": "/men/clothing.html?q=Men+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bbrand_name%5D%5B0%5D=Boss%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CCarrera%2CCole+Haan%2CECCO%2CGANT%2CGuess%2CHugo%2CJimmy+Choo%2CLacoste%2CRituals%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Jeans&idx=enterprise_magento_en_qa_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium-Accessories.jpg",
+              "label": "Accessories",
+              "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Boss%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CCarrera%2CCole+Haan%2CECCO%2CGANT%2CGuess%2CHugo%2CJimmy+Choo%2CLacoste%2CRituals%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+              "itemName": "Accessories"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%2B&qid=190cfd43cca75562afff4dc7c727e5db&p=0&dFR%5Bbrand_name%5D%5B0%5D=Boss%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CCarrera%2CCole+Haan%2CECCO%2CGANT%2CGuess%2CHugo%2CJimmy+Choo%2CLacoste%2CRituals%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

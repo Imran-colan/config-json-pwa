@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_brands",
+      "items": []
+    },
+    {
+      "type": "circleItemSlider",
+      "key": "trending_categories",
+      "items": []
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_styles",
+      "items": []
+    }
+  ]
+}

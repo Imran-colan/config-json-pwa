@@ -1,0 +1,7 @@
+{
+  "home": {
+    "is_enabled": true,
+    "label": "بريميوم",
+    "file": "categories_home.json"
+  }
+}

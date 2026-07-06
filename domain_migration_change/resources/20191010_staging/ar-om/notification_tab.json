@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "label": "العروض",
+    "subLabel": "أفضل العروض والخصومات وغيرها",
+    "routeKey": "promotional",
+    "changeable": true
+  },
+  {
+    "id": 2,
+    "label": "المعاملات",
+    "subLabel": "أخر التحديثات على طلباتك",
+    "routeKey": "transactional",
+    "changeable": false
+  }
+]

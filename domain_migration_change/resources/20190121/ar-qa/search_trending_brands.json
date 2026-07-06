@@ -1,0 +1,143 @@
+{
+  "women": [
+    {
+      "label": "Aldo",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/ALDO.jpg",
+      "link": "/catalogsearch/result/?q=%D8%A3%D9%84%D8%AF%D9%88&qid=7a81c2e4325e2b16f9667c297055e551&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1"
+    },
+    {
+      "label": "Dune London",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/DUNE.jpg",
+      "link": "/catalogsearch/result/?q=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86&qid=25d0b9622b9b19dac6a463cdba9ab2c7&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1"
+    },
+    {
+      "label": "Charles & Keith",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/CHARLES+_+KEITH+2.jpg",
+      "link": "/catalogsearch/result/?q=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&qid=3990749e7a50bccff69b0f4f60134fce&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1"
+    },
+    {
+      "label": "Levi's",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/LEVI_S.jpg",
+      "link": "/catalogsearch/result/?q=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&qid=9972f3c1cd86c1f4c275a3cdb57ae6fc&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1"
+    },
+    {
+      "label": "LC Waikiki",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/LC+WAIKIKI.jpg",
+      "link": "/catalogsearch/result/?q=%D8%A7%D9%8D%D9%84%20%D8%B3%D9%8A%20%D9%88%D8%A7%D9%8A%20%D9%83%D9%8A%D9%83%D9%8A&qid=bdf69e0ecd42ed72b7757d5960a0bf94&p=0&dFR[gender][0]=%D9%86%D8%B3%D8%A7%D8%A1"
+    },
+    {
+      "label": "Rituals",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/spring+2021/extra/BEAUTY_RITUALS.jpg",
+      "link": "/catalogsearch/result/?q=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2&qid=eb7a40d637d97d17414164402ede9a02&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1"
+    }
+  ],
+  "men": [
+    {
+      "label": "Tommy Hilfiger",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/TOMMY+HILFIGER.jpg",
+      "link": "/catalogsearch/result/?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&qid=2e109ad7de6a329e70c70a4c286e97bd&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Calvin Klein",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/CALVIN+KLEIN.jpg",
+      "link": "/catalogsearch/result/?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&qid=d3ee28898f21145200a2fa5cf65c3ba5&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Beverly Hills Polo Club",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/BEVERLY+HILLS+POLO+CLUB.jpg",
+      "link": "/catalogsearch/result/?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&qid=ac8bf2e0e198d360bffa921b0dc387dd&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Skechers",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/SKECHERS.jpg",
+      "link": "/catalogsearch/result/?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&qid=da7652e18f482abb2bf63eb6cc0f4922&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Adidas",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/ADIDAS.jpg",
+      "link": "/catalogsearch/result/?q=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&qid=7c91e5824a75f8bd2cd417ca41c014b5&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Levi's",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/LEVI_S.jpg",
+      "link": "/catalogsearch/result/?q=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&qid=ee0ddc6616601ba8f70596b3ba5f7692&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Nike",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/NIKE.jpg",
+      "link": "/catalogsearch/result/?q=%D9%86%D8%A7%D9%8A%D9%83&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83"
+    },
+    {
+      "label": "Crocs",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/CROCS_BRAND.jpg",
+      "link": "/catalogsearch/result/?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&qid=aa5c50dce4cd9ee38996d32548a81df7&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Aeropostale",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/AEROPOSTALE.jpg",
+      "link": "/catalogsearch/result/?q=%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&qid=c11fe2d25ad27c9088ed7e449e12b1e9&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Herschel",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/HERSCHE_2.jpg",
+      "link": "/catalogsearch/result/?q=%D9%87%D9%8A%D8%B1%D8%B4%D9%84&qid=ed05224c696163323f73b7ead705a799&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    },
+    {
+      "label": "Rituals",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/spring+2021/extra/BEAUTY_RITUALS.jpg",
+      "link": "/catalogsearch/result/?q=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2&qid=dc29a64ea310d664e7f3bed4e103f66e&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84"
+    }
+  ],
+  "kids": [
+    {
+      "label": "Beverly Hills Polo Club",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/BEVERLY+HILLS+POLO+CLUB.jpg",
+      "link": "/beverly-hills-polo-club.html?q=بيفرلي+هيلز+بولو+كلوب&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=بيفرلي+هيلز+بولو+كلوب&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D9%86%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B7%D9%81%D9%84%2C%D8%B7%D9%81%D9%84%D8%A9%2C%D9%84%D9%84%D8%B1%D8%B6%D8%B9"
+    },
+    {
+      "label": "Skechers",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/SKECHERS.jpg",
+      "link": "/skechers.html?q=سكيتشرز&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=سكيتشرز&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D9%86%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B7%D9%81%D9%84%2C%D8%B7%D9%81%D9%84%D8%A9%2C%D9%84%D9%84%D8%B1%D8%B6%D8%B9"
+    },
+    {
+      "label": "LC Waikiki",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/LC+WAIKIKI.jpg",
+      "link": "/lc-waikiki.html?q=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF"
+    },
+    {
+      "label": "Tommy Hilfiger",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/TOMMY+HILFIGER.jpg",
+      "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA"
+    },
+    {
+      "label": "Polo Ralph Lauren",
+      "image_url": "https://mobilecdn.6thstreet.com/AllBanners/27-10-2021/POLO_logo_pony.png",
+      "link": "/polo-ralph-lauren.html?q=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA"
+    },
+    {
+      "label": "Crocs",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/CROCS_BRAND.jpg",
+      "link": "/crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D9%86%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B7%D9%81%D9%84%2C%D8%B7%D9%81%D9%84%D8%A9%2C%D9%84%D9%84%D8%B1%D8%B6%D8%B9"
+    },
+    {
+      "label": "The Children's Place",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/THE+CHILDREN_S+PLACE.jpg",
+      "link": "/the-childrens-place.html?q=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1"
+    },
+    {
+      "label": "Levi's",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/LEVI_S.jpg",
+      "link": "/levis.html?q=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D9%86%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B7%D9%81%D9%84%2C%D8%B7%D9%81%D9%84%D8%A9%2C%D9%84%D9%84%D8%B1%D8%B6%D8%B9"
+    },
+    {
+      "label": "Nike",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/NIKE.jpg",
+      "link": "/nike.html?q=نايك&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=نايك&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D9%86%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B7%D9%81%D9%84%2C%D8%B7%D9%81%D9%84%D8%A9%2C%D9%84%D9%84%D8%B1%D8%B6%D8%B9"
+    },
+    {
+      "label": "R&B Kids",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/01-11-2021/Baking/RBK+Logo_page-English.jpg",
+      "link": "/catalogsearch/result/?q=%D8%A2%D8%B1+%D8%A3%D9%86%D8%AF+%D8%A8%D9%8A+%D9%83%D9%8A%D8%AF%D8%B2&qid=178a8d95c615f6d23f97e32e28d52522&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&p=0"
+    }
+  ]
+}

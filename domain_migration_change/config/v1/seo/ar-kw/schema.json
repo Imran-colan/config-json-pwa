@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "6thStreet.com",
+  "legalName": "6thStreet General Trading LLC",
+  "url": "https://ar-kw.6thstreet.com/",
+  "logo": "https://d33potchz7aua6.cloudfront.net/static/media/6TH_Logo.bc4c18f8.svg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Street No 14 B, Al Quoz , Al Quoz Industrial Area 4, Dubai",
+    "addressLocality": "Al Quoz",
+    "addressCountry": "UAE"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+971800 3852 633",
+      "contactType": "customer service"
+    }
+  ],
+  "email": "customercare@6thstreet.com",
+  "sameAs": [
+    "https://www.instagram.com/Shop6thStreet/",
+    "https://www.facebook.com/shop6thstreet",
+    "https://twitter.com/shop6thstreet",
+    "https://in.pinterest.com/6thstreetonline/",
+    "https://www.youtube.com/c/6thStreet",
+    "https://www.tiktok.com/@shop6thstreet"
+  ]
+}
