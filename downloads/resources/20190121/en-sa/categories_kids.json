@@ -1,0 +1,1790 @@
+{
+  "data": [
+    {
+      "key": "new_in",
+      "label": "New In",
+      "link": "/kids/new-in.html?q=Kids&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#cbb479",
+        "text_color": "#cbb479"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/NEWIN+-+MAIN+IMAGE.jpg",
+          "description": "New Arrivals",
+          "link": "/kids/new-in.html?q=Kids&p=0&hFR%255Bcategories.level0%255D%255B0%255D=Kids&nR%255Bvisibility_catalog%255D%255B=%255D%255B0%255D%253D1&dFR%255Bis_new_in%255D%255B0%255D=1&dFR%255Bgender%255D%255B0%255D=Boy%252CGirl&dFR%255Bin_stock%255D%255B0%255D=1&idx=enterprise_magento_en_sa_products"
+        },
+        {
+          "type": "slider",
+          "title": "Shop By Category",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/shoes-boys.jpg",
+              "label": "Footwear",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Footwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/CLOTHING.jpg",
+              "label": "Clothing",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/ACCESSORIES.jpg",
+              "label": "Accessories",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/BAGS.jpg",
+              "label": "Bags",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/kids/category/CAT_KIDS_STATIONARY.jpg",
+              "label": "School Supplies",
+              "link": "/kids/kids-accessories/school-supplies.html?q=Kids+Kids+Accessories+School+Supplies&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+School+Supplies&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "School Supplies"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/BABY+ESSENTIALS.jpg",
+              "label": "Baby Essentials",
+              "link": "/kids/baby-essentials.html?q=Kids+Baby+Essentials&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Baby Essentials"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "R&B",
+              "link": "/r-b.html?q=R%26B&p=0&hFR[categories.level0][0]=R%26B&nR[visibility_catalog][=][0]=1&dFR[in_stock][0]=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "-",
+              "label": "CROCS",
+              "link": "/crocs.html?q=Crocs&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "CROCS"
+            },
+            {
+              "image_url": "-",
+              "label": "JANSPORT",
+              "link": "/jansport.html?q=Jansport&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Jansport&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "JANSPORT"
+            },
+            {
+              "image_url": "-",
+              "label": "DDANIELA",
+              "link": "/ddaniela.html?q=Ddaniela&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Ddaniela&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "DDANIELA"
+            },
+            {
+              "image_url": "-",
+              "label": "SKECHERS",
+              "link": "/skechers.html?q=Skechers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "SKECHERS"
+            },
+            {
+              "image_url": "-",
+              "label": "PUMA",
+              "link": "/puma.html?q=Puma&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Puma&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "PUMA"
+            },
+            {
+              "image_url": "-",
+              "label": "ASICS",
+              "link": "/asics.html?q=Asics&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Asics&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "ASICS"
+            },
+            {
+              "image_url": "-",
+              "label": "NIKE",
+              "link": "/nike.html?q=Nike&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "NIKE"
+            },
+            {
+              "image_url": "-",
+              "label": "BEVERLY HILLS POLO CLUB",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "TOMMY HILFIGER",
+              "link": "/tommy-hilfiger.html?q=Tommy+Hilfiger&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tommy+Hilfiger&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "KIPLING",
+              "link": "/kipling.html?q=Kipling&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kipling&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "KIPLING"
+            }
+          ],
+          "button": {
+            "link": "/kids/new-in.html?q=Kids&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "SHOP BY BRAND"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "footwear",
+      "label": "Footwear",
+      "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/FOOTWEAR+-+MAIN+IMAGE.jpg",
+          "description": "Footwear Favorites",
+          "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Skechers&idx=enterprise_magento_en_sa_products",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Crocs&idx=enterprise_magento_en_sa_products",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Michael+Kors.jpg",
+              "label": "Michael-Kors",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Michael+Kors&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas&idx=enterprise_magento_en_sa_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/P+Logos/Polo+Ralph+Lauren.jpg",
+              "label": "Polo Ralph Lauren",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Polo+Ralph+Lauren&idx=enterprise_magento_en_sa_products",
+              "itemName": "Polo Ralph Lauren"
+            },
+            {
+              "image_url": "-",
+              "label": "R&B",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=R%26B&idx=enterprise_magento_en_sa_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "-",
+              "label": "TOMMY HILFIGER",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger&idx=enterprise_magento_en_sa_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/toms.jpg",
+              "label": "TOMS",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Toms&idx=enterprise_magento_en_sa_products",
+              "itemName": "Toms"
+            },
+            {
+              "image_url": "-",
+              "label": "U.S. POLO ASSN.",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=U.S.+Polo+Assn.&idx=enterprise_magento_en_sa_products",
+              "itemName": "U.S. POLO ASSN."
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/puma.jpg",
+              "label": "Puma",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Puma&idx=enterprise_magento_en_sa_products",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "-",
+              "label": "NEW BALANCE",
+              "link": "/catalogsearch/result/?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=New+Balance&idx=enterprise_magento_en_sa_products",
+              "itemName": "NEW BALANCE"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/10-07-2023+men/clarks+logo/clarks.png",
+              "label": "Clarks",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Clarks&idx=enterprise_magento_en_sa_products",
+              "itemName": "Clarks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "Beverly Hills Polo Club\t",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&idx=enterprise_magento_en_sa_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/01-06-2023-Kids/KIDS-LOGO-MEGA+MENU/MOLEKINHA.jpg",
+              "label": "Molekinha",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Molekinha&idx=enterprise_magento_en_sa_products",
+              "itemName": "Molekinha"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+              "label": "Nike",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Nike&idx=enterprise_magento_en_sa_products",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/h/Heelys.jpg",
+              "label": "Heelys",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Heelys&idx=enterprise_magento_en_sa_products",
+              "itemName": "Heelys"
+            },
+            {
+              "image_url": "-",
+              "label": "ALDO",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aldo&idx=enterprise_magento_en_sa_products",
+              "itemName": "ALDO"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/asics.jpg",
+              "label": "Asics",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=ASICS&idx=enterprise_magento_en_sa_products",
+              "itemName": "Asics"
+            },
+            {
+              "image_url": "-",
+              "label": "BABIES & MORE",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=BABIES+%26+MORE&idx=enterprise_magento_en_sa_products",
+              "itemName": "BABIES & MORE"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/h/Havaianas_brand_logo.jpg",
+              "label": "Havaianas",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Havaianas&idx=enterprise_magento_en_sa_products",
+              "itemName": "Havaianas"
+            },
+            {
+              "image_url": "-",
+              "label": "CALVIN KLEIN",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein&idx=enterprise_magento_en_sa_products",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "-",
+              "label": "KLIN",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=KLIN&idx=enterprise_magento_en_sa_products",
+              "itemName": "KLIN"
+            },
+            {
+              "image_url": "-",
+              "label": "LACOSTE",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Lacoste&idx=enterprise_magento_en_sa_products",
+              "itemName": "LACOSTE"
+            },
+            {
+              "image_url": "-",
+              "label": "MOLEKINHO",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=MOLEKINHO&idx=enterprise_magento_en_sa_products",
+              "itemName": "MOLEKINHO"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/sneakers.jpg",
+              "label": "Sneakers",
+              "link": "/kids/footwear/sneakers.html?q=Kids+Footwear+Sneakers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sneakers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/CLOGS.jpg",
+              "label": "Clogs",
+              "link": "/kids/footwear/clogs.html?q=Kids+Footwear+Clogs&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Clogs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Clogs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/SPORTS.jpg",
+              "label": "Sports Shoes",
+              "link": "/kids/footwear/sports-shoes.html?q=Kids+Footwear+Sports+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sports+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sports Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/casual+shoes.jpg",
+              "label": "Casual Shoes",
+              "link": "/kids/footwear/casual-shoes.html?q=Kids+Footwear+Casual+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Casual+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Casual Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/FORMAL+SHOES.jpg",
+              "label": "Formal Shoes",
+              "link": "/kids/footwear/formal-shoes.html?q=Kids+Footwear+Formal+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Formal+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Formal Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/sandals.jpg",
+              "label": "Sandals",
+              "link": "/kids/footwear/sandals.html?q=Kids+Footwear+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sandals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/BOOTIES.jpg",
+              "label": "Booties",
+              "link": "/kids/footwear/booties.html?q=Kids+Footwear+Booties&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Booties&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Booties"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/SHOE+ACCESSORIES.jpg",
+              "label": "Shoe Accessories",
+              "link": "/kids/kids-accessories/shoe-accessories.html?q=Kids+Kids+Accessories+Shoe+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Shoe+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Shoe Accessories"
+            },
+            {
+              "image_url": "-",
+              "label": "Slides and Flipflops",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Flip+Flops%2CSlides&dFR%5BcategoryIds%5D%5B0%5D=9552%2C9553&idx=enterprise_magento_en_sa_products",
+              "itemName": "SLIDES AND FLIPLOPS"
+            }
+          ],
+          "button": {
+            "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "Shop By Product",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/Low_Top.jpg",
+              "label": "Low Top",
+              "link": "/kids/footwear/sneakers/low-top.html?q=Kids%20Footwear%20Sneakers%20Low%20Top&p=0&hFR[categories.level0][0]=Kids%20///%20Footwear%20///%20Sneakers%20///%20Low%20Top&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Low Top"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/running.jpg",
+              "label": "Running & Training",
+              "link": "/kids/footwear/sports-shoes/running-training.html?q=Kids+Footwear+Sports+Shoes+RUNNING+%26+TRAINING&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sports+Shoes+%2F%2F%2F+RUNNING+%26+TRAINING&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Running & Training"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/casual+sandals.jpg",
+              "label": "Casual Sandals",
+              "link": "/kids/footwear/sandals/casual-sandals.html?q=Kids+Footwear+Sandals+Casual+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sandals+%2F%2F%2F+Casual+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Casual Sandals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/flat+sandals.jpg",
+              "label": "Flat Sandals",
+              "link": "/kids/footwear/sandals/flats.html?q=Kids+Footwear+Sandals+Flat+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sandals+%2F%2F%2F+Flat+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Flat Sandals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/High_Top.jpg",
+              "label": "High Top",
+              "link": "/kids/footwear/sneakers/high-top.html?q=Kids+Footwear+Sneakers+High+Top&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sneakers+%2F%2F%2F+High+Top&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "High Top"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/slides.jpg",
+              "label": "Slides",
+              "link": "/kids/footwear/flip-flops/slides.html?q=Kids+Footwear+Slides+and+Flip+Flops+Slides&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Slides+and+Flip+Flops+%2F%2F%2F+Slides&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Slides"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/casual+slipons.jpg",
+              "label": "Casual Slip-On's",
+              "link": "/kids/footwear/casual-shoes/school-shoes.html?q=Kids+Footwear+Casual+Shoes+CASUAL+SLIP-ONS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Casual+Shoes+%2F%2F%2F+CASUAL+SLIP-ONS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Casual Slip-On's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/flip+flops.jpg",
+              "label": "Flip Flops",
+              "link": "/kids/footwear/flip-flops/flipflops.html?q=Kids+Footwear+Slides+and+Flip+Flops+Flip+Flops&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Slides+and+Flip+Flops+%2F%2F%2F+Flip+Flops&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Flip Flops"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/ballerinas.jpg",
+              "label": "Ballerinas",
+              "link": "/kids/footwear/casual-shoes/espadrille.html?q=Kids+Footwear+Casual+Shoes+BALLERINA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Casual+Shoes+%2F%2F%2F+BALLERINA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Ballerinas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/traditional+sandals.jpg",
+              "label": "Traditional Sandals",
+              "link": "/kids/footwear/sandals/traditional-sandals.html?q=Kids+Footwear+Sandals+Traditional+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sandals+%2F%2F%2F+Traditional+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Traditional Sandals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/boots.jpg",
+              "label": "Boots",
+              "link": "/kids/footwear/ballerina/nightwear.html?q=Kids+Footwear+Formal+Shoes+Boots&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Formal+Shoes+%2F%2F%2F+Boots&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Boots"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/loafers.jpg",
+              "label": "Loafers",
+              "link": "/kids/footwear/casual-shoes/loafers.html?q=Kids+Footwear+Casual+Shoes+Loafers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Casual+Shoes+%2F%2F%2F+Loafers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Loafers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/jibbitz.jpg",
+              "label": "Jibbitz",
+              "link": "/kids/kids-accessories/shoe-accessories/jibbitz.html?q=Kids%20Kids%20Accessories%20Shoe%20Accessories%20JIBBITZ&p=0&hFR[categories.level0][0]=Kids%20///%20Kids%20Accessories%20///%20Shoe%20Accessories%20///%20JIBBITZ&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Jibbitz"
+            }
+          ],
+          "button": {
+            "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop By Product"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "clothing",
+      "label": "Clothing",
+      "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/MicrosoftTeams-image.png",
+          "description": "All-Occasion Clothing",
+          "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+          "button_label": ""
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "R&B",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=R%26B&idx=enterprise_magento_en_sa_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "Beverly Hills Polo Club\t",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&idx=enterprise_magento_en_sa_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals&idx=enterprise_magento_en_sa_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "Calvin Klein",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans%2CCalvin+Klein+Kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+              "label": "Levi's",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s+Kids%2CLevi%27s&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "-",
+              "label": "VICTOR AND JANE",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Victor+and+Jane&idx=enterprise_magento_en_sa_products",
+              "itemName": "VICTOR AND JANE"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Ddaniela.jpg",
+              "label": "Ddaniela",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ddaniela&idx=enterprise_magento_en_sa_products",
+              "itemName": "Ddaniela"
+            },
+            {
+              "image_url": "-",
+              "label": "EMPORIO ARMANI",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=EMPORIO+ARMANI&idx=enterprise_magento_en_sa_products",
+              "itemName": "EMPORIO ARMANI"
+            },
+            {
+              "image_url": "-",
+              "label": "HACKETT",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hackett&idx=enterprise_magento_en_sa_products",
+              "itemName": "HACKETT"
+            },
+            {
+              "image_url": "-",
+              "label": "KOTON",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Koton&idx=enterprise_magento_en_sa_products",
+              "itemName": "KOTON"
+            },
+            {
+              "image_url": "-",
+              "label": "AEROPOSTALE",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "",
+              "itemName": "AEROPOSTALE"
+            },
+            {
+              "image_url": "-",
+              "label": "DIRKJE",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dirkje&idx=enterprise_magento_en_sa_products",
+              "itemName": "DIRKJE"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/12-09-2024-Kids/dummy.png",
+              "label": "Babies & More",
+              "link": "/catalogsearch/result/?q=Kids%2BClothing&qid=0da1fcf513ff566c10cfdac48b90e432&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=BABIES+%26+MORE&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "",
+              "itemName": "Babies & More"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/28-06-2022-Kids/logo-shamanth/adams+kids.jpg",
+              "label": "Adams Kids",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adams+Kids&idx=enterprise_magento_en_sa_products",
+              "itemName": "Adams Kids"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_KIDS_TSHIRT.jpg",
+              "label": "Topwear",
+              "link": "/kids/clothing/topwear.html?q=Kids+Clothing+Topwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Topwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Topwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/DRESSES.jpg",
+              "label": "Dresses",
+              "link": "/kids/clothing/dresses.html?q=Kids+Clothing+Dresses&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Dresses&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Dresses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/BOTTOM.jpg",
+              "label": "Bottomwear",
+              "link": "/kids/clothing/bottomwear.html?q=Kids+Clothing+Bottomwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Bottomwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "Bottomwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_KIDS_PAJAMAS.jpg",
+              "label": "Sets",
+              "link": "/kids/clothing/sets.html?q=Kids+Clothing+Sets&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Sets&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sets"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Winterwear%20%26%20Outwear.jpg",
+              "label": "Winterwear & Outerwear",
+              "link": "/kids/clothing/winterwear-outerwear.html?q=Kids+Clothing+Winterwear+%26+Outerwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Winterwear+%26+Outerwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Winterwear & Outerwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/CLOTHING+ACC.jpg",
+              "label": "Clothing Accessories",
+              "link": "/kids/kids-accessories/clothing-accessories1.html?q=Kids+Kids+Accessories+Clothing+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Clothing+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Clothing Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Onepieces%20%26%20Body%20Suits.jpg",
+              "label": "Onepieces & Bodysuits",
+              "link": "/kids/clothing/onepiece-bodysuits.html?q=Kids+Clothing+Onepiece+%26+Bodysuits&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Onepiece+%26+Bodysuits&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Onepieces & Bodysuits"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/16-3-23+NEW/Megamenu_SBC+_All+copy/KIDS/NIGHT+WEAR.jpg",
+              "label": "Nightwear",
+              "link": "/kids/clothing/nightwear.html?q=Kids%20Clothing%20Nightwear&p=0&hFR[categories.level0][0]=Kids%20///%20Clothing%20///%20Nightwear&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Nightwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-08-2022+Women/Clothing+mega+menu/ARABIC+CLOTHING.jpg",
+              "label": "Occasionwear",
+              "link": "/kids/clothing/occasionwear.html?q=Kids+Clothing+Occasionwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Occasionwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Girl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "",
+              "itemName": "Occasionwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Onepieces%20%26%20Body%20Suits.jpg",
+              "label": "Swimwear",
+              "link": "/kids/clothing/swim-wear.html?q=Kids+Clothing+Swim+Wear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Swim+Wear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Swimwear"
+            },
+            {
+              "image_url": "-",
+              "label": "Innerwear & Thermals",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Briefs+%26+Boxers%2CPanties+%26+Bloomers%2CShorts%2CSlips+%26+Bralettes%2CVests&dFR%5BcategoryIds%5D%5B0%5D=9625%2C9626%2C9627%2C9624%2C9623&idx=enterprise_magento_en_sa_products",
+              "itemName": "INNERWEAR & THERMALS"
+            }
+          ],
+          "button": {
+            "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "Shop By Product",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/T-shirts.jpg",
+              "label": "T-Shirts",
+              "link": "/kids/clothing/topwear/t-shirts.html?q=Kids+Clothing+Topwear+T-shirts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Topwear+%2F%2F%2F+T-shirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "T-Shirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/CasualDresses.jpg",
+              "label": "Casual Dresses",
+              "link": "/kids/clothing/dresses/casual-dress.html?q=Kids+Clothing+Dresses+Casual+Dress&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Dresses+%2F%2F%2F+Casual+Dress&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Casual Dresses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/PartyDresses.jpg",
+              "label": "Party Dresses",
+              "link": "/kids/clothing/dresses/party-dress.html?q=Kids+Clothing+Dresses+Party+Dress&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Dresses+%2F%2F%2F+Party+Dress&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Party Dresses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Shorts.jpg",
+              "label": "Shorts",
+              "link": "/kids/clothing/bottomwear/shorts.html?q=Kids+Clothing+Bottomwear+Shorts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Bottomwear+%2F%2F%2F+Shorts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Shorts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/shirts.jpg",
+              "label": "Shirts",
+              "link": "/kids/clothing/topwear/shirts.html?q=Kids+Clothing+Topwear+Shirts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Topwear+%2F%2F%2F+Shirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Shirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Jeans.jpg",
+              "label": "Jeans",
+              "link": "/kids/clothing/bottomwear/jeans.html?q=Kids+Clothing+Bottomwear+Jeans&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Bottomwear+%2F%2F%2F+Jeans&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Jeans"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/TOPS.jpg",
+              "label": "Tops",
+              "link": "/kids/clothing/topwear/tops.html?q=Kids+Clothing+Topwear+Tops&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Topwear+%2F%2F%2F+Tops&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Tops"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Joggers.jpg",
+              "label": "Joggers",
+              "link": "/kids/clothing/bottomwear/joggers.html?q=Kids+Clothing+Bottomwear+Joggers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Bottomwear+%2F%2F%2F+Joggers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Joggers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Sweatshirt.jpg",
+              "label": "Sweatshirt",
+              "link": "/kids/clothing/winterwear-outerwear/sweatshirts.html?q=Kids+Clothing+Winterwear+%26+Outerwear+Sweatshirts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Winterwear+%26+Outerwear+%2F%2F%2F+Sweatshirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sweatshirt"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Socks+%26+Tights.jpg",
+              "label": "Socks & Tights",
+              "link": "/kids/kids-accessories/clothing-accessories1/socks-tights.html?q=Kids+Kids+Accessories+Clothing+Accessories+Socks+%26+Tights&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Clothing+Accessories+%2F%2F%2F+Socks+%26+Tights&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Socks & Tights"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Rompers.jpg",
+              "label": "Rompers",
+              "link": "/kids/clothing/onepieces-bodysuits/rompers.html?q=Kids+Clothing+Onepiece+%26+Bodysuits+Rompers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Onepiece+%26+Bodysuits+%2F%2F%2F+Rompers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Rompers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Leggings.jpg",
+              "label": "Leggings",
+              "link": "/kids/clothing/bottomwear/leggings.html?q=Kids+Clothing+Bottomwear+Leggings&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Bottomwear+%2F%2F%2F+Leggings&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Leggings"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Tops+%26+Shorts.jpg",
+              "label": "Top & Shorts",
+              "link": "/kids/clothing/sets/top-shorts.html?q=Kids+Clothing+Sets+Top+%26+Shorts&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Sets+%2F%2F%2F+Top+%26+Shorts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Top & Shorts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Tops+%26+Pants.jpg",
+              "label": "Tops & Pants",
+              "link": "/kids/clothing/sets/tops-pants.html?q=Kids+Clothing+Sets+Tops+%26+Pants&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Sets+%2F%2F%2F+Tops+%26+Pants&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Tops & Pants"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/ONSEIE.jpg",
+              "label": "Onesies",
+              "link": "/kids/clothing/onepieces-bodysuits/onesies.html?q=Kids+Clothing+Onepiece+%26+Bodysuits+Onesies&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Onepiece+%26+Bodysuits+%2F%2F%2F+Onesies&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Onesies"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Multi+pack_Value+pack.jpg",
+              "label": "Multi Pack/Value Pack",
+              "link": "/kids/clothing/sets/multi-pack.html?q=Kids+Clothing+Sets+Multi+pack%2FValue+packs&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Sets+%2F%2F%2F+Multi+pack%2FValue+packs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Multi Pack/Value Pack"
+            }
+          ],
+          "button": {
+            "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop By Product"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "bags",
+      "label": "Bags",
+      "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/BAGS+-+MAIN+IMAGE.jpg",
+          "description": "Essential Bags",
+          "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products"
+        },
+        {
+          "type": "slider",
+          "title": "Shop By Brand",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas&idx=enterprise_magento_en_sa_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly%20Hills%20Polo%20Club&idx=enterprise_magento_en_sa_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+              "label": "Levi's",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Levi's&idx=enterprise_magento_en_sa_products",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/herschel.jpg",
+              "label": "Herschel",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Herschel&idx=enterprise_magento_en_sa_products",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/J/Jansport.jpg",
+              "label": "Jansport",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Jansport&idx=enterprise_magento_en_sa_products",
+              "itemName": "Jansport"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+              "label": "CCC",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Austin+Reed+%40+CCC%2CCars+%40+CCC%2CCCC%2CJenny+Fairy+%40+CCC%2CLasocki+%40+CCC%2CMarvel+%40+CCC%2CMickey+%40+CCC%2CNelli+Blu+%40+CCC%2CSprandi+%40+CCC%2CSTAR+WARS+%40+CCC%2CStarwars+%40+CCC&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "CCC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/toms.jpg",
+              "label": "Toms",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Toms&idx=enterprise_magento_en_sa_products",
+              "itemName": "Toms"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "Shop By Category",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/bags-boys.jpg",
+              "label": "School Bags",
+              "link": "/kids/bags/school-bags.html?q=Kids+Bags+School+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "School Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Bags/Bags1/Women-bags/Tavel-bag.jpg",
+              "label": "Travel Bags",
+              "link": "/kids/bags/travel-bags.html?q=Kids+Bags+Travel+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+Travel+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Travel Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Handbags.jpg",
+              "label": "Hand Bags",
+              "link": "/kids/bags/hand-bags.html?q=Kids+Bags+Hand+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+Hand+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Hand Bags"
+            },
+            {
+              "image_url": "-",
+              "label": "Wallets",
+              "link": "/kids/bags/wallets.html?q=Kids+Bags+Wallets&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+Wallets&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "WALLETS"
+            }
+          ],
+          "button": {
+            "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop By Category"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "Shop By Product",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/backpacks.jpg",
+              "label": "Backpacks",
+              "link": "/kids/bags/school-bags/backpacks.html?q=Kids+Bags+School+Bags+Backpacks&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags+%2F%2F%2F+Backpacks&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Backpacks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/trolley+backpacks.jpg",
+              "label": "Trolley Backpack",
+              "link": "/kids/bags/school-bags/trolley-backpack.html?q=Kids+Bags+School+Bags+Trolley+Backpack&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags+%2F%2F%2F+Trolley+Backpack&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Trolley Backpack"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/trolley+backpack+set.jpg",
+              "label": "Trolley Backpack set",
+              "link": "/kids/bags/school-bags/trolley-backpack-set.html?q=Kids+Bags+School+Bags+Trolley+Backpack+Set&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags+%2F%2F%2F+Trolley+Backpack+Set&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Trolley Backpack set"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/lunch+bags.jpg",
+              "label": "Lunch Bags",
+              "link": "/kids/bags/school-bags/lunch-bags.html?q=Kids+Bags+School+Bags+Lunch+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags+%2F%2F%2F+Lunch+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Lunch Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/laptop+ba.jpg",
+              "label": "Laptop Bags",
+              "link": "/kids/bags/hand-bags/laptop-bag.html?q=Kids+Bags+Hand+Bags+Laptop+Bag&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+Hand+Bags+%2F%2F%2F+Laptop+Bag&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Laptop Bags"
+            }
+          ],
+          "button": {
+            "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop By Product"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "accessories",
+      "label": "Accessories",
+      "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACCESSORIES+-+MAIN+IMAGE.jpg",
+          "description": "Elevated Accessories",
+          "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly%20Hills%20Polo%20Club&idx=enterprise_magento_en_sa_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/herschel.jpg",
+              "label": "Herschel",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Herschel&idx=enterprise_magento_en_sa_products",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+BHD+AR/HEMA+LOGO+ENG-1.jpg",
+              "label": "Hema",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hema&idx=enterprise_magento_en_sa_products",
+              "itemName": "Hema"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+              "label": "CCC",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Action+Boy+%40+CCC%2CNelli+Blu+%40+CCC%2CShoe+Acc+%40+CCC%2CSprandi+%40+CCC%2CZAHA+%40+CCC%2CAccessories+%40+CCC&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "CCC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Crocs&idx=enterprise_magento_en_sa_products",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-06-2023-Kids/Brand+Logos/ASTRO.jpg",
+              "label": "Astro",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Astro&idx=enterprise_magento_en_sa_products",
+              "itemName": "Astro"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "Calvin Klein",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Ddaniela.jpg",
+              "label": "Ddaniela",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ddaniela&idx=enterprise_magento_en_sa_products",
+              "itemName": "Ddaniela"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Clothing%20Accessories.jpg",
+              "label": "Clothing Accessories",
+              "link": "/kids/kids-accessories/clothing-accessories1.html?q=Kids+Kids+Accessories+Clothing+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Clothing+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Clothing Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/09-09-2022/Mega+Menu/pending/Shoe+Accessories.png",
+              "label": "Shoe Accessories",
+              "link": "/kids/kids-accessories/shoe-accessories.html?q=Kids+Kids+Accessories+Shoe+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Shoe+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Shoe Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/School%20Supplies.jpg",
+              "label": "School Supplies",
+              "link": "/kids/kids-accessories/school-supplies.html?q=Kids+Kids+Accessories+School+Supplies&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+School+Supplies&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "School Supplies"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/WATCHES.jpg",
+              "label": "Watches",
+              "link": "/kids/kids-accessories/watches.html?q=Kids+Kids+Accessories+Watches&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Watches&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Watches"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/SUNGLASSES.jpg",
+              "label": "Sunglasses",
+              "link": "/kids/kids-accessories/sunglasses.html?q=Kids+Kids+Accessories+Sunglasses&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Sunglasses&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sunglasses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/HAIR+ACC.jpg",
+              "label": "Hair Accessories",
+              "link": "/kids/kids-accessories/hair-accessories.html?q=Kids+Kids+Accessories+Hair+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Hair+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Hair Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Travel%20Accessories.jpg",
+              "label": "Travel Accessories",
+              "link": "/kids/kids-accessories/travel-accessories.html?q=Kids+Kids+Accessories+Travel+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Travel+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Travel Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Party%20Essentials.jpg",
+              "label": "Party Essentials",
+              "link": "/kids/kids-accessories/party-essentials.html?q=Kids+Kids+Accessories+Party+Essentials&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Party+Essentials&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Party Essentials"
+            },
+            {
+              "image_url": "-",
+              "label": "Belts, Ties & Suspendors",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Belts%2CSuspenders%2CTie&dFR%5BcategoryIds%5D%5B0%5D=9646%2C9648%2C9647&idx=enterprise_magento_en_sa_products",
+              "itemName": "Belts, Ties & Suspendors"
+            }
+          ],
+          "button": {
+            "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "Shop By Product",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/sock+(1).jpg",
+              "label": "Socks & Tights",
+              "link": "/kids/kids-accessories/clothing-accessories1/socks-tights.html?q=Kids+Kids+Accessories+Clothing+Accessories+Socks+%26+Tights&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Clothing+Accessories+%2F%2F%2F+Socks+%26+Tights&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Socks & Tights"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/CAPS.jpg",
+              "label": "Caps & Mittens",
+              "link": "/kids/kids-accessories/clothing-accessories1/caps-mittens.html?q=Kids+Kids+Accessories+Clothing+Accessories+Caps+%26+Mittens&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Clothing+Accessories+%2F%2F%2F+Caps+%26+Mittens&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Caps & Mittens"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/stationary.jpg",
+              "label": "Stationery",
+              "link": "/kids/kids-accessories/school-supplies/stationery.html?q=Kids+Kids+Accessories+School+Supplies+STATIONERY&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+School+Supplies+%2F%2F%2F+STATIONERY&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Stationery"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/HAIR+BANDS.jpg",
+              "label": "Hair Bands",
+              "link": "/kids/kids-accessories/hair-accessories/hair-bands.html?q=Kids+Kids+Accessories+Hair+Accessories+Hair+Bands&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Hair+Accessories+%2F%2F%2F+Hair+Bands&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Hair Bands"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/headwear.jpg",
+              "label": "Headwear",
+              "link": "/kids/kids-accessories/hair-accessories/headwear.html?q=Kids+Kids+Accessories+Hair+Accessories+Headwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Hair+Accessories+%2F%2F%2F+Headwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Headwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/clips.jpg",
+              "label": "Hair Clips",
+              "link": "/kids/kids-accessories/hair-accessories/hair-clips.html?q=Kids+Kids+Accessories+Hair+Accessories+Hair+Clips&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Hair+Accessories+%2F%2F%2F+Hair+Clips&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Hair Clips"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/sunglass.jpg",
+              "label": "Sunshades",
+              "link": "/kids/kids-accessories/sunglasses/sunshades.html?q=Kids+Kids+Accessories+Sunglasses+Sunshades&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Sunglasses+%2F%2F%2F+Sunshades&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sunshades"
+            }
+          ],
+          "button": {
+            "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop By Product"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "toys",
+      "label": "Toys",
+      "link": "/kids/toys.html?q=Kids+TOYS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/TOYS+-+MAIN+IMAGE.jpg",
+          "description": "Playtime Toys",
+          "link": "/kids/toys.html?q=Kids+TOYS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/h/Hasbro.jpg",
+              "label": "Hasbro",
+              "link": "/kids/toys.html?q=Kids+TOYS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=CONNECT+4+%40+Hasbro%2CHasbro%2CMONOPOLY+%40+Hasbro%2CNERF+%40+Hasbro%2CPEPPA+PIG+%40+Hasbro%2CPJ+MASKS+%40+Hasbro%2CPLAY-DOH+%40+Hasbro%2CSPIDER-MAN+%40+Hasbro&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Hasbro"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Indoor.jpg",
+              "label": "Indoor",
+              "link": "/kids/toys/indoor.html?q=Kids+TOYS+Indoor&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Indoor&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Indoor"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Outdoor.jpg",
+              "label": "Outdoor",
+              "link": "/kids/toys/outdoor.html?q=Kids+TOYS+Outdoor&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Outdoor&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Outdoor"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Doll%20%26%20Accessories.jpg",
+              "label": "Doll & Accessories",
+              "link": "/kids/toys/doll-accessories.html?q=Kids+TOYS+Doll+%26+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Doll+%26+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Doll & Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Role%20Play%20And%20Costumes.jpg",
+              "label": "Role Play and Costumes",
+              "link": "/kids/toys/role-play-and-costumes.html?q=Kids+TOYS+Role+Play+And+Costumes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Role+Play+And+Costumes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Role Play And Costumes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Wheels.jpg",
+              "label": "Wheels",
+              "link": "/kids/toys/wheels.html?q=Kids+TOYS+Wheels&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Wheels&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Wheels"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Soft%20Toys.jpg",
+              "label": "Soft Toys",
+              "link": "/kids/toys/soft-toys.html?q=Kids+TOYS+Soft+Toys&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Soft+Toys&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Soft Toys"
+            }
+          ],
+          "button": {
+            "link": "/kids/toys.html?q=Kids+TOYS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "Shop By Product",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/indoor+games.jpg",
+              "label": "Indoor Games",
+              "link": "/kids/toys/indoor/indoor-games.html?q=Kids+TOYS+Indoor+INDOOR+GAMES&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Indoor+%2F%2F%2F+INDOOR+GAMES&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Indoor Games"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/ed+toys.jpg",
+              "label": "Educational Toys",
+              "link": "/kids/toys/indoor/educational-toys.html?q=Kids+TOYS+Indoor+Educational+Toys&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Indoor+%2F%2F%2F+Educational+Toys&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Educational Toys"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/TOYS/DOLLS.jpg",
+              "label": "Fashion Doll",
+              "link": "/kids/toys/doll-accessories/fashion-doll.html?q=Kids+TOYS+Doll+%26+Accessories+Fashion+Doll&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Doll+%26+Accessories+%2F%2F%2F+Fashion+Doll&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Fashion Doll"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/puzzle.jpg",
+              "label": "Blocks & Puzzles",
+              "link": "/kids/toys/indoor/blocks-puzzles.html?q=Kids+TOYS+Indoor+BLOCKS+%26+PUZZLES&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Indoor+%2F%2F%2F+BLOCKS+%26+PUZZLES&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Blocks & Puzzles"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/cast+wheels.jpg",
+              "label": "Die Cast Wheels",
+              "link": "/kids/toys/wheels/die-cast-wheels-sets.html?q=Kids+TOYS+Wheels+DIE+CAST+WHEELS+%26+SETS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Wheels+%2F%2F%2F+DIE+CAST+WHEELS+%26+SETS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Die cast Wheels"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/beach+toys.jpg",
+              "label": "Beach & Swim",
+              "link": "/kids/toys/outdoor/beach-swim.html?q=Kids+TOYS+Outdoor+BEACH+%26+SWIM&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Outdoor+%2F%2F%2F+BEACH+%26+SWIM&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Beach & Swim"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/remote+vehicles.jpg",
+              "label": "Remote Vehicle",
+              "link": "/kids/toys/wheels/remote-control-vehicles.html?q=Kids+TOYS+Wheels+REMOTE+CONTROL+VEHICLES&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Wheels+%2F%2F%2F+REMOTE+CONTROL+VEHICLES&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Remote Vehicle"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/babydoll.jpg",
+              "label": "Baby Dolls",
+              "link": "/kids/toys/doll-accessories.html?q=Kids+TOYS+Doll+%26+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Doll+%26+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Baby Dolls"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/kitchen.jpg",
+              "label": "Kitchen Role Play",
+              "link": "/kids/toys/role-play-and-costumes/kitchen-role-play.html?q=Kids+TOYS+Role+Play+And+Costumes+KITCHEN+ROLE+PLAY&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Role+Play+And+Costumes+%2F%2F%2F+KITCHEN+ROLE+PLAY&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Kitchen Role play"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/shooter.jpg",
+              "label": "Shooter",
+              "link": "/kids/toys/outdoor/shooter.html?q=Kids+TOYS+Outdoor+SHOOTER&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Outdoor+%2F%2F%2F+SHOOTER&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Shooter"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Toys+Mega+menu/Toys+Mega+menu/free+wheels.jpg",
+              "label": "Free Wheels",
+              "link": "/kids/toys/wheels/free-wheels.html?q=Kids+TOYS+Wheels+FREE+WHEELS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Wheels+%2F%2F%2F+FREE+WHEELS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Free Wheels"
+            }
+          ],
+          "button": {
+            "link": "/kids/toys.html?q=Kids+TOYS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop By Product"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "baby_essentials",
+      "label": "BABIES",
+      "link": "/kids/baby-essentials.html?q=Kids+Baby+Essentials&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/BABYESSENTIALS+-+MAIN+IMAGE.jpg",
+          "description": "Newborn Necessities",
+          "link": "/kids/baby-essentials.html?q=Kids+Baby+Essentials&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/12-09-2024-Kids/dummy.png",
+              "label": "Babies & More",
+              "link": "/catalogsearch/result/?q=Kids%2BBaby%2BEssentials&qid=6f20e0fff15e44dbe7943387a627cb9d&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=BABIES+%26+MORE&idx=enterprise_magento_en_sa_products",
+              "itemName": "Babies & More"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Baby%20Gear.jpg",
+              "label": "Baby Gear",
+              "link": "/kids/baby-essentials/baby-gear.html?q=Kids+Baby+Essentials+Baby+GEAR&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials+%2F%2F%2F+Baby+GEAR&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Baby Gear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Nursery.jpg",
+              "label": "Nursery",
+              "link": "/kids/baby-essentials/nursery.html?q=Kids+Baby+Essentials+Nursery&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials+%2F%2F%2F+Nursery&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Nursery"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Feeding.jpg",
+              "label": "Feeding",
+              "link": "/kids/baby-essentials/feeding.html?q=Kids+Baby+Essentials+Feeding&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials+%2F%2F%2F+Feeding&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Feeding"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Bath%20Time.jpg",
+              "label": "Bath Time",
+              "link": "/kids/baby-essentials/bath-time.html?q=Kids+Baby+Essentials+Bath+Time&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials+%2F%2F%2F+Bath+Time&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Bath Time"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Safety.jpg",
+              "label": "Safety",
+              "link": "/kids/baby-essentials/safety.html?q=Kids+Baby+Essentials+Safety&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials+%2F%2F%2F+Safety&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Safety"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Onepieces%20%26%20Body%20Suits.jpg",
+              "label": "Onepieces & Bodysuits",
+              "link": "/kids/clothing/onepiece-bodysuits.html?q=Kids+Clothing+Onepiece+%26+Bodysuits&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Onepiece+%26+Bodysuits&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Onepieces & Bodysuits"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/BOOTIES.jpg",
+              "label": "Booties",
+              "link": "/kids/footwear/booties.html?q=Kids+Footwear+Booties&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Booties&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Booties"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Indoor.jpg",
+              "label": "Indoor",
+              "link": "/kids/toys/indoor.html?q=Kids+TOYS+Indoor&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS+%2F%2F%2F+Indoor&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Indoor"
+            }
+          ],
+          "button": {
+            "link": "/kids/baby-essentials.html?q=Kids+Baby+Essentials&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "Shop By Product",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Baby+esssentials+Mega+menu/Baby+essentials+mega+menu/Strollers.jpg",
+              "label": "Strollers",
+              "link": "/kids/baby-essentials/baby-gear/strollers-travel-systems.html?q=Kids+Baby+Essentials+Baby+GEAR+Strollers+%26+Travel+Systems&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials+%2F%2F%2F+Baby+GEAR+%2F%2F%2F+Strollers+%26+Travel+Systems&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Strollers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CAR+SEATS.jpg",
+              "label": "Baby Car Seats",
+              "link": "/kids/baby-essentials/baby-gear/baby-car-seats.html?q=Kids+Baby+Essentials+Baby+GEAR+Baby+Car+Seats&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials+%2F%2F%2F+Baby+GEAR+%2F%2F%2F+Baby+Car+Seats&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Baby car seats"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Baby+esssentials+Mega+menu/Baby+essentials+mega+menu/High+Chairs+%26+Booster+seat.jpg",
+              "label": "High Chairs & Booster Seat",
+              "link": "/kids/baby-essentials/baby-gear/high-chairs-booster-seats.html?q=Kids+Baby+Essentials+Baby+GEAR+High+Chairs+%26+Booster+Seats&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials+%2F%2F%2F+Baby+GEAR+%2F%2F%2F+High+Chairs+%26+Booster+Seats&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "High Chairs & Booster seat"
+            }
+          ],
+          "button": {
+            "link": "/kids/baby-essentials.html?q=Kids+Baby+Essentials&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop By Product"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "back_to_school",
+      "label": "Back to School",
+      "link": "/back-to-school.html?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Back+to+School&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SCHOOLSUPPLIES-+MAIN+IMAGE.jpg",
+          "description": "Class Must-Haves",
+          "link": "/back-to-school.html?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Back+to+School&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "AEROPOSTALE",
+              "link": "/aeropostale.html?q=Aeropostale&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Aeropostale&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "AEROPOSTALE"
+            },
+            {
+              "image_url": "-",
+              "label": "BEVERLY HILLS POLO CLUB",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "HAVAIANAS",
+              "link": "/havaianas.html?q=HAVAIANAS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=HAVAIANAS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "HAVAIANAS"
+            },
+            {
+              "image_url": "-",
+              "label": "HERSCHEL",
+              "link": "/herschel.html?q=HERSCHEL&p=0&hFR%5Bcategories.level0%5D%5B0%5D=HERSCHEL&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "HERSCHEL"
+            },
+            {
+              "image_url": "-",
+              "label": "JANSPORT",
+              "link": "/jansport.html?q=Jansport&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Jansport&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "JANSPORT"
+            },
+            {
+              "image_url": "-",
+              "label": "LEVI'S",
+              "link": "/levis.html?q=Levi%27s&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Levi%27s&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "",
+              "itemName": "LEVI'S"
+            },
+            {
+              "image_url": "-",
+              "label": "MICHAEL KORS",
+              "link": "/michael-kors.html?q=Michael+Kors&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Michael+Kors&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "MICHAEL KORS"
+            },
+            {
+              "image_url": "-",
+              "label": "NIKE",
+              "link": "/nike.html?q=Nike&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "NIKE"
+            },
+            {
+              "image_url": "-",
+              "label": "POLO RALPH LAUREN",
+              "link": "/polo-ralph-lauren.html?q=Polo+Ralph+Lauren&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Polo+Ralph+Lauren&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "POLO RALPH LAUREN"
+            },
+            {
+              "image_url": "-",
+              "label": "PUMA",
+              "link": "/puma.html?q=Puma&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Puma&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "PUMA"
+            },
+            {
+              "image_url": "-",
+              "label": "R&B",
+              "link": "/r-b.html?q=R%26B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=R%26B&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "-",
+              "label": "SKECHERS",
+              "link": "/skechers.html?q=Skechers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "SKECHERS"
+            },
+            {
+              "image_url": "-",
+              "label": "TOMMY HILFIGER",
+              "link": "/tommy-hilfiger.html?q=Tommy+Hilfiger&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tommy+Hilfiger&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "WILDCRAFT",
+              "link": "/catalogsearch/result/?q=wildcraft&qid=5fac6dfb40c5294473448a3293555c42&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Wildcraft&idx=enterprise_magento_en_sa_products",
+              "itemName": "WILDCRAFT"
+            },
+            {
+              "image_url": "-",
+              "label": "ADIDAS",
+              "link": "/adidas.html?q=Adidas&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "ADIDAS"
+            },
+            {
+              "image_url": "-",
+              "label": "CROCS",
+              "link": "/crocs.html?q=Crocs&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "itemName": "CROCS"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/Backpacks_.jpg",
+              "label": "Bags",
+              "link": "/kids/bags/school-bags.html?q=Kids+Bags+School+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/BLACKNWHITE.jpg",
+              "label": "Shoes",
+              "link": "/catalogsearch/result/?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Back+to+School&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9776%2C9540%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9552%2C9553%2C9775%2C9774%2C9539&idx=enterprise_magento_en_sa_products",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/LUNCH.jpg",
+              "label": "Lunchtime Essentials",
+              "link": "/catalogsearch/result/?q=%2B&qid=212149d651290a052618b6b3261c4999&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Lunch+Bag+Set%2CLunch+Bags%2CLUNCH+BOXES%2CWATER+BOTTLES&dFR%5BcategoryIds%5D%5B0%5D=10125%2C10124%2C9691%2C9690&idx=enterprise_magento_en_sa_products",
+              "itemName": "Lunchtime Essentials"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/CLOTHING.jpg",
+              "label": "Clothing",
+              "link": "/catalogsearch/result/?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Back+to+School&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9597%2C9608%2C9595%2C9601%2C9600%2C9594%2C9596%2C9603%2C9571%2C9565%2C9570%2C9563%2C9569%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C9628%2C9631%2C9592%2C9591%2C9590%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614%2C109%2C6046%2C113%2C115%2C15852&idx=enterprise_magento_en_sa_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/STATIONARY.jpg",
+              "label": "Stationery",
+              "link": "/catalogsearch/result/?q=%2B&qid=0937f6559f4929cc5265c11db66d37f1&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9693%2C9692%2C9915%2C9689&idx=enterprise_magento_en_sa_products",
+              "itemName": "Stationary"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/ACCESSORIES.jpg",
+              "label": "Accessories",
+              "link": "/kids/kids-accessories/school-supplies.html?q=Kids+Kids+Accessories+School+Supplies&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+School+Supplies&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Accessories"
+            }
+          ],
+          "button": {
+            "link": "/back-to-school.html?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Back+to+School&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "Shop By Product",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/backpack.jpg",
+              "label": "Backpack",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Backpacks&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Backpack"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/sneakerrs.jpg",
+              "label": "Sneakers",
+              "link": "/kids/footwear/sneakers.html?q=Kids+Footwear+Sneakers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sneakers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/b_w+shoes.jpg",
+              "label": "Black & White Shoes",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=High+Top%2CLow+Top%2CCASUAL+SLIP-ONS%2CRUNNING+%26+TRAINING%2CLoafers&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcolorfamily%5D%5B0%5D=Black%2CWhite&idx=enterprise_magento_en_sa_products",
+              "itemName": "Black & White Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/backpacksets.jpg",
+              "label": "Backpack Sets",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Backpack+Set&idx=enterprise_magento_en_sa_products",
+              "itemName": "Backpack Set"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/lunchbag.jpg",
+              "label": "Lunch Bag",
+              "link": "/kids/bags/school-bags/lunch-bags.html?q=Kids+Bags+School+Bags+Lunch+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags+%2F%2F%2F+Lunch+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Lunch Bag"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/art%26craft.jpg",
+              "label": "Art & Craft",
+              "link": "/kids/kids-accessories/school-supplies/art-craft.html?q=Kids+Kids+Accessories+School+Supplies+Art+%26+CRAFT&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+School+Supplies+%2F%2F%2F+Art+%26+CRAFT&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Art & Craft"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/socks.jpg",
+              "label": "Socks",
+              "link": "/kids/kids-accessories/clothing-accessories1/socks-tights.html?q=Kids+Kids+Accessories+Clothing+Accessories+Socks+%26+Tights&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Clothing+Accessories+%2F%2F%2F+Socks+%26+Tights&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Socks+%26+Tights&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Socks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/belts.jpg",
+              "label": "Belt & Tie",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Belts%2CBelts%2CTie&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Belt & Tie"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/caps.jpg",
+              "label": "Caps",
+              "link": "/kids/kids-accessories/clothing-accessories1/caps-mittens.html?q=Kids+Kids+Accessories+Clothing+Accessories+Caps+%26+Mittens&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Clothing+Accessories+%2F%2F%2F+Caps+%26+Mittens&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Caps+%26+Mittens&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Caps"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/hairaccessories.jpg",
+              "label": "Hair Accessories",
+              "link": "/kids/kids-accessories/hair-accessories.html?q=Kids+Kids+Accessories+Hair+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories+%2F%2F%2F+Hair+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Hair Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/trollybag.jpg",
+              "label": "Trolly Bags",
+              "link": "/kids/bags/school-bags/trolley-backpack.html?q=Kids+Bags+School+Bags+Trolley+Backpack&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags+%2F%2F%2F+Trolley+Backpack&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Trolly Bag"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/trollybagset.jpg",
+              "label": "Trolly Bag Set",
+              "link": "/kids/bags/school-bags/trolley-backpack-set.html?q=Kids+Bags+School+Bags+Trolley+Backpack+Set&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags+%2F%2F%2F+School+Bags+%2F%2F%2F+Trolley+Backpack+Set&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Trolly Bag Set"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/sport+shoes.jpg",
+              "label": "Sports Shoes",
+              "link": "/kids/footwear/sports-shoes.html?q=Kids+Footwear+Sports+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Sports+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sports Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/sportswear.jpg",
+              "label": "Sportswear",
+              "link": "/sportswear.html?q=Sportswear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Sportswear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/joggers.jpg",
+              "label": "Chinos & Joggers",
+              "link": "/kids/clothing/bottomwear/joggers.html?q=Kids+Clothing+Bottomwear+Joggers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Bottomwear+%2F%2F%2F+Joggers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Chinos & Joggers"
+            }
+          ],
+          "button": {
+            "link": "/back-to-school.html?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Back+to+School&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop By Product"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "sale",
+      "label": "SALE",
+      "link": "/catalogsearch/result/?q=%2B&qid=0b835bcd93f6aa437ea05a10276a3799&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#d12229",
+        "text_color": "#d12229"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE+-+MAIN+IMAGE.jpg",
+          "description": "Price Drops",
+          "link": "/catalogsearch/result/?q=%2B&qid=0b835bcd93f6aa437ea05a10276a3799&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_en_sa_products"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/catalogsearch/result/?q=Adidas&qid=69e3ec1424f6ed98da34df134a8ebb69&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/catalogsearch/result/?q=beverly+hills+polo+club&qid=c98bf8bea3db4128ab9ca0e762f1a54d&p=0&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+              "label": "Levi's",
+              "link": "/catalogsearch/result/?q=Levis&qid=c417a914b35ddd56f4025beef3ca8a65&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s%2CLevi%27s+Kids&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/catalogsearch/result/?q=Skechers&qid=7e7cafda2aee2e0da72f64e5747ee858&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Michael+Kors.jpg",
+              "label": "Michael Kors",
+              "link": "/catalogsearch/result/?q=Michael+Kors&qid=66c2f0cd8f58e7619e8911d96cff5c53&p=0&dFR%5Bbrand_name%5D%5B0%5D=Michael+Kors&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/catalogsearch/result/?q=Crocs&qid=1f5b65cb0223af523f8a8cf81e4b54fb&p=0&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/P+Logos/Polo+Ralph+Lauren.jpg",
+              "label": "Polo Ralph Lauren",
+              "link": "/catalogsearch/result/?q=Polo+Ralph+Lauren&qid=c31b1c4fec8847c376cc4309cee32c7a&p=0&dFR%5Bbrand_name%5D%5B0%5D=Polo+Ralph+Lauren&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Polo Ralph Lauren"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=25cba1d36f2c16821bb93fc21e572f1d&p=0&dFR%5Bsort%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+              "label": "Nike",
+              "link": "/catalogsearch/result/?q=Nike&qid=dd6535e58733eaa65cc2e2e9a9a5ff4a&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Nike&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/neon.jpg",
+              "label": "Neon",
+              "link": "/catalogsearch/result/?q=Neon&qid=7f054d2aa6b59e6e756c9ab44bb08341&p=0&dFR%5Bbrand_name%5D%5B0%5D=Neon&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Neon"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=25cba1d36f2c16821bb93fc21e572f1d&p=0&dFR%5Bsort%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "Calvin Klein",
+              "link": "/catalogsearch/result/?q=Calvin+Klein&qid=1d09146fa3837696141594ee8619d56c&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Calvin Klein"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/FOOTWEAR.jpg",
+              "label": "Footwear",
+              "link": "/kids/footwear.html?q=Kids+Footwear&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Footwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/CLOTHING.jpg",
+              "label": "Clothing",
+              "link": "/kids/clothing.html?q=Kids+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/ACCESSORIES.jpg",
+              "label": "Accessories",
+              "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/BAGS.jpg",
+              "label": "Bags",
+              "link": "/kids/bags.html?q=Kids+Bags&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/TOYS.jpg",
+              "label": "Toys",
+              "link": "/kids/toys.html?q=Kids+TOYS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+TOYS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "Toys"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/BABY+ESSENTIALS.jpg",
+              "label": "Baby Essentials",
+              "link": "/kids/baby-essentials.html?q=Kids+Baby+Essentials&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Baby+Essentials&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "itemName": "Baby Essentials"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/SCHOOL+SUPPLIES.jpg",
+              "label": "School Supplies",
+              "link": "/bts-tag-1.html?q=School%20Supplies&p=0&hFR[categories.level0][0]=School%20Supplies&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_en_sa_products",
+              "itemName": "School Supplies"
+            }
+          ],
+          "button": {
+            "link": "/kids/outlet.html?q=Kids&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+            "plp_title": "SHOP BY CATEGORY"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

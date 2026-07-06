@@ -1,0 +1,66 @@
+{
+  "women": [
+    {
+      "label": "#Inglot",
+      "link": "/inglot.html#q=Inglot&idx=enterprise_magento_en_qa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Inglot&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Rituals",
+      "link": "/rituals.html#q=Rituals&idx=enterprise_magento_en_qa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Rituals&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#New in",
+      "link": "/women/new-in.html#q=Women%20New%20In&idx=enterprise_magento_en_kw_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20New%20In&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Exclusive",
+      "link": "/women-exclusive.html#q=Women%20Exclusive&idx=enterprise_magento_en_kw_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20Exclusive&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Beauty",
+      "link": "/women/beauty.html#q=Women%20Beauty&idx=enterprise_magento_en_kw_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Beauty&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#BTS",
+      "link": "/school-ready-all.html#q=School%20Ready%20All&idx=enterprise_magento_en_kw_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=School%20Ready%20All&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#School Shoes",
+      "link": "/school-shoes.html#q=School%20Shoes&idx=enterprise_magento_en_kw_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=School%20Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Backpacks",
+      "link": "/kids-back-to-school-backpacks.html#q=Kids%20Back%20to%20School%20Backpacks&idx=enterprise_magento_en_kw_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids%20Back%20to%20School%20Backpacks&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Sandals",
+      "link": "/men/shoes/sandals.html#q=Men%20Shoes%20Sandals&idx=enterprise_magento_en_kw_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Sandals&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#T-shirts",
+      "link": "/men/clothing/t-shirts.html#q=Men%20Clothing%20T%20Shirts&idx=enterprise_magento_en_kw_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men%20%2F%2F%2F%20Clothing%20%2F%2F%2F%20T%20Shirts&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    }
+  ],
+  "men": [
+    {
+      "label": "#Nike"
+    },
+    {
+      "label": "#Puma"
+    },
+    {
+      "label": "#New in"
+    }
+  ],
+  "kids": [
+    {
+      "label": "#Adidas"
+    },
+    {
+      "label": "#Shoes"
+    },
+    {
+      "label": "#New in"
+    }
+  ]
+}

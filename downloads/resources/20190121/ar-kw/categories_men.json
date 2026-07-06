@@ -1,0 +1,1419 @@
+{
+  "data": [
+    {
+      "key": "new_in",
+      "label": "وصلنا حديثاً",
+      "link": "https://ar-ae.6thstreet.com/catalogsearch/result/?q=%2B&qid=b83168d14691c13c06bcd5fd45ed77e1&p=0&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&facetFilters=%5B\"promotion_tags.top%3Aجديدنا\"%5D",
+      "design": {
+        "background_color": "#cbb479",
+        "text_color": "#cbb479"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/9-12-24+NEW/Mega-New-in.jpg",
+          "description": "وصل حديثاَ",
+          "link": "/catalogsearch/result/?q=%2B&qid=b83168d14691c13c06bcd5fd45ed77e1&p=0&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&facetFilters=%5B\"promotion_tags.top%3Aجديدنا\"%5D"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/ShoeNewin.jpg",
+              "label": "أحذية",
+              "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/New+IN+Bags.jpg",
+              "label": "حقائب",
+              "link": "/men/bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/clothing-NewIn.jpg",
+              "label": "ملابس",
+              "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Accessories.jpg",
+              "label": "إكسسوارات",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Sports.jpg",
+              "label": "رياضة",
+              "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Sports"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming.jpg",
+              "label": "العناية بالبشرة",
+              "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1%2C1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Grooming"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Shoecare.jpg",
+              "label": "منتجات العناية بالأحذية",
+              "link": "/shoe-care.html?q=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Shoe Care"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium.jpg",
+              "label": "بريميوم",
+              "link": "/catalogsearch/result/?q=+&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D9%8A%D8%B3%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Premium"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "بوهو مان",
+              "link": "/boohooman.html?q=%D8%A8%D9%88%D9%87%D9%88+%D9%85%D8%A7%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%87%D9%88+%D9%85%D8%A7%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BOOHOOMAN"
+            },
+            {
+              "image_url": "-",
+              "label": "ألدو",
+              "link": "/aldo.html?q=%D8%A3%D9%84%D8%AF%D9%88&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "ALDO"
+            },
+            {
+              "image_url": "-",
+              "label": "تومي هيلفيغر",
+              "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "كالفين كلاين",
+              "link": "/calvin-klein.html?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "-",
+              "label": "كول ات سبرنج",
+              "link": "/spring.html?q=%D9%83%D9%88%D9%84+%D8%A7%D8%AA+%D8%B3%D8%A8%D8%B1%D9%86%D8%AC&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D9%88%D9%84+%D8%A7%D8%AA+%D8%B3%D8%A8%D8%B1%D9%86%D8%AC&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "CALL IT SPRING"
+            },
+            {
+              "image_url": "-",
+              "label": "أر آند بي",
+              "link": "/r-b.html?q=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "-",
+              "label": "اسيكس",
+              "link": "/asics.html?q=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "ASICS"
+            },
+            {
+              "image_url": "-",
+              "label": "راي بان",
+              "link": "/ray-ban.html?q=%D8%B1%D8%A7%D9%8A+%D8%A8%D8%A7%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%A7%D9%8A+%D8%A8%D8%A7%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "RAY BAN"
+            },
+            {
+              "image_url": "-",
+              "label": "كالفن كلاين جينز",
+              "link": "/calvin-klein-jeans.html?q=%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D8%AC%D9%8A%D9%86%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D8%AC%D9%8A%D9%86%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "CALVIN KLEIN JEANS"
+            },
+            {
+              "image_url": "-",
+              "label": "كروكس",
+              "link": "/crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "CROCS"
+            },
+            {
+              "image_url": "-",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "هيرشل",
+              "link": "/herschel/.html?q=%D9%87%D9%8A%D8%B1%D8%B4%D9%8A%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%8A%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "HERSCHEL"
+            }
+          ],
+          "button": {
+            "link": "/men/new-in.html?q=%EF%BA%AE%EF%BA%9F%EF%BA%8E%EF%BB%9F&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%EF%BA%AE%EF%BA%9F%EF%BA%8E%EF%BB%9F&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الماركة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "shoes",
+      "label": "أحذية",
+      "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Shoes++mens+copy.jpg",
+          "description": "خطوات أنيقة أينما ذهبت",
+          "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "سكيتشرز",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&idx=enterprise_magento_ar_kw_products",
+              "itemName": "SKECHERS"
+            },
+            {
+              "image_url": "-",
+              "label": "هوكا",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%88%D9%83%D8%A7&idx=enterprise_magento_ar_kw_products",
+              "itemName": "HOKA"
+            },
+            {
+              "image_url": "-",
+              "label": "بيركنستوك",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D8%B1%D9%83%D9%86%D8%B3%D8%AA%D9%88%D9%83&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BIRKENSTOCK"
+            },
+            {
+              "image_url": "-",
+              "label": "ستيف مادن",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B3%D8%AA%D9%8A%D9%81+%D9%85%D8%A7%D8%AF%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "STEVE MADDEN"
+            },
+            {
+              "image_url": "-",
+              "label": "اسيكس",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&idx=enterprise_magento_ar_kw_products",
+              "itemName": "ASICS"
+            },
+            {
+              "image_url": "-",
+              "label": "اديداس",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=e577fbbeccdbe954e9fd3185117360e5&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&idx=enterprise_magento_ar_kw_products",
+              "itemName": "ADIDAS"
+            },
+            {
+              "image_url": "-",
+              "label": "ألدو",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88&idx=enterprise_magento_ar_kw_products",
+              "itemName": "ALDO"
+            },
+            {
+              "image_url": "-",
+              "label": "كروكس",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&idx=enterprise_magento_ar_kw_products",
+              "itemName": "CROCS"
+            },
+            {
+              "image_url": "-",
+              "label": "نايك",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83&idx=enterprise_magento_ar_kw_products",
+              "itemName": "NIKE"
+            },
+            {
+              "image_url": "-",
+              "label": "تومي هيلفيغر",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "هاي دود",
+              "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D8%A7%D9%8A+%D8%AF%D9%88%D8%AF&idx=enterprise_magento_ar_kw_products",
+              "itemName": "HEY DUDE"
+            },
+            {
+              "image_url": "-",
+              "label": "كالفين كلاين",
+              "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "-",
+              "label": "تومز",
+              "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D8%B2&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Toms"
+            },
+            {
+              "image_url": "-",
+              "label": "هاش بابيز",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D8%A7%D8%B4+%D8%A8%D8%A7%D8%A8%D9%8A%D8%B2&idx=enterprise_magento_ar_kw_products",
+              "itemName": "HUSH PUPPIES"
+            },
+            {
+              "image_url": "-",
+              "label": "اون",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%88%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "ON"
+            },
+            {
+              "image_url": "-",
+              "label": "أر آند بي",
+              "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&idx=enterprise_magento_ar_kw_products",
+              "itemName": "R&B"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "أحذية رياضية",
+              "link": "/men/shoes/sports-shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-SPORTS SHOES",
+              "itemName": "SPORTS SHOES"
+            },
+            {
+              "image_url": "-",
+              "label": "سنيكرز",
+              "link": "/men/shoes/sneakers.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%86%D9%8A%D9%83%D8%B1%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%86%D9%8A%D9%83%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-SNEAKERS",
+              "itemName": "SNEAKERS"
+            },
+            {
+              "image_url": "-",
+              "label": "أحذيّة رسميّة",
+              "link": "/men/shoes/formal-shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-FORMAL SHOES",
+              "itemName": "FORMAL SHOES"
+            },
+            {
+              "image_url": "-",
+              "label": "أحذية سهلة الارتداء",
+              "link": "/men/shoes/slip-ons.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%87%D9%84%D8%A9+%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D8%AF%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%87%D9%84%D8%A9+%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D8%AF%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-SLIP-ONS",
+              "itemName": "SLIP-ONS"
+            },
+            {
+              "image_url": "-",
+              "label": "صنادل",
+              "link": "/men/shoes/sandals.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-SANDALS",
+              "itemName": "SANDALS"
+            },
+            {
+              "image_url": "-",
+              "label": "لوفرز",
+              "link": "/men/shoes/loafers-mocassins.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%84%D9%88%D9%81%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%84%D9%88%D9%81%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-LOAFERS & MOCASSINS",
+              "itemName": "LOAFERS & MOCASSINS"
+            },
+            {
+              "image_url": "-",
+              "label": "شباشب وفليب فلوب",
+              "link": "/men/shoes/flip-flops-and-slides.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-FLIP FLOPS AND SLIDES",
+              "itemName": "FLIP FLOPS AND SLIDES"
+            },
+            {
+              "image_url": "-",
+              "label": "أحذيّة مفتوحة من الخلف",
+              "link": "/men/shoes/clogs.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D9%84%D9%88%D8%BA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D9%83%D9%84%D9%88%D8%BA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-CLOGS",
+              "itemName": "CLOGS"
+            },
+            {
+              "image_url": "-",
+              "label": "أبوات",
+              "link": "/men/shoes/boots.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%A8%D9%88%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%A8%D9%88%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Footwear-SBC-Men-AR-BOOTS",
+              "itemName": "BOOTS"
+            },
+            {
+              "image_url": "-",
+              "label": "اكسسوارات أحذية",
+              "link": "/men/shoes/shoe-accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "SHOES ACCESSORIES"
+            }
+          ],
+          "button": {
+            "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "clothing",
+      "label": "ملابس",
+      "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Clothing_mens.jpg",
+          "description": "أحدث صيحات الأزياء",
+          "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "اٍل سي واي كيكي",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&idx=enterprise_magento_ar_kw_products",
+              "itemName": "LC WAIKIKI"
+            },
+            {
+              "image_url": "-",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "ليفايز",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&idx=enterprise_magento_ar_kw_products",
+              "itemName": "LEVI'S"
+            },
+            {
+              "image_url": "-",
+              "label": "بوهو مان",
+              "link": "/boohooman.html?q=%D8%A8%D9%88%D9%87%D9%88+%D9%85%D8%A7%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%87%D9%88+%D9%85%D8%A7%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=2843%2C14488%2C18979%2C18980%2C15821%2C15822%2C15823%2C15804%2C15805%2C15836%2C15840%2C15841%2C15834%2C15837%2C15839%2C15838%2C19263%2C105%2C15866%2C15868%2C15869%2C15865%2C15867%2C107%2C15860%2C15863%2C15859%2C15864%2C15862%2C15861%2C108%2C15818%2C19266%2C109%2C15511%2C15833%2C15832%2C15830%2C15831%2C19294%2C6046%2C15846%2C15845%2C6101%2C19179%2C19295%2C15856%2C19180%2C15857%2C6215%2C10117%2C10347%2C10344%2C10346%2C10115%2C15766%2C11554%2C10342%2C15762%2C10114%2C110%2C19261%2C19262%2C15842%2C15844%2C15843%2C112%2C10401%2C19275%2C10351%2C10400%2C19274%2C113%2C15871%2C15870%2C115%2C15850%2C15851%2C15854%2C15852%2C15853&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BOOHOOMAN"
+            },
+            {
+              "image_url": "-",
+              "label": "باربور",
+              "link": "/barbour.html?q=%D8%A8%D8%A7%D8%B1%D8%A8%D9%88%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D8%A7%D8%B1%D8%A8%D9%88%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5BcategoryIds%5D%5B0%5D=2843%2C14488%2C18979%2C18980%2C15821%2C15822%2C15823%2C15804%2C15805%2C15836%2C15840%2C15841%2C15834%2C15837%2C15839%2C15838%2C19263%2C105%2C15866%2C15868%2C15869%2C15865%2C15867%2C107%2C15860%2C15863%2C15859%2C15864%2C15862%2C15861%2C108%2C15818%2C19266%2C109%2C15511%2C15833%2C15832%2C15830%2C15831%2C19294%2C6046%2C15846%2C15845%2C6101%2C19179%2C19295%2C15856%2C19180%2C15857%2C6215%2C10117%2C10347%2C10344%2C10346%2C10115%2C15766%2C11554%2C10342%2C15762%2C10114%2C110%2C19261%2C19262%2C15842%2C15844%2C15843%2C112%2C10401%2C19275%2C10351%2C10400%2C19274%2C113%2C15871%2C15870%2C115%2C15850%2C15851%2C15854%2C15852%2C15853&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BARBOUR"
+            },
+            {
+              "image_url": "-",
+              "label": "تومي هيلفيغر",
+              "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5BcategoryIds%5D%5B0%5D=2843%2C14488%2C18979%2C18980%2C15821%2C15822%2C15823%2C15804%2C15805%2C15836%2C15840%2C15841%2C15834%2C15837%2C15839%2C15838%2C19263%2C105%2C15866%2C15868%2C15869%2C15865%2C15867%2C107%2C15860%2C15863%2C15859%2C15864%2C15862%2C15861%2C108%2C15818%2C19266%2C109%2C15511%2C15833%2C15832%2C15830%2C15831%2C19294%2C6046%2C15846%2C15845%2C6101%2C19179%2C19295%2C15856%2C19180%2C15857%2C6215%2C10117%2C10347%2C10344%2C10346%2C10115%2C15766%2C11554%2C10342%2C15762%2C10114%2C110%2C19261%2C19262%2C15842%2C15844%2C15843%2C112%2C10401%2C19275%2C10351%2C10400%2C19274%2C113%2C15871%2C15870%2C115%2C15850%2C15851%2C15854%2C15852%2C15853&idx=enterprise_magento_ar_kw_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "أر آند بي",
+              "link": "/r-b.html?q=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5BcategoryIds%5D%5B0%5D=2843%2C14488%2C18979%2C18980%2C15821%2C15822%2C15823%2C15804%2C15805%2C15836%2C15840%2C15841%2C15834%2C15837%2C15839%2C15838%2C19263%2C105%2C15866%2C15868%2C15869%2C15865%2C15867%2C107%2C15860%2C15863%2C15859%2C15864%2C15862%2C15861%2C108%2C15818%2C19266%2C109%2C15511%2C15833%2C15832%2C15830%2C15831%2C19294%2C6046%2C15846%2C15845%2C6101%2C19179%2C19295%2C15856%2C19180%2C15857%2C6215%2C10117%2C10347%2C10344%2C10346%2C10115%2C15766%2C11554%2C10342%2C15762%2C10114%2C110%2C19261%2C19262%2C15842%2C15844%2C15843%2C112%2C10401%2C19275%2C10351%2C10400%2C19274%2C113%2C15871%2C15870%2C115%2C15850%2C15851%2C15854%2C15852%2C15853&idx=enterprise_magento_ar_kw_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "-",
+              "label": "F5",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84%2B%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=4d771660534959716c026df93cfa12bc&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=F5&idx=enterprise_magento_ar_kw_products",
+              "itemName": "F5"
+            },
+            {
+              "image_url": "-",
+              "label": "ماين",
+              "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%85%D8%A7%D9%8A%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Maine"
+            },
+            {
+              "image_url": "-",
+              "label": "بورتون",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D8%B1%D8%AA%D9%88%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BURTON"
+            },
+            {
+              "image_url": "-",
+              "label": "كالفين كلاين",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D8%AC%D9%8A%D9%86%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "-",
+              "label": "ايروبوستال",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84%2B%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=4d771660534959716c026df93cfa12bc&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "aeropostale"
+            },
+            {
+              "image_url": "-",
+              "label": "أميريكان أيغل",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%85%D9%8A%D8%B1%D9%8A%D9%83%D8%A7%D9%86+%D8%A3%D9%8A%D8%BA%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "AMERICAN EAGLE"
+            },
+            {
+              "image_url": "-",
+              "label": "سبرينجفيلد",
+              "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B3%D8%A8%D8%B1%D9%8A%D9%86%D8%AC%D9%81%D9%8A%D9%84%D8%AF&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Springfield"
+            },
+            {
+              "image_url": "-",
+              "label": "اديداس",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84%2B%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=4d771660534959716c026df93cfa12bc&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&idx=enterprise_magento_ar_kw_products",
+              "itemName": "ADIDAS"
+            },
+            {
+              "image_url": "-",
+              "label": "هوغو",
+              "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%88%D8%BA%D9%88&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Hugo"
+            },
+            {
+              "image_url": "-",
+              "label": "نايك",
+              "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83&idx=enterprise_magento_ar_kw_products",
+              "itemName": "NIKE"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "تيشيرتات",
+              "link": "/men/clothing/t-shirts.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AA%D9%8A%D8%B4%D8%B1%D8%AA%D8%A7%D8%AA+%D9%88%D8%A8%D9%84%D8%A7%D9%8A%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AA%D9%8A%D8%B4%D8%B1%D8%AA%D8%A7%D8%AA+%D9%88%D8%A8%D9%84%D8%A7%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-T-SHIRTS",
+              "itemName": "T-SHIRTS"
+            },
+            {
+              "image_url": "-",
+              "label": "قمصان",
+              "link": "/men/clothing/shirts.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D9%85%D8%B5%D8%A7%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%82%D9%85%D8%B5%D8%A7%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-SHIRTS",
+              "itemName": "SHIRTS"
+            },
+            {
+              "image_url": "-",
+              "label": "جينز",
+              "link": "/men/clothing/jeans.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84+%D8%AC%D9%8A%D9%86%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84+%D8%AC%D9%8A%D9%86%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-JEANS",
+              "itemName": "JEANS"
+            },
+            {
+              "image_url": "-",
+              "label": "بنطلونات",
+              "link": "/men/clothing/pants-chinos.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A8%D9%86%D8%B7%D9%84%D9%88%D9%86%D8%A7%D8%AA+%D9%88+%D8%AA%D8%B4%D9%8A%D9%86%D9%88+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A8%D9%86%D8%B7%D9%84%D9%88%D9%86%D8%A7%D8%AA+%D9%88+%D8%AA%D8%B4%D9%8A%D9%86%D9%88+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5BcategoryIds%5D%5B0%5D=15860%2C15863%2C15859%2C15862&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-PANTS & CHINOS",
+              "itemName": "PANTS & CHINOS"
+            },
+            {
+              "image_url": "-",
+              "label": "رياضة",
+              "link": "/catalogsearch/result/?q=%2B&qid=3a108214367acfd496bc0b3df52755e8&p=0&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5BcategoryIds%5D%5B0%5D=10117%2C10347%2C10344%2C10346%2C10115%2C15766%2C10348%2C11554%2C10342%2C15762%2C10114%2C10349%2C10285%2C10284%2C19135%2C10286%2C19136%2C19134&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-SPORTSWEAR",
+              "itemName": "SPORTSWEAR"
+            },
+            {
+              "image_url": "-",
+              "label": "شورتات",
+              "link": "/men/clothing/shorts.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-SHORTS",
+              "itemName": "SHORTS"
+            },
+            {
+              "image_url": "-",
+              "label": "ملابس داخلية",
+              "link": "/men/clothing/vest-and-underwear.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9+%D9%88%D9%81%D8%A7%D9%86%D9%8A%D9%84%D8%A7%D8%AA+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9+%D9%88%D9%81%D8%A7%D9%86%D9%8A%D9%84%D8%A7%D8%AA+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-VEST & UNDERWEAR",
+              "itemName": "VEST & UNDERWEAR"
+            },
+            {
+              "image_url": "-",
+              "label": "جاكيتات",
+              "link": "/men/clothing/jackets-and-coats.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AC%D8%A7%D9%83%D9%8A%D8%AA%D8%A7%D8%AA+%D9%88+%D9%85%D8%B9%D8%A7%D8%B7%D9%81&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AC%D8%A7%D9%83%D9%8A%D8%AA%D8%A7%D8%AA+%D9%88+%D9%85%D8%B9%D8%A7%D8%B7%D9%81&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-JACKETS & COATS",
+              "itemName": "JACKETS & COATS"
+            },
+            {
+              "image_url": "-",
+              "label": "كنزات",
+              "link": "/men/clothing/hoodies-sweatshirts.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%87%D9%88%D8%AF%D9%8A+%D9%88+%D8%B3%D9%88%D9%8A%D8%AA%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%87%D9%88%D8%AF%D9%8A+%D9%88+%D8%B3%D9%88%D9%8A%D8%AA%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-HOODIES & SWEATSHIRTS",
+              "itemName": "HOODIES & SWEATSHIRTS"
+            },
+            {
+              "image_url": "-",
+              "label": "ملابس نوم",
+              "link": "/men/clothing/sleepwear.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D9%86%D9%88%D9%85+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D9%86%D9%88%D9%85+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-SLEEPWEAR",
+              "itemName": "SLEEPWEAR"
+            },
+            {
+              "image_url": "-",
+              "label": "ملابس سباحة",
+              "link": "/men/clothing/swimwear.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-SWIMWEAR",
+              "itemName": "SWIMWEAR"
+            },
+            {
+              "image_url": "-",
+              "label": "أطقم ملابس",
+              "link": "/men/clothing/clothing-sets.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A3%D8%B7%D9%82%D9%85+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A3%D8%B7%D9%82%D9%85+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-CLOTHING SETS",
+              "itemName": "CLOTHING SETS"
+            },
+            {
+              "image_url": "-",
+              "label": "كنزات وسترات",
+              "link": "/men/clothing/sweaters-cardigans.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA+%D9%88+%D9%83%D8%A7%D8%B1%D8%AF%D9%8A%D8%BA%D8%A7%D9%86%D8%A7%D8%AA+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA+%D9%88+%D9%83%D8%A7%D8%B1%D8%AF%D9%8A%D8%BA%D8%A7%D9%86%D8%A7%D8%AA+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Clothing-SBC-Men-AR-SWEATERS & CARDIGANS",
+              "itemName": "SWEATERS & CARDIGANS"
+            },
+            {
+              "image_url": "-",
+              "label": "بدلات",
+              "link": "/men/clothing/suit.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A8%D8%AF%D9%84%D8%A7%D8%AA+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A8%D8%AF%D9%84%D8%A7%D8%AA+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "SUIT"
+            },
+            {
+              "image_url": "-",
+              "label": "جوارب",
+              "link": "/men/accessories/socks.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%AC%D9%88%D8%A7%D8%B1%D8%A8++&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%AC%D9%88%D8%A7%D8%B1%D8%A8++&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "SOCKS"
+            }
+          ],
+          "button": {
+            "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "bags",
+      "label": "حقائب",
+      "link": "/men/bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Bags+mens.jpg",
+          "description": "حقائب تتربع على عرش الموضة",
+          "link": "/men/bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "تومي هيلفيغر",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "هيرشيل",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "HERSCHEL"
+            },
+            {
+              "image_url": "-",
+              "label": "ألدو",
+              "link": "/catalogsearch/result/?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88&idx=enterprise_magento_ar_kw_products",
+              "itemName": "ALDO"
+            },
+            {
+              "image_url": "-",
+              "label": "وايلدكرافت",
+              "link": "/men/bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%88%D8%A7%D9%8A%D9%84%D8%AF%D9%83%D8%B1%D8%A7%D9%81%D8%AA&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Wildcraft"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "حقائب ظهر",
+              "link": "/men/bags/backpacks.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-AR-BACKPACKS",
+              "itemName": "BACKPACKS"
+            },
+            {
+              "image_url": "-",
+              "label": "حقائب يد",
+              "link": "/men/bags/handbags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%8A%D8%AF&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%8A%D8%AF&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-AR-HANDBAGS",
+              "itemName": "HANDBAGS"
+            },
+            {
+              "image_url": "-",
+              "label": "حقائب لابتوب",
+              "link": "/men/bags/laptop-bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%84%D8%A7%D8%A8%D8%AA%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%84%D8%A7%D8%A8%D8%AA%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-AR-LAPTOP BAGS",
+              "itemName": "LAPTOP BAGS"
+            },
+            {
+              "image_url": "-",
+              "label": "حقائب سفر",
+              "link": "/men/bags/messenger-bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%A7%D8%B3%D9%86%D8%AC%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%A7%D8%B3%D9%86%D8%AC%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-AR-MESSENGER BAGS",
+              "itemName": "MESSENGER BAGS"
+            },
+            {
+              "image_url": "-",
+              "label": "محافظ جلد صغيرة",
+              "link": "/men/bags/small-leather-goods.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AD%D8%A7%D9%81%D8%B8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D9%85%D8%AD%D8%A7%D9%81%D8%B8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-AR-SMALL LEATHER GOODS",
+              "itemName": "SMALL LEATHER GOODS"
+            },
+            {
+              "image_url": "-",
+              "label": "حقائب سفر",
+              "link": "/men/bags/travel-bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B3%D9%81%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B3%D9%81%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "Mega-Menu-Bags-SBC-Men-AR-TRAVEL BAGS",
+              "itemName": "TRAVEL BAGS"
+            }
+          ],
+          "button": {
+            "link": "/men/bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "accessories",
+      "label": "إكسسوارات",
+      "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Accessories++mens+copy.jpg",
+          "description": "لمسات أنيقة لإطلالتك",
+          "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "اديداس",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aldo.jpg",
+              "label": "ألدو",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+              "label": "ليفايز",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+              "label": "سكيتشرز",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/herschel.jpg",
+              "label": "هيرشيل",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A%20%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86%20%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Dragon.jpg",
+              "label": "دراغون",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D8%B1%D8%A7%D8%BA%D9%88%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Dragon"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lc_waikiki.jpg",
+              "label": "اٍل سي واي كيكي",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8D%D9%84%20%D8%B3%D9%8A%20%D9%88%D8%A7%D9%8A%20%D9%83%D9%8A%D9%83%D9%8A&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Lc Waikiki"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/dune_london.jpg",
+              "label": "ديون لندن",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%8A%D9%88%D9%86%20%D9%84%D9%86%D8%AF%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+              "label": "سي سي سي",
+              "link": "/catalogsearch/result/?q=%D8%B3%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A&qid=313748e44d76ad3c98379cae55ad796b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B2%D9%85%D8%A9%2C%D8%AC%D9%88%D8%A7%D8%B1%D8%A8%2C%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA%2C%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B4%D9%85%D8%B3%D9%8A%D8%A9%2C%D9%83%D8%A7%D8%A8+%D9%88%D9%82%D8%A8%D8%B9%D8%A7%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Ccc"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aeropostale.jpg",
+              "label": "ايروبوستال",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/nautica.jpg",
+              "label": "نوتيكا",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D9%88%D8%AA%D9%8A%D9%83%D8%A7&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Nautica"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/f5.jpg",
+              "label": "F5",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=F5&idx=enterprise_magento_ar_kw_products",
+              "itemName": "F5"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Belts_men.jpg",
+              "label": "أحزمة",
+              "link": "/men/accessories/belts.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%AD%D8%B2%D9%85%D8%A9&p=0&hFR[categories.level0][0]=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%A3%D8%AD%D8%B2%D9%85%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=رجال&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Belts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Scarves_men.jpg",
+              "label": "أوشحه",
+              "link": "/men/accessories/scarves.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D9%88%D8%B4%D8%AD%D8%A9&p=0&hFR[categories.level0][0]=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%A3%D9%88%D8%B4%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=رجال&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Scarves"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/13-2-24+NEW/mega-menu/men-ties.jpg",
+              "label": "ربطات عنق",
+              "link": "/men/accessories/ties.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B1%D8%A8%D8%B7%D8%A7%D8%AA+%D8%B9%D9%86%D9%82+%D9%88%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%B1%D8%A8%D8%B7%D8%A7%D8%AA+%D8%B9%D9%86%D9%82+%D9%88%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Ties"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Caps+%26+Hats_men.jpg",
+              "label": "كابات وقبعات",
+              "link": "/men/accessories/caps-hats.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D9%83%D8%A7%D8%A8%D8%A7%D8%AA+%D9%88%D9%82%D8%A8%D8%B9%D8%A7%D8%AA&p=0&hFR[categories.level0][0]=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D9%83%D8%A7%D8%A8%D8%A7%D8%AA+%D9%88%D9%82%D8%A8%D8%B9%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=رجال&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Caps & Hats"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Jewellery_men.jpg",
+              "label": "مجوهرات",
+              "link": "/men/accessories/jewellery.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D9%85%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D8%AA&p=0&hFR[categories.level0][0]=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D9%85%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=رجال&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Jewellery"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/13-2-24+NEW/mega-menu/men-tech-accessories.jpg",
+              "label": "إكسسوارات إلكترونية",
+              "link": "/men/accessories/tech-accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA&p=0&hFR[categories.level0][0]=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=رجال&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Tech Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/Sunglasses_men.jpg",
+              "label": "نظارات شمسية",
+              "link": "/men/sunglasses.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Sunglasses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Accessories/ACC_men/watches_men+copy.jpg",
+              "label": "ساعات",
+              "link": "/men/watches.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Watches"
+            },
+            {
+              "image_url": "-",
+              "label": "إكسسوارات+السفر",
+              "link": "/men/accessories/travel-accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%81%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%81%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "TRAVEL ACCESSORIES"
+            }
+          ],
+          "button": {
+            "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "grooming",
+      "label": "العناية بالبشرة",
+      "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/grooming+Mens.jpg",
+          "description": "اعتنائك بنفسك سر جاذبيتك",
+          "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/ajmal+perfume.jpg",
+              "label": "أجمل برفم",
+              "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D8%AC%D9%85%D9%84+%D9%84%D9%84%D8%B9%D8%B7%D9%88%D8%B1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Ajmal Perfume"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/atkinsons.jpg",
+              "label": "أتكينسونز",
+              "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D8%AA%D9%83%D9%8A%D9%86%D8%B3%D9%88%D9%86%D8%B2&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Atkinsons"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-07-2022-Kids/Pending+logos/Hermetica.jpg",
+              "label": "هيرميتيكا",
+              "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D9%85%D9%8A%D8%AA%D9%8A%D9%83%D8%A7&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Hermetica"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/dunhill.jpg",
+              "label": "دنهل",
+              "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%86%D9%87%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Dunhill"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/klarif.jpg",
+              "label": "كلاريف",
+              "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D9%84%D8%A7%D8%B1%D9%8A%D9%81&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Klarif"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming-Fragrances.jpg",
+              "label": "عطور",
+              "link": "/men/grooming/fragrances.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B9%D8%B7%D9%88%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%2F%2F%2F+%D8%A7%D9%84%D8%B9%D8%B7%D9%88%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Fragrances"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming-Hair+Care.jpg",
+              "label": "العناية بالشعر",
+              "link": "/men/grooming/hair-care.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%2F%2F%2F+%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Hair Care"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming-Gifts+Sets.jpg",
+              "label": "أطقم هدايا",
+              "link": "/men/grooming/gift-sets.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%D8%A3%D8%B7%D9%82%D9%85+%D9%87%D8%AF%D8%A7%D9%8A%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%2F%2F%2F+%D8%A3%D8%B7%D9%82%D9%85+%D9%87%D8%AF%D8%A7%D9%8A%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Gifts Sets"
+            },
+            {
+              "image_url": "-",
+              "label": "الحلاقة عناية بالجسم والحمام",
+              "link": "/men/grooming/bath-body.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%AC%D8%B3%D9%85+%D9%88%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%2F%2F%2F+%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%AC%D8%B3%D9%85+%D9%88%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "BATH & BODY"
+            }
+          ],
+          "button": {
+            "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "sports",
+      "label": "رياضة",
+      "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-10-2023+men/men-mega+menu/Sports+mens.jpg",
+          "description": "هدف اللياقة لك يعد مستحيل",
+          "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "اديداس",
+              "link": "/adidas.html?q=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&p=0&hFR[categories.level0][0]=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+              "label": "سكيتشرز",
+              "link": "/skechers.html?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&p=0&hFR[categories.level0][0]=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/puma.jpg",
+              "label": "بوما",
+              "link": "/puma.html?q=%D8%A8%D9%88%D9%85%D8%A7&p=0&hFR[categories.level0][0]=%D8%A8%D9%88%D9%85%D8%A7&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+              "label": "نايك",
+              "link": "/nike.html?q=%D9%86%D8%A7%D9%8A%D9%83%D9%8A&p=0&hFR[categories.level0][0]=%D9%86%D8%A7%D9%8A%D9%83%D9%8A&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/28-06-2022-Kids/logo-shamanth/ONRUNNING.jpg",
+              "label": "اون",
+              "link": "/on-running.html?q=%D8%A7%D9%88%D9%86&p=0&hFR[categories.level0][0]=%D8%A7%D9%88%D9%86&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "On"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/onitsuka_tiger.jpg",
+              "label": "أونيت سوكا تايجر",
+              "link": "/onitsuka-tiger.html?q=%D8%A3%D9%88%D9%86%D9%8A%D8%AA%20%D8%B3%D9%88%D9%83%D8%A7%20%D8%AA%D8%A7%D9%8A%D8%AC%D8%B1&p=0&hFR[categories.level0][0]=%D8%A3%D9%88%D9%86%D9%8A%D8%AA%20%D8%B3%D9%88%D9%83%D8%A7%20%D8%AA%D8%A7%D9%8A%D8%AC%D8%B1&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Onitsuka Tiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/asics.jpg",
+              "label": "اسيكس",
+              "link": "/asics.html?q=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&p=0&hFR[categories.level0][0]=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Asics"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/U/Under%2BArmour.jpg",
+              "label": "أندر آرمور",
+              "link": "/under-armour.html?q=%D8%A3%D9%86%D8%AF%D8%B1%20%D8%A2%D8%B1%D9%85%D9%88%D8%B1&p=0&hFR[categories.level0][0]=%D8%A3%D9%86%D8%AF%D8%B1%20%D8%A2%D8%B1%D9%85%D9%88%D8%B1&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Under Armour"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/f5.jpg",
+              "label": "F5",
+              "link": "/f5.html?q=F5&p=0&hFR[categories.level0][0]=F5&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "F5"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/fila.jpg",
+              "label": "فيلا",
+              "link": "/fila.html?q=%D9%81%D9%8A%D9%84%D8%A7&p=0&hFR[categories.level0][0]=%D9%81%D9%8A%D9%84%D8%A7&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Fila"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/h/hoka.jpg",
+              "label": "هوكا",
+              "link": "/hoka.html?q=%D9%87%D9%88%D9%83%D8%A7&p=0&hFR[categories.level0][0]=%D9%87%D9%88%D9%83%D8%A7&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Hoka"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/reebok.jpg",
+              "label": "ريبوك",
+              "link": "/reebok.html?q=%D8%B1%D9%8A%D8%A8%D9%88%D9%83&p=0&hFR[categories.level0][0]=%D8%B1%D9%8A%D8%A8%D9%88%D9%83&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Reebok"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/anta.jpg",
+              "label": "انتا",
+              "link": "/anta.html?q=%D8%A7%D9%86%D8%AA%D8%A7&p=0&hFR[categories.level0][0]=%D8%A7%D9%86%D8%AA%D8%A7&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Anta"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/SPORT+SHOE.jpg",
+              "label": "أحذية رياضية",
+              "link": "/men/shoes/sports-shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9+%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9+%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Sports Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/SNEAKER.jpg",
+              "label": "سنيكرز",
+              "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=&hFR%5Bcategories.level1%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=&dFR%5Bcolorfamily%5D%5B0%5D=&dFR%5Bage%5D%5B0%5D=&dFR%5Bdiscount%5D%5B0%5D=&dFR%5Bsizes%5D%5B0%5D=&dFR%5Bprice.AED.default%5D%5B0%5D=&dFR%5Bsize_uk%5D%5B0%5D=&dFR%5Bsize_eu%5D%5B0%5D=&dFR%5Bsize_us%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%82%D8%B5%D9%8A%D8%B1%D8%A9&dFR%5BcategoryIds%5D%5B0%5D=10278%2C10276&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/T_SHIRTS.jpg",
+              "label": "تيشيرتات",
+              "link": "/men/clothing/Sportswear.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA+%D9%88%D9%81%D8%A7%D9%86%D9%8A%D9%84%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=15766&idx=enterprise_magento_ar_kw_products",
+              "itemName": "T-Shirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/SHORTS.jpg",
+              "label": "شورتات",
+              "link": "/men/clothing/activewear.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=&hFR%5Bcategories.level1%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=&dFR%5Bcolorfamily%5D%5B0%5D=&dFR%5Bdiscount%5D%5B0%5D=&dFR%5Bsizes%5D%5B0%5D=&dFR%5Bprice.AED.default%5D%5B0%5D=&dFR%5Bsize_uk%5D%5B0%5D=&dFR%5Bsize_eu%5D%5B0%5D=&dFR%5Bsize_us%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA%2C%D8%B3%D8%B1%D9%88%D8%A7%D9%84+%D9%82%D8%B5%D9%8A%D8%B1+%D9%84%D9%84%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&dFR%5BcategoryIds%5D%5B0%5D=10346%2C10115&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Shorts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/Track+pant.jpg",
+              "label": "أطثم رياضية",
+              "link": "/men/clothing/activewear.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=&hFR%5Bcategories.level1%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=&dFR%5Bcolorfamily%5D%5B0%5D=&dFR%5Bdiscount%5D%5B0%5D=&dFR%5Bsizes%5D%5B0%5D=&dFR%5Bprice.AED.default%5D%5B0%5D=&dFR%5Bsize_uk%5D%5B0%5D=&dFR%5Bsize_eu%5D%5B0%5D=&dFR%5Bsize_us%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%2C%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84+%D9%85%D8%B4%D9%8A+%D9%88%D8%B1%D9%83%D8%B6&dFR%5BcategoryIds%5D%5B0%5D=10342%2C15762&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Tracks & Pants"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/track+jacket.jpg",
+              "label": "جواكت رياضية",
+              "link": "/men/clothing/activewear.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=&hFR%5Bcategories.level1%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=&dFR%5Bcolorfamily%5D%5B0%5D=&dFR%5Bdiscount%5D%5B0%5D=&dFR%5Bsizes%5D%5B0%5D=&dFR%5Bprice.AED.default%5D%5B0%5D=&dFR%5Bsize_uk%5D%5B0%5D=&dFR%5Bsize_eu%5D%5B0%5D=&dFR%5Bsize_us%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A7%D9%83%D8%AA%D9%8A%D9%81+%D8%AC%D8%A7%D9%83%D8%AA+-+%D8%B3%D8%AA%D8%B1%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%2C%D8%AC%D8%A7%D9%83%D9%8A%D8%AA%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10117%2C10347&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Windbreaker & Jackets"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/20-01-2023-Men/Men+_Sports+_Mega+menu/Men+_Sports+_Mega+menu/ACCESSORIES.jpg",
+              "label": "إكسسوارات",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=F5%2C%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3%2C%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3+%D8%A7%D9%88%D8%B1%D8%AC%D9%8A%D9%86%D8%A7%D9%84%2C%D8%A3%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA%2C%D8%A7%D8%B3%D9%8A%D9%83%D8%B3%2C%D8%A3%D9%86%D8%AF%D8%B1+%D8%A2%D8%B1%D9%85%D9%88%D8%B1%2C%D8%A8%D9%88%D9%85%D8%A7%2C%D8%B1%D9%8A%D8%A8%D9%88%D9%83%2C%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2%2C%D9%81%D9%8A%D9%84%D8%A7%2C%D9%86%D8%A7%D9%8A%D9%83&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Accessories"
+            }
+          ],
+          "button": {
+            "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "premium",
+      "label": "بريميوم",
+      "link": "/catalogsearch/result/?q=%2B&qid=e6a4ff6a21a7bc13146a3b7885a51c57&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D9%83%D9%88%2C%D8%A8%D9%88%D8%B3%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AC%D8%A7%D9%86%D8%AA%2C%D8%AC%D9%8A%D8%B3%2C%D8%AC%D9%8A%D9%85%D9%8A+%D8%B4%D9%88%2C%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2%2C%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D9%87%D9%88%D8%BA%D9%88%2C%D9%83%D8%A7%D8%B1%D9%8A%D8%B1%D8%A7%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-12-24+NEW/men+hugo_.jpg",
+          "description": "أناقة بريميوم",
+          "link": "/catalogsearch/result/?q=%D9%87%D9%88%D8%BA%D9%88&qid=8b8ad7288cf0995586e252dda3c7c821&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%88%D8%BA%D9%88&idx=enterprise_magento_ar_kw_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/calvin-klein.html?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D8%AC%D9%8A%D9%86%D8%B2%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "هوغو",
+              "link": "/hugo.html?q=%D9%87%D9%88%D8%BA%D9%88+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D9%88%D8%BA%D9%88+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%88%D8%BA%D9%88&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Hugo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/Boss+(1).jpg",
+              "label": "بوس",
+              "link": "/boss.html?q=%D8%A8%D9%88%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Boss"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lacoste.jpg",
+              "label": "لاكوست",
+              "link": "/lacoste.html?q=%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/cole_haan.jpg",
+              "label": "كول هان",
+              "link": "/cole-haan.html?q=%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Cole Haan"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/rituals.jpg",
+              "label": "ريتوالز",
+              "link": "/rituals.html?q=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/S/Sacoor+Brothers.jpg",
+              "label": "ساكور براذرز",
+              "link": "/sacoor-brothers.html?q=%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Sacoor Brothers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-07-2022-Kids/Pending+logos/Timberland-Emblem.jpg",
+              "label": "تمبرلاند",
+              "link": "/timberland.html?q=%D8%AA%D9%85%D8%A8%D8%B1%D9%84%D8%A7%D9%86%D8%AF&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%85%D8%A8%D8%B1%D9%84%D8%A7%D9%86%D8%AF&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%85%D8%A8%D8%B1%D9%84%D8%A7%D9%86%D8%AF&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Timberland"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "جيس",
+              "link": "/guess.html?q=%D8%AC%D9%8A%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AC%D9%8A%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D9%8A%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/Carrera.jpg",
+              "label": "كاريرا",
+              "link": "/carrera.html?q=%D9%83%D8%A7%D8%B1%D9%8A%D8%B1%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D8%B1%D9%8A%D8%B1%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D8%B1%D9%8A%D8%B1%D8%A7&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Carrera"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Men/Marc+jacobs.jpg",
+              "label": "مارك جاكوبس",
+              "link": "/marc-jacobs.html?q=%D9%85%D8%A7%D8%B1%D9%83+%D8%AC%D8%A7%D9%83%D9%88%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D8%A7%D8%B1%D9%83+%D8%AC%D8%A7%D9%83%D9%88%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%85%D8%A7%D8%B1%D9%83+%D8%AC%D8%A7%D9%83%D9%88%D8%A8%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Marc jacobs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Men/Polaroid.jpg",
+              "label": "بولارويد",
+              "link": "/polaroid.html?q=%D8%A8%D9%88%D9%84%D8%A7%D8%B1%D9%88%D9%8A%D8%AF&qid=f6c5427150a45245cdd89d4d46c77ff7&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D9%84%D8%A7%D8%B1%D9%88%D9%8A%D8%AF&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Polaroid"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/J/jimmy_choo.jpg",
+              "label": "جيمي شو",
+              "link": "/jimmy-choo.html?q=%D8%AC%D9%8A%D9%85%D9%8A%20%D8%B4%D9%88&p=0&dFR[brand_name][0]=%D8%AC%D9%8A%D9%85%D9%8A%20%D8%B4%D9%88&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Jimmy Choo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Moschino.jpg",
+              "label": "موسكينو",
+              "link": "/moschino.html?q=%D9%85%D9%88%D8%B3%D9%83%D9%8A%D9%86%D9%88&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%88%D8%B3%D9%83%D9%8A%D9%86%D9%88&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%85%D9%88%D8%B3%D9%83%D9%8A%D9%86%D9%88&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Moschino"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-5-23+NEW/Logos/15-5/Lootah.jpg",
+              "label": "لوتاه",
+              "link": "/lootah.html?q=%D9%84%D9%88%D8%AA%D8%A7%D9%87&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%AA%D8%A7%D9%87&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%88%D8%AA%D8%A7%D9%87&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Lootah"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/GANT+(1).jpg",
+              "label": "جانت",
+              "link": "/gant.html?q=%D8%AC%D8%A7%D9%86%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AC%D8%A7%D9%86%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D8%A7%D9%86%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Gant"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/V/VERSACE.jpg",
+              "label": "فيرساكي",
+              "link": "/versace.html?q=%D9%81%D9%8A%D8%B1%D8%B3%D8%A7%D9%83%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%81%D9%8A%D8%B1%D8%B3%D8%A7%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%81%D9%8A%D8%B1%D8%B3%D8%A7%D8%AA%D8%B4%D9%8A&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Versace"
+            },
+            {
+              "image_url": "-",
+              "label": "بوهو مان",
+              "link": "/boohooman.html?q=boohooMAN&p=0&hFR%5Bcategories.level0%5D%5B0%5D=boohooMAN&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D9%87%D9%88+%D9%85%D8%A7%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&idx=enterprise_magento_ar_kw_products",
+              "promotion_name": "بوهو مان",
+              "itemName": "BOOHOOMAN"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium-Shoes.jpg",
+              "label": "أحذية",
+              "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D9%83%D9%88%2C%D8%A8%D9%88%D8%B3%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AC%D8%A7%D9%86%D8%AA%2C%D8%AC%D9%8A%D8%B3%2C%D8%AC%D9%8A%D9%85%D9%8A+%D8%B4%D9%88%2C%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2%2C%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D9%87%D9%88%D8%BA%D9%88%2C%D9%83%D8%A7%D8%B1%D9%8A%D8%B1%D8%A7%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium-Bags.jpg",
+              "label": "حقائب",
+              "link": "/catalogsearch/result/?q=%2B&qid=e6a4ff6a21a7bc13146a3b7885a51c57&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%2C%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B3%D9%81%D8%B1%2C%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%84%D9%84%D9%85%D9%83%D8%AA%D8%A8%2C%D8%B4%D9%86%D8%B7%2C%D9%85%D8%AD%D8%A7%D9%81%D8%B8%2C%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B9%D8%B5%D8%B1%D9%8A%D8%A9&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AC%D9%8A%D8%B3%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium-Clothing.jpg",
+              "label": "ملابس",
+              "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D9%83%D9%88%2C%D8%A8%D9%88%D8%B3%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AC%D8%A7%D9%86%D8%AA%2C%D8%AC%D9%8A%D8%B3%2C%D8%AC%D9%8A%D9%85%D9%8A+%D8%B4%D9%88%2C%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2%2C%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D9%87%D9%88%D8%BA%D9%88%2C%D9%83%D8%A7%D8%B1%D9%8A%D8%B1%D8%A7%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Premium-Accessories.jpg",
+              "label": "إكسسوارات",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D9%83%D9%88%2C%D8%A8%D9%88%D8%B3%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AC%D8%A7%D9%86%D8%AA%2C%D8%AC%D9%8A%D8%B3%2C%D8%AC%D9%8A%D9%85%D9%8A+%D8%B4%D9%88%2C%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2%2C%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D9%87%D9%88%D8%BA%D9%88%2C%D9%83%D8%A7%D8%B1%D9%8A%D8%B1%D8%A7%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Accessories"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%2B&qid=e6a4ff6a21a7bc13146a3b7885a51c57&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D9%83%D9%88%2C%D8%A8%D9%88%D8%B3%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AC%D8%A7%D9%86%D8%AA%2C%D8%AC%D9%8A%D8%B3%2C%D8%AC%D9%8A%D9%85%D9%8A+%D8%B4%D9%88%2C%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2%2C%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D9%87%D9%88%D8%BA%D9%88%2C%D9%83%D8%A7%D8%B1%D9%8A%D8%B1%D8%A7%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "OUTLET",
+      "label": "أوتلت",
+      "link": "/catalogsearch/result/?q=%2B&qid=525663dbfdb7173cede49ae9b472e47d&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_ar_kw_products",
+      "design": {
+        "background_color": "#cc2229",
+        "text_color": "#cc2229"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Men+Mega+Menu_cato+banner/Men+Mega+Menu_cato+banner/Price+Drops.jpg",
+          "description": "عروض خيالية وأسعار عالميزانية",
+          "link": "/catalogsearch/result/?q=%2B&qid=525663dbfdb7173cede49ae9b472e47d&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_ar_kw_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "اديداس",
+              "link": "/adidas.html?q=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3%2C%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3+%D8%A7%D9%88%D8%B1%D8%AC%D9%8A%D9%86%D8%A7%D9%84&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aldo.jpg",
+              "label": "ألدو",
+              "link": "/aldo.html?q=%D8%A3%D9%84%D8%AF%D9%88&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88%2C%D8%A3%D9%84%D8%AF%D9%88+%D8%A3%D9%83%D8%B3%D9%8A%D8%B3%D9%88%D8%B1%D9%8A%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/onitsuka_tiger.jpg",
+              "label": "أونيت سوكا تايجر",
+              "link": "/onitsuka-tiger.html?q=%D8%A3%D9%88%D9%86%D9%8A%D8%AA+%D8%B3%D9%88%D9%83%D8%A7+%D8%AA%D8%A7%D9%8A%D8%AC%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D9%88%D9%86%D9%8A%D8%AA+%D8%B3%D9%88%D9%83%D8%A7+%D8%AA%D8%A7%D9%8A%D8%AC%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%88%D9%86%D9%8A%D8%AA+%D8%B3%D9%88%D9%83%D8%A7+%D8%AA%D8%A7%D9%8A%D8%AC%D8%B1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Onitsuka Tiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/calvin-klein.html?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D8%AC%D9%8A%D9%86%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/GANT+(1).jpg",
+              "label": "جانت",
+              "link": "/gant.html?q=%D8%AC%D8%A7%D9%86%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AC%D8%A7%D9%86%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D8%A7%D9%86%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Gant"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aeropostale.jpg",
+              "label": "ايروبوستال",
+              "link": "/aeropostale.html?q=+%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=+%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Aeropostale"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_MEN_SHO_FORMAL.jpg",
+              "label": "أحذية",
+              "link": "/men/shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_MEN_BAGS_BACKPACKS.jpg",
+              "label": "أحذية",
+              "link": "/men/bags.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_MEN-129.jpg",
+              "label": "ملابس",
+              "link": "/men/clothing.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_MEN_ACC_BELTS.jpg",
+              "label": "اللإكسسوارات",
+              "link": "/men/accessories.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/men/category/NIKE_MEN.png",
+              "label": "الرياضة",
+              "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Sports"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_MEN_GROOM_SKINCARE.jpg",
+              "label": "العناية",
+              "link": "/men/grooming.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_kw_products",
+              "itemName": "Grooming"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%2B&qid=525663dbfdb7173cede49ae9b472e47d&p=0&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_ar_kw_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

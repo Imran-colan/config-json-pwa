@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "key": "Menu",
+      "label": "Mega Menu",
+      "link": "/women.html?idx=enterprise_magento_en_bh_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Kids/April/1-4-26/mega%20menu%20%20(2)/mega%20menu_/W-EN.jpg",
+          "description": "BAU",
+          "link": "/catalogsearch/result/?q=%2B&qid=b07f6fe37b369257214372c2287861e9&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_bh_products",
+          "promotion_name": "Mega-Menu-Banner-Women-EN-BAU",
+          "button_label": "Women"
+        },
+        {
+          "type": "slider",
+          "title": "Slider",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/14-8-25+NEW/mega+menu+(m_w)/w/all+brands+_bhd_+en.jpg",
+              "label": "",
+              "link": "/shop-by-brands?idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Slider-Women-En-Brands",
+              "itemName": "Brands"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/14-8-25+NEW/mega+menu+(m_w)/newin_en.jpg",
+              "label": "",
+              "link": "/women/new-in.html?q=Women&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Slider-Women-En-New-In",
+              "itemName": "New In"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/14-8-25+NEW/mega+menu+(m_w)/bestseller_en.jpg",
+              "label": "",
+              "link": "/catalogsearch/result/?q=%2B&qid=e0d78cd3eeaee31f7811b74e156a6be8&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&facetFilters=%5B%22promotion_tags.top%3ABESTSELLER%22%5D&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Slider-Women-En-Best-Seller",
+              "itemName": "Bestseller"
+            }
+          ]
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "Brand",
+      "label": "Mega Menu Brand",
+      "link": "/shop-by-brands?idx=enterprise_magento_en_bh_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "grid",
+          "title": "Shop by brands",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/Aldo.png",
+              "label": "ALDO",
+              "link": "/aldo.html?q=Aldo&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Aldo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Brands-Women-En-ALDO",
+              "itemName": "ALDO"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/Steve.png",
+              "label": "Steve Madden",
+              "link": "/steve-madden.html?q=Steve+Madden&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Steve+Madden&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Brands-Women-En-Steve Madden",
+              "itemName": "Steve Madden"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/ninewest.png",
+              "label": "Nine West",
+              "link": "/nine-west.html?q=Nine+West&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Nine+West&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Brands-Women-En-Nine West",
+              "itemName": "Nine West"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/ChK.png",
+              "label": "Charles & Keith",
+              "link": "/charles-keith.html?q=Charles+%26+Keith&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Charles+%26+Keith&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Brands-Women-En-Charles & Keith",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/BHPC.png",
+              "label": "Beverly Hills Polo Club",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Brands-Women-En-Beverly Hills Polo Club",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/dune.png",
+              "label": "Dune London",
+              "link": "/dune-london.html?q=Dune+London&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Dune+London&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Brands-Women-En-Dune London",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/skechers+copy.png",
+              "label": "SKECHERS",
+              "link": "/skechers.html?q=Skechers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Brands-Women-En-SKECHERS",
+              "itemName": "SKECHERS"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/boohoo.png",
+              "label": "Boohoo",
+              "link": "/boohoo.html?q=boohoo&p=0&hFR%5Bcategories.level0%5D%5B0%5D=boohoo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_en_bh_products",
+              "promotion_name": "Mega-Menu-Brands-Women-En-Boohoo",
+              "itemName": "Boohoo"
+            }
+          ],
+          "button": {
+            "link": "/shop-by-brands?idx=enterprise_magento_en_bh_products",
+            "plp_title": "Shop by brands"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "tierBenefitsData": [
+    {
+      "type": "silver",
+      "mainTitle": "Tier Benefits",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/silverLogo.png",
+      "subTitle": "SILVER",
+      "desc": "Earn Club Apparel Points worth BHD 2 on every BHD 100 Spent",
+      "displayText": "Start Shopping to be a Member",
+      "content": [
+        {
+          "desc": "Curated Offers for a Unique Experience",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "Early access to exclusive sale previews",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "Invites to new product launch events",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "Get Invited for Club Apparel Connect events with Brands",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "Enjoy free Standard and Express Delivery on orders above BHD 12, plus free Quick Delivery on orders above BHD 35.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "How to be a Silver Tier Member?",
+          "desc": "Start Shopping with Club Apparel now and be a Silver Tier Member."
+        }
+      ]
+    },
+    {
+      "type": "gold",
+      "mainTitle": "Tier Benefits",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/goldTierLogo.png",
+      "subTitle": "Gold",
+      "desc": "Earn Club Apparel Points worth BHD 3 on every BHD 100 Spent",
+      "displayText": "Purchases above BHD 1,000",
+      "content": [
+        {
+          "desc": "Celebrate your Birthday with 100 points from Club Apparel",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/celebrate.png",
+          "iconType": "celebrate"
+        },
+        {
+          "desc": "Private shopping sale of 15% off across all brands 1 day a year.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "Early access to exclusive sale previews",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "Invites to new product launch events",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "Get invited for Club Apparel Connect events with Brands",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "Enjoy free Standard, Quick, and Express Delivery on all eligible orders.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "How to be a Gold Tier Member?",
+          "desc": "Spend between BHD 1,000 to 2,499 in the last 12 months to enjoy the benefits of Gold Tier Membership."
+        }
+      ]
+    },
+    {
+      "type": "black",
+      "mainTitle": "Tier Benefits",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/blackTierLogo.png",
+      "subTitle": "Black",
+      "desc": "Earn Club Apparel Points worth BHD 5 on every BHD 100 Spent",
+      "displayText": "Purchases above BHD 2,500",
+      "content": [
+        {
+          "desc": "Celebrate your Birthday with 200 points from Club Apparel",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/celebrate.png",
+          "iconType": "celebrate"
+        },
+        {
+          "desc": "Private shopping sale of 15% off across all brands 2 day a year.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "Early access to exclusive sale previews",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "Invites to new product launch events",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "Get invited for Club Apparel Connect events with Brands",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "Enjoy full delivery benefits with free Standard, Express, and Quick Delivery on all eligible orders.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "How to be a Black Tier Member?",
+          "desc": "Spend over BHD 2,500 in the last 12 months to enjoy the benefits of Black Tier Membership."
+        }
+      ]
+    }
+  ],
+  "caHomeImages": {
+    "images": [
+      {
+        "imgUrl": "https://mobilecdn.6thstreet.com/config_staging/images/caHomeSlider.jpg"
+      }
+    ],
+    "transitionTime": 3
+  },
+  "caTierRange": {
+    "silver": {
+      "min": 0,
+      "max": 999
+    },
+    "gold": {
+      "min": 1000,
+      "max": 2499
+    },
+    "black": {
+      "min": 2500
+    }
+  }
+}

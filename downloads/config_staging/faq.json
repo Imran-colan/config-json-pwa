@@ -1,0 +1,322 @@
+{
+  "countries": [
+    {
+      "value": "AE",
+      "data": [
+        {
+          "title": "What is My Wallet?",
+          "description": "My Wallet is a feature that allows you to store and manage your credits, including My Cash and My Rewards, in one convenient place. You can use these credits on future orders as per the applicable terms and conditions.",
+          "title_ar": "ما هو محفظتي؟",
+          "description_ar": "محفظتي هي ميزة تتيح لك الحفاظ وإدارة أرصدتك، بما في ذلك نقودي ومكافآتي، في مكان واحد مناسب. يمكنك استخدام هذا الرصيد في الطلبات المستقبلية وفقًا للشروط والأحكام المطبقة."
+        },
+        {
+          "title": "What is My Cash?",
+          "description": "My Cash is the instant refund you receive for returns and/or cancellations on your orders.",
+          "title_ar": "ما هو نقودي؟",
+          "description_ar": "نقودي هو المبلغ المسترد في حالة الإرجاع أو الإلغاء لطلباتك."
+        },
+        {
+          "title": "How can I use My Cash?",
+          "description": "You can use My Cash on any orders with no restrictions.",
+          "title_ar": "كيف يمكنني استخدام نقودي؟",
+          "description_ar": "يمكن استخدام مبلغ نقودي على أي طلبات مستقبلية دون أي قيود."
+        },
+        {
+          "title": "When does My Cash expire?",
+          "description": "My Cash never expires.",
+          "title_ar": "متى ينتهي صلاحية نقودي؟",
+          "description_ar": "نقودي لا تنتهي صلاحيتها أبدًا."
+        },
+        {
+          "title": "What is My Rewards?",
+          "description": "My Rewards are credits you earn through specific promotional activities. The terms and conditions for earning credits will be mentioned in the offered promotions.",
+          "title_ar": "ما هي مكافآتي؟",
+          "description_ar": "مكافآتي هي عبارة عن مبلغ تفوز به من خلال الأنشطة الترويجية المحددة التي تشارك فيها. سيتم ذكر قواعد الفوز في شروط العروض الترويجية المختلفة."
+        },
+        {
+          "title": "How can I use My Rewards?",
+          "description": "You can use My Rewards to get up to 100% off on eligible future orders, up to AED 1000.",
+          "title_ar": "كيف يمكنني استخدام مكافآتي؟",
+          "description_ar": "يمكن استخدام مبلغ مكافآتي على الطلبات المستقبلية لـ 100٪ من قيمة السلة حتى AED 1000."
+        },
+        {
+          "title": "When does My Rewards expire?",
+          "description": "My Rewards credits expire 60 days after you earn them.",
+          "title_ar": "متى تنتهي صلاحية مكافآتي؟",
+          "description_ar": "ستنتهي صلاحية مبلغ مكافآتي بعد 60 يومًا من تاريخ من تاريخ اضافته على حسابك."
+        },
+        {
+          "title": "Can I change the currency of my credits?",
+          "description": "No, you can only use My Rewards in the currency they were earned in.",
+          "title_ar": "هل يمكنني تغيير عملة نقودي/مكافآتي؟",
+          "description_ar": "لا. يمكن الحصول على المبلغ سواء كان نقودي/مكافآتي فقط بالعملة التي تم الحصول عليها من قبلك."
+        }
+      ]
+    },
+    {
+      "value": "SA",
+      "data": [
+        {
+          "title": "What is My Wallet?",
+          "description": "My Wallet is a feature that allows you to store and manage your credits, including My Cash and My Rewards, in one convenient place. You can use these credits on future orders as per the applicable terms and conditions.",
+          "title_ar": "ما هو محفظتي؟",
+          "description_ar": "محفظتي هي ميزة تتيح لك الحفاظ وإدارة أرصدتك، بما في ذلك نقودي ومكافآتي، في مكان واحد مناسب. يمكنك استخدام هذا الرصيد في الطلبات المستقبلية وفقًا للشروط والأحكام المطبقة."
+        },
+        {
+          "title": "What is My Cash?",
+          "description": "My Cash is the instant refund you receive for returns and/or cancellations on your orders.",
+          "title_ar": "ما هو نقودي؟",
+          "description_ar": "نقودي هو المبلغ المسترد في حالة الإرجاع أو الإلغاء لطلباتك."
+        },
+        {
+          "title": "How can I use My Cash?",
+          "description": "You can use My Cash on any orders with no restrictions.",
+          "title_ar": "كيف يمكنني استخدام نقودي؟",
+          "description_ar": "يمكن استخدام مبلغ نقودي على أي طلبات مستقبلية دون أي قيود."
+        },
+        {
+          "title": "When does My Cash expire?",
+          "description": "My Cash never expires.",
+          "title_ar": "متى ينتهي صلاحية نقودي؟",
+          "description_ar": "نقودي لا تنتهي صلاحيتها أبدًا."
+        },
+        {
+          "title": "What is My Rewards?",
+          "description": "My Rewards are credits you earn through specific promotional activities. The terms and conditions for earning credits will be mentioned in the offered promotions.",
+          "title_ar": "ما هي مكافآتي؟",
+          "description_ar": "مكافآتي هي عبارة عن مبلغ تفوز به من خلال الأنشطة الترويجية المحددة التي تشارك فيها. سيتم ذكر قواعد الفوز في شروط العروض الترويجية المختلفة."
+        },
+        {
+          "title": "How can I use My Rewards?",
+          "description": "You can use My Rewards to get up to 100% off on eligible future orders, up to SAR 1000.",
+          "title_ar": "كيف يمكنني استخدام مكافآتي؟",
+          "description_ar": "يمكن استخدام مبلغ مكافآتي على الطلبات المستقبلية لـ 100٪ من قيمة السلة حتى SAR 1000."
+        },
+        {
+          "title": "When does My Rewards expire?",
+          "description": "My Rewards credits expire 60 days after you earn them.",
+          "title_ar": "متى تنتهي صلاحية مكافآتي؟",
+          "description_ar": "ستنتهي صلاحية مبلغ مكافآتي بعد 60 يومًا من تاريخ من تاريخ اضافته على حسابك."
+        },
+        {
+          "title": "Can I change the currency of my credits?",
+          "description": "No, you can only use My Rewards in the currency they were earned in.",
+          "title_ar": "هل يمكنني تغيير عملة نقودي/مكافآتي؟",
+          "description_ar": "لا. يمكن الحصول على المبلغ سواء كان نقودي/مكافآتي فقط بالعملة التي تم الحصول عليها من قبلك."
+        }
+      ]
+    },
+    {
+      "value": "KW",
+      "data": [
+        {
+          "title": "What is My Wallet?",
+          "description": "My Wallet is a feature that allows you to store and manage your credits, including My Cash and My Rewards, in one convenient place. You can use these credits on future orders as per the applicable terms and conditions.",
+          "title_ar": "ما هو محفظتي؟",
+          "description_ar": "محفظتي هي ميزة تتيح لك الحفاظ وإدارة أرصدتك، بما في ذلك نقودي ومكافآتي، في مكان واحد مناسب. يمكنك استخدام هذا الرصيد في الطلبات المستقبلية وفقًا للشروط والأحكام المطبقة."
+        },
+        {
+          "title": "What is My Cash?",
+          "description": "My Cash is the instant refund you receive for returns and/or cancellations on your orders.",
+          "title_ar": "ما هو نقودي؟",
+          "description_ar": "نقودي هو المبلغ المسترد في حالة الإرجاع أو الإلغاء لطلباتك."
+        },
+        {
+          "title": "How can I use My Cash?",
+          "description": "You can use My Cash on any orders with no restrictions.",
+          "title_ar": "كيف يمكنني استخدام نقودي؟",
+          "description_ar": "يمكن استخدام مبلغ نقودي على أي طلبات مستقبلية دون أي قيود."
+        },
+        {
+          "title": "When does My Cash expire?",
+          "description": "My Cash never expires.",
+          "title_ar": "متى ينتهي صلاحية نقودي؟",
+          "description_ar": "نقودي لا تنتهي صلاحيتها أبدًا."
+        },
+        {
+          "title": "What is My Rewards?",
+          "description": "My Rewards are credits you earn through specific promotional activities. The terms and conditions for earning credits will be mentioned in the offered promotions.",
+          "title_ar": "ما هي مكافآتي؟",
+          "description_ar": "مكافآتي هي عبارة عن مبلغ تفوز به من خلال الأنشطة الترويجية المحددة التي تشارك فيها. سيتم ذكر قواعد الفوز في شروط العروض الترويجية المختلفة."
+        },
+        {
+          "title": "How can I use My Rewards?",
+          "description": "You can use My Rewards to get up to 100% off on eligible future orders, up to KWD 100.",
+          "title_ar": "كيف يمكنني استخدام مكافآتي؟",
+          "description_ar": "يمكن استخدام مبلغ مكافآتي على الطلبات المستقبلية لـ 100٪ من قيمة السلة حتى KWD 100."
+        },
+        {
+          "title": "When does My Rewards expire?",
+          "description": "My Rewards credits expire 60 days after you earn them.",
+          "title_ar": "متى تنتهي صلاحية مكافآتي؟",
+          "description_ar": "ستنتهي صلاحية مبلغ مكافآتي بعد 60 يومًا من تاريخ من تاريخ اضافته على حسابك."
+        },
+        {
+          "title": "Can I change the currency of my credits?",
+          "description": "No, you can only use My Rewards in the currency they were earned in.",
+          "title_ar": "هل يمكنني تغيير عملة نقودي/مكافآتي؟",
+          "description_ar": "لا. يمكن الحصول على المبلغ سواء كان نقودي/مكافآتي فقط بالعملة التي تم الحصول عليها من قبلك."
+        }
+      ]
+    },
+    {
+      "value": "BH",
+      "data": [
+        {
+          "title": "What is My Wallet?",
+          "description": "My Wallet is a feature that allows you to store and manage your credits, including My Cash and My Rewards, in one convenient place. You can use these credits on future orders as per the applicable terms and conditions.",
+          "title_ar": "ما هو محفظتي؟",
+          "description_ar": "محفظتي هي ميزة تتيح لك الحفاظ وإدارة أرصدتك، بما في ذلك نقودي ومكافآتي، في مكان واحد مناسب. يمكنك استخدام هذا الرصيد في الطلبات المستقبلية وفقًا للشروط والأحكام المطبقة."
+        },
+        {
+          "title": "What is My Cash?",
+          "description": "My Cash is the instant refund you receive for returns and/or cancellations on your orders.",
+          "title_ar": "ما هو نقودي؟",
+          "description_ar": "نقودي هو المبلغ المسترد في حالة الإرجاع أو الإلغاء لطلباتك."
+        },
+        {
+          "title": "How can I use My Cash?",
+          "description": "You can use My Cash on any orders with no restrictions.",
+          "title_ar": "كيف يمكنني استخدام نقودي؟",
+          "description_ar": "يمكن استخدام مبلغ نقودي على أي طلبات مستقبلية دون أي قيود."
+        },
+        {
+          "title": "When does My Cash expire?",
+          "description": "My Cash never expires.",
+          "title_ar": "متى ينتهي صلاحية نقودي؟",
+          "description_ar": "نقودي لا تنتهي صلاحيتها أبدًا."
+        },
+        {
+          "title": "What is My Rewards?",
+          "description": "My Rewards are credits you earn through specific promotional activities. The terms and conditions for earning credits will be mentioned in the offered promotions.",
+          "title_ar": "ما هي مكافآتي؟",
+          "description_ar": "مكافآتي هي عبارة عن مبلغ تفوز به من خلال الأنشطة الترويجية المحددة التي تشارك فيها. سيتم ذكر قواعد الفوز في شروط العروض الترويجية المختلفة."
+        },
+        {
+          "title": "How can I use My Rewards?",
+          "description": "You can use My Rewards to get up to 100% off on eligible future orders, up to BHD 100.",
+          "title_ar": "كيف يمكنني استخدام مكافآتي؟",
+          "description_ar": "يمكن استخدام مبلغ مكافآتي على الطلبات المستقبلية لـ 100٪ من قيمة السلة حتى BHD 100."
+        },
+        {
+          "title": "When does My Rewards expire?",
+          "description": "My Rewards credits expire 60 days after you earn them.",
+          "title_ar": "متى تنتهي صلاحية مكافآتي؟",
+          "description_ar": "ستنتهي صلاحية مبلغ مكافآتي بعد 60 يومًا من تاريخ من تاريخ اضافته على حسابك."
+        },
+        {
+          "title": "Can I change the currency of my credits?",
+          "description": "No, you can only use My Rewards in the currency they were earned in.",
+          "title_ar": "هل يمكنني تغيير عملة نقودي/مكافآتي؟",
+          "description_ar": "لا. يمكن الحصول على المبلغ سواء كان نقودي/مكافآتي فقط بالعملة التي تم الحصول عليها من قبلك."
+        }
+      ]
+    },
+    {
+      "value": "OM",
+      "data": [
+        {
+          "title": "What is My Wallet?",
+          "description": "My Wallet is a feature that allows you to store and manage your credits, including My Cash and My Rewards, in one convenient place. You can use these credits on future orders as per the applicable terms and conditions.",
+          "title_ar": "ما هو محفظتي؟",
+          "description_ar": "محفظتي هي ميزة تتيح لك الحفاظ وإدارة أرصدتك، بما في ذلك نقودي ومكافآتي، في مكان واحد مناسب. يمكنك استخدام هذا الرصيد في الطلبات المستقبلية وفقًا للشروط والأحكام المطبقة."
+        },
+        {
+          "title": "What is My Cash?",
+          "description": "My Cash is the instant refund you receive for returns and/or cancellations on your orders.",
+          "title_ar": "ما هو نقودي؟",
+          "description_ar": "نقودي هو المبلغ المسترد في حالة الإرجاع أو الإلغاء لطلباتك."
+        },
+        {
+          "title": "How can I use My Cash?",
+          "description": "You can use My Cash on any orders with no restrictions.",
+          "title_ar": "كيف يمكنني استخدام نقودي؟",
+          "description_ar": "يمكن استخدام مبلغ نقودي على أي طلبات مستقبلية دون أي قيود."
+        },
+        {
+          "title": "When does My Cash expire?",
+          "description": "My Cash never expires.",
+          "title_ar": "متى ينتهي صلاحية نقودي؟",
+          "description_ar": "نقودي لا تنتهي صلاحيتها أبدًا."
+        },
+        {
+          "title": "What is My Rewards?",
+          "description": "My Rewards are credits you earn through specific promotional activities. The terms and conditions for earning credits will be mentioned in the offered promotions.",
+          "title_ar": "ما هي مكافآتي؟",
+          "description_ar": "مكافآتي هي عبارة عن مبلغ تفوز به من خلال الأنشطة الترويجية المحددة التي تشارك فيها. سيتم ذكر قواعد الفوز في شروط العروض الترويجية المختلفة."
+        },
+        {
+          "title": "How can I use My Rewards?",
+          "description": "You can use My Rewards to get up to 100% off on eligible future orders, up to OMR 100.",
+          "title_ar": "كيف يمكنني استخدام مكافآتي؟",
+          "description_ar": "يمكن استخدام مبلغ مكافآتي على الطلبات المستقبلية لـ 100٪ من قيمة السلة حتى OMR 100."
+        },
+        {
+          "title": "When does My Rewards expire?",
+          "description": "My Rewards credits expire 60 days after you earn them.",
+          "title_ar": "متى تنتهي صلاحية مكافآتي؟",
+          "description_ar": "ستنتهي صلاحية مبلغ مكافآتي بعد 60 يومًا من تاريخ من تاريخ اضافته على حسابك."
+        },
+        {
+          "title": "Can I change the currency of my credits?",
+          "description": "No, you can only use My Rewards in the currency they were earned in.",
+          "title_ar": "هل يمكنني تغيير عملة نقودي/مكافآتي؟",
+          "description_ar": "لا. يمكن الحصول على المبلغ سواء كان نقودي/مكافآتي فقط بالعملة التي تم الحصول عليها من قبلك."
+        }
+      ]
+    },
+    {
+      "value": "QA",
+      "data": [
+        {
+          "title": "What is My Wallet?",
+          "description": "My Wallet is a feature that allows you to store and manage your credits, including My Cash and My Rewards, in one convenient place. You can use these credits on future orders as per the applicable terms and conditions.",
+          "title_ar": "ما هو محفظتي؟",
+          "description_ar": "محفظتي هي ميزة تتيح لك الحفاظ وإدارة أرصدتك، بما في ذلك نقودي ومكافآتي، في مكان واحد مناسب. يمكنك استخدام هذا الرصيد في الطلبات المستقبلية وفقًا للشروط والأحكام المطبقة."
+        },
+        {
+          "title": "What is My Cash?",
+          "description": "My Cash is the instant refund you receive for returns and/or cancellations on your orders.",
+          "title_ar": "ما هو نقودي؟",
+          "description_ar": "نقودي هو المبلغ المسترد في حالة الإرجاع أو الإلغاء لطلباتك."
+        },
+        {
+          "title": "How can I use My Cash?",
+          "description": "You can use My Cash on any orders with no restrictions.",
+          "title_ar": "كيف يمكنني استخدام نقودي؟",
+          "description_ar": "يمكن استخدام مبلغ نقودي على أي طلبات مستقبلية دون أي قيود."
+        },
+        {
+          "title": "When does My Cash expire?",
+          "description": "My Cash never expires.",
+          "title_ar": "متى ينتهي صلاحية نقودي؟",
+          "description_ar": "نقودي لا تنتهي صلاحيتها أبدًا."
+        },
+        {
+          "title": "What is My Rewards?",
+          "description": "My Rewards are credits you earn through specific promotional activities. The terms and conditions for earning credits will be mentioned in the offered promotions.",
+          "title_ar": "ما هي مكافآتي؟",
+          "description_ar": "مكافآتي هي عبارة عن مبلغ تفوز به من خلال الأنشطة الترويجية المحددة التي تشارك فيها. سيتم ذكر قواعد الفوز في شروط العروض الترويجية المختلفة."
+        },
+        {
+          "title": "How can I use My Rewards?",
+          "description": "You can use My Rewards to get up to 100% off on eligible future orders, up to QAR 1000.",
+          "title_ar": "كيف يمكنني استخدام مكافآتي؟",
+          "description_ar": "يمكن استخدام مبلغ مكافآتي على الطلبات المستقبلية لـ 100٪ من قيمة السلة حتى QAR 1000."
+        },
+        {
+          "title": "When does My Rewards expire?",
+          "description": "My Rewards credits expire 60 days after you earn them.",
+          "title_ar": "متى تنتهي صلاحية مكافآتي؟",
+          "description_ar": "ستنتهي صلاحية مبلغ مكافآتي بعد 60 يومًا من تاريخ من تاريخ اضافته على حسابك."
+        },
+        {
+          "title": "Can I change the currency of my credits?",
+          "description": "No, you can only use My Rewards in the currency they were earned in.",
+          "title_ar": "هل يمكنني تغيير عملة نقودي/مكافآتي؟",
+          "description_ar": "لا. يمكن الحصول على المبلغ سواء كان نقودي/مكافآتي فقط بالعملة التي تم الحصول عليها من قبلك."
+        }
+      ]
+    }
+  ]
+}

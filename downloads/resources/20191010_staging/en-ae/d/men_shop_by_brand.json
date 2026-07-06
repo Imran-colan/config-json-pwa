@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 1,
+      "promotion_name": "men-Shop-by-brands",
+      "tag": "Shop-by-brands Carousel-1",
+      "items": [
+        {
+          "promotion_name": "BHPC",
+          "tag": "BHPC",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/BHPC _ Women.jpg",
+          "link": "/beverly-hills-polo-club.html?q=Beverly%20Hills%20Polo%20Club&p=0&dFR[brand_name][0]=Beverly%20Hills%20Polo%20Club&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Skechers",
+          "tag": "Skechers",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Skechers_Men.jpg",
+          "link": "/skechers.html?q=Skechers&p=0&dFR[brand_name][0]=Skechers&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Aldo",
+          "tag": "Aldo",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/ALDO_Men.jpg",
+          "link": "/aldo.html?q=Aldo&p=0&dFR[brand_name][0]=Aldo&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Tommy Hilfiger",
+          "tag": "Tommy Hilfiger",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Tommy_Hilfiger_Men.jpg",
+          "link": "/tommy-hilfiger.html?q=Tommy%20Hilfiger&p=0&dFR[brand_name][0]=Tommy%20Hilfiger&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Birkenstock",
+          "tag": "Birkenstock",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Birk_Men.jpg",
+          "link": "/birkenstock.html?q=Birkenstock&p=0&dFR[brand_name][0]=Birkenstock&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Adidas",
+          "tag": "Adidas",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Adidas_Men.jpg",
+          "link": "/adidas.html?q=Adidas&p=0&dFR[brand_name][0]=Adidas&dFR[gender][0]=Men",
+          "width": 240,
+          "height": 322
+        }
+      ]
+    }
+  ]
+}

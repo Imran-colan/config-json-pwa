@@ -1,0 +1,158 @@
+{
+  "tierBenefitsData": [
+    {
+      "type": "silver",
+      "mainTitle": "مزايا الفئات",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/silverLogo.png",
+      "subTitle": "الفئة الفضية",
+      "desc": "اكسب نقاط كلوب أبارل بقيمة دينار كويتي 2 على كل دينار كويتي 100.",
+      "displayText": "ابدأ التسوق لتصبح عضوًا",
+      "content": [
+        {
+          "desc": "عروض مختارة لتجربة فريدة",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "الوصول المبكر إلى معاينات البيع الحصرية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "دعوات لفعاليات إطلاق منتجات جديدة",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "استمتع بتوصيل قياسي وإكسبريس مجاني للطلبات فوق دينار 10، بالإضافة إلى توصيل سريع مجاني للطلبات فوق دينار 35.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "كيف يمكن أن أصبح عضوًا في الفئة الفضية؟",
+          "desc": "ابدأ التسوق مع كلوب أبارل الآن وكن عضوًا في الفئة الفضية."
+        }
+      ]
+    },
+    {
+      "type": "gold",
+      "mainTitle": "مزايا الفئات",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/goldTierLogo.png",
+      "subTitle": "الفئة الذهبية",
+      "desc": "اكسب نقاط كلوب أبارل بقيمة دينار كويتي 3 على كل دينار كويتي 100.",
+      "displayText": "المشتريات التي تزيد عن دينار كويتي 800.",
+      "content": [
+        {
+          "desc": "احتفل بعيد ميلادك مع 100 نقطة من كلوب أبارل",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/celebrate.png",
+          "iconType": "celebrate"
+        },
+        {
+          "desc": "تسوق خاص بخصم 15٪ على جميع العلامات التجارية ليوم واحد في السنة.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "الوصول المبكر إلى معاينات البيع الحصرية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "دعوات لفعاليات إطلاق المنتجات الجديدة",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "تمتع بمزايا التوصيل القياسي والسريع وإكسبريس مجاناً على جميع الطلبات المؤهلة.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "كيف يمكن أن أصبح عضوًا في الفئة الذهبية؟",
+          "desc": "أنفق بين دينار كويتي 800 ودينار كويتي 1,999 خلال الـ 12 شهرًا الماضية للاستمتاع بفوائد عضوية الفئة الذهبية."
+        }
+      ]
+    },
+    {
+      "type": "black",
+      "mainTitle": "مزايا الفئات",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/blackTierLogo.png",
+      "subTitle": "فئة البلاك ",
+      "desc": "اكسب نقاط كلوب أبارل بقيمة دينار كويتي 5 على كل دينار كويتي 100.",
+      "displayText": "المشتريات التي تزيد عن دينار كويتي 2000.",
+      "content": [
+        {
+          "desc": "احتفل بعيد ميلادك مع 200 نقطة من كلوب أبارل",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/celebrate.png",
+          "iconType": "celebrate"
+        },
+        {
+          "desc": "تسوق خاص بخصم 15٪ على جميع العلامات التجارية لمدة يومين في السنة.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "الوصول المبكر إلى معاينات حصرية للتخفيضات",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "دعوات لفعاليات إطلاق المنتجات الجديدة",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "تمتع بجميع مزايا التوصيل مع توصيل قياسي وإكسبريس والسريع مجاناُ على جميع الطلبات المؤهلة.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "كيف يمكن أن أصبح عضوًا في الفئة السوداء؟",
+          "desc": "أنفق أكثر من دينار كويتي 2,000 خلال الـ 12 شهرًا الماضية للاستمتاع بفوائد عضوية الفئة السوداء."
+        }
+      ]
+    }
+  ],
+  "caHomeImages": {
+    "images": [
+      {
+        "imgUrl": "https://mobilecdn.6thstreet.com/config_staging/images/caHomeSlider.jpg"
+      }
+    ],
+    "transitionTime": 3
+  },
+  "caTierRange": {
+    "silver": {
+      "min": 0,
+      "max": 799
+    },
+    "gold": {
+      "min": 800,
+      "max": 1999
+    },
+    "black": {
+      "min": 2000
+    }
+  }
+}

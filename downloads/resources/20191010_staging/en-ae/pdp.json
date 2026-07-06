@@ -1,0 +1,22 @@
+{
+  "widgets": [
+    {
+      "type": "vue_visually_similar_slider",
+      "layout": {
+        "title": "You may also like"
+      }
+    },
+    {
+      "type": "vue_recently_viewed_slider",
+      "layout": {
+        "title": "Recently viewed"
+      }
+    },
+    {
+      "type": "vue_style_it_slider",
+      "layout": {
+        "title": "Style it with"
+      }
+    }
+  ]
+}

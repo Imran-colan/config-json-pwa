@@ -1,0 +1,107 @@
+{
+  "widgets": [
+    {
+      "type": "recent_searches"
+    },
+    {
+      "type": "vue_recently_viewed_slider",
+      "header": {
+        "title": "ITEMS YOU HAVE VIEWED"
+      },
+      "id": 1,
+      "separator": false
+    },
+    {
+      "type": "circleItemSlider",
+      "key": "trending_brands",
+      "items": [],
+      "header": {
+        "title": "Trending brands"
+      }
+    },
+    {
+      "type": "circleItemSlider",
+      "key": "trending_categories",
+      "items": [],
+      "header": {
+        "title": "Trending categories"
+      }
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_brands",
+      "items": [],
+      "header": {
+        "title": "Trending Brands"
+      }
+    },
+    {
+      "type": "vue_browsing_history_slider",
+      "query": {
+        "filters": [
+          {
+            "field": "gender",
+            "value": "kids",
+            "type": "exact"
+          }
+        ]
+      },
+      "layout": {
+        "title": "Recommend For You"
+      }
+    },
+    {
+      "type": "carouselItemSlider",
+      "key": "trending_styles",
+      "items": [],
+      "header": {
+        "title": "TRENDING STYLES ON 6THSTREET"
+      }
+    },
+    {
+      "type": "recent_searches_product_slider"
+    },
+    {
+      "category": "All",
+      "index": 10,
+      "limit": 20,
+      "type": "new_influencer_slider"
+    },
+    {
+      "type": "grid",
+      "background_color": "#000000",
+      "items_per_row": 4,
+      "item_height": 240,
+      "header": {
+        "title": "Explore More"
+      },
+      "items": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/12-07-2022-kids/Comfort/Comfort-Grid-EN.png",
+          "link": "/comfort-kids.html?q=comfort+kids&idx=enterprise_magento_en_sa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=comfort+kids&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/08-07-2022-kids/Stores/Shopping+guide/Entry+Banners/Premium+Store/Premium+Store+EN.png",
+          "link": "/premium-store.html?q=premium-store&idx=enterprise_magento_en_sa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=premium-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/08-07-2022-kids/Stores/Shopping+guide/Entry+Banners/Sports+Store/Sportswear.jpg",
+          "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_en_sa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "image_size": {
+        "height": 669,
+        "width": 500
+      }
+    },
+    {
+      "type": "product_results_slider",
+      "layout": {
+        "title": "Products"
+      }
+    },
+    {
+      "type": "wishlist"
+    }
+  ]
+}

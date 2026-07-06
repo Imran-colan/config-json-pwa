@@ -1,0 +1,7 @@
+{
+  "home": {
+    "is_enabled": true,
+    "label": "Premium",
+    "file": "categories_home.json"
+  }
+}

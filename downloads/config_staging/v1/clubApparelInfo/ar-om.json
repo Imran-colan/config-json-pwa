@@ -1,0 +1,158 @@
+{
+  "tierBenefitsData": [
+    {
+      "type": "silver",
+      "mainTitle": "مزايا الفئات",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/silverLogo.png",
+      "subTitle": "الفئة الفضية",
+      "desc": "اكسب نقاط كلوب أبارل بقيمة ريال عماني 2 على كل ريال عماني 100.",
+      "displayText": "ابدأ التسوق لتصبح عضوًا",
+      "content": [
+        {
+          "desc": "عروض مختارة لتجربة فريدة",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "الوصول المبكر إلى معاينات البيع الحصرية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "دعوات لفعاليات إطلاق منتجات جديدة",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "استمتع بتوصيل قياسي وإكسبريس مجاني للطلبات فوق ريال 12، بالإضافة إلى توصيل سريع مجاني للطلبات فوق ريال 36.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "كيف يمكن أن أصبح عضوًا في الفئة الفضية؟",
+          "desc": "ابدأ التسوق مع كلوب أبارل الآن وكن عضوًا في الفئة الفضية."
+        }
+      ]
+    },
+    {
+      "type": "gold",
+      "mainTitle": "مزايا الفئات",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/goldTierLogo.png",
+      "subTitle": "الفئة الذهبية",
+      "desc": "اكسب نقاط كلوب أبارل بقيمة ريال عماني 3 على كل ريال عماني 100.",
+      "displayText": "المشتريات التي تزيد عن ريال عماني 1,000.",
+      "content": [
+        {
+          "desc": "احتفل بعيد ميلادك مع 100 نقطة من كلوب أبارل",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/celebrate.png",
+          "iconType": "celebrate"
+        },
+        {
+          "desc": "تسوق خاص بخصم 15٪ على جميع العلامات التجارية ليوم واحد في السنة.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "الوصول المبكر إلى معاينات البيع الحصرية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "دعوات لفعاليات إطلاق المنتجات الجديدة",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "تمتع بمزايا التوصيل القياسي والسريع وإكسبريس مجاناً على جميع الطلبات المؤهلة.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "كيف يمكن أن أصبح عضوًا في الفئة الذهبية؟",
+          "desc": "أنفق بين ريال عماني 1,000 و ريال عماني 2,499 خلال الـ 12 شهرًا الماضية للاستمتاع بفوائد عضوية الفئة الذهبية."
+        }
+      ]
+    },
+    {
+      "type": "black",
+      "mainTitle": "مزايا الفئات",
+      "logoUrl": "https://mobilecdn.6thstreet.com/config_staging/images/blackTierLogo.png",
+      "subTitle": "فئة البلاك ",
+      "desc": "اكسب نقاط كلوب أبارل بقيمة ريال عماني 5 على كل ريال عماني 100.",
+      "displayText": "المشتريات التي تزيد عن ريال عماني 2,500.",
+      "content": [
+        {
+          "desc": "احتفل بعيد ميلادك مع 200 نقطة من كلوب أبارل",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/celebrate.png",
+          "iconType": "celebrate"
+        },
+        {
+          "desc": "تسوق خاص بخصم 15٪ على جميع العلامات التجارية لمدة يومين في السنة.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/offer.png",
+          "iconType": "offer"
+        },
+        {
+          "desc": "الوصول المبكر إلى معاينات حصرية للتخفيضات",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/salePreview.png",
+          "iconType": "salePreview"
+        },
+        {
+          "desc": "دعوات لفعاليات إطلاق المنتجات الجديدة",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/calendar.png",
+          "iconType": "calendar"
+        },
+        {
+          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/card.png",
+          "iconType": "card"
+        },
+        {
+          "desc": "تمتع بجميع مزايا التوصيل مع توصيل قياسي وإكسبريس والسريع مجاناُ على جميع الطلبات المؤهلة.",
+          "iconUrl": "https://mobilecdn.6thstreet.com/config_staging/images/deliveryTruck.png",
+          "iconType": "deliveryTruck"
+        }
+      ],
+      "bottomContent": [
+        {
+          "title": "كيف يمكن أن أصبح عضوًا في الفئة السوداء؟",
+          "desc": "أنفق أكثر من ريال عماني 2,500 خلال الـ 12 شهرًا الماضية للاستمتاع بفوائد عضوية الفئة السوداء."
+        }
+      ]
+    }
+  ],
+  "caHomeImages": {
+    "images": [
+      {
+        "imgUrl": "https://mobilecdn.6thstreet.com/config_staging/images/caHomeSlider.jpg"
+      }
+    ],
+    "transitionTime": 3
+  },
+  "caTierRange": {
+    "silver": {
+      "min": 0,
+      "max": 999
+    },
+    "gold": {
+      "min": 1000,
+      "max": 2499
+    },
+    "black": {
+      "min": 2500
+    }
+  }
+}
