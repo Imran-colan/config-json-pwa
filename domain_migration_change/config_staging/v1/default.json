@@ -3426,7 +3426,7 @@
     "vip_screen_app": "https://config.aivi.com/resources/20191010_staging/pages/vip_screen_app.json"
   },
   "app_icon": "eoss",
-  "support_email": "customercare@AIVI.com",
+  "support_email": "customercare@aivi.com",
   "whatsapp_chatbot_phone": "+97148142666",
   "is_carrempay_enable_loggedinuser": false,
   "notification_banner_denied_expiry_days": 5,
