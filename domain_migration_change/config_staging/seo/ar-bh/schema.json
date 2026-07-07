@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "6thStreet.com",
-  "legalName": "6thStreet General Trading LLC",
-  "url": "https://ar-bh.6thstreet.com/",
+  "name": "AIVI.com",
+  "legalName": "AIVI General Trading LLC",
+  "url": "https://ar-bh.aivi.com/",
   "logo": "https://d33potchz7aua6.cloudfront.net/static/media/6TH_Logo.bc4c18f8.svg",
   "address": {
     "@type": "PostalAddress",
