@@ -2,7 +2,7 @@ const { generateCombinations } = require("./index");
 const fs = require("fs").promises;
 const path = require("path");
 
-const DOWNLOAD_DIR = path.join(__dirname, "downloads");
+const DOWNLOAD_DIR = path.join(__dirname, "_cache_validation");
 
 const data = [
   {
