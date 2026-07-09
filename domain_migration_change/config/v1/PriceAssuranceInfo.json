@@ -1,0 +1,534 @@
+{
+  "priceAssuranceData": {
+    "en": {
+      "promiseModelContent": {
+        "tiles_new": {
+          "genuineProduct": {
+            "key": "genuineProduct",
+            "tile_icon": "genuineProduct",
+            "tile_title": "Genuine Products",
+            "tile_desc": "Every product is 100% genuine and certified.",
+            "tile_text": "100% Genuine",
+            "popup_desc": "Rest assured, 6thStreet offers only 100% genuine and authentic products",
+            "popup_title": "100% Authentic",
+            "title": "100% Genuine Products",
+            "popup_body": [
+              {
+                "id": 0,
+                "type": "image",
+                "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/appareal_group_banner_logo.png",
+                "key": "apparel_group_full_logo"
+              },
+              {
+                "id": 1,
+                "type": "image",
+                "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/authenticity_badge.png",
+                "key": "authenticity_badge"
+              },
+              {
+                "id": 2,
+                "type": "info",
+                "key": "authorised_retailer_certification",
+                "heading": "Authorised Retailer Certification",
+                "body": "Apparel Group certifies that 6thStreet, including its holding companies and retail stores, is an authorized online and offline retailer of 100% genuine and original products across all featured brands."
+              },
+              {
+                "id": 4,
+                "type": "separator",
+                "key": "separator"
+              },
+              {
+                "id": 5,
+                "type": "image",
+                "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ceoSignature.png",
+                "key": "signature"
+              },
+              {
+                "id": 6,
+                "type": "subHeading2",
+                "key": "signatory_name",
+                "text": "Neeraj Teckchandani - CEO"
+              },
+              {
+                "id": 7,
+                "type": "subHeading",
+                "key": "signatory_title",
+                "text": "Authorised Signatory"
+              },
+              {
+                "id": 8,
+                "type": "status",
+                "key": "verified_authentic",
+                "status": "success",
+                "text": "Verified Authentic"
+              }
+            ]
+          },
+          "priceAssurance": {
+            "key": "priceAssurance",
+            "tile_icon": "priceAssurance",
+            "tile_title": "Price Assurance",
+            "tile_desc": "If you spot a better price elsewhere, we’ll match it.",
+            "title_text": "Price Assurance",
+            "popup_body": [
+              {
+                "id": 1,
+                "type": "text",
+                "key": "delivery_description",
+                "text": "At 6thStreet, we promise the best deal every time.If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
+              }
+            ]
+          },
+          "onTimeDelivery": {
+            "key": "onTimeDelivery",
+            "tile_icon": "onTimeDelivery",
+            "title_text": "On-Time Delivery",
+            "tile_title": "On-Time Delivery",
+            "tile_desc": "We value punctuality. If we’re late, your shipping fee is refunded.",
+            "popup_body": [
+              {
+                "id": 0,
+                "type": "feature_row",
+                "key": "delivery_features",
+                "items": [
+                  {
+                    "id": 1,
+                    "icon": "speed",
+                    "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_delivery-flash.png",
+                    "text": "Speed you can count on"
+                  },
+                  {
+                    "id": 2,
+                    "icon": "clock",
+                    "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_clock.png",
+                    "text": "On time or on us"
+                  },
+                  {
+                    "id": 3,
+                    "icon": "location",
+                    "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_location.png",
+                    "text": "Know where it is, anytime"
+                  }
+                ]
+              },
+              {
+                "id": 1,
+                "type": "text",
+                "key": "delivery_description",
+                "text": "We understand how important it is for your order to arrive on time. That’s why we’re committed to delivering your purchases promptly, every time. If, for any reason within our control, your order doesn’t arrive by the promised date, you’ll be eligible for a refund of your shipping fee. The amount will be credited to My Cash."
+              },
+              {
+                "id": 2,
+                "type": "link",
+                "key": "terms_and_conditions",
+                "url": "/on-time-delivery",
+                "text": "Terms and Conditions",
+                "action": "open_tnc"
+              }
+            ]
+          }
+        },
+        "title": "Our Promise:",
+        "tiles": [
+          {
+            "key": "genuineProduct",
+            "tile_icon": "genuineProduct",
+            "tile_title": "Genuine Products",
+            "tile_desc": "Every product is 100% genuine and certified.",
+            "content": {
+              "content_type": "imageInfo",
+              "content_heading": "Genuine Product",
+              "content_image_url": "https://mobilecdn.6thstreet.com/config/images/En%20Image.jpeg",
+              "content_text": {}
+            }
+          },
+          {
+            "key": "priceAssurance",
+            "tile_icon": "priceAssurance",
+            "tile_title": "Price Assurance",
+            "tile_desc": "If you spot a better price elsewhere, we’ll match it.",
+            "content": {
+              "content_type": "textInfo",
+              "content_heading": "Price Assurance",
+              "content_image_url": "",
+              "content_text": [
+                {
+                  "id": 0,
+                  "type": "info",
+                  "key": "about_price_assurance",
+                  "heading": "6thStreet Price Assurance",
+                  "body": "At 6thStreet, we promise the best deal every time. If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
+                },
+                {
+                  "id": 2,
+                  "type": "steps",
+                  "key": "term_and_condition",
+                  "bulletType": "dots",
+                  "heading": "Terms & Conditions (“T&C”)",
+                  "body": {
+                    "points": [
+                      {
+                        "id": 1,
+                        "desc": "Applicable only on products listed on online stores or 6thStreet Phygital Store."
+                      },
+                      {
+                        "id": 2,
+                        "desc": "Applies to identical products only — same brand, color, size, and style. Variations are not eligible."
+                      },
+                      {
+                        "id": 3,
+                        "desc": "All products listed on 6thStreet are eligible for price assurance."
+                      },
+                      {
+                        "id": 4,
+                        "desc": "The lower price must be in the same currency (AED, SAR, OMR, KWD, BHD, QAR)."
+                      },
+                      {
+                        "id": 5,
+                        "desc": "Claims must be submitted within 2 days of delivery and only after the payment is made by the Customer."
+                      },
+                      {
+                        "id": 6,
+                        "desc": "Price assurance is based on the individual item price, not the total order value."
+                      },
+                      {
+                        "id": 7,
+                        "desc": "If the product is subject to sale on 6thStreet within 2 days of delivery, only the difference from the sale pricing shall be refundable — as long as the size and color match your purchase."
+                      },
+                      {
+                        "id": 8,
+                        "desc": "A customer is entitled to claim the 6thStreet Price Assurance only one time for each product purchased. Further price drops after a claim is approved do not qualify for any refund."
+                      },
+                      {
+                        "id": 9,
+                        "desc": "Once an item has been price assured, it will no longer be eligible for return."
+                      },
+                      {
+                        "id": 10,
+                        "desc": "The T&C are subject to change. Customers are requested to check the T&C page for the latest version."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": 3,
+                  "type": "steps",
+                  "bulletType": "number",
+                  "key": "how_to_claim",
+                  "heading": "How to Claim",
+                  "body": {
+                    "points": [
+                      {
+                        "id": 1,
+                        "desc": "Log in to your 6thStreet account."
+                      },
+                      {
+                        "id": 2,
+                        "desc": "Navigate to My Account > Price Assurance > Raise a Request."
+                      },
+                      {
+                        "id": 3,
+                        "desc": "Select the product, enter the lower price, upload a screenshot, and provide the product link."
+                      },
+                      {
+                        "id": 4,
+                        "desc": "Our team will review the request. If approved, the difference will be credited to your My Cash within 48 hours."
+                      },
+                      {
+                        "id": 5,
+                        "desc": "You can track the status under My Account > Price Assurance > Past Requests."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": 4,
+                  "type": "info",
+                  "key": "you_info_is_safe",
+                  "heading": "Your Information Is Safe",
+                  "body": "All information you provide, including screenshots, links, and order details, are handled with the highest level of confidentiality. It is used solely to process your price assurance request and is protected in accordance with our Privacy Policy."
+                }
+              ]
+            }
+          },
+          {
+            "key": "onTimeDelivery",
+            "tile_icon": "onTimeDelivery",
+            "tile_title": "On-Time Delivery",
+            "tile_desc": "We value punctuality. If we’re late, your shipping fee is refunded.",
+            "content": {
+              "content_type": "imageInfo",
+              "content_heading": "On-Time Delivery",
+              "content_image_url": "https://mobilecdn.6thstreet.com/config/images/OnTimeDeliveryEn.jpg",
+              "content_text": {}
+            }
+          }
+        ]
+      }
+    },
+    "ar": {
+      "promiseModelContent": {
+        "tiles_new": {
+          "genuineProduct": {
+            "key": "genuineProduct",
+            "tile_icon": "genuineProduct",
+            "tile_title": "منتجات أصلية",
+            "tile_desc": "كل المنتجات المتوفرة أصلية 100% بشهادة موثوقة",
+            "tile_text": "منتجات أصلية",
+            "title": "منتجات أصلية 100%",
+            "popup_body": [
+              {
+                "id": 0,
+                "type": "image",
+                "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/appareal_group_banner_logo.png",
+                "key": "apparel_group_full_logo"
+              },
+              {
+                "id": 1,
+                "type": "image",
+                "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_authenticity_badge_ar.png",
+                "key": "authenticity_badge"
+              },
+              {
+                "id": 2,
+                "type": "info",
+                "key": "authorised_retailer_certification",
+                "heading": "شهادة بائع التجزئة المعتمد",
+                "body": "تؤكد مجموعة Apparel Group أن شركة 6thStreet، بما في ذلك شركاتها القابضة ومتاجر البيع بالتجزئة، هي بائع تجزئة معتمد عبر الإنترنت وخارجه لمنتجات أصلية 100% من جميع العلامات التجارية المعروضة."
+              },
+              {
+                "id": 4,
+                "type": "separator",
+                "key": "separator"
+              },
+              {
+                "id": 5,
+                "type": "image",
+                "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ceoSignature.png",
+                "key": "signature"
+              },
+              {
+                "id": 6,
+                "type": "subHeading2",
+                "key": "signatory_name",
+                "text": "نيراج تيكشانداني - الرئيس التنفيذي"
+              },
+              {
+                "id": 7,
+                "type": "subHeading",
+                "key": "signatory_title",
+                "text": "الموقّع المعتمد"
+              },
+              {
+                "id": 8,
+                "type": "status",
+                "key": "verified_authentic",
+                "status": "success",
+                "text": "تم التحقق من صحة المنتج"
+              }
+            ]
+          },
+          "priceAssurance": {
+            "key": "priceAssurance",
+            "tile_icon": "priceAssurance",
+            "tile_title": "ضمان السعر",
+            "tile_desc": "إذا وجدت سعر أفضل من موقع آخر، سنطبق لك نفس السعر",
+            "title_text": "ضمان السعر",
+            "popup_body": [
+              {
+                "id": 1,
+                "type": "text",
+                "key": "delivery_description",
+                "text": "في 6thStreet، نضمن لك أفضل العروض دائمًا. إذا وجدت نفس المنتج بسعر أقل على موقع إلكتروني أو تطبيق آخر، فسنرد لك الفرق إلى حسابك في My Cash."
+              }
+            ]
+          },
+          "onTimeDelivery": {
+            "key": "onTimeDelivery",
+            "tile_icon": "onTimeDelivery",
+            "tile_title": "الالتزام في موعد التوصيل",
+            "tile_desc": "نلتزم بالتوصيل في الوقت المحدد. في حال التأخير، سنقوم بإرجاع رسوم التوصيل",
+            "title_text": "التسليم في الموعد المحدد",
+            "popup_body": [
+              {
+                "id": 0,
+                "type": "feature_row",
+                "key": "delivery_features",
+                "items": [
+                  {
+                    "id": 1,
+                    "icon": "speed",
+                    "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_delivery-flash.png",
+                    "text": "سرعة يمكنك الاعتماد عليها"
+                  },
+                  {
+                    "id": 2,
+                    "icon": "clock",
+                    "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_clock.png",
+                    "text": "في الموعد أو علينا"
+                  },
+                  {
+                    "id": 3,
+                    "icon": "location",
+                    "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_location.png",
+                    "text": "اعرف مكانه، في أي وقت"
+                  }
+                ]
+              },
+              {
+                "id": 1,
+                "type": "text",
+                "key": "delivery_description",
+                "text": "ندرك أهمية وصول طلبك في الوقت المحدد. لذا، نلتزم بتوصيل مشترياتك بسرعة في كل مرة. إذا لم يصل طلبك في الموعد المحدد لأي سبب خارج عن إرادتنا، يحق لك استرداد رسوم الشحن، وسيتم إضافة المبلغ إلى رصيدك."
+              },
+              {
+                "id": 2,
+                "type": "link",
+                "key": "terms_and_conditions",
+                "url": "/on-time-delivery",
+                "text": "الشروط والأحكام",
+                "action": "open_tnc"
+              }
+            ]
+          }
+        },
+        "title": "وعدنا لكم:",
+        "tiles": [
+          {
+            "key": "genuineProduct",
+            "tile_icon": "genuineProduct",
+            "tile_title": "منتجات أصلية",
+            "tile_desc": "كل المنتجات المتوفرة أصلية 100% بشهادة موثوقة",
+            "content": {
+              "content_type": "imageInfo",
+              "content_heading": "منتجات أصلية ",
+              "content_image_url": "https://mobilecdn.6thstreet.com/config/images/Ar%20Image.jpeg",
+              "content_text": {}
+            }
+          },
+          {
+            "key": "priceAssurance",
+            "tile_icon": "priceAssurance",
+            "tile_title": "ضمان السعر",
+            "tile_desc": "إذا وجدت سعر أفضل من موقع آخر، سنطبق لك نفس السعر",
+            "content": {
+              "content_type": "textInfo",
+              "content_heading": "ضمان السعر",
+              "content_image_url": "",
+              "content_text": [
+                {
+                  "id": 0,
+                  "type": "info",
+                  "key": "about_price_assurance",
+                  "heading": "ضمان السعر في 6ستريت",
+                  "body": "في 6ستريت، نعدك بأفضل سعر دائمًا. إذا وجدتَ المنتج نفسه بسعر أقل على موقع أو تطبيق آخر، فسنُعيد الفرق إلى حسابك في 'نقودي'."
+                },
+                {
+                  "id": 2,
+                  "type": "steps",
+                  "bulletType": "dots",
+                  "key": "term_and_condition",
+                  "heading": "الشروط والأحكام",
+                  "body": {
+                    "points": [
+                      {
+                        "id": 1,
+                        "desc": "ينطبق فقط على المنتجات المدرجة في المتاجر عبر الإنترنت أو متجر6ستريت الرقمي."
+                      },
+                      {
+                        "id": 2,
+                        "desc": "ينطبق على المنتجات المتطابقة فقط - نفس العلامة التجارية واللون والمقاس والطراز. لا يُسمح بالاختلافات."
+                      },
+                      {
+                        "id": 3,
+                        "desc": "جميع المنتجات المدرجة على 6ستريت مؤهلة للحصول على ضمان السعر."
+                      },
+                      {
+                        "id": 4,
+                        "desc": "يجب أن يكون السعر الأقل بنفس العملة (درهم إماراتي ، ريال سعودي ، ريال عماني ، دينار كويتي ، دينار بحريني ، ريال قطري)."
+                      },
+                      {
+                        "id": 5,
+                        "desc": "يجب تقديم الطلبات خلال يومين من التوصيل وفقط بعد أن يقوم الزبون بالدفع."
+                      },
+                      {
+                        "id": 6,
+                        "desc": "يعتمد ضمان السعر على سعر كل منتج على حدة، وليس على القيمة الإجمالية للطلب."
+                      },
+                      {
+                        "id": 7,
+                        "desc": "إذا كان المنتج معروضًا بالخصم على 6ستريت خلال يومين من التوصيل، فسيتم استرداد الفرق فقط عن سعر البيع - طالما أن الحجم واللون يتطابقان مع عملية الشراء الخاصة بك."
+                      },
+                      {
+                        "id": 8,
+                        "desc": "يحق للزبون المطالبة بضمان سعر 6ستريت مرة واحدة فقط لكل منتج يشتريه. أي انخفاض إضافي في السعر بعد الموافقة على الطلب لا يُؤهل لاسترداد المبلغ."
+                      },
+                      {
+                        "id": 9,
+                        "desc": "بمجرد ضمان سعر منتج، فلن يكون مؤهلاً للإرجاع بعد ذلك."
+                      },
+                      {
+                        "id": 10,
+                        "desc": "الشروط والأحكام قابلة للتغيير. يُرجى من العملاء مراجعة صفحة الشروط والأحكام للاطلاع على أحدث إصدار."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": 3,
+                  "type": "steps",
+                  "bulletType": "number",
+                  "key": "how_to_claim",
+                  "heading": "كيفية تقديم طلب ضمان السعر",
+                  "body": {
+                    "points": [
+                      {
+                        "id": 1,
+                        "desc": "قم بتسجيل الدخول إلى حساب 6ستريت الخاص بك."
+                      },
+                      {
+                        "id": 2,
+                        "desc": "انتقل إلى حسابي > ضمان السعر > تقديم طلب."
+                      },
+                      {
+                        "id": 3,
+                        "desc": "حدد المنتج، وأدخل السعر الأقل، ثم قم بتحميل صورة الشاشة، ثم قم بتوفير رابط المنتج."
+                      },
+                      {
+                        "id": 4,
+                        "desc": "سيقوم فريقنا بمراجعة الطلب. في حال الموافقة، سيتم إضافة الفرق إلى 'نقودي' خلال 48 ساعة."
+                      },
+                      {
+                        "id": 5,
+                        "desc": "يمكنك متابعة الحالة من خلال حسابي > ضمان السعر > الطلبات السابقة."
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": 4,
+                  "type": "info",
+                  "key": "you_info_is_safe",
+                  "heading": "معلوماتك بأمان",
+                  "body": "جميع المعلومات التي تقدمها، بما في ذلك صور الشاشة والروابط وتفاصيل الطلب، تُعامل بأعلى درجات السرية. تُستخدم هذه المعلومات فقط لمعالجة طلب ضمان السعر الخاص بك، وهي محمية وفقًا لسياسة الخصوصية الخاصة بنا."
+                }
+              ]
+            }
+          },
+          {
+            "key": "onTimeDelivery",
+            "tile_icon": "onTimeDelivery",
+            "tile_title": "الالتزام في موعد التوصيل",
+            "tile_desc": "نلتزم بالتوصيل في الوقت المحدد. في حال التأخير، سنقوم بإرجاع رسوم التوصيل",
+            "content": {
+              "content_type": "imageInfo",
+              "content_heading": "الالتزام في موعد التوصيل",
+              "content_image_url": "https://mobilecdn.6thstreet.com/config/images/OnTimeDeliveryAr.jpg",
+              "content_text": {}
+            }
+          }
+        ]
+      }
+    }
+  }
+}
