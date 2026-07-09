@@ -9,7 +9,7 @@
             "tile_title": "Genuine Products",
             "tile_desc": "Every product is 100% genuine and certified.",
             "tile_text": "100% Genuine",
-            "popup_desc": "Rest assured, 6thStreet offers only 100% genuine and authentic products",
+            "popup_desc": "Rest assured, AIVI offers only 100% genuine and authentic products",
             "popup_title": "100% Authentic",
             "title": "100% Genuine Products",
             "popup_body": [
@@ -30,7 +30,7 @@
                 "type": "info",
                 "key": "authorised_retailer_certification",
                 "heading": "Authorised Retailer Certification",
-                "body": "Apparel Group certifies that 6thStreet, including its holding companies and retail stores, is an authorized online and offline retailer of 100% genuine and original products across all featured brands."
+                "body": "Apparel Group certifies that AIVI, including its holding companies and retail stores, is an authorized online and offline retailer of 100% genuine and original products across all featured brands."
               },
               {
                 "id": 4,
@@ -75,7 +75,7 @@
                 "id": 1,
                 "type": "text",
                 "key": "delivery_description",
-                "text": "At 6thStreet, we promise the best deal every time.If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
+                "text": "At AIVI, we promise the best deal every time.If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
               }
             ]
           },
@@ -156,8 +156,8 @@
                   "id": 0,
                   "type": "info",
                   "key": "about_price_assurance",
-                  "heading": "6thStreet Price Assurance",
-                  "body": "At 6thStreet, we promise the best deal every time. If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
+                  "heading": "AIVI Price Assurance",
+                  "body": "At AIVI, we promise the best deal every time. If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
                 },
                 {
                   "id": 2,
@@ -169,7 +169,7 @@
                     "points": [
                       {
                         "id": 1,
-                        "desc": "Applicable only on products listed on online stores or 6thStreet Phygital Store."
+                        "desc": "Applicable only on products listed on online stores or AIVI Phygital Store."
                       },
                       {
                         "id": 2,
@@ -177,7 +177,7 @@
                       },
                       {
                         "id": 3,
-                        "desc": "All products listed on 6thStreet are eligible for price assurance."
+                        "desc": "All products listed on AIVI are eligible for price assurance."
                       },
                       {
                         "id": 4,
@@ -193,11 +193,11 @@
                       },
                       {
                         "id": 7,
-                        "desc": "If the product is subject to sale on 6thStreet within 2 days of delivery, only the difference from the sale pricing shall be refundable — as long as the size and color match your purchase."
+                        "desc": "If the product is subject to sale on AIVI within 2 days of delivery, only the difference from the sale pricing shall be refundable — as long as the size and color match your purchase."
                       },
                       {
                         "id": 8,
-                        "desc": "A customer is entitled to claim the 6thStreet Price Assurance only one time for each product purchased. Further price drops after a claim is approved do not qualify for any refund."
+                        "desc": "A customer is entitled to claim the AIVI Price Assurance only one time for each product purchased. Further price drops after a claim is approved do not qualify for any refund."
                       },
                       {
                         "id": 9,
@@ -220,7 +220,7 @@
                     "points": [
                       {
                         "id": 1,
-                        "desc": "Log in to your 6thStreet account."
+                        "desc": "Log in to your AIVI account."
                       },
                       {
                         "id": 2,
@@ -294,7 +294,7 @@
                 "type": "info",
                 "key": "authorised_retailer_certification",
                 "heading": "شهادة بائع التجزئة المعتمد",
-                "body": "تؤكد مجموعة Apparel Group أن شركة 6thStreet، بما في ذلك شركاتها القابضة ومتاجر البيع بالتجزئة، هي بائع تجزئة معتمد عبر الإنترنت وخارجه لمنتجات أصلية 100% من جميع العلامات التجارية المعروضة."
+                "body": "تؤكد مجموعة Apparel Group أن شركة آيفي، بما في ذلك شركاتها القابضة ومتاجر البيع بالتجزئة، هي بائع تجزئة معتمد عبر الإنترنت وخارجه لمنتجات أصلية 100% من جميع العلامات التجارية المعروضة."
               },
               {
                 "id": 4,
@@ -339,7 +339,7 @@
                 "id": 1,
                 "type": "text",
                 "key": "delivery_description",
-                "text": "في 6thStreet، نضمن لك أفضل العروض دائمًا. إذا وجدت نفس المنتج بسعر أقل على موقع إلكتروني أو تطبيق آخر، فسنرد لك الفرق إلى حسابك في My Cash."
+                "text": "في آيفي، نضمن لك أفضل العروض دائمًا. إذا وجدت نفس المنتج بسعر أقل على موقع إلكتروني أو تطبيق آخر، فسنرد لك الفرق إلى حسابك في My Cash."
               }
             ]
           },
@@ -420,8 +420,8 @@
                   "id": 0,
                   "type": "info",
                   "key": "about_price_assurance",
-                  "heading": "ضمان السعر في 6ستريت",
-                  "body": "في 6ستريت، نعدك بأفضل سعر دائمًا. إذا وجدتَ المنتج نفسه بسعر أقل على موقع أو تطبيق آخر، فسنُعيد الفرق إلى حسابك في 'نقودي'."
+                  "heading": "ضمان السعر في آيفي",
+                  "body": "في آيفي، نعدك بأفضل سعر دائمًا. إذا وجدتَ المنتج نفسه بسعر أقل على موقع أو تطبيق آخر، فسنُعيد الفرق إلى حسابك في 'نقودي'."
                 },
                 {
                   "id": 2,
@@ -433,7 +433,7 @@
                     "points": [
                       {
                         "id": 1,
-                        "desc": "ينطبق فقط على المنتجات المدرجة في المتاجر عبر الإنترنت أو متجر6ستريت الرقمي."
+                        "desc": "ينطبق فقط على المنتجات المدرجة في المتاجر عبر الإنترنت أو متجرآيفي الرقمي."
                       },
                       {
                         "id": 2,
@@ -441,7 +441,7 @@
                       },
                       {
                         "id": 3,
-                        "desc": "جميع المنتجات المدرجة على 6ستريت مؤهلة للحصول على ضمان السعر."
+                        "desc": "جميع المنتجات المدرجة على آيفي مؤهلة للحصول على ضمان السعر."
                       },
                       {
                         "id": 4,
@@ -457,11 +457,11 @@
                       },
                       {
                         "id": 7,
-                        "desc": "إذا كان المنتج معروضًا بالخصم على 6ستريت خلال يومين من التوصيل، فسيتم استرداد الفرق فقط عن سعر البيع - طالما أن الحجم واللون يتطابقان مع عملية الشراء الخاصة بك."
+                        "desc": "إذا كان المنتج معروضًا بالخصم على آيفي خلال يومين من التوصيل، فسيتم استرداد الفرق فقط عن سعر البيع - طالما أن الحجم واللون يتطابقان مع عملية الشراء الخاصة بك."
                       },
                       {
                         "id": 8,
-                        "desc": "يحق للزبون المطالبة بضمان سعر 6ستريت مرة واحدة فقط لكل منتج يشتريه. أي انخفاض إضافي في السعر بعد الموافقة على الطلب لا يُؤهل لاسترداد المبلغ."
+                        "desc": "يحق للزبون المطالبة بضمان سعر آيفي مرة واحدة فقط لكل منتج يشتريه. أي انخفاض إضافي في السعر بعد الموافقة على الطلب لا يُؤهل لاسترداد المبلغ."
                       },
                       {
                         "id": 9,
@@ -484,7 +484,7 @@
                     "points": [
                       {
                         "id": 1,
-                        "desc": "قم بتسجيل الدخول إلى حساب 6ستريت الخاص بك."
+                        "desc": "قم بتسجيل الدخول إلى حساب آيفي الخاص بك."
                       },
                       {
                         "id": 2,
