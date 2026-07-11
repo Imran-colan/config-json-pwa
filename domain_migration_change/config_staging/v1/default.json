@@ -14,6 +14,12 @@
         "cross_border": "3-5",
         "standard": "2"
       },
+      "sales": {
+        "is_enabled": true,
+        "label": "SALE %",
+        "file": "sales.json",
+        "color": "#D12229"
+      },
       "showIconInSize": true,
       "download_invoice": false,
       "write_to_us": true,
@@ -42,11 +48,6 @@
         "value": {
           "varient": "d",
           "appIconName": "Default",
-          "visibleIcons": [
-            "Default",
-            "UAE",
-            "InvertedIcon"
-          ],
           "enabled": true
         }
       },
@@ -588,6 +589,12 @@
         "cross_border": "3-5",
         "standard": "2"
       },
+      "sales": {
+        "is_enabled": true,
+        "label": "SALE %",
+        "file": "sales.json",
+        "color": "#D12229"
+      },
       "download_invoice": false,
       "write_to_us": true,
       "nps_form": false,
@@ -619,11 +626,6 @@
         "value": {
           "varient": "d",
           "appIconName": "Default",
-          "visibleIcons": [
-            "Default",
-            "Saudi",
-            "InvertedIcon"
-          ],
           "enabled": true
         }
       },
@@ -1160,6 +1162,12 @@
         "cross_border": "3-5",
         "standard": "2"
       },
+      "sales": {
+        "is_enabled": true,
+        "label": "SALE %",
+        "file": "sales.json",
+        "color": "#D12229"
+      },
       "download_invoice": false,
       "write_to_us": true,
       "nps_form": false,
@@ -1191,11 +1199,6 @@
         "value": {
           "varient": "d",
           "appIconName": "Default",
-          "visibleIcons": [
-            "Default",
-            "Kuwait",
-            "InvertedIcon"
-          ],
           "enabled": true
         }
       },
@@ -1722,6 +1725,12 @@
         "international": "5-7",
         "cross_border": "3-5",
         "standard": "2"
+      },
+      "sales": {
+        "is_enabled": true,
+        "label": "SALE %",
+        "file": "sales.json",
+        "color": "#D12229"
       },
       "download_invoice": false,
       "write_to_us": true,
@@ -2282,6 +2291,12 @@
         "international": "5-7",
         "cross_border": "3-5",
         "standard": "2"
+      },
+      "sales": {
+        "is_enabled": true,
+        "label": "SALE %",
+        "file": "sales.json",
+        "color": "#D12229"
       },
       "download_invoice": false,
       "write_to_us": true,
@@ -2846,6 +2861,12 @@
         "cross_border": "3-5",
         "standard": "2"
       },
+      "sales": {
+        "is_enabled": true,
+        "label": "SALE %",
+        "file": "sales.json",
+        "color": "#D12229"
+      },
       "download_invoice": false,
       "write_to_us": true,
       "nps_form": false,
@@ -3397,6 +3418,7 @@
     }
   ],
   "static_files": {
+    "isAIVI": true,
     "categories": "https://mobilecdn.6thstreet.com/resources/20191010_staging_prodtest/$LOCALE/categories_$GENDER.json",
     "category_data": "https://mobilecdn.6thstreet.com/resources/20191010_staging/$LANGUAGE/categoryData.json",
     "mega_menu_categories": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/categories_mega_menu_$GENDER.json",

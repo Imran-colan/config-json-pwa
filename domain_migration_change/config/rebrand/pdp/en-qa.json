@@ -131,7 +131,7 @@
         {
           "id": 1,
           "type": "image",
-          "url": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/ic_authenticity_badge.png",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/ic_authenticity_badge.png",
           "key": "authenticity_badge"
         },
         {
@@ -139,7 +139,7 @@
           "type": "info",
           "key": "authorised_retailer_certification",
           "heading": "Authorised Retailer Certification",
-          "body": "Apparel Group certifies that AIVI, including its holding companies and retail stores, is an authorized online and offline retailer of 100% genuine and original products across all featured brands."
+          "body": "Apparel Group certifies that At AIVI including its holding companies and retail stores, is an authorized online and offline retailer of 100% genuine and original products across all featured brands."
         },
         {
           "id": 4,

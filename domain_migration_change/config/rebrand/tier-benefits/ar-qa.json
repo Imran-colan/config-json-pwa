@@ -35,7 +35,10 @@
       "label": "التسوق أونلاين",
       "icon": "https://mobilecdn.6thstreet.com/config/images/deliveryTruck.png"
     },
-    { "key": "upgrade_membership", "label": "كيف يمكنني ترقية مستوى عضويتي؟" }
+    {
+      "key": "upgrade_membership",
+      "label": "كيف يمكنني ترقية مستوى عضويتي؟"
+    }
   ],
   "loyalty_tiers": [
     {

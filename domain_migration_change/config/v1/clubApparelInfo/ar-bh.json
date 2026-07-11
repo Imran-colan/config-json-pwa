@@ -5,7 +5,7 @@
       "mainTitle": "مزايا الفئات",
       "logoUrl": "https://mobilecdn.6thstreet.com/config/images/silverLogo.png",
       "subTitle": "الفئة الفضية",
-      "desc": "اكسب نقاط كلوب أبارل بقيمة دينار بحريني 2 على كل دينار بحريني 100.",
+      "desc": "اكسب نقاط كلوب آيفي بقيمة دينار بحريني 2 على كل دينار بحريني 100.",
       "displayText": "ابدأ التسوق لتصبح عضوًا",
       "content": [
         {
@@ -24,7 +24,7 @@
           "iconType": "calendar"
         },
         {
-          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "desc": "احصل على دعوة لفعاليات كلوب آيفي مع العلامات التجارية",
           "iconUrl": "https://mobilecdn.6thstreet.com/config/images/card.png",
           "iconType": "card"
         },
@@ -37,7 +37,7 @@
       "bottomContent": [
         {
           "title": "كيف يمكن أن أصبح عضوًا في الفئة الفضية؟",
-          "desc": "ابدأ التسوق مع كلوب أبارل الآن وكن عضوًا في الفئة الفضية."
+          "desc": "ابدأ التسوق مع كلوب آيفي الآن وكن عضوًا في الفئة الفضية."
         }
       ]
     },
@@ -46,11 +46,11 @@
       "mainTitle": "مزايا الفئات",
       "logoUrl": "https://mobilecdn.6thstreet.com/config/images/goldTierLogo.png",
       "subTitle": "الفئة الذهبية",
-      "desc": "اكسب نقاط كلوب أبارل بقيمة دينار بحريني 3 على كل دينار بحريني 100.",
+      "desc": "اكسب نقاط كلوب آيفي بقيمة دينار بحريني 3 على كل دينار بحريني 100.",
       "displayText": "المشتريات التي تزيد عن دينار بحريني 1,000.",
       "content": [
         {
-          "desc": "احتفل بعيد ميلادك مع 100 نقطة من كلوب أبارل",
+          "desc": "احتفل بعيد ميلادك مع 100 نقطة من كلوب آيفي",
           "iconUrl": "https://mobilecdn.6thstreet.com/config/images/celebrate.png",
           "iconType": "celebrate"
         },
@@ -70,7 +70,7 @@
           "iconType": "calendar"
         },
         {
-          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "desc": "احصل على دعوة لفعاليات كلوب آيفي مع العلامات التجارية",
           "iconUrl": "https://mobilecdn.6thstreet.com/config/images/card.png",
           "iconType": "card"
         },
@@ -92,11 +92,11 @@
       "mainTitle": "مزايا الفئات",
       "logoUrl": "https://mobilecdn.6thstreet.com/config/images/blackTierLogo.png",
       "subTitle": "فئة البلاك ",
-      "desc": "اكسب نقاط كلوب أبارل بقيمة دينار بحريني 5 على كل دينار بحريني 100.",
+      "desc": "اكسب نقاط كلوب آيفي بقيمة دينار بحريني 5 على كل دينار بحريني 100.",
       "displayText": "المشتريات التي تزيد عن دينار بحريني 2,500.",
       "content": [
         {
-          "desc": "احتفل بعيد ميلادك مع 200 نقطة من كلوب أبارل",
+          "desc": "احتفل بعيد ميلادك مع 200 نقطة من كلوب آيفي",
           "iconUrl": "https://mobilecdn.6thstreet.com/config/images/celebrate.png",
           "iconType": "celebrate"
         },
@@ -116,7 +116,7 @@
           "iconType": "calendar"
         },
         {
-          "desc": "احصل على دعوة لفعاليات كلوب أبارل مع العلامات التجارية",
+          "desc": "احصل على دعوة لفعاليات كلوب آيفي مع العلامات التجارية",
           "iconUrl": "https://mobilecdn.6thstreet.com/config/images/card.png",
           "iconType": "card"
         },
