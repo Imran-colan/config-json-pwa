@@ -60,19 +60,19 @@
           {
             "icon": "https://mobilecdn.6thstreet.com/config/images/silverLogo.png",
             "title": "Silver Tier",
-            "text": "Start shopping with us and earn CLUB AIVI Points worth 2 AED on every 100 AED spent",
+            "text": "Start shopping with us and earn CLUB AIVI Points worth AED 2 on every AED 100 spent",
             "link": "Discover Silver Benefits"
           },
           {
             "icon": "https://mobilecdn.6thstreet.com/config/images/goldTierLogo.png",
             "title": "Gold Tier",
-            "text": "Purchases above 10,000 AED and earn CLUB AIVI Points worth 3 AED on every 100 AED spent",
+            "text": "Purchases above AED 10,000 and earn CLUB AIVI Points worth AED 3 on every AED 100 spent",
             "link": "Discover Gold Benefits"
           },
           {
             "icon": "https://mobilecdn.6thstreet.com/config/images/blackTierLogo.png",
             "title": "Black Tier",
-            "text": "Purchases above 25,000 AED and earn CLUB AIVI Points worth 5 AED on every 100 AED spent",
+            "text": "Purchases above AED 25,000 and earn CLUB AIVI Points worth AED 5 on every AED 100 spent",
             "link": "Discover Black Benefits"
           }
         ]
@@ -95,9 +95,9 @@
           {
             "subtitle": "What is the value of CLUB AIVI points, i.e., what is the value of one point?",
             "items": [
-              "UAE, KSA & Qatar - 1 point is equal to 1 AED.",
-              "Bahrain 10 points = 1 BD / OMR",
-              "Kuwait 25 Points = 2 KWD"
+              "UAE, KSA & Qatar - 1 point is equal to AED 1.",
+              "Bahrain 10 points = BD / OMR 1",
+              "Kuwait 25 Points = KWD 2"
             ]
           },
           {

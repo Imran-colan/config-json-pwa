@@ -15,6 +15,16 @@
       "locatiq": true,
       "handsfree": false,
       "useRECAPTCHA": false,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
       "useGoogleRECAPTCHA": true,
       "aic": {
         "key": "aic",
@@ -49,7 +59,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -66,7 +76,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -502,6 +512,16 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
       "aic": {
         "key": "aic",
         "trackEvent": true,
@@ -534,7 +554,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -551,7 +571,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -986,6 +1006,16 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
       "aic": {
         "key": "aic",
         "trackEvent": true,
@@ -1018,7 +1048,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -1035,7 +1065,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -1463,6 +1493,16 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
       "aic": {
         "key": "aic",
         "trackEvent": true,
@@ -1496,7 +1536,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -1513,7 +1553,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -1945,6 +1985,16 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
       "aic": {
         "key": "aic",
         "trackEvent": true,
@@ -1977,7 +2027,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -1994,7 +2044,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -2426,6 +2476,16 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
       "aic": {
         "key": "aic",
         "trackEvent": true,
@@ -2458,7 +2518,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -2475,7 +2535,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_V1.mp4"
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -2895,30 +2955,30 @@
   "static_files": {
     "home_v1": "https://config.aivi.com/resources/20190121/$LOCALE/$FILE_NAME",
     "isAIVI": true,
-    "splash_screen": "https://mobilecdn.6thstreet.com/splash_screen/splash_screen.json",
+    "splash_screen": "https://config.aivi.com/splash_screen/splash_screen.json",
     "home": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/$FILE_NAME",
-    "home_custom_categories": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/home_custom_categories.json",
-    "categories_custom_categories": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/categories_custom_categories.json",
-    "brands_custom_screens": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/brands_custom_screens.json",
+    "home_custom_categories": "https://config.aivi.com/resources/20190121/$LOCALE/home_custom_categories.json",
+    "categories_custom_categories": "https://config.aivi.com/resources/20190121/$LOCALE/categories_custom_categories.json",
+    "brands_custom_screens": "https://config.aivi.com/resources/20190121/$LOCALE/brands_custom_screens.json",
     "categories": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/categories_$GENDER.json",
-    "search_trending_tags": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search_trending_tags.json",
-    "search_trending_brands": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search_trending_brands.json",
-    "pdp": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/pdp.json",
-    "influencers": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/collections/$FILE_NAME",
-    "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/$FILE_NAME",
-    "search_v1": "https://mobilecdn.6thstreet.com/resources/20191010_staging/$LOCALE/search/v1/$FILE_NAME",
-    "brand_logos": "https://mobilecdn.6thstreet.com/config/brand_logos.json",
-    "about_page": "https://mobilecdn.6thstreet.com/resources/20190121/pages/aboutpage.json",
-    "plp_footer_women": "https://mobilecdn.6thstreet.com/resources/20190121/pages/plp_footer_women.json",
-    "plp_footer_men": "https://mobilecdn.6thstreet.com/resources/20190121/pages/plp_footer_men.json",
-    "plp_footer_kids": "https://mobilecdn.6thstreet.com/resources/20190121/pages/plp_footer_kids.json",
-    "plp_footer_home": "https://mobilecdn.6thstreet.com/resources/20190121/pages/plp_footer_home.json",
-    "plp_meta": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/plp_meta.json",
+    "search_trending_tags": "https://config.aivi.com/resources/20190121/$LOCALE/search_trending_tags.json",
+    "search_trending_brands": "https://config.aivi.com/resources/20190121/$LOCALE/search_trending_brands.json",
+    "pdp": "https://config.aivi.com/resources/20190121/$LOCALE/pdp.json",
+    "influencers": "https://config.aivi.com/resources/20190121/$LOCALE/collections/$FILE_NAME",
+    "search": "https://config.aivi.com/resources/20190121/$LOCALE/search/$FILE_NAME",
+    "search_v1": "https://config.aivi.com/resources/20191010_staging/$LOCALE/search/v1/$FILE_NAME",
+    "brand_logos": "https://config.aivi.com/config/brand_logos.json",
+    "about_page": "https://config.aivi.com/resources/20190121/pages/aboutpage.json",
+    "plp_footer_women": "https://config.aivi.com/resources/20190121/pages/plp_footer_women.json",
+    "plp_footer_men": "https://config.aivi.com/resources/20190121/pages/plp_footer_men.json",
+    "plp_footer_kids": "https://config.aivi.com/resources/20190121/pages/plp_footer_kids.json",
+    "plp_footer_home": "https://config.aivi.com/resources/20190121/pages/plp_footer_home.json",
+    "plp_meta": "https://config.aivi.com/resources/20190121/$LOCALE/plp_meta.json",
     "category_data": "https://mobilecdn.6thstreet.com/resources/20190121/$LANGUAGE/categoryData.json",
-    "more_filter": "https://mobilecdn.6thstreet.com/config/more_filter.json",
-    "vip_screen": "https://mobilecdn.6thstreet.com/resources/20190121/pages/vip_page.json",
+    "more_filter": "https://config.aivi.com/config/more_filter.json",
+    "vip_screen": "https://config.aivi.com/resources/20190121/pages/vip_page.json",
     "mega_menu_categories": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/categories_mega_menu_$GENDER.json",
-    "vip_screen_app": "https://mobilecdn.6thstreet.com/resources/20190121/pages/vip_screen_app.json"
+    "vip_screen_app": "https://config.aivi.com/resources/20190121/pages/vip_screen_app.json"
   },
   "app_icon": "default",
   "is_carrempay_enable_loggedinuser": false,
