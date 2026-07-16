@@ -15,6 +15,8 @@
       "locatiq": true,
       "handsfree": false,
       "useRECAPTCHA": false,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -66,8 +68,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -82,9 +85,10 @@
             }
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -409,7 +413,7 @@
       "free_delivery": true,
       "new_signin_signup_version_enabled": true,
       "is_cart_deal_enabled": false,
-      "isAlgoliaEventsEnabled": false,
+      "isAlgoliaEventsEnabled": true,
       "international_shipping_fee": true,
       "isProductRatingEnabled": true,
       "is_wallet_enabled": true,
@@ -507,6 +511,8 @@
       "write_to_us": false,
       "download_invoice": false,
       "is_signin_cart_nudge_enabled": false,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
       "handsfree": false,
       "vto": true,
       "locatiq": true,
@@ -561,8 +567,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -577,9 +584,10 @@
             }
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -905,7 +913,7 @@
       "free_delivery": true,
       "new_signin_signup_version_enabled": true,
       "is_cart_deal_enabled": false,
-      "isAlgoliaEventsEnabled": false,
+      "isAlgoliaEventsEnabled": true,
       "international_shipping_fee": true,
       "isProductRatingEnabled": true,
       "is_wallet_enabled": true,
@@ -1006,6 +1014,8 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -1055,8 +1065,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -1071,9 +1082,10 @@
             }
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -1392,7 +1404,7 @@
       "free_delivery": true,
       "new_signin_signup_version_enabled": true,
       "is_cart_deal_enabled": false,
-      "isAlgoliaEventsEnabled": false,
+      "isAlgoliaEventsEnabled": true,
       "international_shipping_fee": true,
       "isProductRatingEnabled": true,
       "is_wallet_enabled": true,
@@ -1493,6 +1505,8 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -1543,8 +1557,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -1559,9 +1574,10 @@
             }
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -1883,7 +1899,7 @@
       "free_delivery": false,
       "new_signin_signup_version_enabled": true,
       "is_cart_deal_enabled": false,
-      "isAlgoliaEventsEnabled": false,
+      "isAlgoliaEventsEnabled": true,
       "international_shipping_fee": true,
       "isProductRatingEnabled": true,
       "is_wallet_enabled": true,
@@ -1985,6 +2001,8 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -2034,8 +2052,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -2050,9 +2069,10 @@
             }
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -2374,7 +2394,7 @@
       "free_delivery": false,
       "new_signin_signup_version_enabled": true,
       "is_cart_deal_enabled": false,
-      "isAlgoliaEventsEnabled": false,
+      "isAlgoliaEventsEnabled": true,
       "international_shipping_fee": true,
       "isProductRatingEnabled": true,
       "is_wallet_enabled": true,
@@ -2476,6 +2496,8 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -2525,8 +2547,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -2541,9 +2564,10 @@
             }
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_welcome.png"
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -2865,7 +2889,7 @@
       "free_delivery": true,
       "new_signin_signup_version_enabled": true,
       "is_cart_deal_enabled": false,
-      "isAlgoliaEventsEnabled": false,
+      "isAlgoliaEventsEnabled": true,
       "international_shipping_fee": true,
       "isProductRatingEnabled": true,
       "is_wallet_enabled": true,
@@ -2956,6 +2980,7 @@
     "home_v1": "https://config.aivi.com/resources/20190121/$LOCALE/$FILE_NAME",
     "isAIVI": true,
     "splash_screen": "https://config.aivi.com/splash_screen/splash_screen.json",
+    "strapi_splash_screen": "https://strapi.6thstreet.com/api/splash-screen-pages",
     "home": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/$FILE_NAME",
     "home_custom_categories": "https://config.aivi.com/resources/20190121/$LOCALE/home_custom_categories.json",
     "categories_custom_categories": "https://config.aivi.com/resources/20190121/$LOCALE/categories_custom_categories.json",

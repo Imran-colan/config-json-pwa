@@ -94,8 +94,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -124,8 +125,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -339,7 +341,7 @@
       "is_modyai_enabled": false,
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": true,
+      "is_referral_enabled": false,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -668,8 +670,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -698,8 +701,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -914,7 +918,7 @@
       "modyai_profiles_limit": 5,
       "price_show_discount_percent": true,
       "is_map_view_enabled": true,
-      "is_referral_enabled": true,
+      "is_referral_enabled": false,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -1241,8 +1245,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -1271,8 +1276,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -1487,7 +1493,7 @@
       "modyai_profiles_limit": 5,
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": true,
+      "is_referral_enabled": false,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -1806,8 +1812,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -1836,8 +1843,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -2052,7 +2060,7 @@
       },
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": true,
+      "is_referral_enabled": false,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -2372,8 +2380,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -2402,8 +2411,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -2618,7 +2628,7 @@
       "modyai_profiles_limit": 5,
       "is_map_view_enabled": false,
       "price_show_discount_percent": true,
-      "is_referral_enabled": true,
+      "is_referral_enabled": false,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -2941,8 +2951,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -2971,8 +2982,9 @@
           ],
           "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
           "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_welcome.png"
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
@@ -3187,7 +3199,7 @@
       "modyai_profiles_limit": 5,
       "is_map_view_enabled": false,
       "price_show_discount_percent": false,
-      "is_referral_enabled": true,
+      "is_referral_enabled": false,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
