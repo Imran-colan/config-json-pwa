@@ -2,23 +2,28 @@ const { generateCombinations } = require("./index");
 const fs = require("fs").promises;
 const path = require("path");
 
-const DOWNLOAD_DIR = path.join(__dirname, "_cache_validation");
+const DOWNLOAD_DIR = path.join(__dirname, "domain_migration_change");
 
 const data = [
   {
     name: "app_cms_shipping",
-    variant_stage: "/app_cms_staging/${country_code}/shipping.json",
-    variant_prod: "/app_cms/${country_code}/shipping.json",
+    variant_stage: "/config_staging/${country_code}/shipping.json",
+    variant_prod: "/config/${country_code}/shipping.json",
   },
   {
     name: "cms_return",
-    variant_stage: "/app_cms_staging/return.json",
-    variant_prod: "/app_cms/return.json",
+    variant_stage: "/config_staging/return.json",
+    variant_prod: "/config/return.json",
   },
   {
     name: "app_cms_security",
-    variant_stage: "/app_cms_staging/security.json",
-    variant_prod: "/app_cms/security.json",
+    variant_stage: "/config_staging/security.json",
+    variant_prod: "/config/security.json",
+  },
+  {
+    name: "return",
+    variant_stage: "/config_staging/return.json",
+    variant_prod: "/config/return.json",
   },
   {
     name: "mega_menu_brands",
@@ -270,6 +275,11 @@ const data = [
     variant_prod:
       "/resources/20190121/${locale}/${device-type}/store_page.json",
   },
+  {
+    name: "price_assurance",
+    variant_stage: "/config_staging/v1/PriceAssuranceInfo.json",
+    variant_prod: "/config/v1/PriceAssuranceInfo.json",
+  }
 ];
 
 const processedData = data.map((item) => {
