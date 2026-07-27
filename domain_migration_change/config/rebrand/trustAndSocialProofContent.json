@@ -1,0 +1,652 @@
+{
+  "ar": {
+    "pageContent": {
+      "onTimeDeliveryPage": {
+        "key": "onTimeDelivery",
+        "heading": "On-Time Delivery",
+        "content_body": [
+          {
+            "id": 0,
+            "type": "feature_row",
+            "key": "delivery_features",
+            "items": [
+              {
+                "id": 1,
+                "icon": "speed",
+                "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_delivery-flash.png",
+                "text": "سرعة يمكنك الاعتماد عليها"
+              },
+              {
+                "id": 2,
+                "icon": "clock",
+                "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_clock.png",
+                "text": "في الموعد أو علينا"
+              },
+              {
+                "id": 3,
+                "icon": "location",
+                "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_location.png",
+                "text": "اعرف مكانه، في أي وقت"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "type": "info",
+            "key": "delivery_description",
+            "heading": "التسليم في الموعد المحدد",
+            "body": "في آيفي، ندرك أهمية وصول طلبك في الوقت المحدد. لذا، نلتزم بتوصيل مشترياتك بسرعة في كل مرة. إذا لم يصل طلبك في الموعد المحدد لأي سبب خارج عن إرادتنا، يحق لك استرداد رسوم الشحن، وسيتم إضافة المبلغ إلى رصيدك."
+          },
+          {
+            "id": 2,
+            "type": "steps",
+            "key": "terms_and_conditions",
+            "bulletType": "dots",
+            "heading": "الشروط والأحكام",
+            "body": {
+              "points": [
+                {
+                  "id": 1,
+                  "desc": "يتوافق تاريخ التسليم المُقدّر مع التاريخ المُختار عند إتمام عملية الشراء."
+                },
+                {
+                  "id": 2,
+                  "desc": "يجب توصيل الطلبات إلى العنوان المُحدد بدقة أثناء عملية الشراء."
+                },
+                {
+                  "id": 3,
+                  "desc": "قد تختلف تواريخ التسليم المُقدّرة من منتج لآخر أو من علامة تجارية لأخرى، وسيتم عرض معلومات التسليم الدقيقة مع كل طلب أثناء عملية الشراء."
+                },
+                {
+                  "id": 4,
+                  "desc": "إذا حاول شريك التوصيل لدينا تسليم الطلب أو قدّم موعد تسليم مؤكد في التاريخ المُحدد أو قبله، فسيُعتبر التسليم في الموعد المُحدد."
+                },
+                {
+                  "id": 5,
+                  "desc": "لن تكون الطلبات مؤهلة للاسترداد بسبب تأخر التسليم إذا كان شريك التوصيل قد حاول التسليم مرة واحدة على الأقل."
+                },
+                {
+                  "id": 6,
+                  "desc": "ستتم معالجة المبالغ المُستردة للطلبات المتأخرة (إن وُجدت) خلال يومين، وسيتم إيداعها في حساب آيفي My Cash."
+                },
+                {
+                  "id": 7,
+                  "desc": "سيتم إرسال معلومات تتبع الطلب عبر البريد الإلكتروني و/أو إشعارات واتساب بمجرد شحن الطلب."
+                },
+                {
+                  "id": 8,
+                  "desc": "يجب على العملاء التأكد من صحة عنوان التسليم ورقم الهاتف؛ فنحن غير مسؤولين عن حالات فشل التسليم أو استرداد الأموال في حال تقديم معلومات غير صحيحة."
+                },
+                {
+                  "id": 9,
+                  "desc": "سيحاول مندوب التوصيل لدينا الاتصال بكم مرتين. في حال عدم الرد، سيتم اعتبار الطلب غير قابل للتسليم ولن يكون مؤهلاً للاسترداد."
+                },
+                {
+                  "id": 10,
+                  "desc": "سيحاول مندوب التوصيل لدينا الاتصال بكم مرتين. في حال عدم الرد، سيتم اعتبار الطلب غير قابل للتسليم ولن يكون مؤهلاً للاسترداد."
+                },
+                {
+                  "id": 11,
+                  "desc": "في بعض الحالات، قد تصل المنتجات من طلب واحد على دفعات متعددة حسب التوافر والموقع. يُسترد المبلغ فقط للمنتج الذي تأخر وصوله."
+                },
+                {
+                  "id": 12,
+                  "desc": "تخضع الشروط والأحكام للتغيير. يُرجى من العملاء مراجعة صفحة الشروط والأحكام للاطلاع على أحدث نسخة."
+                }
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "type": "info",
+            "key": "please_note",
+            "heading": "يرجى الملاحظة",
+            "body": "قد تؤثر أحداث غير متوقعة، كالإضرابات والظروف الجوية القاسية والكوارث الطبيعية والقيود الحكومية، على مواعيد التسليم، وهي خارجة عن سيطرتنا. إذا كانت لديكم أي استفسارات أو احتجتم إلى مساعدة، فإن فريق خدمة العملاء لدينا جاهز دائمًا لتقديمها."
+          }
+        ]
+      },
+      "returnPolicyPage": {
+        "key": "returnPolicy",
+        "heading": "خيارات دفع آمنة",
+        "content_body": [
+          {
+            "id": 0,
+            "type": "accordion",
+            "key": "secure_payment_options",
+            "heading": "خيارات دفع آمنة",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "secure_payment_options_text",
+                "text": "تلتزم AIVI بضمان رضاكم التام عن أي منتج تطلبونه منا. على موقعنا www.AIVI.com، نقدم سياسة إرجاع أو استبدال سهلة لمدة 14 يومًا. إذا لم تكونوا راضين تمامًا عن مشترياتكم، يمكنكم استبدال أو إرجاع معظم المنتجات المشتراة من www.AIVI.com."
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "type": "accordion",
+            "key": "discounted_products",
+            "heading": "لا يمكن استبدال المنتجات المعروضة ضمن العروض الترويجية أو المنتجات المخفضة.",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "discounted_products_text",
+                "text": [
+                  "إذا لم تكن راضيًا تمامًا عن مشترياتك من آيفي، فستحصل على قسيمة شرائية بقيمة مشترياتك إذا كنت قد دفعت نقدًا عند الاستلام، وهي صالحة للاستخدام عبر الإنترنت فقط على الموقع الإلكتروني:",
+                  "www.AIVI.com. يرجى الملاحظة: القسيمة الشرائية صالحة لمدة ستة أشهر من تاريخ إصدارها. يمكن استخدام هذه القسيمة مرة واحدة فقط، ولا يمكن استخدامها جزئيًا. يمكنك استخدام هذه القسيمة الشرائية لشراء منتجات بنفس القيمة أو بقيمة أعلى. في حال عدم استلام أي منتج طلبته منا بحالة جيدة، أو كان تالفًا أو معيبًا، أو إذا كان المنتج المُسلّم مختلفًا عما توقعته، يمكنك إرجاع المنتج غير مستخدم وفي حالته الأصلية، مع عبوته الأصلية وبطاقاته الأصلية، لإرجاعه أو استبداله، وذلك خلال 14 يومًا من تاريخ استلامه."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "accordion",
+            "key": "how_to_return_merchandise",
+            "heading": "كيفية إرجاع البضائع",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "how_to_return_merchandise_text",
+                "text": [
+                  "قبل استلام أي بضاعة، يُرجى التأكد من سلامة التغليف وعدم وجود أي تلف أو عبث به. إذا كنت تعتقد أن البضاعة ليست بحالة جيدة، أو أن التغليف تالف أو به عبث، فيُرجى رفض استلام الطرد قبل استلامه، والاتصال بخدمة العملاء على الرقم (048142666) أو مراسلتنا عبر البريد الإلكتروني على customercare@aivi.com مع ذكر رقم طلبك. سنقوم باستبدال البضاعة في أقرب وقت ممكن. في حال إرجاع أي بضاعة وصلت إليك تالفة، سنقوم برد رسوم الشحن الخاصة بها، إذا لم نتمكن من استبدالها. سيتم شحن المنتج البديل مجانًا. نضمن رضاكم التام عن أي منتج تطلبونه من www.AIVI.com، ولكن لأسباب تتعلق بالنظافة وغيرها، لا يمكننا قبول إرجاع أو استبدال العطور، ومستحضرات التجميل، والملابس الداخلية (اللانجري)، وقسائم الهدايا، وأي منتجات مصممة حسب الطلب أو معدلة.",
+                  "لإرجاع منتج عبر التطبيق/الموقع الإلكتروني، اتبعوا الخطوات التالية: ١. انتقلوا إلى \"طلباتي\". ٢. حددوا الطلب الذي ترغبون في إرجاعه. ٣. اضغطوا على \"إرجاع/استبدال\". ٤. اختاروا المنتج الذي ترغبون في إرجاعه وسبب الإرجاع. ٥. اختاروا طريقة استرداد المبلغ المفضلة لديكم. ٦. اضغطوا على \"إرجاع المنتج\" لإتمام العملية.",
+                  "قبل البدء بعملية الإرجاع، يرجى التأكد من إمكانية إرجاع المنتج من خلال مراجعة مواصفاته.",
+                  "قبل البدء بعملية الإرجاع، يرجى التأكد من إمكانية إرجاع المنتج من خلال مراجعة خصائصه. معظم المنتجات قابلة للاسترجاع في متاجرنا، وللاستفسار عن المنتجات غير القابلة للاسترجاع، يُرجى الاتصال بخدمة العملاء على الرقم +971-48142666.",
+                  "كما يُمكنكم زيارة أقرب متجر كلوب آيفي في الإمارات العربية المتحدة، وإعادة المنتج غير مستخدم وفي حالة قابلة للبيع، مع فاتورة الشراء الأصلية.",
+                  "يُمكنكم أيضًا الاتصال بخدمة عملاء AIVI.com على الرقم +971-48142666، وطلب الاسترجاع أو الاستبدال. سنقوم بترتيب استلام المنتج من عنوان التوصيل عبر شركة شحن، وإعادته إلينا. سيتم قبول طلب الاسترجاع بشرط استلام المنتج في موقعنا غير مستخدم وفي عبوته الأصلية مع الملصقات والفاتورة الأصلية، وإلا فلن يكون الاسترجاع/الاستبدال/الاسترداد ممكنًا."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "type": "accordion",
+            "key": "courier_collection",
+            "heading": "الإرجاع/الاستبدال عبر خدمة التوصيل",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "courier_collection_text",
+                "text": [
+                  "الإرجاع \n",
+                  "يمكنك إرجاع أي منتج خلال 14 يومًا من تاريخ الشراء. ستتم معالجة طلبات الإرجاع خلال 7 أيام عمل من استلام المنتج غير المستخدم مع فاتورة البيع الأصلية. في حال إلغاء الطلب، سيتم ردّ المبالغ المدفوعة ببطاقة الائتمان إلى حساب البطاقة الأصلي المستخدم في الطلب. يُرجى العلم بأن أي تأخير في إضافة المبلغ إلى حساب حامل البطاقة خارج عن سيطرتنا ويخضع لإدارة البنك المُصدر. بالنسبة لعمليات الدفع عند الاستلام، سيتم استبدال المنتجات المُعادة برصيد في المتجر، والذي يُمكن استخدامه للشراء عبر الإنترنت على موقع AIVI.com. يُرجى العلم أن رصيد المتجر صالح لمدة عام واحد من تاريخ إصداره. \n",
+                  "الاستبدال \n",
+                  "يُتاح الاستبدال فقط للمنتجات التي لها نفس قيمة المنتج المراد استبداله. يمكنك استبدال المنتج بمقاس أو لون مختلف مباشرةً عبر التطبيق أو الموقع الإلكتروني أو من خلال خدمة العملاء. بمجرد استلام المنتجات ووصولها إلى مستودعاتنا (عادةً خلال 48 إلى 72 ساعة)، سنقوم بشحن المنتجات البديلة بعد فحص دقيق للمنتجات المُعادة. يُرجى التأكد من أن المنتجات غير مستخدمة، وفي حالة جيدة، مع وجود الملصقات الأصلية وسلامة التغليف. يُرجى العلم أن المنتجات المشتراة من شركائنا الدوليين غير قابلة للاستبدال، وإنما قابلة للإرجاع فقط"
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "type": "accordion",
+            "key": "modification_of_terms",
+            "heading": "تعديل شروط وأحكام سياسة الاستبدال والإرجاع",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "modification_of_terms_text",
+                "text": [
+                  "يجوز لـ www.AIVI.com تعديل اتفاقية المستخدم في أي وقت دون إشعار مسبق. ويكون قرار إدارة www.AIVI.com نهائيًا. بعد أي تعديل على اتفاقية المستخدم، سنبلغك بالتعديلات عبر البريد الإلكتروني على العنوان الذي قدمته عند التسجيل في www.AIVI.com. في حال عدم قبولك لاتفاقية المستخدم المعدلة، يجب عليك التوقف عن استخدام الخدمة. أما إذا واصلت استخدام الخدمة، فسيُعتبر ذلك موافقة منك على قبول اتفاقية المستخدم المعدلة والالتزام بها."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "priceAssurance": {
+        "key": "priceAssurance",
+        "heading": "Price Assurance",
+        "content_body": [
+          {
+            "id": 0,
+            "type": "info",
+            "key": "about_price_assurance",
+            "heading": "ضمان سعر آيفي",
+            "body": "في آيفي، نضمن لك أفضل العروض دائمًا. إذا وجدت نفس المنتج بسعر أقل على موقع إلكتروني أو تطبيق آخر، فسنرد لك الفرق إلى حسابك في My Cash."
+          },
+          {
+            "id": 2,
+            "type": "steps",
+            "bulletType": "dots",
+            "key": "term_and_condition",
+            "heading": "الشروط والأحكام",
+            "body": {
+              "points": [
+                {
+                  "id": 1,
+                  "desc": "ينطبق فقط على المنتجات المدرجة في المتاجر عبر الإنترنت أو متجرآيفي الرقمي."
+                },
+                {
+                  "id": 2,
+                  "desc": "ينطبق على المنتجات المتطابقة فقط - نفس العلامة التجارية واللون والمقاس والطراز. لا يُسمح بالاختلافات."
+                },
+                {
+                  "id": 3,
+                  "desc": "جميع المنتجات المدرجة على آيفي مؤهلة للحصول على ضمان السعر."
+                },
+                {
+                  "id": 4,
+                  "desc": "يجب أن يكون السعر الأقل بنفس العملة (درهم إماراتي ، ريال سعودي ، ريال عماني ، دينار كويتي ، دينار بحريني ، ريال قطري)."
+                },
+                {
+                  "id": 5,
+                  "desc": "يجب تقديم الطلبات خلال يومين من التوصيل وفقط بعد أن يقوم الزبون بالدفع."
+                },
+                {
+                  "id": 6,
+                  "desc": "يعتمد ضمان السعر على سعر كل منتج على حدة، وليس على القيمة الإجمالية للطلب."
+                },
+                {
+                  "id": 7,
+                  "desc": "إذا كان المنتج معروضًا بالخصم على آيفي خلال يومين من التوصيل، فسيتم استرداد الفرق فقط عن سعر البيع - طالما أن الحجم واللون يتطابقان مع عملية الشراء الخاصة بك."
+                },
+                {
+                  "id": 8,
+                  "desc": "يحق للزبون المطالبة بضمان سعر آيفي مرة واحدة فقط لكل منتج يشتريه. أي انخفاض إضافي في السعر بعد الموافقة على الطلب لا يُؤهل لاسترداد المبلغ."
+                },
+                {
+                  "id": 9,
+                  "desc": "بمجرد ضمان سعر منتج، فلن يكون مؤهلاً للإرجاع بعد ذلك."
+                },
+                {
+                  "id": 10,
+                  "desc": "الشروط والأحكام قابلة للتغيير. يُرجى من العملاء مراجعة صفحة الشروط والأحكام للاطلاع على أحدث إصدار."
+                }
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "type": "steps",
+            "bulletType": "number",
+            "key": "how_to_claim",
+            "heading": "كيفية تقديم طلب ضمان السعر",
+            "body": {
+              "points": [
+                {
+                  "id": 1,
+                  "desc": "سجّل الدخول إلى حسابك في آيفي."
+                },
+                {
+                  "id": 2,
+                  "desc": "انتقل إلى حسابي > ضمان السعر > تقديم طلب."
+                },
+                {
+                  "id": 3,
+                  "desc": "حدد المنتج، وأدخل السعر الأقل، ثم قم بتحميل صورة الشاشة، ثم قم بتوفير رابط المنتج."
+                },
+                {
+                  "id": 4,
+                  "desc": "سيقوم فريقنا بمراجعة الطلب. في حال الموافقة، سيتم إضافة الفرق إلى 'نقودي' خلال 48 ساعة."
+                },
+                {
+                  "id": 5,
+                  "desc": "يمكنك متابعة الحالة من خلال حسابي > ضمان السعر > الطلبات السابقة."
+                }
+              ]
+            }
+          },
+          {
+            "id": 4,
+            "type": "info",
+            "key": "you_info_is_safe",
+            "heading": "معلوماتك آمنة",
+            "body": "في آيفي، نضمن لك أفضل العروض دائمًا. إذا وجدت نفس المنتج بسعر أقل على موقع إلكتروني أو تطبيق آخر، فسنرد لك الفرق إلى حسابك في My Cash."
+          }
+        ]
+      }
+    }
+  },
+  "en": {
+    "pageContent": {
+      "onTimeDeliveryPage": {
+        "key": "onTimeDelivery",
+        "heading": "On-Time Delivery",
+        "content_body": [
+          {
+            "id": 0,
+            "type": "feature_row",
+            "key": "delivery_features",
+            "items": [
+              {
+                "id": 1,
+                "icon": "speed",
+                "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_delivery-flash.png",
+                "text": "Speed you can count on"
+              },
+              {
+                "id": 2,
+                "icon": "clock",
+                "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_clock.png",
+                "text": "On time or on us"
+              },
+              {
+                "id": 3,
+                "icon": "location",
+                "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_location.png",
+                "text": "Know where it is, anytime"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "type": "info",
+            "key": "delivery_description",
+            "heading": "On-Time Delivery",
+            "body": "At AIVI, we understand how important it is for your order to arrive on time. That’s why we’re committed to delivering your purchases promptly, every time. If, for any reason within our control, your order doesn’t arrive by the promised date, you’ll be eligible for a refund of your shipping fee. The amount will be credited to My Cash."
+          },
+          {
+            "id": 2,
+            "type": "steps",
+            "key": "terms_and_conditions",
+            "bulletType": "dots",
+            "heading": "Terms & Conditions",
+            "body": {
+              "points": [
+                {
+                  "id": 1,
+                  "desc": "The estimated delivery date corresponds to the date selected at checkout."
+                },
+                {
+                  "id": 2,
+                  "desc": "Orders must be delivered to the exact address provided during checkout."
+                },
+                {
+                  "id": 3,
+                  "desc": "Estimated delivery dates may vary from product to product or brand to brand, and exact delivery information will be shown during checkout with each order."
+                },
+                {
+                  "id": 4,
+                  "desc": "If our delivery partner attempts delivery or offers a confirmed delivery appointment on or before the promised date, it will be considered an on-time delivery."
+                },
+                {
+                  "id": 5,
+                  "desc": "Orders will not be eligible for a refund due to delayed delivery if the delivery partner has already made at least one delivery attempt."
+                },
+                {
+                  "id": 6,
+                  "desc": "Refunds for delayed orders (where applicable) will be processed within 2 days and credited to AIVI My Cash."
+                },
+                {
+                  "id": 7,
+                  "desc": "Order tracking information will be shared via email and/or Push/WhatsApp notifications once the order is dispatched."
+                },
+                {
+                  "id": 8,
+                  "desc": "Customers must ensure their delivery address and phone number are correct; we are not responsible for failed deliveries or refunds if incorrect information is provided."
+                },
+                {
+                  "id": 9,
+                  "desc": "Our delivery agent will attempt to contact you twice. If there is no response, the order will be marked as undeliverable and will not be eligible for refund."
+                },
+                {
+                  "id": 10,
+                  "desc": "In some cases, items from a single order may arrive in multiple shipments depending on availability and location. Refund shall be applicable only for the particular item in the order which has been delivered late."
+                },
+                {
+                  "id": 11,
+                  "desc": "The T&C are subject to change. Customers are requested to check the T&C page for the latest version."
+                }
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "type": "info",
+            "key": "please_note",
+            "heading": "Please note",
+            "body": "Unforeseen events such as strikes, extreme weather conditions, natural disasters, or government-imposed restrictions may affect delivery timelines and are beyond our control. If you have any questions or need assistance, our Customer Care team is always here to help."
+          }
+        ]
+      },
+      "returnPolicyPage": {
+        "key": "returnPolicy",
+        "heading": "Return Policy",
+        "content_body": [
+          {
+            "id": 0,
+            "type": "accordion",
+            "key": "secure_payment_options",
+            "heading": "Secure Payment Options",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "secure_payment_options_text",
+                "text": "AIVI is committed to ensuring your satisfaction with any merchandise you have ordered from us. At www.AIVI.com we offer an EASY 14-DAYS RETURN OR EXCHANGE policy. If you are not entirely satisfied with your purchase, you may exchange or return most items bought from www.AIVI.com."
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "type": "accordion",
+            "key": "discounted_products",
+            "heading": "Promotional Offers or Discounted Scheme Products Cannot be Exchanged",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "discounted_products_text",
+                "text": [
+                  "If you are not entirely satisfied with your purchase from AIVI you will be provided with a Credit Note of your Purchase Value if you have paid via Cash on Delivery which is redeemable only Online at www.AIVI.com.",
+                  "Kindly Note: Credit Note will be valid for six months from the date of issue. This code can be redeemed only one time, it cannot be use partially. You can use this credit note for the purchase of same value or higher value. In the unlikely event that any merchandise you have ordered from us is not received in good condition, is damaged or defective, or if merchandise delivered is different from what you had expected, you may return the merchandise unused condition as you received it, in its original packaging along with original tags, for a return or an exchange, within 14 days from the date on which these goods are delivered."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "type": "accordion",
+            "key": "how_to_return_merchandise",
+            "heading": "How to Return Merchandise",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "how_to_return_merchandise_text",
+                "text": "Before accepting delivery of any merchandise, please confirm/ ensure that the packaging has not been damaged or tampered with. If you think that the merchandise is not in good condition, or if the packaging is tampered with or damaged, before accepting delivery of the merchandise, then refuse to take delivery of the package, and call our Customer Care at (048142666) or e-mail us at customercare@aivi.com mentioning your order reference number. We shall replace delivery is made to you at the earliest.If you return any merchandise which is delivered to you in damaged condition, we will refund the shipping charges for that merchandise, if we are not able to replace the merchandise. The replacement merchandise will be shipped at no additional charges.We ensure that you are fully satisfied with any merchandise you order from www.AIVI.com, for hygiene and other reasons we shall be unable to accept returns or exchanges of fragrances, cosmetics, innerwear (under garments, lingerie), gift vouchers and any made to order or altered merchandise."
+              },
+              {
+                "id": 1,
+                "type": "steps",
+                "key": "return_steps",
+                "bulletType": "dots",
+                "body": {
+                  "points": [
+                    {
+                      "id": 1,
+                      "desc": "To return an item using the app/web, follow these steps:",
+                      "subBulletType": "number",
+                      "subPoints": [
+                        {
+                          "id": 1,
+                          "desc": "Go to \"My Orders.\""
+                        },
+                        {
+                          "id": 2,
+                          "desc": "Select the order you wish to return."
+                        },
+                        {
+                          "id": 3,
+                          "desc": "Tap on \"Return/Exchange.\""
+                        },
+                        {
+                          "id": 4,
+                          "desc": "Choose the item you want to return and the reason for the return."
+                        },
+                        {
+                          "id": 5,
+                          "desc": "Select your preferred refund method."
+                        },
+                        {
+                          "id": 6,
+                          "desc": "Tap on \"Return Item\" to complete the process."
+                        }
+                      ]
+                    },
+                    {
+                      "id": 2,
+                      "desc": "Before initiating a return, please verify that the product is eligible for return by checking the product highlights."
+                    },
+                    {
+                      "id": 3,
+                      "desc": "Most merchandise is returnable in our stores and to check which merchandise items cannot be returned in our stores please call our customer care on +971-48142666."
+                    },
+                    {
+                      "id": 4,
+                      "desc": "You can also visit the nearest respective CLUB AIVI store in United Arab Emirates, and return the merchandise in unused, saleable condition, along with the original sale invoice."
+                    },
+                    {
+                      "id": 5,
+                      "desc": "You may call AIVI.com customer support care at on +971-48142666, and request a return or exchange. We will arrange for the merchandise to be collected from the delivery address through courier, and returned to us. We shall process the return subject to receipt of the merchandise at our location in unused condition in its original packaging along with original tags and invoice, failing which return/exchange/refund may not be possible."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "type": "accordion",
+            "key": "courier_collection",
+            "heading": "Returns/Exchanges Through Courier Collection",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "courier_collection_text",
+                "text": [
+                  "Return \n",
+                  "You can return an item within 14-days of the purchase. Refunds for return requests will be processed within 7 working days upon receipt of the unused merchandise along with the original sales invoice. If a cancellation occurs, refunds for credit card payments will be credited back to the original credit card account used for the initial order. Please note that any delays in crediting the cardholder's account are beyond our control and are managed by the issuing bank. For Cash on Delivery (COD) transactions, returned items will result in store credit, which can be utilized for online purchases at AIVI.com. Keep in mind that store credit is valid for one year from the date of issuance. \n",
+                  "Exchange \n",
+                  "Exchange is only available for items with an identical value to the merchandise being exchanged. You can exchange an item for a different size or color directly on the application or website or through Customer Care. Once the items have been picked up and reach our warehouse (usually within 48 to 72 hours); we will ship out your exchange items upon thorough inspection of the returned items. Please ensure the items are unused and in good condition with original tags and packaging intact. Please note, items shopped from our international partners are not eligible for exchange, only for returns."
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "type": "accordion",
+            "key": "modification_of_terms",
+            "heading": "Modification of Terms and Conditions of Exchanges and Returns Policy",
+            "content_body": [
+              {
+                "id": 0,
+                "type": "text",
+                "key": "modification_of_terms_text",
+                "text": "AIVI.com may at any time modify the User Agreement without any prior notification to you. Management decision of the www.AIVI.com would be the final decision Subsequent to any modification of the User Agreement; we will inform you of the modifications in the User Agreement via e-mail at the address provided by you while registering on www.AIVI.com. In the event the modified User Agreement is not acceptable to you, you should discontinue using the service. However, if you continue to use the service you shall be deemed to have agreed to accept and abide by the modified User Agreement."
+              }
+            ]
+          }
+        ]
+      },
+      "priceAssurance": {
+        "key": "priceAssurance",
+        "heading": "Price Assurance",
+        "content_body": [
+          {
+            "id": 0,
+            "type": "info",
+            "key": "about_price_assurance",
+            "heading": "AIVI Price Assurance",
+            "body": "At AIVI, we promise the best deal every time. If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
+          },
+          {
+            "id": 2,
+            "type": "steps",
+            "key": "term_and_condition",
+            "bulletType": "dots",
+            "heading": "Terms & Conditions",
+            "body": {
+              "points": [
+                {
+                  "id": 1,
+                  "desc": "Applicable only on products listed on online stores or AIVI Phygital Store."
+                },
+                {
+                  "id": 2,
+                  "desc": "Applies to identical products only — same brand, color, size, and style. Variations are not eligible."
+                },
+                {
+                  "id": 3,
+                  "desc": "All products listed on AIVI are eligible for price assurance."
+                },
+                {
+                  "id": 4,
+                  "desc": "The lower price must be in the same currency (AED, SAR, OMR, KWD, BHD, QAR)."
+                },
+                {
+                  "id": 5,
+                  "desc": "Claims must be submitted within 2 days of delivery and only after the payment is made by the Customer."
+                },
+                {
+                  "id": 6,
+                  "desc": "Price assurance is based on the individual item price, not the total order value."
+                },
+                {
+                  "id": 7,
+                  "desc": "If the product is subject to sale on AIVI within 2 days of delivery, only the difference from the sale pricing shall be refundable — as long as the size and color match your purchase."
+                },
+                {
+                  "id": 8,
+                  "desc": "A customer is entitled to claim the AIVI Price Assurance only one time for each product purchased. Further price drops after a claim is approved do not qualify for any refund."
+                },
+                {
+                  "id": 9,
+                  "desc": "Once an item has been price assured, it will no longer be eligible for return."
+                },
+                {
+                  "id": 10,
+                  "desc": "The T&C are subject to change. Customers are requested to check the T&C page for the latest version."
+                }
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "type": "steps",
+            "bulletType": "number",
+            "key": "how_to_claim",
+            "heading": "How to Claim",
+            "body": {
+              "points": [
+                {
+                  "id": 1,
+                  "desc": "Log in to your AIVI account."
+                },
+                {
+                  "id": 2,
+                  "desc": "Navigate to My Account > Price Assurance > Raise a Request."
+                },
+                {
+                  "id": 3,
+                  "desc": "Select the product, enter the lower price, upload a screenshot, and provide the product link."
+                },
+                {
+                  "id": 4,
+                  "desc": "Our team will review the request. If approved, the difference will be credited to your My Cash within 48 hours."
+                },
+                {
+                  "id": 5,
+                  "desc": "You can track the status under My Account > Price Assurance > Past Requests."
+                }
+              ]
+            }
+          },
+          {
+            "id": 4,
+            "type": "info",
+            "key": "you_info_is_safe",
+            "heading": "Your Information Is Safe",
+            "body": "At AIVI, we promise the best deal every time. If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
+          }
+        ]
+      }
+    }
+  }
+}

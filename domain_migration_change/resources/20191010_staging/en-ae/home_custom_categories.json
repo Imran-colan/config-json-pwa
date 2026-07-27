@@ -1,0 +1,17 @@
+{
+  "all": {
+    "is_enabled": true,
+    "label": "All",
+    "file": "all.json"
+  },
+  "beauty": {
+    "is_enabled": true,
+    "label": "Beauty",
+    "file": "home_beauty_women.json"
+  },
+  "home": {
+    "is_enabled": true,
+    "label": "Home",
+    "file": "home.json"
+  }
+}

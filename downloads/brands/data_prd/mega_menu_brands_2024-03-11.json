@@ -1,0 +1,1142 @@
+{
+  "AE": [
+    {
+      "KIDS": [
+        {
+          "en_brand": "LC Waikiki",
+          "ar_brand": "اٍل سي واي كيكي",
+          "url_path": "lc-waikiki",
+          "rk": "6"
+        },
+        {
+          "en_brand": "NAME IT",
+          "ar_brand": "نيم ات",
+          "url_path": "name-it",
+          "rk": "10"
+        },
+        {
+          "en_brand": "DeFacto",
+          "ar_brand": "ديفاكتو",
+          "url_path": "defacto",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Crocs",
+          "ar_brand": "كروكس",
+          "url_path": "crocs",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Polo Ralph Lauren",
+          "ar_brand": "بولو رالف لورين",
+          "url_path": "polo-ralph-lauren",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Ddaniela",
+          "ar_brand": "ددانييلا",
+          "url_path": "ddaniela",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Michael Kors",
+          "ar_brand": "مايكل كورس",
+          "url_path": "michael-kors",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "3"
+        },
+        {
+          "en_brand": "The Children's Place",
+          "ar_brand": "ذا تشيلدرنز بليس",
+          "url_path": "the-childrens-place",
+          "rk": "5"
+        },
+        {
+          "en_brand": "HIS & HERS",
+          "ar_brand": "هيز آند هيرز",
+          "url_path": "his-hers",
+          "rk": "7"
+        }
+      ],
+      "MEN": [
+        {
+          "en_brand": "Amal Ibrahim",
+          "ar_brand": "أمل إبراهيم",
+          "url_path": "amal-ibrahim",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Crocs",
+          "ar_brand": "كروكس",
+          "url_path": "crocs",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Levi's",
+          "ar_brand": "ليفايز",
+          "url_path": "levis",
+          "rk": "8"
+        },
+        {
+          "en_brand": "On",
+          "ar_brand": "اون",
+          "url_path": "on-running",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Adidas",
+          "ar_brand": "اديداس",
+          "url_path": "adidas",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "10"
+        }
+      ],
+      "WOMEN": [
+        {
+          "en_brand": "HIS & HERS",
+          "ar_brand": "هيز آند هيرز",
+          "url_path": "his-hers",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Steve Madden",
+          "ar_brand": "ستيف مادن",
+          "url_path": "steve-madden",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "1"
+        },
+        {
+          "en_brand": "boohoo",
+          "ar_brand": "بوهو",
+          "url_path": "boohoo",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Charles & Keith",
+          "ar_brand": "تشارلز آند كيث",
+          "url_path": "charles-keith",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Nine West",
+          "ar_brand": "ناين وست",
+          "url_path": "nine-west",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Dune London",
+          "ar_brand": "ديون لندن",
+          "url_path": "dune-london",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Ardene",
+          "ar_brand": "اردين",
+          "url_path": "ardene",
+          "rk": "9"
+        }
+      ]
+    }
+  ],
+  "BH": [
+    {
+      "KIDS": [
+        {
+          "en_brand": "Koton",
+          "ar_brand": "كوتون",
+          "url_path": "koton",
+          "rk": "8"
+        },
+        {
+          "en_brand": "LC Waikiki",
+          "ar_brand": "اٍل سي واي كيكي",
+          "url_path": "lc-waikiki",
+          "rk": "7"
+        },
+        {
+          "en_brand": "U.S. POLO ASSN.",
+          "ar_brand": "يو اس بولو اسن.",
+          "url_path": "u-s-polo-assn",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Asics",
+          "ar_brand": "اسيكس",
+          "url_path": "asics",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Michael Kors",
+          "ar_brand": "مايكل كورس",
+          "url_path": "michael-kors",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Nike",
+          "ar_brand": "نايكي",
+          "url_path": "nike",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Polo Ralph Lauren",
+          "ar_brand": "بولو رالف لورين",
+          "url_path": "polo-ralph-lauren",
+          "rk": "3"
+        },
+        {
+          "en_brand": "The Children's Place",
+          "ar_brand": "ذا تشيلدرنز بليس",
+          "url_path": "the-childrens-place",
+          "rk": "6"
+        }
+      ],
+      "MEN": [
+        {
+          "en_brand": "Adidas",
+          "ar_brand": "اديداس",
+          "url_path": "adidas",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Jack & Jones",
+          "ar_brand": "جاك آند جونز",
+          "url_path": "jack-jones",
+          "rk": "9"
+        },
+        {
+          "en_brand": "U.S. POLO ASSN.",
+          "ar_brand": "يو اس بولو اسن.",
+          "url_path": "u-s-polo-assn",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Calvin Klein",
+          "ar_brand": "كالفين كلاين",
+          "url_path": "calvin-klein",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Lacoste",
+          "ar_brand": "لاكوست",
+          "url_path": "lacoste",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Levi's",
+          "ar_brand": "ليفايز",
+          "url_path": "levis",
+          "rk": "8"
+        }
+      ],
+      "WOMEN": [
+        {
+          "en_brand": "Nine West",
+          "ar_brand": "ناين وست",
+          "url_path": "nine-west",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Dune London",
+          "ar_brand": "ديون لندن",
+          "url_path": "dune-london",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Ardene",
+          "ar_brand": "اردين",
+          "url_path": "ardene",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Michael Kors",
+          "ar_brand": "مايكل كورس",
+          "url_path": "michael-kors",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Charles & Keith",
+          "ar_brand": "تشارلز آند كيث",
+          "url_path": "charles-keith",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Steve Madden",
+          "ar_brand": "ستيف مادن",
+          "url_path": "steve-madden",
+          "rk": "2"
+        },
+        {
+          "en_brand": "boohoo",
+          "ar_brand": "بوهو",
+          "url_path": "boohoo",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "9"
+        }
+      ]
+    }
+  ],
+  "KW": [
+    {
+      "KIDS": [
+        {
+          "en_brand": "Levi's Kids",
+          "ar_brand": "ليفايز كيدز",
+          "url_path": "levi-s-kids",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "1"
+        },
+        {
+          "en_brand": "The Children's Place",
+          "ar_brand": "ذا تشيلدرنز بليس",
+          "url_path": "the-childrens-place",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Koton",
+          "ar_brand": "كوتون",
+          "url_path": "koton",
+          "rk": "7"
+        },
+        {
+          "en_brand": "R&B Kids",
+          "ar_brand": "آر أند بي كيدز",
+          "url_path": "r-b-kids",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Birkenstock",
+          "ar_brand": "بيركنستوك",
+          "url_path": "birkenstock",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Michael Kors",
+          "ar_brand": "مايكل كورس",
+          "url_path": "michael-kors",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Levi's",
+          "ar_brand": "ليفايز",
+          "url_path": "levis",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "2"
+        },
+        {
+          "en_brand": "LC Waikiki",
+          "ar_brand": "اٍل سي واي كيكي",
+          "url_path": "lc-waikiki",
+          "rk": "6"
+        }
+      ],
+      "MEN": [
+        {
+          "en_brand": "Tommy Hilfiger",
+          "ar_brand": "تومي هيلفيغر",
+          "url_path": "tommy-hilfiger",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Levi's",
+          "ar_brand": "ليفايز",
+          "url_path": "levis",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Steve Madden",
+          "ar_brand": "ستيف مادن",
+          "url_path": "steve-madden",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Koton",
+          "ar_brand": "كوتون",
+          "url_path": "koton",
+          "rk": "10"
+        },
+        {
+          "en_brand": "LC Waikiki",
+          "ar_brand": "اٍل سي واي كيكي",
+          "url_path": "lc-waikiki",
+          "rk": "9"
+        }
+      ],
+      "WOMEN": [
+        {
+          "en_brand": "Dune London",
+          "ar_brand": "ديون لندن",
+          "url_path": "dune-london",
+          "rk": "4"
+        },
+        {
+          "en_brand": "essence",
+          "ar_brand": "ايسنس",
+          "url_path": "essence",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Steve Madden",
+          "ar_brand": "ستيف مادن",
+          "url_path": "steve-madden",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Charles & Keith",
+          "ar_brand": "تشارلز آند كيث",
+          "url_path": "charles-keith",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "8"
+        },
+        {
+          "en_brand": "boohoo",
+          "ar_brand": "بوهو",
+          "url_path": "boohoo",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Karen Millen",
+          "ar_brand": "كارن ميلين",
+          "url_path": "karen-millen",
+          "rk": "2"
+        }
+      ]
+    }
+  ],
+  "OM": [
+    {
+      "KIDS": [
+        {
+          "en_brand": "NAME IT",
+          "ar_brand": "نيم ات",
+          "url_path": "name-it",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Polo Ralph Lauren",
+          "ar_brand": "بولو رالف لورين",
+          "url_path": "polo-ralph-lauren",
+          "rk": "3"
+        },
+        {
+          "en_brand": "The Children's Place",
+          "ar_brand": "ذا تشيلدرنز بليس",
+          "url_path": "the-childrens-place",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Ddaniela",
+          "ar_brand": "ددانييلا",
+          "url_path": "ddaniela",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Koton",
+          "ar_brand": "كوتون",
+          "url_path": "koton",
+          "rk": "7"
+        },
+        {
+          "en_brand": "R&B Kids",
+          "ar_brand": "آر أند بي كيدز",
+          "url_path": "r-b-kids",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Michael Kors",
+          "ar_brand": "مايكل كورس",
+          "url_path": "michael-kors",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Asics",
+          "ar_brand": "اسيكس",
+          "url_path": "asics",
+          "rk": "4"
+        },
+        {
+          "en_brand": "LC Waikiki",
+          "ar_brand": "اٍل سي واي كيكي",
+          "url_path": "lc-waikiki",
+          "rk": "8"
+        }
+      ],
+      "MEN": [
+        {
+          "en_brand": "Puma",
+          "ar_brand": "بوما",
+          "url_path": "puma",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "6"
+        },
+        {
+          "en_brand": "HIS & HERS",
+          "ar_brand": "هيز آند هيرز",
+          "url_path": "his-hers",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Asics",
+          "ar_brand": "اسيكس",
+          "url_path": "asics",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Adidas",
+          "ar_brand": "اديداس",
+          "url_path": "adidas",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Crocs",
+          "ar_brand": "كروكس",
+          "url_path": "crocs",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Hoka",
+          "ar_brand": "هوكا",
+          "url_path": "hoka",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Niran",
+          "ar_brand": "نيران",
+          "url_path": "niran",
+          "rk": "9"
+        }
+      ],
+      "WOMEN": [
+        {
+          "en_brand": "Dune London",
+          "ar_brand": "ديون لندن",
+          "url_path": "dune-london",
+          "rk": "4"
+        },
+        {
+          "en_brand": "boohoo",
+          "ar_brand": "بوهو",
+          "url_path": "boohoo",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Tyra",
+          "ar_brand": "تايرا",
+          "url_path": "tyra",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Steve Madden",
+          "ar_brand": "ستيف مادن",
+          "url_path": "steve-madden",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Guess",
+          "ar_brand": "جيس",
+          "url_path": "guess",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Call It Spring",
+          "ar_brand": "كول ات سبرنج",
+          "url_path": "spring",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Charles & Keith",
+          "ar_brand": "تشارلز آند كيث",
+          "url_path": "charles-keith",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Nine West",
+          "ar_brand": "ناين وست",
+          "url_path": "nine-west",
+          "rk": "2"
+        }
+      ]
+    }
+  ],
+  "QA": [
+    {
+      "KIDS": [
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "8"
+        },
+        {
+          "en_brand": "The Children's Place",
+          "ar_brand": "ذا تشيلدرنز بليس",
+          "url_path": "the-childrens-place",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Michael Kors",
+          "ar_brand": "مايكل كورس",
+          "url_path": "michael-kors",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Crocs",
+          "ar_brand": "كروكس",
+          "url_path": "crocs",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Levi's Kids",
+          "ar_brand": "ليفايز كيدز",
+          "url_path": "levi-s-kids",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Adidas",
+          "ar_brand": "اديداس",
+          "url_path": "adidas",
+          "rk": "5"
+        },
+        {
+          "en_brand": "LC Waikiki",
+          "ar_brand": "اٍل سي واي كيكي",
+          "url_path": "lc-waikiki",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Polo Ralph Lauren",
+          "ar_brand": "بولو رالف لورين",
+          "url_path": "polo-ralph-lauren",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Hush Puppies",
+          "ar_brand": "هاش بابيز",
+          "url_path": "hush-puppies",
+          "rk": "9"
+        }
+      ],
+      "MEN": [
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Crocs",
+          "ar_brand": "كروكس",
+          "url_path": "crocs",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Adidas",
+          "ar_brand": "اديداس",
+          "url_path": "adidas",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Levi's",
+          "ar_brand": "ليفايز",
+          "url_path": "levis",
+          "rk": "8"
+        },
+        {
+          "en_brand": "LC Waikiki",
+          "ar_brand": "اٍل سي واي كيكي",
+          "url_path": "lc-waikiki",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Clarks",
+          "ar_brand": "كلاركس ",
+          "url_path": "clarks",
+          "rk": "2"
+        }
+      ],
+      "WOMEN": [
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "9"
+        },
+        {
+          "en_brand": "La Vie en Rose",
+          "ar_brand": "لافي ان روز",
+          "url_path": "la-vie-en-rose",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Charles & Keith",
+          "ar_brand": "تشارلز آند كيث",
+          "url_path": "charles-keith",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Steve Madden",
+          "ar_brand": "ستيف مادن",
+          "url_path": "steve-madden",
+          "rk": "3"
+        },
+        {
+          "en_brand": "boohoo",
+          "ar_brand": "بوهو",
+          "url_path": "boohoo",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Dune London",
+          "ar_brand": "ديون لندن",
+          "url_path": "dune-london",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Nine West",
+          "ar_brand": "ناين وست",
+          "url_path": "nine-west",
+          "rk": "8"
+        }
+      ]
+    }
+  ],
+  "SA": [
+    {
+      "KIDS": [
+        {
+          "en_brand": "Polo Ralph Lauren",
+          "ar_brand": "بولو رالف لورين",
+          "url_path": "polo-ralph-lauren",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Puma",
+          "ar_brand": "بوما",
+          "url_path": "puma",
+          "rk": "7"
+        },
+        {
+          "en_brand": "DeFacto",
+          "ar_brand": "ديفاكتو",
+          "url_path": "defacto",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Adidas",
+          "ar_brand": "اديداس",
+          "url_path": "adidas",
+          "rk": "2"
+        },
+        {
+          "en_brand": "HIS & HERS",
+          "ar_brand": "هيز آند هيرز",
+          "url_path": "his-hers",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Marks & Spencer",
+          "ar_brand": "ماركس و سبنسر",
+          "url_path": "marks-spencer",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Michael Kors",
+          "ar_brand": "مايكل كورس",
+          "url_path": "michael-kors",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Crocs",
+          "ar_brand": "كروكس",
+          "url_path": "crocs",
+          "rk": "8"
+        }
+      ],
+      "MEN": [
+        {
+          "en_brand": "Clarks",
+          "ar_brand": "كلاركس ",
+          "url_path": "clarks",
+          "rk": "3"
+        },
+        {
+          "en_brand": "Skechers",
+          "ar_brand": "سكيتشرز",
+          "url_path": "skechers",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Levi's",
+          "ar_brand": "ليفايز",
+          "url_path": "levis",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Adidas",
+          "ar_brand": "اديداس",
+          "url_path": "adidas",
+          "rk": "1"
+        },
+        {
+          "en_brand": "On",
+          "ar_brand": "اون",
+          "url_path": "on-running",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Tommy Hilfiger",
+          "ar_brand": "تومي هيلفيغر",
+          "url_path": "tommy-hilfiger",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "10"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "6"
+        }
+      ],
+      "WOMEN": [
+        {
+          "en_brand": "boohoo",
+          "ar_brand": "بوهو",
+          "url_path": "boohoo",
+          "rk": "6"
+        },
+        {
+          "en_brand": "Aldo",
+          "ar_brand": "ألدو",
+          "url_path": "aldo",
+          "rk": "5"
+        },
+        {
+          "en_brand": "Dune London",
+          "ar_brand": "ديون لندن",
+          "url_path": "dune-london",
+          "rk": "8"
+        },
+        {
+          "en_brand": "Adidas",
+          "ar_brand": "اديداس",
+          "url_path": "adidas",
+          "rk": "4"
+        },
+        {
+          "en_brand": "Trendyol ",
+          "ar_brand": "ترينديول",
+          "url_path": "trendyol",
+          "rk": "7"
+        },
+        {
+          "en_brand": "Aeropostale",
+          "ar_brand": " ايروبوستال",
+          "url_path": "aeropostale",
+          "rk": "10"
+        },
+        {
+          "en_brand": "HIS & HERS",
+          "ar_brand": "هيز آند هيرز",
+          "url_path": "his-hers",
+          "rk": "9"
+        },
+        {
+          "en_brand": "Beverly Hills Polo Club",
+          "ar_brand": "بيفرلي هيلز بولو كلوب",
+          "url_path": "beverly-hills-polo-club",
+          "rk": "1"
+        },
+        {
+          "en_brand": "Karen Millen",
+          "ar_brand": "كارن ميلين",
+          "url_path": "karen-millen",
+          "rk": "2"
+        },
+        {
+          "en_brand": "Steve Madden",
+          "ar_brand": "ستيف مادن",
+          "url_path": "steve-madden",
+          "rk": "3"
+        }
+      ]
+    }
+  ]
+}

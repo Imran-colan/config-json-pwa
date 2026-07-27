@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 25,
+      "promotion_name": "Kids-En",
+      "tag": "Home-New Carousel-1",
+      "items": [
+        {
+          "promotion_name": "Skechers",
+          "tag": "Skechers",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Skechers_Men.jpg",
+          "link": "/skechers.html?q=Skechers&p=0&dFR[brand_name][0]=Skechers&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "LC Waikiki",
+          "tag": "LC Waikiki",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/LCW_Kids.jpg",
+          "link": "/kids/clothing.html?q=Kids+Clothing&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Infant%2CUnisex%2CGirl%2CBoy%2CBaby+Girl%2CBaby+Boy&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Crocs",
+          "tag": "Crocs",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Crocs_Men.jpg",
+          "link": "/kids/footwear.html?q=Kids+Footwear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CUnisex&dFR%5Bbrand_name%5D%5B0%5D=Crocs",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "The Children'S Place",
+          "tag": "The Children'S Place",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/TCP.jpg",
+          "link": "/the-childrens-place.html?q=The%20Children%27s%20Place&p=0&dFR[brand_name][0]=The%20Children%27s%20Place&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Adidas",
+          "tag": "Adidas",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Adidas_Men.jpg",
+          "link": "/kids/kids-accessories.html?q=Kids+Kids+Accessories&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Kids+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Baby+Boy%2CBaby+Girl%2CBoy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Polo Ralph Lauren",
+          "tag": "Polo Ralph Lauren",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/POLO.jpg",
+          "link": "/polo-ralph-lauren.html?q=Polo%20Ralph%20Lauren&p=0&dFR[brand_name][0]=Polo%20Ralph%20Lauren&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        }
+      ]
+    }
+  ]
+}

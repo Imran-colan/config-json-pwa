@@ -1,0 +1,1373 @@
+{
+  "data": [
+    {
+      "key": "new_in",
+      "label": "New IN",
+      "link": "/women/new-in.html?q=Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women",
+      "design": {
+        "background_color": "#CBB479",
+        "text_color": "#CBB479"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Brand+Logo+Page/Crocs/women_summer_first+banner.jpg",
+          "description": "AW21 Collection",
+          "button_label": "Shop Now",
+          "link": "/aw-21.html?q=AW+21&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=AW+21&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/aldo.html?q=Aldo&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Aldo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=aldo&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "Dune London",
+              "link": "/dune-london.html?q=Dune+London&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Dune+London&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/charles-keith.html?q=Charles+%26+Keith&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Charles+%26+Keith&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=charles-keith&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/adidas.html?q=Adidas&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/skechers.html?q=Skechers&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/trendyol.jpg",
+              "label": "Trendyol",
+              "link": "/trendyol.html?q=Trendyol+&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Trendyol+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=beverly-hills-polo-club&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "Ardene",
+              "link": "/ardene.html?q=Ardene&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Ardene&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Ardene&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/crocs.html?q=Crocs&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "LC Waikiki",
+              "link": "/lc-waikiki.html?q=LC+Waikiki&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=LC+Waikiki&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "LC Waikiki"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/shoes.jpg",
+              "label": "Footwear",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Footwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/sports+shoes.jpg",
+              "label": "Sports",
+              "link": "/sports.html?q=Sports&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sports&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sports"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/bags.jpg",
+              "label": "Bags",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Clothing.jpg",
+              "label": "Clothing",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=2&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Accessories.jpg",
+              "label": "Accessories",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_lips.jpg",
+              "label": "Beauty",
+              "link": "/women/beauty.html?q=Women+Beauty&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Beauty"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Kids+Cat+Page/Clothing/MicrosoftTeams-image+(33).png",
+              "label": "Shoe Care",
+              "link": "/shoe-care.html?q=Shoe+care&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Shoe+care&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Shoe Care"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/premium.jpg",
+              "label": "Premium",
+              "link": "/catalogsearch/result/?q=+&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCole+Haan%2CTommy+Hilfiger%2CLacoste&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Premium"
+            }
+          ],
+          "button": {
+            "link": "/women/new-in.html?q=Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "New IN"
+          }
+        }
+      ]
+    },
+    {
+      "key": "shoes",
+      "label": "Shoes",
+      "link": "/women/shoes.html?q=Women%20Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Shoes/Top+Banner/sassy+sandals.jpg",
+          "description": "Sassy sandals",
+          "link": "/women/shoes/sandals.html?q=Women+Shoes+Sandals&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Sandals&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aldo",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "Dune London",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dune+London",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/birkenstock.jpg",
+              "label": "Birkenstock",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock",
+              "itemName": "Birkenstock"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/naturalizer.jpg",
+              "label": "Naturalizer",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Naturalizer",
+              "itemName": "Naturalizer"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Crocs",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/call+it+spring.jpg",
+              "label": "Call it Spring",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring",
+              "itemName": "Call It Spring"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/nine+west.jpg",
+              "label": "Nine West",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Nine+West",
+              "itemName": "Nine West"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/toms.jpg",
+              "label": "TOMS",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Toms",
+              "itemName": "TOMS"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/hush+puppies.jpg",
+              "label": "Hush Puppies",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hush+Puppies",
+              "itemName": "Hush Puppies"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/sandals+copy.jpg",
+              "label": "Sandals",
+              "link": "/women/shoes/sandals.html?q=Women%20Shoes%20Sandals&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Sandals&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Sandals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Pumps.jpg",
+              "label": "Pumps",
+              "link": "/women/shoes/pumps.html?q=Women%20Shoes%20Pumps&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Pumps&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Pumps"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/sneaker.jpg",
+              "label": "Sneakers",
+              "link": "/women/shoes/trainers.html?q=Women%20Shoes%20Trainers&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Trainers&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/flats.jpg",
+              "label": "Flats",
+              "link": "/women/shoes/flats.html?q=Women%20Shoes%20Flats&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Flats&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Flats"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Mules.jpg",
+              "label": "Mules",
+              "link": "/women/shoes/mules.html?q=Women%20Shoes%20Mules&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Mules&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Mules"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Comfort+Shoes.jpg",
+              "label": "Comfort",
+              "link": "/women/shoes/comfort-shoes.html?q=Women%20Shoes%20Comfort&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Comfort&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Comfort"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Wedges.jpg",
+              "label": "Wedges",
+              "link": "/women/shoes/wedges.html?q=Women%20Shoes%20Wedges&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Wedges&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Wedges"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Flip+Flops.jpg",
+              "label": "Flip Flops",
+              "link": "/women/shoes/flip-flops.html?q=Women%20Shoes%20Flip%20Flops&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Flip%20Flops&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Flip Flops"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Ballerinas+%26+Loafers.jpg",
+              "label": "Ballerinas & Loafers",
+              "link": "/women/shoes/ballerinas.html?q=Women%20Shoes%20Ballerinas&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Ballerinas&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Ballerinas & Loafers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Boots.jpg",
+              "label": "Boots",
+              "link": "/women/shoes/boots.html?q=Women+Shoes+Boots&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Boots&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Boots"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Kids+Cat+Page/Clothing/MicrosoftTeams-image+(33).png",
+              "label": "Shoe Care",
+              "link": "/shoe-care.html?q=Shoe+care&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Shoe+care&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen",
+              "itemName": "Shoe Care"
+            }
+          ],
+          "button": {
+            "link": "/women/shoes.html?q=Women%20Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+            "plp_title": "Shoes"
+          }
+        }
+      ]
+    },
+    {
+      "key": "bags",
+      "label": "Bags",
+      "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/bling+bling.jpg",
+          "description": "Bling bling",
+          "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bcolorfamily%5D%5B0%5D=Metallic%2CRose+Gold%2CSilver%2CGold"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "Dune London",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dune+London",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/nine+west.jpg",
+              "label": "Nine West",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Nine+West",
+              "itemName": "Nine West"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/call+it+spring.jpg",
+              "label": "Call it Spring",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring",
+              "itemName": "Call it Spring"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/herschel.jpg",
+              "label": "Herschel",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Herschel",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/naturalizer.jpg",
+              "label": "Naturalizer",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Naturalizer",
+              "itemName": "Naturalizer"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/parfois.jpg",
+              "label": "Parfois",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Parfois",
+              "itemName": "Parfois"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/Jansport-Logo-260X260-04212017.jpg",
+              "label": "Jansport",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Jansport",
+              "itemName": "Jansport"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_cross+body.jpg",
+              "label": "Cross Body Bags",
+              "link": "/women/bags.html?q=Women%20Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Bags%20%2F%2F%2F%20Cross%20Body%20Bag&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Cross Body Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_tote+bags.jpg",
+              "label": "Totes",
+              "link": "/women/bags/totes.html?q=Women%20Bags%20Totes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Bags%20%2F%2F%2F%20Totes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Totes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_shoulder+bag.jpg",
+              "label": "Shoulder Bags",
+              "link": "/women/bags/shoulder-bags.html?q=Women%20Bags%20Shoulder%20bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Bags%20%2F%2F%2F%20Shoulder%20bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Shoulder Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_backpack.jpg",
+              "label": "Backpacks",
+              "link": "/women/bags/backpacks.html?q=Women%20Bags%20Backpacks&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Bags%20%2F%2F%2F%20Backpacks&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Backpacks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_clutches.jpg",
+              "label": "Clutches",
+              "link": "/women/bags/clutches.html?q=Women%20Bags%20Clutches&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Bags%20%2F%2F%2F%20Clutches&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Clutches"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_wallet.jpg",
+              "label": "Wallets",
+              "link": "/women/accessories/wallets.html?q=Women%20Accessories%20Wallets&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Accessories%20%2F%2F%2F%20Wallets&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Wallets"
+            }
+          ],
+          "button": {
+            "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+            "plp_title": "Bags"
+          }
+        }
+      ]
+    },
+    {
+      "key": "sports",
+      "label": "Sports",
+      "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/MicrosoftTeams-image+(15).png",
+          "description": "Sneaker station",
+          "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers&dFR%5Bgender%5D%5B0%5D=Women"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/adidas.html?q=Adidas&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Adidas",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/skechers.html?q=Skechers&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/nike.jpg",
+              "label": "Nike",
+              "link": "/nike.html?q=Nike&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Nike",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/reebok.jpg",
+              "label": "Reebok",
+              "link": "/reebok.html?q=Reebok&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Reebok&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=reebok&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Reebok",
+              "itemName": "Reebok"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/puma.jpg",
+              "label": "Puma",
+              "link": "/puma.html?q=Puma&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Puma&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/asics.jpg",
+              "label": "Asics",
+              "link": "/asics.html?q=Asics&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Asics&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Asics"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-Nov-2020/UA+logo+300x300px.jpg",
+              "label": "Under Armour",
+              "link": "/under-armour.html?q=Under+Armour&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Under+Armour&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Under Armour"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/fila.jpg",
+              "label": "Fila",
+              "link": "/fila.html?q=Fila&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Fila&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Fila"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/anta.jpg",
+              "label": "Anta",
+              "link": "/anta.html?q=Anta&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Anta&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Anta"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/sports+shoes.jpg",
+              "label": "Sports Shoes",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bcategories_without_path%5D%5B0%5D=Trainers",
+              "itemName": "Sports Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/tees.jpg",
+              "label": "Tees",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Tops+%26+T-Shirts&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Tees "
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/pants.jpg",
+              "label": "Joggers",
+              "link": "/category-170.html?q=category+170&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=category+170&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bcategories_without_path%5D%5B0%5D=Joggers",
+              "itemName": "Track Pants"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/06-10-2021/n000004040832-1.jpg",
+              "label": "Sports Bottles",
+              "link": "/catalogsearch/result/?q=bottle&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Travel&dFR%5Bgender%5D%5B0%5D=Men%2CWomen",
+              "itemName": "Sports Bottles"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/06-10-2021/ba5883-082-1.jpg",
+              "label": "Bags",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Backpacks%2CDrawstring+Bag&dFR%5Bgender%5D%5B0%5D=Women%2CMen",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/1-2%20test/Men_Cat%201_Running.jpg",
+              "label": "Running Shoes",
+              "link": "/newrunningwomen.html?q=newrunningwomen&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=newrunningwomen&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Running Shoes"
+            }
+          ],
+          "button": {
+            "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+            "plp_title": "Sports"
+          }
+        }
+      ]
+    },
+    {
+      "key": "clothing",
+      "label": "Clothing",
+      "link": "/women/clothing.html?q=Women%20Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/tee+time.jpg",
+          "description": "Tee Time",
+          "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bcategories_without_path%5D%5B0%5D=Tops+%26+T-Shirts"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/trendyol.jpg",
+              "label": "Trendyol",
+              "link": "/trendyol.html?q=Trendyol+&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Trendyol+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "LC Waikiki",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/levis.jpg",
+              "label": "Levi's",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aeropostale.jpg",
+              "label": "Aeropostale",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "Ardene",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ardene",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/anotah+(1).jpg",
+              "label": "Anotah",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=ANOTAH",
+              "itemName": "Anotah"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/veromoda.jpg",
+              "label": "Vero Moda",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Vero+Moda",
+              "itemName": "Vero Moda"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/la+vie+en+rose.jpg",
+              "label": "La Vie en Rose",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=La+Vie+en+Rose",
+              "itemName": "La Vie en Rose"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/undiz.jpg",
+              "label": "Undiz",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Undiz",
+              "itemName": "Undiz"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/_Tops+%26+Tees.jpg",
+              "label": "Tops & Tees",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bcategories_without_path%5D%5B0%5D=Tops+%26+T-Shirts",
+              "itemName": "Tops & Tshirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Dresses.jpg",
+              "label": "Dresses",
+              "link": "/women/clothing/dresses.html?q=Women%20Clothing%20Dress&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing%20%2F%2F%2F%20Dress&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Dresses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Shirts+%26+Blouses.jpg",
+              "label": "Shirts & Blouses",
+              "link": "/women/clothing/shirts-blouses.html?q=Women%20Clothing%20Shirts%20%26%20Blouses&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing%20%2F%2F%2F%20Shirts%20%26%20Blouses&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Shirts & Blouses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Sportswear.jpg",
+              "label": "Sportswear",
+              "link": "/women/clothing/sportswear.html?q=Women%20Clothing%20Sportswear&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing%20%2F%2F%2F%20Sportswear&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Sportswear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Modest+Wear.jpg",
+              "label": "Modest Wear",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Modest+Wear%2CAbaya%2CJalabiya%2CHijab%2CArabian+Clothing&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Modest Wear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Pants.jpg",
+              "label": "Pants",
+              "link": "/women/clothing/pants.html?q=Women+Clothing+Pants&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Pants&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Pants"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Jeans.jpg",
+              "label": "Jeans",
+              "link": "/women/clothing/jeans.html?q=Women%20Clothing%20Jeans&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing%20%2F%2F%2F%20Jeans&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Jeans"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/innerwear.jpg",
+              "label": "Innerwear",
+              "link": "/women/clothing/lingerie.html?q=Women%20Clothing%20Lingerie&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing%20%2F%2F%2F%20Lingerie&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Innerwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/skirt.jpg",
+              "label": "Skirts",
+              "link": "/women/clothing/skirts.html?q=Women+Clothing+Skirts&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Skirts&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Skirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Sleepwear.jpg",
+              "label": "Sleepwear",
+              "link": "/women/clothing/sleepwear.html?q=Women+Clothing+Sleepwear&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Sleepwear&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sleepwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Shorts.jpg",
+              "label": "Shorts",
+              "link": "/women/clothing/shorts.html?q=Women+Clothing+Shorts&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Shorts&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Shorts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Sweaters+%26+Knitwear.jpg",
+              "label": "Sweaters & Knitwear",
+              "link": "/women/clothing/knitwear.html?q=Women+Clothing+Sweaters+%26+Knitwear&idx+=+enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Sweaters+%26+Knitwear&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sweaters & Knitwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/jacket.jpg",
+              "label": "Jackets",
+              "link": "/women/clothing/jackets.html?q=Women+Clothing+Jackets&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Jackets&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Jackets"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Jumpsuits.jpg",
+              "label": "Jumpsuits",
+              "link": "/women/clothing/jumpsuits.html?q=Women+Clothing+Jumpsuits&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Jumpsuits&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Jumpsuits"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Maternity+Clothing.jpg",
+              "label": "Maternity Clothing",
+              "link": "/women/clothing/maternity.html?q=Women+Clothing+Maternity+Clothing&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Maternity+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Maternity Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Swim+Wear.jpg",
+              "label": "Swim Wear",
+              "link": "/women/clothing/swimwear.html?q=Women+Clothing+Swimwear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Swimwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Swim Wear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Plus+Size.jpg",
+              "label": "Plus Size",
+              "link": "/women/clothing/plus-size.html?q=Women+Clothing+Plus+Size&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Plus+Size&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Plus Size"
+            }
+          ],
+          "button": {
+            "link": "/women/clothing.html?q=Women%20Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+            "plp_title": "Clothing"
+          }
+        }
+      ]
+    },
+    {
+      "key": "accessories",
+      "label": "Accessories",
+      "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/finishing+touches-accessories.jpg",
+          "description": "Finishing touches - jewellery",
+          "link": "/women/jewellery.html?q=Women%20Jewellery&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Jewellery&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "Dune London",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dune+London",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/herschel.jpg",
+              "label": "Herschel",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Herschel",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "Ardene",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ardene",
+              "itemName": "Ardene"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_watches.jpg",
+              "label": "Watches",
+              "link": "/women/accessories/watches.html?q=Women%20Accessories%20Watches&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Accessories%20%2F%2F%2F%20Watches&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Watch"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_sunglasses.jpg",
+              "label": "Sunglasses",
+              "link": "/women/accessories/sunglasses.html?q=Women%20Accessories%20Sunglasses&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Accessories%20%2F%2F%2F%20Sunglasses&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Sunglasses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_jewellery.jpg",
+              "label": "Jewellery",
+              "link": "/women/jewellery.html?q=Women%20Jewellery&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Jewellery&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Jewellery"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_hair+accessories.jpg",
+              "label": "Hair Accessories",
+              "link": "/women/accessories/hair-accessories.html?q=Women%20Accessories%20Hair%20accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Accessories%20%2F%2F%2F%20Hair%20accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Hair Accessory"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_belts.jpg",
+              "label": "Belts",
+              "link": "/women/accessories/belts.html?q=Women%20Accessories%20Belts&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Accessories%20%2F%2F%2F%20Belts&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Belts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Socks.jpg",
+              "label": "Socks",
+              "link": "/women/accessories/socks.html?q=Women%20Accessories%20Socks&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Accessories%20%2F%2F%2F%20Socks&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Socks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Kids+Cat+Page/Clothing/MicrosoftTeams-image+(33).png",
+              "label": "Shoe Care",
+              "link": "/shoe-care.html?q=Shoe+care&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Shoe+care&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CMen",
+              "itemName": "Shoecare"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_scarves.jpg",
+              "label": "Scarves",
+              "link": "/women/accessories/scarves.html?q=Women+Accessories+Scarves&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories+%2F%2F%2F+Scarves&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Scarves"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/MAsk.jpg",
+              "label": "Masks",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Mask&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Mask"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_hats.jpg",
+              "label": "Caps & Hats",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories+%2F%2F%2F+Caps+%26+Hats&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Caps & Hats"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Travel.jpg",
+              "label": "Travel",
+              "link": "/women/accessories/travel.html?q=Women+Accessories+Travel&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories+%2F%2F%2F+Travel&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Travel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Tech.jpg",
+              "label": "Technology",
+              "link": "/women/accessories/technology.html?q=Women+Accessories+Technology&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories+%2F%2F%2F+Technology&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Tech"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Keychain.jpg",
+              "label": "Keychains",
+              "link": "/women/accessories/key-chains.html?q=Women+Accessories+Key+chains&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories+%2F%2F%2F+Key+chains&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Keychain"
+            }
+          ],
+          "button": {
+            "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+            "plp_title": "Accessories"
+          }
+        }
+      ]
+    },
+    {
+      "key": "premium",
+      "label": "Premium",
+      "link": "/catalogsearch/result/?q=+&qid=7ace68e495ddb4280e29cd89cbbb21c2&dFR%5Bgender%5D%5B0%5D=Women&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CCalvin+Klein%2CLacoste%2CCole+Haan%2CGuess%2CSacoor+Brothers%2CKarl+Lagerfeld&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/premium.jpg",
+          "description": "Logo Love",
+          "link": "/logo-tees.html?q=Logo+Tees&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Logo+Tees&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/tommy.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/tommy-hilfiger.html?q=Tommy+Hilfiger&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tommy+Hilfiger&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=tommy-hilfiger&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/calvin+klein.jpg",
+              "label": "Calvin Klein",
+              "link": "/calvin-klein.html?q=Calvin+Klein&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Calvin+Klein&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=calvin-klein&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Kids%2CCalvin+Klein+Kids",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/lacoste.jpg",
+              "label": "Lacoste",
+              "link": "/lacoste.html?q=Lacoste&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Lacoste&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=lacoste&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/colehaan.jpg",
+              "label": "Cole Haan",
+              "link": "/cole-haan.html?q=Cole+Haan&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Cole+Haan&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Cole Haan"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/guess.jpg",
+              "label": "Guess",
+              "link": "/guess.html?q=Guess&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Guess&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=guess&dFR%5Bbrand_name%5D%5B0%5D=Guess&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/rituals.jpg",
+              "label": "Rituals",
+              "link": "/catalogsearch/result/?q=rituals&p=0",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-Nov-2020/Sacoor+Brothers+LOGO+black+300x300.jpg",
+              "label": "Sacoor Brothers",
+              "link": "/sacoor-brothers.html?q=Sacoor+Brothers&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sacoor+Brothers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=sacoor-brothers&dFR%5Bbrand_name%5D%5B0%5D=Sacoor+Brothers&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Sacoor Brothers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/karl_lagerfeld.jpg",
+              "label": "Karl Lagerfeld",
+              "link": "/karl-legerfield.html?q=Karl+Lagerfeld&p=0&dFR%5Bbrand_name%5D%5B0%5D=Karl+Lagerfeld&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Karl Lagerfeld"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_SHOES.jpg",
+              "label": "Shoes",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Guess%2CKarl+Lagerfeld%2CCalvin+Klein%2CCole+Haan%2CLacoste%2CTommy+Hilfiger%2CTommy+Jeans",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_BAGS.jpg",
+              "label": "Bags",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Guess%2CKarl+Lagerfeld%2CCalvin+Klein%2CCole+Haan%2CLacoste%2CTommy+Hilfiger%2CTommy+Jeans",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_CLOTHING.jpg",
+              "label": "Clothing",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Guess%2CKarl+Lagerfeld%2CCalvin+Klein%2CCole+Haan%2CLacoste%2CTommy+Hilfiger%2CTommy+Jeans",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_ACCESSORIES.jpg",
+              "label": "Accessories",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Guess%2CKarl+Lagerfeld%2CCalvin+Klein%2CCole+Haan%2CLacoste%2CTommy+Hilfiger%2CTommy+Jeans",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_BEAUTY.jpg",
+              "label": "Beauty",
+              "link": "/catalogsearch/result/?q=rituals&p=0",
+              "itemName": "BEauty"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_SPORTS.jpg",
+              "label": "Sports",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bsort%5D%5B0%5D=price_high",
+              "itemName": "Sports"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=+&qid=7ace68e495ddb4280e29cd89cbbb21c2&dFR%5Bgender%5D%5B0%5D=Women&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CCalvin+Klein%2CLacoste%2CCole+Haan%2CGuess%2CSacoor+Brothers%2CKarl+Lagerfeld&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+            "plp_title": "Premium"
+          }
+        }
+      ]
+    },
+    {
+      "key": "beauty",
+      "label": "Beauty",
+      "link": "/women/beauty.html?q=Women+Beauty&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/fragrances_.jpg",
+          "description": "Fragrance",
+          "link": "/signature-scents.html?q=Signature%20Scents&idx=enterprise_magento_english&p=1&hFR[categories.level0][0]=Signature%20Scents&nR[visibility_catalog][=][0]=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/rituals.jpg",
+              "label": "Rituals",
+              "link": "/rituals.html?q=Rituals&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Rituals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/inglot.jpg",
+              "label": "Inglot",
+              "link": "/inglot.html?q=Inglot&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Inglot&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=inglot&dFR%5Bbrand_name%5D%5B0%5D=Inglot",
+              "itemName": "Inglot"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/Niran.jpg",
+              "label": "Niran",
+              "link": "/niran.html?q=Niran&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Niran&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Niran"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/Loreal+.jpg",
+              "label": "L'oreal Paris",
+              "link": "/loreal.html?q=Loreal+&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Loreal+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "L'oreal Paris"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/ajmal+perfume.jpg",
+              "label": "Ajmal Perfume",
+              "link": "/ajmal-perfume.html?q=AJMAL+PERFUME&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=AJMAL+PERFUME&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=ajmal-perfume",
+              "itemName": "Ajmal Perfume"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/Sigma+Beauty.jpg",
+              "label": "Sigma Beauty",
+              "link": "/sigma-beauty.html?q=Sigma+Beauty&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sigma+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Sigma Beauty"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/SOME+BY+MI.jpg",
+              "label": "Some By Mi",
+              "link": "/some-by-mi.html?q=SOME+BY+MI&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=SOME+BY+MI&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Some By Mi"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/Swiss+Arabian.jpg",
+              "label": "Swiss Arabian",
+              "link": "/swiss-arabian.html?q=Swiss+Arabian&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Swiss+Arabian&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Swiss Arabian"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/montblanc.jpg",
+              "label": "Montblanc",
+              "link": "/montblanc.html?q=MONTBLANC&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=MONTBLANC&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=montblanc",
+              "itemName": "Montblanc"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/yves+rocher.jpg",
+              "label": "Yves Rocher",
+              "link": "/yves-rocher.html?q=Yves+Rocher&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Yves+Rocher&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=yves-rocher",
+              "itemName": "Yves Rocher"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/coach.jpg",
+              "label": "Coach",
+              "link": "/coach.html?q=COACH&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=COACH&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=coach",
+              "itemName": "Coach"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/jimmy+choo.jpg",
+              "label": "Jimmy Choo",
+              "link": "/catalogsearch/result/?q=Jimmy+Choo&p=0&dFR%5Bbrand_name%5D%5B0%5D=Jimmy+Choo",
+              "itemName": "Jimmy Choo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/calvin+klein.jpg",
+              "label": "Calvin Klein",
+              "link": "/women/beauty.html?q=Women+Beauty&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein",
+              "itemName": "Calvin Klein"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_eyes.jpg",
+              "label": "Eyes",
+              "link": "/eyemakeups.html?q=Eyemakeups&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Eyemakeups&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=",
+              "itemName": "Eyes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_face.jpg",
+              "label": "Face",
+              "link": "/beauty-face-all-edit.html?q=Beauty%20Face%20All%20Edit&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beauty%20Face%20All%20Edit&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Face"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_lips.jpg",
+              "label": "Lipsticks",
+              "link": "/beauty-lips-all-edit.html?q=Beauty-Lips-All-Edit&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beauty-Lips-All-Edit&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Lipsticks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_fragrances.jpg",
+              "label": "Fragrance",
+              "link": "/signature-scents.html?q=Signature+Scents&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Signature+Scents&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Fragrance"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Arabic+Fragrance.jpg",
+              "label": "Arabic Fragrance",
+              "link": "/arabic-fragrance.html?q=Arabic+Fragrance&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Arabic+Fragrance&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Arabic Fragrance"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_skincare.jpg",
+              "label": "Skin Care",
+              "link": "/korean.html?q=Korean&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Korean&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Korean Brands"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_nails.jpg",
+              "label": "Nails",
+              "link": "/perfect-nails.html?q=Perfect+Nails&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Perfect+Nails&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Nails"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Eyelashes.jpg",
+              "label": "Eyelashes",
+              "link": "/eye-lashes.html?q=Eye+Lashes&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Eye+Lashes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Eyelashes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_bodycare.jpg",
+              "label": "Hair Care",
+              "link": "/complete-hair-care.html?q=Complete+Hair+Care&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Complete+Hair+Care&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Hair Care"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Tools+%26+Accessories.jpg",
+              "label": "Tools & Accessories",
+              "link": "/tools-and-accessories.html?q=Tools%20and%20Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tools%20and%20Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Tools & Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_giftsets.jpg",
+              "label": "Gift Sets",
+              "link": "/gift-set.html?q=Gift+Set&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Gift+Set&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Gift Sets"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Vegan+Beauty.jpg",
+              "label": "Vegan Beauty",
+              "link": "/vegan-beauty-edit.html?q=Vegan+Beauty+Edit&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Vegan+Beauty+Edit&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Vegan Beauty"
+            }
+          ],
+          "button": {
+            "link": "/women/beauty.html?q=Women+Beauty&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+            "plp_title": "Beauty"
+          }
+        }
+      ]
+    },
+    {
+      "key": "exclusive",
+      "label": "Exclusive",
+      "link": "/catalogsearch/result/?q=%2B&qid=d97636b975d6c7d7c153438df539e1f2&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/exclusive+c%26k.jpg",
+          "description": "Charles & keith",
+          "link": "/charles-keith.html?q=Charles+%26+Keith&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Charles+%26+Keith&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bpromotion%5D%5B0%5D=Exclusive"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/charles-keith.html?q=Charles+%26+Keith&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Charles+%26+Keith&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+              "itemName": "Beverly Hills Polo Club "
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/hush+puppies.jpg",
+              "label": "Hush Puppies",
+              "link": "/hush-puppies.html?q=Hush+Puppies&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Hush+Puppies&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+              "itemName": "Hush Puppies"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/crocs.html?q=Crocs&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/Clovia.jpg",
+              "label": "Clovia",
+              "link": "/clovia.html?q=Clovia&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Clovia&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Clovia"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/WOMEN_EXCLUSIVE_FOOTWEAR.jpg",
+              "label": "Shoes",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/WOMEN_EXCLUSIVE_BAGS.jpg",
+              "label": "Bags",
+              "link": "/women/bags.html?q=Women+Bags&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/WOMEN_EXCLUSIVE_CLOTHING.jpg",
+              "label": "Clothing",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/WOMEN_EXCLUSIVE_ACCESSORIES.jpg",
+              "label": "Accessories",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+              "itemName": "Accessories"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%2B&qid=d97636b975d6c7d7c153438df539e1f2&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bpromotion%5D%5B0%5D=Exclusive",
+            "plp_title": "Exclusive"
+          }
+        }
+      ]
+    },
+    {
+      "key": "sale",
+      "label": "Sale",
+      "link": "/women/outlet.html?q=Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#D12229",
+        "text_color": "#D12229"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/banner/tshirts_outlet.png",
+          "description": "T-Shirts",
+          "link": "/women/outlet.html?q=Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Adidas.jpg",
+              "label": "Adidas",
+              "link": "/adidas/women.html?q=Adidas%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Aeropostale.jpg",
+              "label": "Aeropostale",
+              "link": "/aeropostale/women.html?q=Aeropostale%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Aeropostale&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Birkenstock.jpg",
+              "label": "Birkenstock",
+              "link": "/birkenstock/women.html?q=Birkenstock%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Birkenstock&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Crocs.jpg",
+              "label": "Crocs",
+              "link": "/crocs/women.html?q=Crocs%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Levis.jpg",
+              "label": "Levi's",
+              "link": "/levis/women.html?q=Levi%27s%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Levi%27s&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/APP_LOGOS-14.jpg",
+              "label": "Hush Puppies",
+              "link": "/hush-puppies/women.html?q=Hush%20Puppies%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Hush%20Puppies&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_SHOES.jpg",
+              "label": "Shoes",
+              "link": "/women/shoes.html?q=Women%20Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=20&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_BAGS.jpg",
+              "label": "Bags",
+              "link": "/women/bags.html?q=Women%20Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Bags&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=20&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_clothing.jpg",
+              "label": "Clothing",
+              "link": "/women/clothing.html?q=Women%20Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=20&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_ACCESSORIES.jpg",
+              "label": "Accessories",
+              "link": "/women/accessories.html?q=Women%20Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Accessories&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=20&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_BEAUTY.jpg",
+              "label": "Beauty",
+              "link": "/women/beauty.html?q=Women%20Beauty&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Beauty&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=20&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_sports.jpg",
+              "label": "Sports",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bdiscount%5D%5B0%5D=gte10"
+            }
+          ],
+          "button": {
+            "link": "/women/outlet.html?q=Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+            "plp_title": "SALE"
+          }
+        }
+      ]
+    }
+  ]
+}

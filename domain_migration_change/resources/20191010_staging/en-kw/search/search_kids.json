@@ -1,0 +1,172 @@
+{
+  "widgets": [
+    {
+      "type": "recent_searches"
+    },
+    {
+      "type": "recently_viewed_slider",
+      "header": {
+        "title": "ITEMS YOU HAVE VIEWED"
+      },
+      "id": 1,
+      "separator": true
+    },
+    {
+      "type": "circleItemSlider",
+      "items": [
+        {
+          "label": "Tommy Hilfiger",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/tommy_hilfiger.jpg",
+          "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=dea9b9b7320d2b5e596339d37c3dd045&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Jeans&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+        },
+        {
+          "label": "Levi's",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/L/levis.jpg",
+          "link": "/catalogsearch/result/?q=Levis&qid=ee96bb3c080040369094451aeecb608f&p=0&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+        },
+        {
+          "label": "Skechers",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/S/Skechers.jpg",
+          "link": "/catalogsearch/result/?q=SKECHERS&qid=6d742ce0118a1187a18e68b841ba772b&p=0&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+        },
+        {
+          "label": "The Children's Place",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/The+Children's+Place.jpg",
+          "link": "/catalogsearch/result/?q=The+Children%27s+Place&qid=d28bdc93a8481230236b81d79e07d811&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=The+Children%27s+Place&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Polo Ralph Lauren",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/P+Logos/Polo+Ralph+Lauren.jpg",
+          "link": "/catalogsearch/result/?q=POLO+RALPH+LAUREN&qid=bce391f914143af470f54534e767784c&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Polo+Ralph+Lauren&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Adidas",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/Adidas.jpg",
+          "link": "/catalogsearch/result/?q=ADIDAS&qid=bad336c6497163c52421ce2d6675149c&p=0&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals%2CAdidas+Sport&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+        },
+        {
+          "label": "Michael Kors Kids",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Michael+Kors+Kids.jpg",
+          "link": "/catalogsearch/result/?q=Michael+Kors+Kids&qid=db17f7e0e9525926a1223d3d4540215e&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Michael+Kors+Kids%2CMichael+Kors+Kids&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "LC Waikiki",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/L/lc+waikiki.jpg",
+          "link": "/catalogsearch/result/?q=LC+Waikiki&qid=7b825c877373123ee250c6b78f68bfaf&p=0&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+        },
+        {
+          "label": "Beverly Hills Polo Club",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/b/bhpc.jpg",
+          "link": "/catalogsearch/result/?q=Beverly+Hills+Polo+Club&qid=446fdad7477a8971fcbae9c7427327f5&p=0&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+        },
+        {
+          "label": "R&B Kids",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/X/X-SHOT+%40+RAndB+Kids+copy.jpg",
+          "link": "/catalogsearch/result/?q=R&B+Kids=&qid=6aab5b9a75c313fca025b8c36a827586&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Birkenstock",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/b/birkenstock.jpg",
+          "link": "/catalogsearch/result/?q=Birkenstock&qid=01860e741158a8a77bdbfe301455c60d&p=0&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+        },
+        {
+          "label": "Trendyol",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/Trendyol.jpg",
+          "link": "/catalogsearch/result/?q=Trendyol&qid=ff6075cd1794ec49dfb6adeb568d9056&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+        },
+        {
+          "label": "Heelys",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/h/Heelys.jpg",
+          "link": "/catalogsearch/result/?q=Heelys&qid=1018add7708ea8b110bddb02aebd9a25&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Heelys&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Neon",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Neon.jpg",
+          "link": "/catalogsearch/result/?q=Neon&qid=8aa2114328f895d6d5d2a6c1c406c571&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Neon&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Calvin Klein",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+          "link": "/catalogsearch/result/?q=CALVIN+KLEIN&qid=a0951ef0ab036c139c133163f58e0fc5&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein+Kids%2CCalvin+Klein&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "layout": {
+        "title": "Trending brands"
+      }
+    },
+    {
+      "type": "grid",
+      "background_color": "#000000",
+      "items_per_row": 4,
+      "item_height": 240,
+      "header": {
+        "title": "Explore More"
+      },
+      "items": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/12-07-2022-kids/Comfort/Comfort-Grid-EN.png",
+          "link": "/comfort-kids.html?q=comfort+kids&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=comfort+kids&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/08-07-2022-kids/Stores/Shopping+guide/Entry+Banners/Premium+Store/Premium+Store+EN.png",
+          "link": "/premium-store.html?q=premium-store&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=premium-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/08-07-2022-kids/Stores/Shopping+guide/Entry+Banners/Sports+Store/Sportswear.jpg",
+          "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "image_size": {
+        "height": 669,
+        "width": 500
+      }
+    },
+    {
+      "category": "All",
+      "index": 10,
+      "limit": 20,
+      "type": "new_influencer_slider"
+    },
+    {
+      "category": "All",
+      "index": 10,
+      "limit": 20,
+      "promotion_name": "Women-EN",
+      "tag": "Super Star Slider",
+      "title": "Trending Super Stars",
+      "type": "influencer_slider",
+      "uuid": "influencer_slider_d2f9d2e0-5322-46dc-9d69-f9e1f95766c6"
+    },
+    {
+      "type": "vue_browsing_history_slider",
+      "query": {
+        "filters": [
+          {
+            "field": "gender",
+            "value": "kids",
+            "type": "exact"
+          }
+        ]
+      },
+      "layout": {
+        "title": "Recommended For You"
+      }
+    },
+    {
+      "type": "brand_results_slider",
+      "limit": 20,
+      "layout": {
+        "title": "Results by brand"
+      }
+    },
+    {
+      "type": "product_results_slider",
+      "layout": {
+        "title": "Products"
+      }
+    },
+    {
+      "type": "wishlist"
+    }
+  ]
+}

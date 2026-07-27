@@ -1,0 +1,1654 @@
+{
+  "data": [
+    {
+      "key": "new_in",
+      "label": "New IN",
+      "link": "/catalogsearch/result/?q=%2B&qid=4c1ec1f12b6462bc4674be4113a543c0&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+      "design": {
+        "background_color": "#CBB479",
+        "text_color": "#CBB479"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/new+in.jpg",
+          "description": "Season’s Must-Haves",
+          "button_label": "Shop Now",
+          "link": "/catalogsearch/result/?q=%2B&qid=4c1ec1f12b6462bc4674be4113a543c0&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/aldo.html?q=Aldo&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Aldo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "Dune London",
+              "link": "/dune-london.html?q=Dune+London&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Dune+London&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/charles-keith.html?q=Charles+%26+Keith&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Charles+%26+Keith&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Girl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/adidas.html?q=Adidas&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/skechers.html?q=Skechers&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/trendyol.jpg",
+              "label": "Trendyol",
+              "link": "/trendyol.html?q=Trendyol+&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Trendyol+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/levis.jpg",
+              "label": "Levi's",
+              "link": "/levis.html?q=Levi%27s&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Levi%27s&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/crocs.html?q=Crocs&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "LC Waikiki",
+              "link": "/lc-waikiki.html?q=LC+Waikiki&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=LC+Waikiki&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "LC Waikiki"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/footwear.jpg",
+              "label": "Footwear",
+              "link": "/catalogsearch/result/?q=Footwear&qid=f7ed02fc46ba1cb830d9f35ae1ba65a9&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Footwear"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/sports.jpg",
+              "label": "Sports",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Sports"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/bags.jpg",
+              "label": "Bags",
+              "link": "/catalogsearch/result/?q=Bags&qid=315cc0ed382b39dd464ca9f835cb8483&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/clothing.jpg",
+              "label": "Clothing",
+              "link": "/catalogsearch/result/?q=Clothing&qid=491939c10cb6bcad6c5ee1592757bb74&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/acc.jpg",
+              "label": "Accessories",
+              "link": "/catalogsearch/result/?q=Accessories&qid=dc22f4b6aab5d31d2b3f1e58c5e0e5bd&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CMen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/beauty.jpg",
+              "label": "Beauty",
+              "link": "/women/beauty.html?q=Women+Beauty&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CGirl%2CBoy%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Beauty"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/grooming.jpg",
+              "label": "Grooming",
+              "link": "/men/grooming.html?q=Men+Grooming&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1%2C1&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Grooming"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/premium.jpg",
+              "label": "Premium",
+              "link": "/catalogsearch/result/?q=%2B&qid=2718c335a23da47315579a83891ba785&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans%2CCalvin+Klein+Kids%2CCole+Haan%2CGuess%2CKarl+Lagerfeld%2CLacoste%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CBirkenstock%2CPolo+Ralph+Lauren%2CMichael+Kors+Kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+              "itemName": "Premium"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%2B&qid=4c1ec1f12b6462bc4674be4113a543c0&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest",
+            "plp_title": "New IN"
+          }
+        }
+      ]
+    },
+    {
+      "key": "shoes",
+      "label": "Shoes",
+      "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/SHOES.jpg",
+          "description": "Everyday Kicks",
+          "link": "/catalogsearch/result/?q=shoe&qid=70cace91ebfa103c344752c1d96994b7&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/catalogsearch/result/?q=Skechers&qid=bc76c1d51ff591c963c6d5e62985e346&p=0&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/catalogsearch/result/?q=Crocs&qid=85aa27151c8abd1635a9270144bde18a&p=0&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals%2CAdidas+Sport&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/catalogsearch/result/?q=Aldo&qid=d8fb6dc016da316d2d644fc5132002ad&p=0&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "Dune London",
+              "link": "/catalogsearch/result/?q=Dune+London&qid=f2447b4b1d8b6d9bed313ad8200d773b&p=0&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dune+London",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/call+it+spring.jpg",
+              "label": "Call it Spring",
+              "link": "/catalogsearch/result/?q=Call+it+Spring&qid=5adf69fd91ffc389965aec4ca202b236&p=0&dFR%5Bgender%5D%5B0%5D=Men%2CWomen%2CGirl%2CBoy&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Call it Spring"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/toms.jpg",
+              "label": "TOMS",
+              "link": "/catalogsearch/result/?q=Toms&qid=6129e7f4fd16b80b3911ce8e8c4d3746&p=0&dFR%5Bbrand_name%5D%5B0%5D=Toms&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "TOMS"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/aila.jpg",
+              "label": "Aila",
+              "link": "/catalogsearch/result/?q=Shoes&qid=0bd16533af682a55eb880899148aed87&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aila&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aila"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "Ardene",
+              "link": "/catalogsearch/result/?q=Shoes&qid=0bd16533af682a55eb880899148aed87&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ardene",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/trendyol.jpg",
+              "label": "Trendyol",
+              "link": "/catalogsearch/result/?q=Shoes&qid=0bd16533af682a55eb880899148aed87&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Trendyol",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/women/shoes.html?q=Women+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/quwa.jpg",
+              "label": "QUWA",
+              "link": "/men/shoes.html?q=Men+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=QUWA&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "QUWA"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/birkenstock.jpg",
+              "label": "Birkenstock",
+              "link": "/catalogsearch/result/?q=Birkenstock&qid=f1bce1cc6ed427150b3f46d9d6a5dd5a&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CBoy%2CWomen&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Birkenstock"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/nine+west.jpg",
+              "label": "Nine West",
+              "link": "/catalogsearch/result/?q=Nine+West&qid=7472b22e8014d536e1892b14a34f904f&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Nine+West&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Nine West"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Sandals.jpg",
+              "label": "Sandals",
+              "link": "/catalogsearch/result/?q=%2B&qid=948c5150a0df9bbfc42e2a4afe730412&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Sandals&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sandals"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Pumps.jpg",
+              "label": "Pumps",
+              "link": "/women/shoes/pumps.html?q=Women+Shoes+Pumps&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Pumps&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Pumps"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Sandals.jpg",
+              "label": "Sneakers",
+              "link": "/catalogsearch/result/?q=%2B&qid=d71dd720ecccbc329914e3877c548661&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/flats.jpg",
+              "label": "Flats",
+              "link": "/catalogsearch/result/?q=%2B&qid=d71dd720ecccbc329914e3877c548661&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Flats&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Flats"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Mules.jpg",
+              "label": "Mules",
+              "link": "/women/shoes/mules.html?q=Women+Shoes+Mules&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Mules&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Mules"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Comfort.jpg",
+              "label": "Comfort",
+              "link": "/catalogsearch/result/?q=Comfort+shoes&qid=50d4585112dfae01d899d0ce1fc56c0f&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Comfort"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Wedges.jpg",
+              "label": "Wedges",
+              "link": "/women/shoes/wedges.html?q=Women+Shoes+Wedges&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Wedges&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Wedges"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Flip+Flops+%26+Slip-ons.jpg",
+              "label": "Flip Flops & Slip-ons",
+              "link": "/catalogsearch/result/?q=%2B&qid=95e914f35fc4a94a4e4b23411a5b029a&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Flip+Flops%2CSlippers&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Flip Flops & Slip-ons"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Ballerinas+%26+Loafers.jpg",
+              "label": "Ballerinas & Loafers",
+              "link": "/women/shoes/ballerinas.html?q=Women+Shoes+Ballerinas&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Ballerinas&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Ballerinas & Loafers"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Formal.jpg",
+              "label": "Formal Shoes",
+              "link": "/catalogsearch/result/?q=Shoes&qid=55ddd92c6f9ab93566d184afb9b0ccdf&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Formal&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Formal Shoes"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/shoe/Loafers.jpg",
+              "label": "Loafers",
+              "link": "/catalogsearch/result/?q=Shoes+Loafers&qid=3ae123cd742d08269d5e226bd4cee01a&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CBoy%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Loafers"
+            }
+          ],
+          "button": {
+            "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "Shoes"
+          }
+        }
+      ]
+    },
+    {
+      "key": "bags",
+      "label": "Bags",
+      "link": "/catalogsearch/result/?q=bags&qid=a1950c232ef3a0c266e8dd38f3834b5d&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/BAGS.jpg",
+          "description": "Wear Everywhere Styles",
+          "link": "/catalogsearch/result/?q=bags&qid=a1950c232ef3a0c266e8dd38f3834b5d&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aldo+Accessories%2CAldo&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "Dune London",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dune+London",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/call+it+spring.jpg",
+              "label": "Call it Spring",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&dFR%5Bgender%5D%5B0%5D=Men%2CWomen",
+              "itemName": "Call it Spring"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/nine+west.jpg",
+              "label": "Nine West",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bbrand_name%5D%5B0%5D=Nine+West",
+              "itemName": "Nine West"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "Ardene",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ardene",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/tommy.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Jeans%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Girl%2CBoy%2CMen%2CWomen",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/herschel.jpg",
+              "label": "Herschel",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Herschel",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aeropostale.jpg",
+              "label": "Aeropostale",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/tyra.jpg",
+              "label": "Tyra",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Tyra",
+              "itemName": "Tyra"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/naturalizer.jpg",
+              "label": "Naturalizer",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Naturalizer",
+              "itemName": "Naturalizer"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/calvin+klein.jpg",
+              "label": "Calvin Klein",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein&dFR%5Bgender%5D%5B0%5D=Men%2CGirl%2CBoy%2CWomen",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/Jenny+Fairy+%40+CCC.jpg",
+              "label": "Jenny Fairy @ CCC",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Jenny+Fairy+%40+CCC",
+              "itemName": "Jenny Fairy @ CCC"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/hush+puppies.jpg",
+              "label": "Hush Puppies",
+              "link": "/catalogsearch/result/?q=bags&qid=d11b26f4bc4eca079c5b1a79e46cc22b&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hush+Puppies",
+              "itemName": "Hush Puppies"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Cross+Body+Bags.jpg",
+              "label": "Cross Body Bags",
+              "link": "/catalogsearch/result/?q=bags&qid=a1950c232ef3a0c266e8dd38f3834b5d&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Cross+Body+Bag",
+              "itemName": "Cross Body Bags"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Totes.jpg",
+              "label": "Totes",
+              "link": "/catalogsearch/result/?q=bags&qid=3544f33472d606fe6d0409eef85c4b2e&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Totes&dFR%5Bgender%5D%5B0%5D=Men%2CWomen",
+              "itemName": "Totes"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Shoulder+Bags.jpg",
+              "label": "Shoulder Bags",
+              "link": "/catalogsearch/result/?q=Shoulder+Bags&qid=7b2a4a95ecbc684746ff30122d7676d3&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Shoulder Bags"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Backpacks.jpg",
+              "label": "Backpacks",
+              "link": "/catalogsearch/result/?q=Backpacks&qid=037290c44e599ef81c1b7bd15c1a8b78&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Backpacks",
+              "itemName": "Backpacks"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Clutches.jpg",
+              "label": "Clutches",
+              "link": "/catalogsearch/result/?q=Clutches&qid=50aedab015715104877a5cded111369c&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Clutches",
+              "itemName": "Clutches"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Wallets.jpg",
+              "label": "Wallets",
+              "link": "/catalogsearch/result/?q=bags&qid=3544f33472d606fe6d0409eef85c4b2e&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Wallets&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Wallets"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Duffel+Bags.jpg",
+              "label": "Duffel Bags",
+              "link": "/catalogsearch/result/?q=bags&qid=3544f33472d606fe6d0409eef85c4b2e&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Duffel+Bags",
+              "itemName": "Duffel Bags"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Laptop+Bags.jpg",
+              "label": "Laptop Bags",
+              "link": "/catalogsearch/result/?q=bags&qid=3544f33472d606fe6d0409eef85c4b2e&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Laptop+Bags+%26+Briefcases%2CMessenger+Bags&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Laptop Bags"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/bags/Bags-Messenger+Bags.jpg",
+              "label": "Messenger Bags",
+              "link": "/catalogsearch/result/?q=bags&qid=3544f33472d606fe6d0409eef85c4b2e&p=0&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Messenger+Bags",
+              "itemName": "Messenger Bags"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=bags&qid=a1950c232ef3a0c266e8dd38f3834b5d&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "Bags"
+          }
+        }
+      ]
+    },
+    {
+      "key": "sports",
+      "label": "Sports",
+      "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/SPORTS.jpg",
+          "description": "For the Gym & Beyond",
+          "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/Skechers.html?q=Skechers&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CBoy%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/Adidas.html?q=Adidas&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Adidas&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/nike.jpg",
+              "label": "Nike",
+              "link": "/Nike.html?q=Nike&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Nike&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/ATHLETIQ.jpg",
+              "label": "ATHLETIQ",
+              "link": "/ATHLETIQ.html?q=ATHLETIQ&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=ATHLETIQ&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=ATHLETIQ&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "ATHLETIQ"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/01-Nov-2020/UA+logo+300x300px.jpg",
+              "label": "Under Armour",
+              "link": "https://en-sa.6thstreet.com/Under-Armour.html?q=Under+Armour&idx=enterprise_magento_en_sa&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Under+Armour&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Under+Armour&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Under Armour"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/Adidas.jpg",
+              "label": "Adidas Originals",
+              "link": "/Adidas.html?q=Adidas&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Adidas+Originals",
+              "itemName": "Adidas Originals"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/asics.jpg",
+              "label": "Asics",
+              "link": "/Asics.html?q=Asics&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Asics&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Asics&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Asics"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/Vans.jpg",
+              "label": "Vans",
+              "link": "/Vans.html?q=Vans&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Vans&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Vans&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Vans"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/puma.jpg",
+              "label": "Puma",
+              "link": "/PUMA.html?q=Puma&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Puma&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bbrand_name%5D%5B0%5D=Puma&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/fila.jpg",
+              "label": "Fila",
+              "link": "/Fila.html?q=Fila&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Fila&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Fila&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Fila"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/Onitsuka+Tiger.jpg",
+              "label": "Onitsuka Tiger",
+              "link": "/Onitsuka-Tiger.html?q=Onitsuka+Tiger&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Onitsuka+Tiger&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Onitsuka+Tiger&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Onitsuka Tiger"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/reebok.jpg",
+              "label": "Reebok",
+              "link": "/Reebok.html?q=Reebok&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Reebok&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Reebok&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Reebok"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/converse.jpg",
+              "label": "Converse",
+              "link": "/Converse.html?q=Converse&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Converse&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Converse&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Converse"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/On+Running.jpg",
+              "label": "On Running",
+              "link": "/On-Running.html?q=On+Running&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=On+Running&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=On+Running&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "On Running"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/10-12-2021-megamenuMen/hoka.png",
+              "label": "Hoka",
+              "link": "/Hoka.html?q=Hoka&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Hoka&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Hoka&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Hoka"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sports/Sports-Sports+Shoes+copy.jpg",
+              "label": "Sports Shoes",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Trainers&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sports Shoes"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sports/Sports-Tees_.jpg",
+              "label": "Tees",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=T-Shirts%2CTops+%26+T-Shirts",
+              "itemName": "Tees "
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sports/Sports-Track+Pants.jpg",
+              "label": "Joggers",
+              "link": "/catalogsearch/result/?q=%2B&qid=9e178a3a53d1280ffbe5747b9897a525&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CGirl%2CMen&dFR%5Bcategories_without_path%5D%5B0%5D=Joggers&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Track Pants"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sports/Sports-Sports+Bottles.jpg",
+              "label": "Sports Bottles",
+              "link": "/catalogsearch/result/?q=bottle&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Travel&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sports Bottles"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sports/Sports-Bags.jpg",
+              "label": "Bags",
+              "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Backpacks&dFR%5Bgender%5D%5B0%5D=Men%2CWomen%2CGirl%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sports/Sports-Running+Shoes.jpg",
+              "label": "Running Shoes",
+              "link": "/newrunningwomen.html?q=newrunningwomen&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=newrunningwomen&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Running Shoes"
+            }
+          ],
+          "button": {
+            "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "Sports"
+          }
+        }
+      ]
+    },
+    {
+      "key": "clothing",
+      "label": "Clothing",
+      "link": "/all-clothing.html?q=all+clothing&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=all+clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/clothing.jpg",
+          "description": "Graphic Tees",
+          "link": "/all-clothing.html?q=all+clothing&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=all+clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/trendyol.jpg",
+              "label": "Trendyol",
+              "link": "/trendyol.html?q=Trendyol+&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Trendyol+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Trendyol",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "LC Waikiki",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aeropostale.jpg",
+              "label": "Aeropostale",
+              "link": "/catalogsearch/result/?q=Clothing&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/drip.jpg",
+              "label": "Drip",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=DRIP&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Drip"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/aila.jpg",
+              "label": "Aila",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Aila&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aila"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/neon.jpg",
+              "label": "Neon",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Neon&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Neon"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/The+Children's+Place.jpg",
+              "label": "The Children's Place",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=The+Children%27s+Place",
+              "itemName": "The Children's Place"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/R%26B+Kids.jpg",
+              "label": "R&B Kids",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=R%26B+Kids&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "R&B Kids"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/levis.jpg",
+              "label": "Levi's",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s%2CLevi%27s+Kids&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "Ardene",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Ardene&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/quwa.jpg",
+              "label": "QUWA",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=QUWA&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "QUWA"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/zarafa.jpg",
+              "label": "Zarafa",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Zarafa",
+              "itemName": "Zarafa"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/tommy.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/OFFROAD.jpg",
+              "label": "OFFROAD",
+              "link": "/catalogsearch/result/?q=clothing&qid=fe96f89ed8c08adfafed882c16cdb83b&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bbrand_name%5D%5B0%5D=OFFROAD&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "OFFROAD"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/tops+and+t+shirt.jpg",
+              "label": "Tops & Tees",
+              "link": "/catalogsearch/result/?q=%2B&qid=8486f5988e5a58f120062d94b8700b1a&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bcategories_without_path%5D%5B0%5D=Tops%2CT-Shirts%2CTops+%26+T-Shirts&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Tops & Tshirts"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/dress.jpg",
+              "label": "Dresses",
+              "link": "/catalogsearch/result/?q=%2B&qid=8486f5988e5a58f120062d94b8700b1a&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Party+Dress%2CDress%2CCasual+Dress",
+              "itemName": "Dresses"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/shirt.jpg",
+              "label": "Shirts & Blouses",
+              "link": "/catalogsearch/result/?q=%2B&qid=8486f5988e5a58f120062d94b8700b1a&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bcategories_without_path%5D%5B0%5D=Shirts+%26+Blouses&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Shirts & Blouses"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/sportswear.jpg",
+              "label": "Sportswear",
+              "link": "/women/clothing/sportswear.html?q=Women+Clothing+Sportswear&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Sportswear&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sportswear"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/modest+wear.jpg",
+              "label": "Modest Wear",
+              "link": "/category-186.html?q=category+186&p=0&hFR%5Bcategories.level0%5D%5B0%5D=category+186&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+              "itemName": "Modest Wear"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/pants.jpg",
+              "label": "Pants",
+              "link": "/all-clothing.html?q=all+clothing&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=all+clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Pants%2FChinos%2CPants%2CTrousers+%26+Pants%2CLounge+%26+Track+Pants&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Pants"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/jeans.jpg",
+              "label": "Jeans",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bcategories_without_path%5D%5B0%5D=Jeans&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Jeans"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/inner+wear.jpg",
+              "label": "Innerwear",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bcategories_without_path%5D%5B0%5D=Briefs+%26+Boxers%2CPanties+%26+Bloomers%2CVests%2CLingerie%2CVest+and+Underwear&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Innerwear"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/skirts.jpg",
+              "label": "Skirts",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bcategories_without_path%5D%5B0%5D=Skirts+%26+Dividers%2CSkirts&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Skirts"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/sleep+wear.jpg",
+              "label": "Sleepwear",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bcategories_without_path%5D%5B0%5D=Sleep+Suits%2CSleepwear%2CNighty+%26+Baby+Gown&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sleepwear"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/MicrosoftTeams-image+(2).png",
+              "label": "Shorts",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Shorts",
+              "itemName": "Shorts"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/MicrosoftTeams-image+(3).png",
+              "label": "Sweaters & Knitwear",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bcategories_without_path%5D%5B0%5D=Sweaters+%26+Knitwear%2CShorts%2CShorts&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sweaters & Knitwear"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/Jackets+%26+Coats.jpg",
+              "label": "Jackets",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Jackets%2CCoats",
+              "itemName": "Jackets"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/jumpsuit.jpg",
+              "label": "Jumpsuits",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Jumpsuits",
+              "itemName": "Jumpsuits"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/Maternity+Clothing.jpg",
+              "label": "Maternity Clothing",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Maternity+Clothing",
+              "itemName": "Maternity Clothing"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/swim+wears.jpg",
+              "label": "Swim Wear",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Swim+Wear%2CSwimwear",
+              "itemName": "Swim Wear"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/clothing/MicrosoftTeams-image+(1).png",
+              "label": "Plus Size",
+              "link": "/catalogsearch/result/?q=%2B&qid=cd95d940a8d0b87983cc52c9cc428e8e&p=0&dFR%5Bgender%5D%5B0%5D=&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Plus+Size",
+              "itemName": "Plus Size"
+            }
+          ],
+          "button": {
+            "link": "/all-clothing.html?q=all+clothing&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=all+clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "Clothing"
+          }
+        }
+      ]
+    },
+    {
+      "key": "accessories",
+      "label": "Accessories",
+      "link": "/catalogsearch/result/?q=Accessories&qid=b430a621980061152aa546f9be2fceb5&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/acc.jpg",
+          "description": "Add a Pop of Color",
+          "link": "/catalogsearch/result/?q=Accessories&qid=b430a621980061152aa546f9be2fceb5&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/catalogsearch/result/?q=Accessories&qid=bbea338b4406e23f908375946405797a&p=0&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo Accessories",
+              "link": "/catalogsearch/result/?q=Aldo+Accessories&qid=737a75f26ce244c72150dbdb8f3cdeb3&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aldo+Accessories&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aldo Accessories"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "Ardene",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Ardene&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "Dune London",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Dune+London&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/call+it+spring.jpg",
+              "label": "Call it Spring",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Call it Spring"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/tommy.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/nine+west.jpg",
+              "label": "Nine West",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Nine+West&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Nine West"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aeropostale.jpg",
+              "label": "Aeropostale",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&dFR%5Bgender%5D%5B0%5D=Girl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/calvin+klein.jpg",
+              "label": "Calvin Klein",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/trendyol.jpg",
+              "label": "Trendyol",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Trendyol",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/herschel.jpg",
+              "label": "Herschel",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bbrand_name%5D%5B0%5D=Herschel&dFR%5Bgender%5D%5B0%5D=Men%2CWomen%2CBoy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "Crocs",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Crocs",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "LC Waikiki",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/R%26B+Kids.jpg",
+              "label": "R&B Kids",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4359ab8b8429a145c29880cb97bf4c54&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=AVENT+%40+R%26B+Kids%2CBABY+BORN+%40+R%26B+Kids%2CBARBIE+%40+R%26B+Kids%2CBrother+Max+%40+R%26B+Kids%2CComotomo+%40+R%26B+Kids%2CJACOB+%26+LEAH+%40+R%26B+Kids%2CMOTHER%27S+CHOICE+%40+R%26B+Kids%2CR+For+Rabbit+%40+R%26B+Kids%2CR%26B+Kids",
+              "itemName": "R&B Kids"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Watch.jpg",
+              "label": "Watches",
+              "link": "/catalogsearch/result/?q=Watches&qid=e66faced4e47277514cc514144fbf288&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Watch"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Sunglasses.jpg",
+              "label": "Sunglasses",
+              "link": "/catalogsearch/result/?q=Sunglasses&qid=56a3e06760d265311550866def9b6d73&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sunglasses"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Jewellery.jpg",
+              "label": "Jewellery",
+              "link": "/catalogsearch/result/?q=Jewellery&qid=7b041a25a6444a45c755bbe15ed584b1&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Jewellery"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Hair+Accessory.jpg",
+              "label": "Hair Accessories",
+              "link": "/catalogsearch/result/?q=Hair+Accessory&qid=28fa386633a3a2f81c5e5dcbf3657bf2&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Hair Accessory"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/belt.jpg",
+              "label": "Belts",
+              "link": "/catalogsearch/result/?q=Belts&qid=8698db7c47eb9c9147d64ad34ea70f78&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Belts"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/socks.jpg",
+              "label": "Socks",
+              "link": "/catalogsearch/result/?q=Socks&qid=049be7a5a2581ac93d2992a0205f52fc&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Socks"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Shoecare.jpg",
+              "label": "Shoe Care",
+              "link": "/catalogsearch/result/?q=Shoe+Care&qid=cdd371b76488a97ad473de08cb055a42&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Shoecare"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Scarves.jpg",
+              "label": "Scarves",
+              "link": "/catalogsearch/result/?q=Scarves&qid=4d23766c0029de604cc1c4dd08e1697e&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Scarves"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Mask.jpg",
+              "label": "Masks",
+              "link": "/catalogsearch/result/?q=Mask&qid=8385d91f25e1bb664f172c0389c459c6&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Mask"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Caps.jpg",
+              "label": "Caps & Hats",
+              "link": "/catalogsearch/result/?q=Caps&qid=e441e431c70219b58b4868f404bb41ad&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Caps & Hats"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/travel.jpg",
+              "label": "Travel",
+              "link": "/catalogsearch/result/?q=Travel&qid=7d2057745ab0bc8dde7c2ccf3bcba774&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Travel"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/tech.jpg",
+              "label": "Technology",
+              "link": "/catalogsearch/result/?q=Tech&qid=d86354175aa383a095685fba355d4743&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Tech"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/acc/Keychain.jpg",
+              "label": "Keychains",
+              "link": "/catalogsearch/result/?q=Keychain&qid=519ee1fd7851edd6e0bc1981c82b118e&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Keychain"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=Accessories&qid=b430a621980061152aa546f9be2fceb5&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "Accessories"
+          }
+        }
+      ]
+    },
+    {
+      "key": "premium",
+      "label": "Premium",
+      "link": "/catalogsearch/result/?q=%2B&qid=2718c335a23da47315579a83891ba785&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans%2CCalvin+Klein+Kids%2CCole+Haan%2CGuess%2CKarl+Lagerfeld%2CLacoste%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CBirkenstock%2CPolo+Ralph+Lauren%2CMichael+Kors+Kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/premium+copy.jpg",
+          "description": "Polos & T-shirts",
+          "link": "/catalogsearch/result/?q=%2B&qid=2718c335a23da47315579a83891ba785&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans%2CCalvin+Klein+Kids%2CCole+Haan%2CGuess%2CKarl+Lagerfeld%2CLacoste%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CBirkenstock%2CPolo+Ralph+Lauren%2CMichael+Kors+Kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/tommy.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=3ba9f7cc60b8a1e2d4c30096be22b6d7&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/calvin+klein.jpg",
+              "label": "Calvin Klein",
+              "link": "/catalogsearch/result/?q=Calvin+Klein&qid=de2ff5ecc47b4c9db3f9724266eaa3ee&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Kids%2CCalvin+Klein+Jeans&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/birkenstock.jpg",
+              "label": "Birkenstock",
+              "link": "/catalogsearch/result/?q=Birkenstock&qid=64abc861be2d738f50974f71a336d8e1&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock",
+              "itemName": "Birkenstock"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/lacoste.jpg",
+              "label": "Lacoste",
+              "link": "/catalogsearch/result/?q=Lacoste&qid=2a2c1b055ac56870c8e810d9c535726e&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bbrand_name%5D%5B0%5D=Lacoste&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/colehaan.jpg",
+              "label": "Cole Haan",
+              "link": "/catalogsearch/result/?q=Cole+Haan&qid=b3bf54b17ab9e5a83784607b23ca626b&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bbrand_name%5D%5B0%5D=Lacoste%2CCole+Haan&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Cole Haan"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/guess.jpg",
+              "label": "Guess",
+              "link": "/catalogsearch/result/?q=Guess&qid=d811838b14cfda7bf79b1f0247b23121&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bbrand_name%5D%5B0%5D=Lacoste%2CCole+Haan%2CGuess&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/rituals.jpg",
+              "label": "Rituals",
+              "link": "/catalogsearch/result/?q=Rituals&qid=a2f37b89278e8398d38cde9fc87ce12f&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bbrand_name%5D%5B0%5D=Lacoste%2CCole+Haan%2CGuess%2CRituals&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/01-Nov-2020/Sacoor+Brothers+LOGO+black+300x300.jpg",
+              "label": "Sacoor Brothers",
+              "link": "/catalogsearch/result/?q=Sacoor+Brothers&qid=269acc760c38d4339273c308dd6ed9c9&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bbrand_name%5D%5B0%5D=Lacoste%2CCole+Haan%2CGuess%2CRituals%2CSacoor+Brothers&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sacoor Brothers"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/karl_lagerfeld.jpg",
+              "label": "Karl Lagerfeld",
+              "link": "/catalogsearch/result/?q=Karl+Lagerfeld&qid=60c92de01acc3e6131cfa05fbfa4b9c5&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CGirl%2CBoy&dFR%5Bbrand_name%5D%5B0%5D=Lacoste%2CCole+Haan%2CGuess%2CRituals%2CSacoor+Brothers%2CKarl+Lagerfeld&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Karl Lagerfeld"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/michael+kors.jpg",
+              "label": "Michael Kors",
+              "link": "/catalogsearch/result/?q=Michael+Kors&qid=3d85030722677fd3ba9a40ffb47a37ce&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bbrand_name%5D%5B0%5D=Michael+Kors+Kids&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/Polo+Ralph+Lauren.jpg",
+              "label": "Polo Ralph Lauren",
+              "link": "/catalogsearch/result/?q=Polo+Ralph+Lauren&qid=91dc79bd194f854b5bcf9d8252e8fbc3&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bbrand_name%5D%5B0%5D=Michael+Kors+Kids%2CPolo+Ralph+Lauren&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Polo Ralph Lauren"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/premium/Premium-Shoes.jpg",
+              "label": "Shoes",
+              "link": "/catalogsearch/result/?q=Shoes&qid=332ecc1e2a536cdd8ca542c846ec9e46&p=0&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock%2CCalvin+Klein%2CCole+Haan%2CGuess%2CKarl+Lagerfeld%2CLacoste%2CMichael+Kors+Kids%2CTommy+Hilfiger%2CPolo+Ralph+Lauren&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/premium/Premium-Bags.jpg",
+              "label": "Bags",
+              "link": "/catalogsearch/result/?q=Bags&qid=cdf6b6dcdf703bbb482abd432d556982&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CLacoste%2CGuess%2CRituals%2CSacoor+Brothers&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/premium/Premium-Clothing.jpg",
+              "label": "Clothing",
+              "link": "/catalogsearch/result/?q=Clothing&qid=7cd673dc29e4517901fd30dae9797890&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen%2CBoy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CCalvin+Klein%2CCalvin+Klein+Kids%2CLacoste%2CGuess%2CRituals%2CSacoor+Brothers",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/premium/Premium-Accessories.jpg",
+              "label": "Accessories",
+              "link": "/catalogsearch/result/?q=Accessories&qid=28b2d68da8adef89ef2251b8e49db8d8&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CGuess%2CRituals%2CSacoor+Brothers&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/premium/Premium-BEauty.jpg",
+              "label": "Beauty",
+              "link": "/women/beauty.html?q=Women+Beauty&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CTommy+Hilfiger%2CBirkenstock%2CGuess%2CRituals%2CKarl+Lagerfeld&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "BEauty"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/premium/Premium-Sports.jpg",
+              "label": "Sports",
+              "link": "/catalogsearch/result/?q=%2B&qid=2718c335a23da47315579a83891ba785&p=0&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock%2CCalvin+Klein%2CCalvin+Klein+Jeans%2CCalvin+Klein+Kids%2CCole+Haan%2CGuess%2CKarl+Lagerfeld%2CLacoste%2CMichael+Kors+Kids%2CPolo+Ralph+Lauren%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Swim+Wear%2CAthletic%2CPerformance%2CTrainers%2CRUNNING+%26+TRAINING",
+              "itemName": "Sports"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%2B&qid=2718c335a23da47315579a83891ba785&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans%2CCalvin+Klein+Kids%2CCole+Haan%2CGuess%2CKarl+Lagerfeld%2CLacoste%2CSacoor+Brothers%2CTommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans%2CBirkenstock%2CPolo+Ralph+Lauren%2CMichael+Kors+Kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "Premium"
+          }
+        }
+      ]
+    },
+    {
+      "key": "beauty",
+      "label": "Beauty",
+      "link": "/glam-up.html?q=Glam%20Up&idx=enterprise_magento_english&p=1&hFR[categories.level0][0]=Glam%20Up&nR[visibility_catalog][=][0]=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/beauty+copy.jpg",
+          "description": "Self-care Basics",
+          "link": "/women/beauty.html?q=Women+Beauty&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/rituals.jpg",
+              "label": "Rituals",
+              "link": "/rituals.html?q=Rituals&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Rituals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/inglot.jpg",
+              "label": "Inglot",
+              "link": "/inglot.html?q=Inglot&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Inglot&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=inglot&dFR%5Bbrand_name%5D%5B0%5D=Inglot",
+              "itemName": "Inglot"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/Cat+upload/Beauty/Niran.jpg",
+              "label": "Niran",
+              "link": "/niran.html?q=Niran&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Niran&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Niran"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/Cat+upload/Beauty/Loreal+.jpg",
+              "label": "L'oreal Paris",
+              "link": "/loreal.html?q=Loreal+&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Loreal+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "L'oreal Paris"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/ajmal+perfume.jpg",
+              "label": "Ajmal Perfume",
+              "link": "/ajmal-perfume.html?q=AJMAL+PERFUME&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=AJMAL+PERFUME&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=ajmal-perfume",
+              "itemName": "Ajmal Perfume"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/Cat+upload/Beauty/Sigma+Beauty.jpg",
+              "label": "Sigma Beauty",
+              "link": "/sigma-beauty.html?q=Sigma+Beauty&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sigma+Beauty&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Sigma Beauty"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/Cat+upload/Beauty/SOME+BY+MI.jpg",
+              "label": "Some By Mi",
+              "link": "/some-by-mi.html?q=SOME+BY+MI&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=SOME+BY+MI&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Some By Mi"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/Cat+upload/Beauty/Swiss+Arabian.jpg",
+              "label": "Swiss Arabian",
+              "link": "/swiss-arabian.html?q=Swiss+Arabian&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Swiss+Arabian&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Swiss Arabian"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/montblanc.jpg",
+              "label": "Montblanc",
+              "link": "/montblanc.html?q=MONTBLANC&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=MONTBLANC&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=montblanc",
+              "itemName": "Montblanc"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/yves+rocher.jpg",
+              "label": "Yves Rocher",
+              "link": "/yves-rocher.html?q=Yves+Rocher&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Yves+Rocher&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=yves-rocher",
+              "itemName": "Yves Rocher"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/coach.jpg",
+              "label": "Coach",
+              "link": "/coach.html?q=COACH&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=COACH&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=coach",
+              "itemName": "Coach"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/ajmal+perfume.jpg",
+              "label": "Ajmal Perfume",
+              "link": "/ajmal-perfume.html?q=AJMAL+PERFUME&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=AJMAL+PERFUME&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&q=ajmal-perfume",
+              "itemName": "Ajmal Perfume"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/jimmy+choo.jpg",
+              "label": "Jimmy Choo",
+              "link": "/catalogsearch/result/?q=Jimmy+Choo&p=0&dFR%5Bbrand_name%5D%5B0%5D=Jimmy+Choo",
+              "itemName": "Jimmy Choo"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/calvin+klein.jpg",
+              "label": "Calvin Klein",
+              "link": "/women/beauty.html?q=Women+Beauty&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Beauty&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein",
+              "itemName": "Calvin Klein"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/eyes.jpg",
+              "label": "Eyes",
+              "link": "/eyemakeups.html?q=Eyemakeups&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Eyemakeups&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=",
+              "itemName": "Eyes"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Face.jpg",
+              "label": "Face",
+              "link": "/beauty-face-all-edit.html?q=Beauty%20Face%20All%20Edit&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beauty%20Face%20All%20Edit&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Face"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Lipsticks.jpg",
+              "label": "Lipsticks",
+              "link": "/beauty-lips-all-edit.html?q=Beauty-Lips-All-Edit&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beauty-Lips-All-Edit&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Lipsticks"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Fragrance.jpg",
+              "label": "Fragrance",
+              "link": "/signature-scents.html?q=Signature+Scents&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Signature+Scents&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Fragrance"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Arabic+Fragrance.jpg",
+              "label": "Arabic Fragrance",
+              "link": "/arabic-fragrance.html?q=Arabic+Fragrance&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Arabic+Fragrance&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Arabic Fragrance"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Korean+Brands.jpg",
+              "label": "Skin Care",
+              "link": "/korean.html?q=Korean&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Korean&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Korean Brands"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Nails.jpg",
+              "label": "Nails",
+              "link": "/perfect-nails.html?q=Perfect+Nails&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Perfect+Nails&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Nails"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Eyelashes.jpg",
+              "label": "Eyelashes",
+              "link": "/eye-lashes.html?q=Eye+Lashes&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Eye+Lashes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Eyelashes"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Hair+Care.jpg",
+              "label": "Hair Care",
+              "link": "/complete-hair-care.html?q=Complete+Hair+Care&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Complete+Hair+Care&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Hair Care"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Tools+%26+Accessories.jpg",
+              "label": "Tools & Accessories",
+              "link": "/tools-and-accessories.html?q=Tools%20and%20Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tools%20and%20Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Tools & Accessories"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Gift+Sets.jpg",
+              "label": "Gift Sets",
+              "link": "/gift-set.html?q=Gift+Set&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Gift+Set&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Gift Sets"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/beauty/Vegan+Beauty.jpg",
+              "label": "Vegan Beauty",
+              "link": "/vegan-beauty-edit.html?q=Vegan+Beauty+Edit&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Vegan+Beauty+Edit&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Vegan Beauty"
+            }
+          ],
+          "button": {
+            "link": "/glam-up.html?q=Glam%20Up&idx=enterprise_magento_english&p=1&hFR[categories.level0][0]=Glam%20Up&nR[visibility_catalog][=][0]=1",
+            "plp_title": "Beauty"
+          }
+        }
+      ]
+    },
+    {
+      "key": "exclusive",
+      "label": "Exclusive",
+      "link": "/exclusive-march.html?q=Exclusive+March&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Exclusive+March&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/exclusive.jpg",
+          "description": "Only on 6thStreet",
+          "link": "/exclusive-march.html?q=Exclusive+March&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Exclusive+March&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "Charles & Keith",
+              "link": "/exclusive-march.html?q=Exclusive+March&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Exclusive+March&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "Ardene",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ardene",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "LC Waikiki",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/Clovia.jpg",
+              "label": "Clovia",
+              "link": "/clovia.html?q=Clovia&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Clovia&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Clovia"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/exclusive/Shoes.jpg",
+              "label": "Shoes",
+              "link": "/exclusive-march.html?q=Exclusive+March&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Exclusive+March&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bcategories_without_path%5D%5B0%5D=Trainers%2CSneakers%2CSandals%2CPumps%2CMules%2CBallerinas",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/exclusive/Bags.jpg",
+              "label": "Bags",
+              "link": "/exclusive-march.html?q=Exclusive+March&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Exclusive+March&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Cross+Body+Bag%2CShoulder+bags%2CWallets%2CMini+bags%2CTotes&dFR%5Bgender%5D%5B0%5D=Women",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/exclusive/clothing.jpg",
+              "label": "Clothing",
+              "link": "/women/clothing.html?q=Women+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ardene%2CClovia",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/exclusive/acc.jpg",
+              "label": "Accessories",
+              "link": "/women/accessories.html?q=Women+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith%2CLC+Waikiki%2CNaturalizer&dFR%5Bcategories_without_path%5D%5B0%5D=Sunglasses%2CBody+Jewellery%2CBracelets%2CNecklaces%2CRings%2CBoat+Shoes%2CBrogues%2CEspadrilles",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/exclusive/Beauty.jpg",
+              "label": "Beauty",
+              "link": "/catalogsearch/result/?q=Beauty&qid=8d7f1f529dc13e30480fbd5038cd205b&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Beauty"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/exclusive/grooming.jpg",
+              "label": "Grooming",
+              "link": "/catalogsearch/result/?q=Grooming&qid=04c07eb7af4a581ac67c35572bf744d1&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CWomen%2CMen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Grooming"
+            }
+          ],
+          "button": {
+            "link": "/exclusive-march.html?q=Exclusive+March&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Exclusive+March&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women",
+            "plp_title": "Exclusive"
+          }
+        }
+      ]
+    },
+    {
+      "key": "sale",
+      "label": "Sale",
+      "link": "/women/outlet.html?q=Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CUnisex%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#D12229",
+        "text_color": "#D12229"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/newIN+15June/sale.jpg",
+          "description": "End of Season Sale",
+          "link": "/women/outlet.html?q=Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CUnisex%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/assets/brands/trendyol.jpg",
+              "label": "Trendyol",
+              "link": "/catalogsearch/result/?q=Trendyol&qid=9cabcde62acc62a378d08296dcc51231&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/skechers.jpg",
+              "label": "Skechers",
+              "link": "/catalogsearch/result/?q=Skechers&qid=19f1e1a29a9400185f52ac67d2f95d8d&p=0&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/adidas.jpg",
+              "label": "Adidas",
+              "link": "/catalogsearch/result/?q=Adidas&qid=01bafdebd6ac7d17702e0c765ee26a48&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CGirl%2CMen&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals%2CAdidas+Sport&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aeropostale.jpg",
+              "label": "Aeropostale",
+              "link": "/catalogsearch/result/?q=Aeropostale&qid=56f7af7048e46dbd7b03560861a3a2f9&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "Aldo",
+              "link": "/catalogsearch/result/?q=Aldo&qid=4f1f3ec29e861d85b00ccb9e27e88230&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/call+it+spring.jpg",
+              "label": "Call it Spring",
+              "link": "/catalogsearch/result/?q=Call+It+Spring&qid=78d9d20eb590827d072f3ca2efa6fe1f&p=0&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Call it Spring"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "LC Waikiki",
+              "link": "/catalogsearch/result/?q=Lc+Waikiki&qid=dafea4d2f5460f1f3d211c932c169a1a&p=0&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/nine+west.jpg",
+              "label": "Ninewest",
+              "link": "/catalogsearch/result/?q=Ninewest&qid=f13c19388cdb0ec5e689de5bc4fbb19c&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Nine+West&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Ninewest"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/OFFROAD.jpg",
+              "label": "OFFROAD",
+              "link": "/catalogsearch/result/?q=OFFROAD&qid=3eac5006acccbfae46235e98702ea83f&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bbrand_name%5D%5B0%5D=OFFROAD&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "OFFROAD"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/zarafa.jpg",
+              "label": "Zarafa",
+              "link": "/catalogsearch/result/?q=Zarafa&qid=e612874ccae1769ec21396c139acc24f&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Zarafa"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/neon.jpg",
+              "label": "Neon",
+              "link": "/catalogsearch/result/?q=Neon&qid=22987fa230714e69751677db41a5ac3b&p=0&dFR%5Bbrand_name%5D%5B0%5D=Neon&dFR%5Bgender%5D%5B0%5D=Women%2CGirl%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Neon"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/brands/R%26B+Kids.jpg",
+              "label": "R&B Kids",
+              "link": "/catalogsearch/result/?q=R&B+Kids=&qid=ebb087f6a34677a28d76fec7ba71b32d&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "R&B Kids"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY CATEGORY",
+          "items": [
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sale/Shoes+copy.jpg",
+              "label": "Shoes",
+              "link": "/catalogsearch/result/?q=Shoes&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CMen%2CGirl%2CUnisex&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sale/bags.jpg",
+              "label": "Bags",
+              "link": "/catalogsearch/result/?q=Bags&qid=b57c48dd5c78489836a6b23bf683e3c0&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sale/clothing.jpg",
+              "label": "Clothing",
+              "link": "/catalogsearch/result/?q=Clothing&p=0&dFR%5Bgender%5D%5B0%5D=Women%2CBoy%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sale/ACC.jpg",
+              "label": "Accessories",
+              "link": "/catalogsearch/result/?q=Accessories&qid=4c99b3e39f4d0248d6b39ebbccd2f310&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sale/beauty.jpg",
+              "label": "Beauty",
+              "link": "/catalogsearch/result/?q=Beauty&qid=8d7f1f529dc13e30480fbd5038cd205b&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CWomen%2CGirl%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sale/sports.jpg",
+              "label": "Sports",
+              "link": "/catalogsearch/result/?q=Sportswear&qid=f6ebb41bf16064bfd9f0cb766574f971&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/14-06-2022-All+Menu/sale/grooming.jpg",
+              "label": "Grooming",
+              "link": "/catalogsearch/result/?q=Grooming&qid=04c07eb7af4a581ac67c35572bf744d1&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CWomen%2CMen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10"
+            }
+          ],
+          "button": {
+            "link": "/women/outlet.html?q=Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CGirl%2CUnisex%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "SALE"
+          }
+        }
+      ]
+    }
+  ]
+}

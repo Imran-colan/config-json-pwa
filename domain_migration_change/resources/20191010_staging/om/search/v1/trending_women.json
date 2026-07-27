@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_brands",
+      "items": [
+        {
+          "en_link": "levis.html?q=Levi%27s&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Levi%27s&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_om_products",
+          "ar_link": "levis.html?q=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "image_url": "https://media.6media.me/media/catalog/category/levis_1.jpg",
+          "en_label": "Levi's",
+          "ar_label": "ليفايز"
+        }
+      ]
+    },
+    {
+      "type": "circleItemSlider",
+      "key": "trending_categories",
+      "items": [
+        {
+          "en_link": "women/clothing/pants.html?q=Women+Clothing+Pants&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing+%2F%2F%2F+Pants&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_om_products",
+          "ar_link": "women/clothing/pants.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "image_url": "https://media.6media.me/media/catalog/product/f/w/fw17-wtkb68022-pitch-black-760x850.jpg",
+          "en_label": "Pants",
+          "ar_label": "بناطيل"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_styles",
+      "items": []
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "all": {},
+  "women": {
+  	"Rituals" : {
+  		"is_enabled": true,
+"data": [
+    {
+      "type": "circleItemSlider",
+      "items": [
+        {
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/staging-examples/stories_0.jpg",
+          "label": "WELCOME",
+          "link": "/gift-guide-for-women.html?q=Gift%20Guide%20For%20Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Gift%20Guide%20For%20Women&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+          "plp_config": {
+            "show_product_count": true,
+            "title": "WELCOME",
+            "banner": {
+              "type": "image",
+              "url": "https://media.6media.me/media/banners/tmp/icon/26feb/women/gift_edit_women.jpg",
+              "aspect_ratio": 0.85,
+              "title": "THE EID GIFT GUIDE",
+              "description": "It's time to celebrate your relations with gifts for your loved ones!"
+            }
+          }
+        },
+        {
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/staging-examples/stories_1.jpg",
+          "label": "SUMMER LOOK",
+          "link": "/eid-gifting-home-edit.html?q=Eid%20Gifting%20Home%20Edit&idx=enterprise_magento_english_products&p=0&dFR%5Bbrand_name%5D%5B0%5D=Rituals&dFR%5Bgender%5D%5B0%5D=Unisex&hFR%5Bcategories.level0%5D%5B0%5D=Eid%20Gifting%20Home%20Edit&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+          "plp_config": {
+            "show_product_count": true,
+            "title": "THE HOME GIFT GUIDE",
+            "banner": {
+              "type": "image",
+              "url": "https://media.6media.me/media/banners/tmp/icon/26feb/women/women.jpg",
+              "aspect_ratio": 0.85,
+              "title": "THE HOME GIFT GUIDE",
+              "description": "It's time to celebrate your relations with gifts for your loved ones!"
+            }
+          }
+        },
+        {
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/staging-examples/stories_2.jpg",
+          "label": "ALDO LOOK",
+          "link": "/women-sparkle-affair.html?q=Women%20Sparkle%20Affair&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20Sparkle%20Affair&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+          "plp_config": {
+            "show_product_count": true,
+            "title": "STATEMENT PIECES",
+            "banner": {
+              "type": "image",
+              "url": "https://media.6media.me/media/banners/tmp/icon/26feb/women/statement_pieces.jpg",
+              "aspect_ratio": 0.85,
+              "title": "STATEMENT PIECES",
+              "description": "Your look isn’t complete without a little sparkle. We’ve selected our most dazzling jewellery, statement shoes & bags for your next special occasion."
+            }
+          }
+        },
+        {
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/staging-examples/stories_3.jpg",
+          "label": "STATEMENT PIECES",
+          "link": "/women-sparkle-affair.html?q=Women%20Sparkle%20Affair&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20Sparkle%20Affair&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+          "plp_config": {
+            "show_product_count": true,
+            "title": "STATEMENT PIECES",
+            "banner": {
+              "type": "image",
+              "url": "https://media.6media.me/media/banners/tmp/icon/26feb/women/statement_pieces.jpg",
+              "aspect_ratio": 0.85,
+              "title": "STATEMENT PIECES",
+              "description": "Your look isn’t complete without a little sparkle. We’ve selected our most dazzling jewellery, statement shoes & bags for your next special occasion."
+            }
+          }
+        },
+        {
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/staging-examples/stories_5.jpg",
+          "label": "SPORT TECH",
+          "link": "/women-sparkle-affair.html?q=Women%20Sparkle%20Affair&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20Sparkle%20Affair&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+          "plp_config": {
+            "show_product_count": true,
+            "title": "STATEMENT PIECES",
+            "banner": {
+              "type": "image",
+              "url": "https://media.6media.me/media/banners/tmp/icon/26feb/women/statement_pieces.jpg",
+              "aspect_ratio": 0.85,
+              "title": "STATEMENT PIECES",
+              "description": "Your look isn’t complete without a little sparkle. We’ve selected our most dazzling jewellery, statement shoes & bags for your next special occasion."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "link": "gift-guide-for-women.html?q=Gift%20Guide%20For%20Women&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Gift%20Guide%20For%20Women&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1 ",
+          "url": "https://media.6media.me/media/banners/tmp/icon/UAE_WOMEN_EN_BANNER1_MOB_1.jpg",
+          "height": "768",
+          "width": "600"
+        }
+      ],
+      "type": "mainBanner"
+    },
+    {
+      "items": [
+        {
+          "link": "lc-waikiki/women.html?q=LC%20Waikiki%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=LC%20Waikiki&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1 ",
+          "url": "https://media.6media.me/media/banners/tmp/icon/ALL_WOMEN_EN_BANNER6_13.jpg",
+          "height": "384",
+          "width": "600"
+        }
+      ],
+      "type": "banner"
+    },
+    {
+      "data_url": "https://en-ae-stage.6tst.com/aeropostale/women.html#q=Aeropostale%20Women&idx=stage_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Aeropostale&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+      "title": "Top Picks",
+      "type": "productSlider"
+    },
+    {
+      "type": "grid",
+      "background_color": "#FFF",
+      "item_height": 290,
+      "items_per_row": 2,
+      "items": [
+        {
+          "link": "charles-keith/women.html?q=Charles%20%26%20Keith%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Charles%20%26%20Keith&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1 ",
+          "url": "https://media.6media.me/media/banners/tmp/icon/UAE_WOMEN_EN_BANNER2_5.jpg"
+        },
+        {
+          "link": "dune-london/women.html?q=Dune%20London%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Dune%20London&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1 ",
+          "url": "https://media.6media.me/media/banners/tmp/icon/ALL_WOMEN_EN_BANNER3_17.jpg"
+        },
+        {
+          "link": "aldo/women.html?q=Aldo%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Aldo&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1 ",
+          "url": "https://media.6media.me/media/banners/tmp/icon/UAE_WOMEN_EN_BANNER4_16.jpg"
+        },
+        {
+          "link": "crocs/women.html?q=Crocs%20Women&idx=enterprise_magento_english_products&p=0&dFR%5Bgender%5D%5B0%5D=Women&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1 ",
+          "url": "https://media.6media.me/media/banners/tmp/icon/UAE_WOMEN_EN_BANNER5_5.jpg"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "link": "/skechers.html?q=Skechers&idx=gqa_magento_english_products&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Athletic&dFR%5Bcategories_without_path%5D%5B1%5D=Baby%20trainers&dFR%5Bcategories_without_path%5D%5B10%5D=Slippers&dFR%5Bcategories_without_path%5D%5B11%5D=Slip-ons&dFR%5Bcategories_without_path%5D%5B12%5D=School%20Supplies&dFR%5Bcategories_without_path%5D%5B13%5D=Sandals&dFR%5Bcategories_without_path%5D%5B14%5D=Sneakers&dFR%5Bcategories_without_path%5D%5B15%5D=Sneakers%20and%20athletics&dFR%5Bcategories_without_path%5D%5B16%5D=Trainers&dFR%5Bcategories_without_path%5D%5B17%5D=Wedges&dFR%5Bcategories_without_path%5D%5B2%5D=Back%20to%20School&dFR%5Bcategories_without_path%5D%5B3%5D=Duffel%20Bags&dFR%5Bcategories_without_path%5D%5B4%5D=Boots&dFR%5Bcategories_without_path%5D%5B5%5D=Ballerinas&dFR%5Bcategories_without_path%5D%5B6%5D=Flats&dFR%5Bcategories_without_path%5D%5B7%5D=Flip%20Flops&dFR%5Bcategories_without_path%5D%5B8%5D=Loafers&dFR%5Bcategories_without_path%5D%5B9%5D=Lace-up%20Shoes&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+          "url": "https://mobilecdn.6thstreet.com/uae/en/promos/BTS/logo/BTS_LP-LOGOS-skechers.jpg",
+          "height": 450,
+          "width": 901,
+          "title": "Slider 1"
+        },
+        {
+          "link": "/herschel.html?q=HERSCHEL&idx=gqa_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=HERSCHEL&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+          "url": "https://mobilecdn.6thstreet.com/uae/en/promos/BTS/logo/BTS_LP-LOGOS-herschel.jpg",
+          "height": 450,
+          "width": 901,
+          "title": "Slider 2"
+        },
+        {
+          "link": "/nike.html?q=Nike&idx=gqa_magento_english_products&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers%20and%20athletics&dFR%5Bcategories_without_path%5D%5B1%5D=Sneakers&dFR%5Bcategories_without_path%5D%5B2%5D=Sandals&dFR%5Bcategories_without_path%5D%5B3%5D=Backpacks&dFR%5Bcategories_without_path%5D%5B4%5D=Flats&dFR%5Bcategories_without_path%5D%5B5%5D=Flip%20Flops&dFR%5Bcategories_without_path%5D%5B6%5D=Trainers&dFR%5Bcategories_without_path%5D%5B7%5D=Slippers&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+          "url": "https://mobilecdn.6thstreet.com/uae/en/promos/BTS/logo/BTS_LP-LOGOS-nike.jpg",
+          "height": 450,
+          "width": 901,
+          "title": "Slider 3"
+        }
+      ],
+      "type": "bannerSlider",
+      "title": ""
+    },
+    {
+      "type": "rich_content_banner",
+      "items": [
+        {
+          "image_url": "http://mobilecdn.6thstreet.com/AllBanners/staging-examples/rich_banner_0.jpg",
+          "height": 380,
+          "width": 375,
+          "title": "Sport Tech Series",
+          "subtitle": "Kick the gym with style",
+          "button": {
+            "label": "Shop Now",
+            "link": "/nike.html?q=Nike&idx=gqa_magento_english_products&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers%20and%20athletics&dFR%5Bcategories_without_path%5D%5B1%5D=Sneakers&dFR%5Bcategories_without_path%5D%5B2%5D=Sandals&dFR%5Bcategories_without_path%5D%5B3%5D=Backpacks&dFR%5Bcategories_without_path%5D%5B4%5D=Flats&dFR%5Bcategories_without_path%5D%5B5%5D=Flip%20Flops&dFR%5Bcategories_without_path%5D%5B6%5D=Trainers&dFR%5Bcategories_without_path%5D%5B7%5D=Slippers&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+          },
+          "tag": {
+            "label": "New Arrivals",
+            "position": "top_left"
+          }
+        },
+        {
+          "image_url": "http://mobilecdn.6thstreet.com/AllBanners/staging-examples/rich_banner_1.jpg",
+          "height": 380,
+          "width": 375,
+          "title": "Sport Tech Series",
+          "subtitle": "Kick the gym with style",
+          "button": {
+            "label": "Shop Now",
+            "link": "/nike.html?q=Nike&idx=gqa_magento_english_products&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers%20and%20athletics&dFR%5Bcategories_without_path%5D%5B1%5D=Sneakers&dFR%5Bcategories_without_path%5D%5B2%5D=Sandals&dFR%5Bcategories_without_path%5D%5B3%5D=Backpacks&dFR%5Bcategories_without_path%5D%5B4%5D=Flats&dFR%5Bcategories_without_path%5D%5B5%5D=Flip%20Flops&dFR%5Bcategories_without_path%5D%5B6%5D=Trainers&dFR%5Bcategories_without_path%5D%5B7%5D=Slippers&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+          },
+          "tag": {
+            "label": "New Arrivals",
+            "position": "top_center"
+          }
+        }
+      ]
+    },
+    {
+      "type": "rich_content_banner2",
+      "items": [
+        {
+          "image_url": "http://mobilecdn.6thstreet.com/AllBanners/staging-examples/rich_banner_3.jpg",
+          "width": 335,
+          "height": 380,
+          "title": "Sport Tech Series",
+          "subtitle": "Kick the gym with style",
+          "button": {
+            "label": "Shop Now",
+            "link": "/nike.html?q=Nike&idx=gqa_magento_english_products&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers%20and%20athletics&dFR%5Bcategories_without_path%5D%5B1%5D=Sneakers&dFR%5Bcategories_without_path%5D%5B2%5D=Sandals&dFR%5Bcategories_without_path%5D%5B3%5D=Backpacks&dFR%5Bcategories_without_path%5D%5B4%5D=Flats&dFR%5Bcategories_without_path%5D%5B5%5D=Flip%20Flops&dFR%5Bcategories_without_path%5D%5B6%5D=Trainers&dFR%5Bcategories_without_path%5D%5B7%5D=Slippers&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+          }
+        }
+      ]
+    }
+  ],
+  "type": "static"
+  	}
+  },
+  "men": {},
+  "kids": {}
+}

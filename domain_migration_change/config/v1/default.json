@@ -1,0 +1,3055 @@
+{
+  "countries": [
+    {
+      "is_enabled": true,
+      "value": "AE",
+      "currency": "AED",
+      "price_strip_insignificant_zeros": true,
+      "instore_orders_returns": true,
+      "nps_form": false,
+      "write_to_us": false,
+      "download_invoice": false,
+      "price_show_discount_percent": true,
+      "is_signin_cart_nudge_enabled": false,
+      "vto": true,
+      "locatiq": true,
+      "handsfree": false,
+      "useRECAPTCHA": false,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
+      "useGoogleRECAPTCHA": true,
+      "aic": {
+        "key": "aic",
+        "trackEvent": true,
+        "getConfigFirebase": true,
+        "value": {
+          "varient": "d",
+          "appIconName": "Default",
+          "enabled": true
+        }
+      },
+      "promise_default_city_area": {
+        "area": "Al Barsha",
+        "area_ar": "البرشاء",
+        "city": "Dubai",
+        "city_ar": "دبي"
+      },
+      "is_referral_enabled": false,
+      "promise_timer_duration": 240,
+      "shouldShowGlobalDateRange": false,
+      "showIconInSize": true,
+      "promise_sla": {
+        "international": "5-7",
+        "cross_border": "3-5",
+        "standard": "2"
+      },
+      "aivi_onboarding_data": {
+        "en": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+        },
+        "ar": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+        }
+      },
+      "aivi_onboarding_brands": [
+        {
+          "brand_name": "Levis",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_1.png"
+        },
+        {
+          "brand_name": "Skechers",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Aldo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_3.png"
+        },
+        {
+          "brand_name": "Koton",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_10.png"
+        },
+        {
+          "brand_name": "Pumaa",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Crocs",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_9.png"
+        },
+        {
+          "brand_name": "Steve Madden",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_8.png"
+        },
+        {
+          "brand_name": "Adidas",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_6.png"
+        },
+        {
+          "brand_name": "Puma",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_4.png"
+        },
+        {
+          "brand_name": "Boohoo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_5.png"
+        }
+      ],
+      "onBoardingBrands": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAdidas.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAthletesco.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandArdene.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAldo.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClarks.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAsics.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandTommyHilFiger.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandCrocs.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClinique.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandNineWest.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBirkenStock.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandHackettLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandLevis.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandDuneLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandRB.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBabiesAndMore.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        }
+      ],
+      "onBoardingData": {
+        "image_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_en": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_en": "AIVI",
+        "image_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_ar": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_ar": "آيفي"
+      },
+      "club_apparel_support": {
+        "support_email": "customercare@aivi.com",
+        "toll_free": "+971 4814 2666"
+      },
+      "isQuickDelivery": true,
+      "quick_delivery_time": {
+        "start": "11",
+        "end": "22",
+        "timer_start_at": "16"
+      },
+      "pn_nudge_enabled": false,
+      "catalogue_from_algolia": false,
+      "isVipEnabled": false,
+      "isClubApparelEnabled": true,
+      "hasSizePredictor": true,
+      "cart_timer_enable": true,
+      "show_min_free_shipping_amount": true,
+      "isNewPaymentScreen": true,
+      "is_image_slider_enabled": true,
+      "is_color_variants_enabled": true,
+      "isTamaraEnable": true,
+      "is_cod_available": true,
+      "is_nationality_visible": false,
+      "is_nationality_mandatory": false,
+      "is_app_megamenu_enabled": true,
+      "is_msite_megamenu_enabled": true,
+      "is_modyai_enabled": true,
+      "modyai_profiles_limit": 5,
+      "nationality_cart_limit": -1,
+      "isSidewideCouponEnabled": false,
+      "swc_promo_call": false,
+      "isGuestCheckoutEnable": true,
+      "chatbot_config": {
+        "pre_order_assistant_name": {
+          "en": "Fashion Assistant",
+          "ar": "دليل التسوّق"
+        },
+        "post_order_assistant_name": {
+          "en": "Customer Service",
+          "ar": "خدمة العملاء"
+        },
+        "isChatbotEnabled": true,
+        "inactivityTime": 24,
+        "isArabicEnabled": true,
+        "isEnglishEnabled": true,
+        "isPreEnabled": true,
+        "isPostEnabled": true
+      },
+      "isExpressDelivery": true,
+      "sidewideCouponCode": {
+        "en": "",
+        "ar": ""
+      },
+      "sidewideCouponData": {
+        "coupon_text": {
+          "en": "Recommended code",
+          "ar": "الرمز الموصى به"
+        },
+        "show_apply": false,
+        "show_sidewide": false,
+        "heading": {
+          "en": "Enter coupon or promo code",
+          "ar": "أدخل قسيأو رمز ترويجي"
+        }
+      },
+      "return_duration": "14",
+      "locales": [
+        "en-ae",
+        "ar-ae"
+      ],
+      "calling_code": "971",
+      "opening_hours": {
+        "en": "OPEN 9AM - 9PM",
+        "ar": "مفتوح من 9 صباحاً حتى 9 مساءً"
+      },
+      "contact_information": {
+        "phone": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "contact_using": {
+        "type": "whatsapp",
+        "options": {
+          "text": {
+            "en": "WHATSAPP",
+            "ar": "WHATSAPP"
+          },
+          "message": {
+            "en": "",
+            "ar": ""
+          },
+          "phone": "+971 4814 2666"
+        }
+      },
+      "cart_coach": {
+        "enabled": false,
+        "timer_one": 7,
+        "timer_two": 10
+      },
+      "is_careempay_enabled": {
+        "en": false,
+        "ar": false
+      },
+      "tabby_range": {
+        "min": 1,
+        "max": 5000
+      },
+      "tamara_range": {
+        "min": 1,
+        "max": 5000
+      },
+      "bottomMenu": {
+        "categoriesMobileMenu": {
+          "en_text": "Collections",
+          "ar_text": "مجموعات",
+          "en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "selectedColor": "#F96446",
+          "selected_en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif",
+          "selected_ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif"
+        }
+      },
+      "price_assurance_config": {
+        "is_new_tag_visible": true,
+        "isEnabledInPWA": true,
+        "isEnabledInAPP": true,
+        "maxImageSizeForPriceAssurance": 5,
+        "nudgeTimerInSeconds": 300
+      },
+      "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
+      "toll_free": "+971 4814 2666",
+      "has_en_new_coupon": true,
+      "has_ar_new_coupon": true,
+      "is_new_address_enabled": false,
+      "is_exchange_enabled": true,
+      "query_suggestion_enabled": true,
+      "is_ctc_return_enabled": true,
+      "is_ctc_enabled": false,
+      "is_complimentary_widget_enabled": true,
+      "is_contact_banner_enabled": false,
+      "inFullWidthPLP": true,
+      "free_return_amount": 100,
+      "is_live_party_enabled": true,
+      "free_delivery": true,
+      "new_signin_signup_version_enabled": true,
+      "is_cart_deal_enabled": false,
+      "isAlgoliaEventsEnabled": true,
+      "international_shipping_fee": true,
+      "isProductRatingEnabled": true,
+      "is_wallet_enabled": true,
+      "cashback_coupon": "CASHBACK",
+      "is_wallet_banner_enabled": false,
+      "insta_coupon": {
+        "enabled": true,
+        "session_time": 5,
+        "cart_value": 650
+      },
+      "new_design": true,
+      "uMinAvgRating": 1,
+      "uMinRatingCount": 3,
+      "cart_deal_notification": {
+        "en": "",
+        "ar": ""
+      },
+      "onboardingImage": {
+        "en": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20En.png",
+        "ar": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20Ar.png"
+      },
+      "notificationPopUpData": {
+        "title": {
+          "en": "Want Order Updates?",
+          "ar": "تابع طلبك أولاً بأول!"
+        },
+        "subtitle": {
+          "en": "Turn on alerts so you never miss a delivery update.",
+          "ar": "شغّل التنبيهات حتى لا تفوّت تحديثات التسليم"
+        },
+        "image": "https://mobilecdn.6thstreet.com/config/images/Frame.png"
+      },
+      "edd_info": {
+        "is_enable": true,
+        "has_pdp": true,
+        "has_cart": true,
+        "has_thank_you": true,
+        "has_order_detail": true,
+        "has_cross_border_enabled": true,
+        "default_message": 2,
+        "ctc_message": 1,
+        "has_item_level": true,
+        "default_message_intl_vendor": "10-12",
+        "intl_vendor_edd_range": {
+          "trendyol_turkey": "10-12",
+          "ayensoft": "10-12",
+          "boohoo_uk": "5-7"
+        },
+        "international_vendors": [
+          "trendyol_turkey",
+          "ayensoft",
+          "boohoo_uk"
+        ]
+      },
+      "cod_alert": {
+        "en": "Cash on Delivery is not available for the order above AED 2700, please choose another payment option.",
+        "ar": "الدفع نقداً عند الإستلام غير متوفر لطلبات بقيمة أعلى من 2700 درهم اماراتي, الرجاء تحديد خيار دفع آخر"
+      },
+      "inhouse_widget_config": {
+        "recently_viewed_enabled": true,
+        "similar_product_enabled": true,
+        "minCount": 7,
+        "widgetPageSize": 7,
+        "viewAllpageSize": 30,
+        "recentlyViewedAPITimeInterval": 20
+      },
+      "addressFormConfig": {
+        "isApartmentEnabled": true,
+        "isBuildingEnabled": true,
+        "is_map_view_enabled": true,
+        "is_map_view_enabled_web": true
+      },
+      "custom_clearance_msg": {
+        "en": "For orders over AED 1000, UAE Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
+        "ar": "للطلبات التي تتجاوز 1000 AED، يتطلب الجمارك في دولة الإمارات بيانات الهوية لتخليص الشحنة. يرجى إدخال المعلومات الصحيحة لتجنب التأخير."
+      },
+      "shop_the_look_config": {
+        "isShopTheLookFeatureEnabled": true,
+        "stlMinReqSize": 7,
+        "stlMaxSize": 30
+      },
+      "spcc_config": {
+        "isSpccEnabledPWA": true,
+        "isSpccEnabledAPP": true
+      }
+    },
+    {
+      "is_enabled": true,
+      "value": "SA",
+      "currency": "SAR",
+      "price_strip_insignificant_zeros": true,
+      "price_show_discount_percent": true,
+      "instore_orders_returns": true,
+      "nps_form": false,
+      "write_to_us": false,
+      "download_invoice": false,
+      "is_signin_cart_nudge_enabled": false,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
+      "handsfree": false,
+      "vto": true,
+      "locatiq": true,
+      "useRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": true,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
+      "aic": {
+        "key": "aic",
+        "trackEvent": true,
+        "getConfigFirebase": true,
+        "value": {
+          "varient": "d",
+          "appIconName": "Default",
+          "enabled": true
+        }
+      },
+      "promise_default_city_area": {
+        "area": "Al Malaz",
+        "area_ar": "الملز",
+        "city": "Riyadh",
+        "city_ar": "الرياض"
+      },
+      "promise_timer_duration": 240,
+      "shouldShowGlobalDateRange": false,
+      "showIconInSize": true,
+      "promise_sla": {
+        "international": "5-7",
+        "cross_border": "3-5",
+        "standard": "2"
+      },
+      "aivi_onboarding_data": {
+        "en": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+        },
+        "ar": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+        }
+      },
+      "aivi_onboarding_brands": [
+        {
+          "brand_name": "Levis",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_1.png"
+        },
+        {
+          "brand_name": "Skechers",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Aldo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_3.png"
+        },
+        {
+          "brand_name": "Koton",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_10.png"
+        },
+        {
+          "brand_name": "Pumaa",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Crocs",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_9.png"
+        },
+        {
+          "brand_name": "Steve Madden",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_8.png"
+        },
+        {
+          "brand_name": "Adidas",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_6.png"
+        },
+        {
+          "brand_name": "Puma",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_4.png"
+        },
+        {
+          "brand_name": "Boohoo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_5.png"
+        }
+      ],
+      "onBoardingBrands": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAdidas.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAthletesco.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandArdene.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAldo.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClarks.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAsics.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandTommyHilFiger.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandCrocs.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClinique.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandNineWest.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBirkenStock.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandHackettLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandLevis.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandDuneLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandRB.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBabiesAndMore.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        }
+      ],
+      "onBoardingData": {
+        "image_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_en": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_en": "AIVI",
+        "image_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_ar": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_ar": "آيفي"
+      },
+      "club_apparel_support": {
+        "support_email": "customercare@aivi.com",
+        "toll_free": "+966 9200 35167"
+      },
+      "isQuickDelivery": true,
+      "quick_delivery_time": {
+        "start": "10",
+        "end": "22",
+        "timer_start_at": "15"
+      },
+      "is_referral_enabled": false,
+      "chatbot_config": {
+        "pre_order_assistant_name": {
+          "en": "Fashion Assistant",
+          "ar": "دليل التسوّق"
+        },
+        "post_order_assistant_name": {
+          "en": "Customer Service",
+          "ar": "خدمة العملاء"
+        },
+        "isChatbotEnabled": true,
+        "inactivityTime": 24,
+        "isArabicEnabled": true,
+        "isEnglishEnabled": true,
+        "isPreEnabled": true,
+        "isPostEnabled": true
+      },
+      "pn_nudge_enabled": false,
+      "catalogue_from_algolia": false,
+      "isVipEnabled": false,
+      "isClubApparelEnabled": true,
+      "hasSizePredictor": true,
+      "cart_timer_enable": true,
+      "show_min_free_shipping_amount": true,
+      "isNewPaymentScreen": true,
+      "is_image_slider_enabled": true,
+      "is_color_variants_enabled": true,
+      "isTamaraEnable": true,
+      "is_cod_available": true,
+      "is_nationality_visible": true,
+      "is_nationality_mandatory": true,
+      "is_app_megamenu_enabled": true,
+      "is_msite_megamenu_enabled": true,
+      "is_modyai_enabled": true,
+      "modyai_profiles_limit": 5,
+      "nationality_cart_limit": 1000,
+      "isSidewideCouponEnabled": false,
+      "swc_promo_call": false,
+      "isGuestCheckoutEnable": true,
+      "isExpressDelivery": true,
+      "sidewideCouponCode": {
+        "en": "",
+        "ar": ""
+      },
+      "sidewideCouponData": {
+        "coupon_text": {
+          "en": "Recommended code",
+          "ar": "الرمز الموصى به"
+        },
+        "show_apply": false,
+        "show_sidewide": false,
+        "heading": {
+          "en": "Enter coupon or promo code",
+          "ar": "أدخل قسيأو رمز ترويجي"
+        }
+      },
+      "return_duration": "14",
+      "locales": [
+        "en-sa",
+        "ar-sa"
+      ],
+      "calling_code": "966",
+      "opening_hours": {
+        "en": "OPEN 9AM - 9PM",
+        "ar": "مفتوح من 9 صباحاً حتى 9 مساءً"
+      },
+      "contact_information": {
+        "phone": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "contact_using": {
+        "type": "whatsapp",
+        "options": {
+          "text": {
+            "en": "WHATSAPP",
+            "ar": "WHATSAPP"
+          },
+          "message": {
+            "en": "",
+            "ar": ""
+          },
+          "phone": "+971 4814 2666"
+        }
+      },
+      "cart_coach": {
+        "enabled": false,
+        "timer_one": 7,
+        "timer_two": 10
+      },
+      "is_careempay_enabled": {
+        "en": false,
+        "ar": false
+      },
+      "bottomMenu": {
+        "categoriesMobileMenu": {
+          "en_text": "Collections",
+          "ar_text": "مجموعات",
+          "en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "selectedColor": "#F96446",
+          "selected_en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif",
+          "selected_ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif"
+        }
+      },
+      "tabby_range": {
+        "min": 1,
+        "max": 5000
+      },
+      "tamara_range": {
+        "min": 1,
+        "max": 1500
+      },
+      "price_assurance_config": {
+        "is_new_tag_visible": true,
+        "isEnabledInPWA": true,
+        "isEnabledInAPP": true,
+        "maxImageSizeForPriceAssurance": 5,
+        "nudgeTimerInSeconds": 300
+      },
+      "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
+      "toll_free": "+966 9200 35167",
+      "has_en_new_coupon": true,
+      "has_ar_new_coupon": true,
+      "is_new_address_enabled": false,
+      "is_exchange_enabled": true,
+      "query_suggestion_enabled": true,
+      "is_ctc_return_enabled": false,
+      "is_ctc_enabled": false,
+      "is_complimentary_widget_enabled": false,
+      "is_contact_banner_enabled": false,
+      "inFullWidthPLP": false,
+      "free_return_amount": 100,
+      "is_live_party_enabled": true,
+      "free_delivery": true,
+      "new_signin_signup_version_enabled": true,
+      "is_cart_deal_enabled": false,
+      "isAlgoliaEventsEnabled": true,
+      "international_shipping_fee": true,
+      "isProductRatingEnabled": true,
+      "is_wallet_enabled": true,
+      "cashback_coupon": "CASHBACK",
+      "is_wallet_banner_enabled": false,
+      "insta_coupon": {
+        "enabled": true,
+        "session_time": 5,
+        "cart_value": 750
+      },
+      "new_design": true,
+      "uMinAvgRating": 1,
+      "uMinRatingCount": 3,
+      "cart_deal_notification": {
+        "en": "",
+        "ar": ""
+      },
+      "onboardingImage": {
+        "en": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20En.png",
+        "ar": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20Ar.png"
+      },
+      "notificationPopUpData": {
+        "title": {
+          "en": "Want Order Updates?",
+          "ar": "تابع طلبك أولاً بأول!"
+        },
+        "subtitle": {
+          "en": "Turn on alerts so you never miss a delivery update.",
+          "ar": "شغّل التنبيهات حتى لا تفوّت تحديثات التسليم"
+        },
+        "image": "https://mobilecdn.6thstreet.com/config/images/Frame.png"
+      },
+      "edd_info": {
+        "is_enable": true,
+        "has_pdp": true,
+        "has_cart": true,
+        "has_thank_you": true,
+        "has_order_detail": true,
+        "has_cross_border_enabled": true,
+        "default_message": 4,
+        "ctc_message": 1,
+        "has_item_level": true,
+        "default_message_intl_vendor": "10-12",
+        "intl_vendor_edd_range": {
+          "trendyol_turkey": "10-12",
+          "ayensoft": "10-12",
+          "boohoo_uk": "6-8"
+        },
+        "international_vendors": [
+          "trendyol_turkey",
+          "ayensoft",
+          "boohoo_uk"
+        ]
+      },
+      "cod_alert": {
+        "en": "Cash on Delivery is not available for the order above SAR 2700, please choose another payment option.",
+        "ar": "الدفع نقداً عند الإستلام غير متوفر لطلبات بقيمة أعلى من 2700 ريال سعودي, الرجاء تحديد خيار دفع آخر"
+      },
+      "inhouse_widget_config": {
+        "recently_viewed_enabled": true,
+        "similar_product_enabled": true,
+        "minCount": 7,
+        "widgetPageSize": 7,
+        "viewAllpageSize": 30,
+        "recentlyViewedAPITimeInterval": 20
+      },
+      "addressFormConfig": {
+        "isApartmentEnabled": true,
+        "isBuildingEnabled": true,
+        "is_map_view_enabled": true,
+        "is_map_view_enabled_web": true
+      },
+      "custom_clearance_msg": {
+        "en": "For orders over SAR 1000, Saudi Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
+        "ar": "للطلبات التي تتجاوز 1000 SAR، يتطلب الجمارك في المملكة العربية السعودية بيانات الهوية لتخليص الشحنة. يرجى إدخال المعلومات الصحيحة لتجنب التأخير."
+      },
+      "shop_the_look_config": {
+        "isShopTheLookFeatureEnabled": true,
+        "stlMinReqSize": 7,
+        "stlMaxSize": 30
+      },
+      "spcc_config": {
+        "isSpccEnabledPWA": true,
+        "isSpccEnabledAPP": true
+      }
+    },
+    {
+      "is_enabled": true,
+      "value": "KW",
+      "currency": "KWD",
+      "price_strip_insignificant_zeros": false,
+      "instore_orders_returns": true,
+      "nps_form": false,
+      "write_to_us": false,
+      "download_invoice": false,
+      "handsfree": false,
+      "vto": true,
+      "locatiq": true,
+      "useRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
+      "aic": {
+        "key": "aic",
+        "trackEvent": true,
+        "getConfigFirebase": true,
+        "value": {
+          "varient": "d",
+          "appIconName": "Default",
+          "enabled": true
+        }
+      },
+      "promise_default_city_area": {
+        "area": "Salmiya",
+        "area_ar": "السالمية",
+        "city": "Kuwait",
+        "city_ar": "الكويت"
+      },
+      "promise_timer_duration": 240,
+      "shouldShowGlobalDateRange": false,
+      "showIconInSize": true,
+      "promise_sla": {
+        "international": "5-7",
+        "cross_border": "3-5",
+        "standard": "2"
+      },
+      "aivi_onboarding_data": {
+        "en": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+        },
+        "ar": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+        }
+      },
+      "aivi_onboarding_brands": [
+        {
+          "brand_name": "Levis",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_1.png"
+        },
+        {
+          "brand_name": "Skechers",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Aldo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_3.png"
+        },
+        {
+          "brand_name": "Koton",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_10.png"
+        },
+        {
+          "brand_name": "Pumaa",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Crocs",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_9.png"
+        },
+        {
+          "brand_name": "Steve Madden",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_8.png"
+        },
+        {
+          "brand_name": "Adidas",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_6.png"
+        },
+        {
+          "brand_name": "Puma",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_4.png"
+        },
+        {
+          "brand_name": "Boohoo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_5.png"
+        }
+      ],
+      "onBoardingBrands": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAdidas.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAthletesco.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandArdene.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAldo.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClarks.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAsics.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandTommyHilFiger.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandCrocs.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClinique.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandNineWest.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBirkenStock.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandHackettLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandLevis.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandDuneLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandRB.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBabiesAndMore.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        }
+      ],
+      "onBoardingData": {
+        "image_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_en": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_en": "AIVI",
+        "image_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_ar": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_ar": "آيفي"
+      },
+      "club_apparel_support": {
+        "support_email": "customercare@aivi.com",
+        "toll_free": "+965 2226 1111"
+      },
+      "isQuickDelivery": true,
+      "quick_delivery_time": {
+        "start": "10",
+        "end": "22",
+        "timer_start_at": "14"
+      },
+      "chatbot_config": {
+        "pre_order_assistant_name": {
+          "en": "Fashion Assistant",
+          "ar": "دليل التسوّق"
+        },
+        "post_order_assistant_name": {
+          "en": "Customer Service",
+          "ar": "خدمة العملاء"
+        },
+        "isChatbotEnabled": true,
+        "inactivityTime": 24,
+        "isArabicEnabled": true,
+        "isEnglishEnabled": true,
+        "isPreEnabled": true,
+        "isPostEnabled": true
+      },
+      "price_show_discount_percent": true,
+      "is_signin_cart_nudge_enabled": false,
+      "is_referral_enabled": false,
+      "pn_nudge_enabled": false,
+      "catalogue_from_algolia": false,
+      "isVipEnabled": false,
+      "isClubApparelEnabled": true,
+      "hasSizePredictor": true,
+      "cart_timer_enable": true,
+      "show_min_free_shipping_amount": true,
+      "isNewPaymentScreen": true,
+      "is_image_slider_enabled": true,
+      "is_color_variants_enabled": true,
+      "isTamaraEnable": false,
+      "is_cod_available": true,
+      "is_nationality_visible": false,
+      "is_nationality_mandatory": false,
+      "is_app_megamenu_enabled": true,
+      "is_msite_megamenu_enabled": true,
+      "is_modyai_enabled": true,
+      "modyai_profiles_limit": 5,
+      "nationality_cart_limit": -1,
+      "isSidewideCouponEnabled": false,
+      "swc_promo_call": false,
+      "isGuestCheckoutEnable": true,
+      "isExpressDelivery": true,
+      "sidewideCouponCode": {
+        "en": "",
+        "ar": ""
+      },
+      "sidewideCouponData": {
+        "coupon_text": {
+          "en": "Recommended code",
+          "ar": "الرمز الموصى به"
+        },
+        "show_apply": false,
+        "show_sidewide": false,
+        "heading": {
+          "en": "Enter coupon or promo code",
+          "ar": "أدخل قسيأو رمز ترويجي"
+        }
+      },
+      "return_duration": "14",
+      "locales": [
+        "en-kw",
+        "ar-kw"
+      ],
+      "calling_code": "965",
+      "opening_hours": {
+        "en": "OPEN 9AM - 9PM",
+        "ar": "مفتوح من 9 صباحاً حتى 9 مساءً"
+      },
+      "contact_information": {
+        "phone": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "contact_using": {
+        "type": "whatsapp",
+        "options": {
+          "text": {
+            "en": "WHATSAPP",
+            "ar": "WHATSAPP"
+          },
+          "message": {
+            "en": "",
+            "ar": ""
+          },
+          "phone": "+971 4814 2666"
+        }
+      },
+      "bottomMenu": {
+        "categoriesMobileMenu": {
+          "en_text": "Collections",
+          "ar_text": "مجموعات",
+          "en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "selectedColor": "#F96446",
+          "selected_en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif",
+          "selected_ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif"
+        }
+      },
+      "cart_coach": {
+        "enabled": false,
+        "timer_one": 7,
+        "timer_two": 10
+      },
+      "is_careempay_enabled": {
+        "en": false,
+        "ar": false
+      },
+      "price_assurance_config": {
+        "is_new_tag_visible": true,
+        "isEnabledInPWA": true,
+        "isEnabledInAPP": true,
+        "maxImageSizeForPriceAssurance": 5,
+        "nudgeTimerInSeconds": 300
+      },
+      "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
+      "toll_free": "+96522261111",
+      "has_en_new_coupon": true,
+      "has_ar_new_coupon": true,
+      "is_new_address_enabled": false,
+      "is_exchange_enabled": true,
+      "query_suggestion_enabled": true,
+      "is_ctc_return_enabled": false,
+      "is_complimentary_widget_enabled": false,
+      "is_contact_banner_enabled": false,
+      "inFullWidthPLP": false,
+      "free_return_amount": 10,
+      "is_live_party_enabled": true,
+      "free_delivery": true,
+      "new_signin_signup_version_enabled": true,
+      "is_cart_deal_enabled": false,
+      "isAlgoliaEventsEnabled": true,
+      "international_shipping_fee": true,
+      "isProductRatingEnabled": true,
+      "is_wallet_enabled": true,
+      "cashback_coupon": "CASHBACK",
+      "is_wallet_banner_enabled": false,
+      "insta_coupon": {
+        "enabled": true,
+        "session_time": 5,
+        "cart_value": 75
+      },
+      "new_design": true,
+      "uMinAvgRating": 1,
+      "uMinRatingCount": 3,
+      "edd_info": {
+        "is_enable": true,
+        "has_pdp": true,
+        "has_cart": true,
+        "has_thank_you": true,
+        "has_order_detail": true,
+        "has_cross_border_enabled": true,
+        "default_message": 3,
+        "ctc_message": 1,
+        "has_item_level": true,
+        "default_message_intl_vendor": "10-12",
+        "intl_vendor_edd_range": {
+          "trendyol_turkey": "10-12",
+          "ayensoft": "10-12",
+          "boohoo_uk": "5-7"
+        },
+        "international_vendors": [
+          "trendyol_turkey",
+          "ayensoft",
+          "boohoo_uk"
+        ]
+      },
+      "cart_deal_notification": {
+        "en": "",
+        "ar": ""
+      },
+      "onboardingImage": {
+        "en": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20En.png",
+        "ar": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20Ar.png"
+      },
+      "notificationPopUpData": {
+        "title": {
+          "en": "Want Order Updates?",
+          "ar": "تابع طلبك أولاً بأول!"
+        },
+        "subtitle": {
+          "en": "Turn on alerts so you never miss a delivery update.",
+          "ar": "شغّل التنبيهات حتى لا تفوّت تحديثات التسليم"
+        },
+        "image": "https://mobilecdn.6thstreet.com/config/images/Frame.png"
+      },
+      "cod_alert": {
+        "en": "Cash on Delivery is not available for the order above KWD 250, please choose another payment option.",
+        "ar": "الدفع نقداً عند الإستلام غير متوفر لطلبات بقيمة أعلى من 250 دينار كويتي, الرجاء تحديد خيار دفع آخر"
+      },
+      "inhouse_widget_config": {
+        "recently_viewed_enabled": true,
+        "similar_product_enabled": true,
+        "minCount": 7,
+        "widgetPageSize": 7,
+        "viewAllpageSize": 30,
+        "recentlyViewedAPITimeInterval": 20
+      },
+      "addressFormConfig": {
+        "isApartmentEnabled": true,
+        "isBuildingEnabled": true,
+        "is_map_view_enabled": true
+      },
+      "custom_clearance_msg": {
+        "en": "For orders over KWD 100, Kuwait Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
+        "ar": "للطلبات التي تتجاوز 100 دينار كويتي، يتطلب الجمارك في الكويت بيانات الهوية لتخليص الشحنة. يرجى إدخال المعلومات الصحيحة لتجنب التأخير."
+      },
+      "shop_the_look_config": {
+        "isShopTheLookFeatureEnabled": true,
+        "stlMinReqSize": 7,
+        "stlMaxSize": 30
+      },
+      "spcc_config": {
+        "isSpccEnabledPWA": true,
+        "isSpccEnabledAPP": true
+      }
+    },
+    {
+      "is_enabled": true,
+      "value": "OM",
+      "currency": "OMR",
+      "price_strip_insignificant_zeros": false,
+      "instore_orders_returns": true,
+      "nps_form": false,
+      "write_to_us": false,
+      "download_invoice": false,
+      "price_show_discount_percent": true,
+      "handsfree": false,
+      "vto": true,
+      "locatiq": true,
+      "useRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
+      "aic": {
+        "key": "aic",
+        "trackEvent": true,
+        "getConfigFirebase": true,
+        "value": {
+          "varient": "d",
+          "appIconName": "Default",
+          "enabled": true
+        }
+      },
+      "promise_default_city_area": {
+        "area": "Bawshar",
+        "area_ar": "بوشر",
+        "city": "Muscat",
+        "city_ar": "مسقط"
+      },
+      "promise_timer_duration": 240,
+      "shouldShowGlobalDateRange": false,
+      "showIconInSize": true,
+      "promise_sla": {
+        "international": "5-7",
+        "cross_border": "3-5",
+        "standard": "2"
+      },
+      "is_signin_cart_nudge_enabled": false,
+      "aivi_onboarding_data": {
+        "en": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+        },
+        "ar": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+        }
+      },
+      "aivi_onboarding_brands": [
+        {
+          "brand_name": "Levis",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_1.png"
+        },
+        {
+          "brand_name": "Skechers",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Aldo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_3.png"
+        },
+        {
+          "brand_name": "Koton",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_10.png"
+        },
+        {
+          "brand_name": "Pumaa",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Crocs",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_9.png"
+        },
+        {
+          "brand_name": "Steve Madden",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_8.png"
+        },
+        {
+          "brand_name": "Adidas",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_6.png"
+        },
+        {
+          "brand_name": "Puma",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_4.png"
+        },
+        {
+          "brand_name": "Boohoo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_5.png"
+        }
+      ],
+      "onBoardingBrands": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAdidas.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAthletesco.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandArdene.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAldo.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClarks.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAsics.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandTommyHilFiger.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandCrocs.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClinique.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandNineWest.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBirkenStock.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandHackettLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandLevis.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandDuneLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandRB.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBabiesAndMore.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        }
+      ],
+      "onBoardingData": {
+        "image_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_en": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_en": "AIVI",
+        "image_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_ar": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_ar": "آيفي"
+      },
+      "club_apparel_support": {
+        "support_email": "customercare@aivi.com",
+        "toll_free": "+971 4814 2666"
+      },
+      "isQuickDelivery": true,
+      "quick_delivery_time": {
+        "start": "10",
+        "end": "22",
+        "timer_start_at": "15"
+      },
+      "chatbot_config": {
+        "pre_order_assistant_name": {
+          "en": "Fashion Assistant",
+          "ar": "دليل التسوّق"
+        },
+        "post_order_assistant_name": {
+          "en": "Customer Service",
+          "ar": "خدمة العملاء"
+        },
+        "isChatbotEnabled": true,
+        "inactivityTime": 24,
+        "isArabicEnabled": true,
+        "isEnglishEnabled": true,
+        "isPreEnabled": true,
+        "isPostEnabled": true
+      },
+      "is_referral_enabled": false,
+      "pn_nudge_enabled": false,
+      "hasSizePredictor": true,
+      "catalogue_from_algolia": false,
+      "isVipEnabled": false,
+      "isClubApparelEnabled": true,
+      "cart_timer_enable": true,
+      "show_min_free_shipping_amount": false,
+      "isNewPaymentScreen": true,
+      "is_image_slider_enabled": true,
+      "is_color_variants_enabled": true,
+      "isTamaraEnable": false,
+      "is_cod_available": true,
+      "is_nationality_visible": true,
+      "is_nationality_mandatory": true,
+      "is_app_megamenu_enabled": true,
+      "is_msite_megamenu_enabled": true,
+      "is_modyai_enabled": true,
+      "modyai_profiles_limit": 5,
+      "nationality_cart_limit": -1,
+      "isSidewideCouponEnabled": false,
+      "swc_promo_call": false,
+      "isGuestCheckoutEnable": true,
+      "isExpressDelivery": true,
+      "sidewideCouponCode": {
+        "en": "",
+        "ar": ""
+      },
+      "sidewideCouponData": {
+        "coupon_text": {
+          "en": "Recommended code",
+          "ar": "الرمز الموصى به"
+        },
+        "show_apply": false,
+        "show_sidewide": false,
+        "heading": {
+          "en": "Enter coupon or promo code",
+          "ar": "أدخل قسيأو رمز ترويجي"
+        }
+      },
+      "return_duration": "14",
+      "locales": [
+        "en-om",
+        "ar-om"
+      ],
+      "calling_code": "968",
+      "opening_hours": {
+        "en": "OPEN 9AM - 9PM",
+        "ar": "مفتوح من 9 صباحاً حتى 9 مساءً"
+      },
+      "contact_information": {
+        "phone": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "contact_using": {
+        "type": "whatsapp",
+        "options": {
+          "text": {
+            "en": "WHATSAPP",
+            "ar": "WHATSAPP"
+          },
+          "message": {
+            "en": "",
+            "ar": ""
+          },
+          "phone": "+971 4814 2666"
+        }
+      },
+      "cart_coach": {
+        "enabled": false,
+        "timer_one": 7,
+        "timer_two": 10
+      },
+      "is_careempay_enabled": {
+        "en": false,
+        "ar": false
+      },
+      "bottomMenu": {
+        "categoriesMobileMenu": {
+          "en_text": "Collections",
+          "ar_text": "مجموعات",
+          "en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "selectedColor": "#F96446",
+          "selected_en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif",
+          "selected_ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif"
+        }
+      },
+      "tamara_range": {
+        "min": 0,
+        "max": 0
+      },
+      "price_assurance_config": {
+        "is_new_tag_visible": true,
+        "isEnabledInPWA": true,
+        "isEnabledInAPP": true,
+        "maxImageSizeForPriceAssurance": 5,
+        "nudgeTimerInSeconds": 300
+      },
+      "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
+      "toll_free": "+971 4814 2666",
+      "has_en_new_coupon": true,
+      "has_ar_new_coupon": true,
+      "is_new_address_enabled": false,
+      "is_exchange_enabled": true,
+      "query_suggestion_enabled": true,
+      "is_ctc_return_enabled": false,
+      "is_ctc_enabled": false,
+      "is_complimentary_widget_enabled": false,
+      "is_contact_banner_enabled": false,
+      "inFullWidthPLP": false,
+      "free_return_amount": 12,
+      "is_live_party_enabled": true,
+      "free_delivery": false,
+      "new_signin_signup_version_enabled": true,
+      "is_cart_deal_enabled": false,
+      "isAlgoliaEventsEnabled": true,
+      "international_shipping_fee": true,
+      "isProductRatingEnabled": true,
+      "is_wallet_enabled": true,
+      "cashback_coupon": "CASHBACK",
+      "is_wallet_banner_enabled": false,
+      "insta_coupon": {
+        "enabled": true,
+        "session_time": 7,
+        "cart_value": 650
+      },
+      "new_design": true,
+      "uMinAvgRating": 1,
+      "uMinRatingCount": 3,
+      "edd_info": {
+        "is_enable": true,
+        "has_pdp": true,
+        "has_cart": true,
+        "has_thank_you": true,
+        "has_order_detail": true,
+        "has_cross_border_enabled": true,
+        "default_message": 3,
+        "ctc_message": 1,
+        "has_item_level": true,
+        "default_message_intl_vendor": "10-12",
+        "intl_vendor_edd_range": {
+          "trendyol_turkey": "10-12",
+          "ayensoft": "10-12",
+          "boohoo_uk": "6-8"
+        },
+        "international_vendors": [
+          "trendyol_turkey",
+          "ayensoft",
+          "boohoo_uk"
+        ]
+      },
+      "cart_deal_notification": {
+        "en": "",
+        "ar": ""
+      },
+      "onboardingImage": {
+        "en": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20En.png",
+        "ar": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20Ar.png"
+      },
+      "notificationPopUpData": {
+        "title": {
+          "en": "Want Order Updates?",
+          "ar": "تابع طلبك أولاً بأول!"
+        },
+        "subtitle": {
+          "en": "Turn on alerts so you never miss a delivery update.",
+          "ar": "شغّل التنبيهات حتى لا تفوّت تحديثات التسليم"
+        },
+        "image": "https://mobilecdn.6thstreet.com/config/images/Frame.png"
+      },
+      "cod_alert": {
+        "en": "Cash on Delivery is not available for the order above OMR 250, please choose another payment option.",
+        "ar": "الدفع نقداً عند الإستلام غير متوفر لطلبات بقيمة أعلى من 250 ريال عُماني, الرجاء تحديد خيار دفع آخر"
+      },
+      "inhouse_widget_config": {
+        "recently_viewed_enabled": true,
+        "similar_product_enabled": true,
+        "minCount": 7,
+        "widgetPageSize": 7,
+        "viewAllpageSize": 30,
+        "recentlyViewedAPITimeInterval": 20
+      },
+      "addressFormConfig": {
+        "isApartmentEnabled": true,
+        "isBuildingEnabled": true,
+        "is_map_view_enabled": true
+      },
+      "custom_clearance_msg": {
+        "en": "For orders over OMR 300, Oman Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
+        "ar": "للطلبات التي تتجاوز 300 ريال عماني، يتطلب الجمارك في سلطنة عمان بيانات الهوية لتخليص الشحنة. يرجى إدخال المعلومات الصحيحة لتجنب التأخير."
+      },
+      "shop_the_look_config": {
+        "isShopTheLookFeatureEnabled": true,
+        "stlMinReqSize": 7,
+        "stlMaxSize": 30
+      },
+      "spcc_config": {
+        "isSpccEnabledPWA": true,
+        "isSpccEnabledAPP": true
+      }
+    },
+    {
+      "is_enabled": true,
+      "value": "BH",
+      "currency": "BHD",
+      "price_strip_insignificant_zeros": false,
+      "price_show_discount_percent": true,
+      "is_signin_cart_nudge_enabled": true,
+      "instore_orders_returns": true,
+      "nps_form": false,
+      "write_to_us": false,
+      "download_invoice": false,
+      "handsfree": false,
+      "vto": true,
+      "locatiq": true,
+      "useRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
+      "aic": {
+        "key": "aic",
+        "trackEvent": true,
+        "getConfigFirebase": true,
+        "value": {
+          "varient": "d",
+          "appIconName": "Default",
+          "enabled": true
+        }
+      },
+      "promise_default_city_area": {
+        "area": "Riffa",
+        "area_ar": "الرفاع",
+        "city": "Bahrain",
+        "city_ar": "البحرين"
+      },
+      "promise_timer_duration": 240,
+      "shouldShowGlobalDateRange": false,
+      "showIconInSize": true,
+      "promise_sla": {
+        "international": "5-7",
+        "cross_border": "3-5",
+        "standard": "2"
+      },
+      "aivi_onboarding_data": {
+        "en": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+        },
+        "ar": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+        }
+      },
+      "aivi_onboarding_brands": [
+        {
+          "brand_name": "Levis",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_1.png"
+        },
+        {
+          "brand_name": "Skechers",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Aldo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_3.png"
+        },
+        {
+          "brand_name": "Koton",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_10.png"
+        },
+        {
+          "brand_name": "Pumaa",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Crocs",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_9.png"
+        },
+        {
+          "brand_name": "Steve Madden",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_8.png"
+        },
+        {
+          "brand_name": "Adidas",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_6.png"
+        },
+        {
+          "brand_name": "Puma",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_4.png"
+        },
+        {
+          "brand_name": "Boohoo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_5.png"
+        }
+      ],
+      "onBoardingBrands": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAdidas.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAthletesco.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandArdene.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAldo.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClarks.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAsics.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandTommyHilFiger.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandCrocs.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClinique.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandNineWest.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBirkenStock.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandHackettLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandLevis.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandDuneLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandRB.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBabiesAndMore.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        }
+      ],
+      "onBoardingData": {
+        "image_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_en": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_en": "AIVI",
+        "image_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_ar": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_ar": "آيفي"
+      },
+      "club_apparel_support": {
+        "support_email": "customercare@aivi.com",
+        "toll_free": "+971 4814 2666"
+      },
+      "isQuickDelivery": true,
+      "quick_delivery_time": {
+        "start": "10",
+        "end": "22",
+        "timer_start_at": "15"
+      },
+      "chatbot_config": {
+        "pre_order_assistant_name": {
+          "en": "Fashion Assistant",
+          "ar": "دليل التسوّق"
+        },
+        "post_order_assistant_name": {
+          "en": "Customer Service",
+          "ar": "خدمة العملاء"
+        },
+        "isChatbotEnabled": true,
+        "inactivityTime": 24,
+        "isArabicEnabled": true,
+        "isEnglishEnabled": true,
+        "isPreEnabled": true,
+        "isPostEnabled": true
+      },
+      "is_referral_enabled": false,
+      "pn_nudge_enabled": false,
+      "catalogue_from_algolia": false,
+      "isVipEnabled": false,
+      "isClubApparelEnabled": true,
+      "hasSizePredictor": true,
+      "cart_timer_enable": true,
+      "show_min_free_shipping_amount": false,
+      "isNewPaymentScreen": true,
+      "is_image_slider_enabled": true,
+      "is_color_variants_enabled": true,
+      "isTamaraEnable": false,
+      "is_cod_available": true,
+      "is_nationality_visible": false,
+      "is_nationality_mandatory": false,
+      "is_app_megamenu_enabled": true,
+      "is_msite_megamenu_enabled": true,
+      "is_modyai_enabled": true,
+      "modyai_profiles_limit": 5,
+      "nationality_cart_limit": -1,
+      "isSidewideCouponEnabled": false,
+      "swc_promo_call": false,
+      "isGuestCheckoutEnable": true,
+      "isExpressDelivery": true,
+      "sidewideCouponCode": {
+        "en": "",
+        "ar": ""
+      },
+      "sidewideCouponData": {
+        "coupon_text": {
+          "en": "Recommended code",
+          "ar": "الرمز الموصى به"
+        },
+        "show_apply": false,
+        "show_sidewide": false,
+        "heading": {
+          "en": "Enter coupon or promo code",
+          "ar": "أدخل قسيأو رمز ترويجي"
+        }
+      },
+      "return_duration": "14",
+      "locales": [
+        "en-bh",
+        "ar-bh"
+      ],
+      "calling_code": "973",
+      "opening_hours": {
+        "en": "OPEN 9AM - 9PM",
+        "ar": "مفتوح من 9 صباحاً حتى 9 مساءً"
+      },
+      "contact_information": {
+        "phone": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "contact_using": {
+        "type": "whatsapp",
+        "options": {
+          "text": {
+            "en": "WHATSAPP",
+            "ar": "WHATSAPP"
+          },
+          "message": {
+            "en": "",
+            "ar": ""
+          },
+          "phone": "+971 4814 2666"
+        }
+      },
+      "cart_coach": {
+        "enabled": false,
+        "timer_one": 7,
+        "timer_two": 10
+      },
+      "is_careempay_enabled": {
+        "en": false,
+        "ar": false
+      },
+      "bottomMenu": {
+        "categoriesMobileMenu": {
+          "en_text": "Collections",
+          "ar_text": "مجموعات",
+          "en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "selectedColor": "#F96446",
+          "selected_en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif",
+          "selected_ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif"
+        }
+      },
+      "tamara_range": {
+        "min": 0,
+        "max": 0
+      },
+      "price_assurance_config": {
+        "is_new_tag_visible": true,
+        "isEnabledInPWA": true,
+        "isEnabledInAPP": true,
+        "maxImageSizeForPriceAssurance": 5,
+        "nudgeTimerInSeconds": 300
+      },
+      "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
+      "toll_free": "+971 4814 2666",
+      "has_en_new_coupon": true,
+      "has_ar_new_coupon": true,
+      "is_new_address_enabled": false,
+      "is_exchange_enabled": true,
+      "query_suggestion_enabled": true,
+      "is_ctc_return_enabled": false,
+      "is_ctc_enabled": false,
+      "is_complimentary_widget_enabled": false,
+      "is_contact_banner_enabled": false,
+      "inFullWidthPLP": false,
+      "free_return_amount": 12,
+      "is_live_party_enabled": true,
+      "free_delivery": false,
+      "new_signin_signup_version_enabled": true,
+      "is_cart_deal_enabled": false,
+      "isAlgoliaEventsEnabled": true,
+      "international_shipping_fee": true,
+      "isProductRatingEnabled": true,
+      "is_wallet_enabled": true,
+      "cashback_coupon": "CASHBACK",
+      "is_wallet_banner_enabled": false,
+      "insta_coupon": {
+        "enabled": true,
+        "session_time": 7,
+        "cart_value": 650
+      },
+      "new_design": true,
+      "uMinAvgRating": 1,
+      "uMinRatingCount": 3,
+      "edd_info": {
+        "is_enable": true,
+        "has_pdp": true,
+        "has_cart": true,
+        "has_thank_you": true,
+        "has_order_detail": true,
+        "has_cross_border_enabled": true,
+        "default_message": 3,
+        "ctc_message": 1,
+        "has_item_level": true,
+        "default_message_intl_vendor": "10-12",
+        "intl_vendor_edd_range": {
+          "trendyol_turkey": "10-12",
+          "ayensoft": "10-12",
+          "boohoo_uk": "6-8"
+        },
+        "international_vendors": [
+          "trendyol_turkey",
+          "ayensoft",
+          "boohoo_uk"
+        ]
+      },
+      "cart_deal_notification": {
+        "en": "",
+        "ar": ""
+      },
+      "onboardingImage": {
+        "en": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20En.png",
+        "ar": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20Ar.png"
+      },
+      "notificationPopUpData": {
+        "title": {
+          "en": "Want Order Updates?",
+          "ar": "تابع طلبك أولاً بأول!"
+        },
+        "subtitle": {
+          "en": "Turn on alerts so you never miss a delivery update.",
+          "ar": "شغّل التنبيهات حتى لا تفوّت تحديثات التسليم"
+        },
+        "image": "https://mobilecdn.6thstreet.com/config/images/Frame.png"
+      },
+      "cod_alert": {
+        "en": "Cash on Delivery is not available for the order above BHD 250, please choose another payment option.",
+        "ar": "الدفع نقداً عند الإستلام غير متوفر لطلبات بقيمة أعلى من 250 دينار بحريني , الرجاء تحديد خيار دفع آخر"
+      },
+      "inhouse_widget_config": {
+        "recently_viewed_enabled": true,
+        "similar_product_enabled": true,
+        "minCount": 7,
+        "widgetPageSize": 7,
+        "viewAllpageSize": 30,
+        "recentlyViewedAPITimeInterval": 20
+      },
+      "addressFormConfig": {
+        "isApartmentEnabled": true,
+        "isBuildingEnabled": true,
+        "is_map_view_enabled": true
+      },
+      "custom_clearance_msg": {
+        "en": "For orders over BHD 300, Bahrain Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
+        "ar": "للطلبات التي تتجاوز 300 دينار بحريني، يتطلب الجمارك في البحرين بيانات الهوية لتخليص الشحنة. يرجى إدخال المعلومات الصحيحة لتجنب التأخير."
+      },
+      "shop_the_look_config": {
+        "isShopTheLookFeatureEnabled": true,
+        "stlMinReqSize": 7,
+        "stlMaxSize": 30
+      },
+      "spcc_config": {
+        "isSpccEnabledPWA": true,
+        "isSpccEnabledAPP": true
+      }
+    },
+    {
+      "is_enabled": true,
+      "value": "QA",
+      "currency": "QAR",
+      "price_strip_insignificant_zeros": true,
+      "price_show_discount_percent": false,
+      "is_signin_cart_nudge_enabled": false,
+      "instore_orders_returns": true,
+      "nps_form": false,
+      "write_to_us": false,
+      "download_invoice": false,
+      "handsfree": false,
+      "vto": true,
+      "locatiq": true,
+      "useRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
+      "isProfilePicEnabledWeb": true,
+      "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
+      "social_login": {
+        "app": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        },
+        "pwa": {
+          "is_apple_login_enabled": true,
+          "is_google_login_enabled": true
+        }
+      },
+      "aic": {
+        "key": "aic",
+        "trackEvent": true,
+        "getConfigFirebase": true,
+        "value": {
+          "varient": "d",
+          "appIconName": "Default",
+          "enabled": true
+        }
+      },
+      "promise_default_city_area": {
+        "area": "The Pearl Qatar",
+        "area_ar": "اللؤلؤة قطر",
+        "city": "Doha",
+        "city_ar": "الدوحة"
+      },
+      "promise_timer_duration": 240,
+      "shouldShowGlobalDateRange": false,
+      "showIconInSize": true,
+      "promise_sla": {
+        "international": "5-7",
+        "cross_border": "3-5",
+        "standard": "2"
+      },
+      "aivi_onboarding_data": {
+        "en": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+        },
+        "ar": {
+          "onboarding": [
+            {
+              "title": "",
+              "text": [],
+              "media": {
+                "type": "video",
+                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+              },
+              "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
+            }
+          ],
+          "textureBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/AIVI%20Logotype%20AR_white.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+        }
+      },
+      "aivi_onboarding_brands": [
+        {
+          "brand_name": "Levis",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_1.png"
+        },
+        {
+          "brand_name": "Skechers",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Aldo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_3.png"
+        },
+        {
+          "brand_name": "Koton",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_10.png"
+        },
+        {
+          "brand_name": "Pumaa",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_2.png"
+        },
+        {
+          "brand_name": "Crocs",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_9.png"
+        },
+        {
+          "brand_name": "Steve Madden",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_8.png"
+        },
+        {
+          "brand_name": "Adidas",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_6.png"
+        },
+        {
+          "brand_name": "Puma",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_4.png"
+        },
+        {
+          "brand_name": "Boohoo",
+          "brand_logo": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_brand_5.png"
+        }
+      ],
+      "onBoardingBrands": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAdidas.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAthletesco.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandArdene.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAldo.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClarks.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandAsics.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandTommyHilFiger.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandCrocs.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandClinique.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandNineWest.png",
+          "size": {
+            "width": 66.46,
+            "height": 60
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBirkenStock.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandHackettLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandLevis.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandDuneLondon.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandRB.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/config/images/brandBabiesAndMore.png",
+          "size": {
+            "width": 49.84,
+            "height": 45
+          }
+        }
+      ],
+      "onBoardingData": {
+        "image_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_en": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_en": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_en": "AIVI",
+        "image_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingImage.jpg",
+        "logo_ar": "https://mobilecdn.6thstreet.com/config/images/onBoardingLogo.png",
+        "name_logo_ar": "https://mobilecdn.6thstreet.com/config/images/namelogo.png",
+        "name_ar": "آيفي"
+      },
+      "club_apparel_support": {
+        "support_email": "customercare@aivi.com",
+        "toll_free": "+971 4814 2666"
+      },
+      "isQuickDelivery": true,
+      "quick_delivery_time": {
+        "start": "10",
+        "end": "22",
+        "timer_start_at": "15"
+      },
+      "chatbot_config": {
+        "pre_order_assistant_name": {
+          "en": "Fashion Assistant",
+          "ar": "دليل التسوّق"
+        },
+        "post_order_assistant_name": {
+          "en": "Customer Service",
+          "ar": "خدمة العملاء"
+        },
+        "isChatbotEnabled": true,
+        "inactivityTime": 24,
+        "isArabicEnabled": true,
+        "isEnglishEnabled": true,
+        "isPreEnabled": true,
+        "isPostEnabled": true
+      },
+      "is_referral_enabled": false,
+      "pn_nudge_enabled": false,
+      "catalogue_from_algolia": false,
+      "isVipEnabled": false,
+      "isClubApparelEnabled": true,
+      "hasSizePredictor": true,
+      "cart_timer_enable": true,
+      "show_min_free_shipping_amount": true,
+      "isNewPaymentScreen": true,
+      "is_image_slider_enabled": true,
+      "is_color_variants_enabled": true,
+      "isTamaraEnable": false,
+      "is_cod_available": true,
+      "is_nationality_visible": false,
+      "is_nationality_mandatory": false,
+      "is_app_megamenu_enabled": true,
+      "is_msite_megamenu_enabled": true,
+      "is_modyai_enabled": true,
+      "modyai_profiles_limit": 5,
+      "nationality_cart_limit": -1,
+      "isSidewideCouponEnabled": false,
+      "swc_promo_call": false,
+      "isGuestCheckoutEnable": false,
+      "isExpressDelivery": true,
+      "sidewideCouponCode": {
+        "en": "",
+        "ar": ""
+      },
+      "sidewideCouponData": {
+        "coupon_text": {
+          "en": "Recommended code",
+          "ar": "الرمز الموصى به"
+        },
+        "show_apply": true,
+        "show_sidewide": false,
+        "heading": {
+          "en": "Enter coupon or promo code",
+          "ar": "أدخل قسيأو رمز ترويجي"
+        }
+      },
+      "return_duration": "14",
+      "locales": [
+        "en-qa",
+        "ar-qa"
+      ],
+      "calling_code": "974",
+      "opening_hours": {
+        "en": "OPEN 9AM - 9PM",
+        "ar": "مفتوح من 9 صباحاً حتى 9 مساءً"
+      },
+      "contact_information": {
+        "phone": true,
+        "email": true,
+        "whatsapp": true
+      },
+      "contact_using": {
+        "type": "whatsapp",
+        "options": {
+          "text": {
+            "en": "WHATSAPP",
+            "ar": "WHATSAPP"
+          },
+          "message": {
+            "en": "",
+            "ar": ""
+          },
+          "phone": "+971 4814 2666"
+        }
+      },
+      "cart_coach": {
+        "enabled": false,
+        "timer_one": 7,
+        "timer_two": 10
+      },
+      "is_careempay_enabled": {
+        "en": false,
+        "ar": false
+      },
+      "bottomMenu": {
+        "categoriesMobileMenu": {
+          "en_text": "Collections",
+          "ar_text": "مجموعات",
+          "en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS.gif",
+          "selectedColor": "#F96446",
+          "selected_en_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif",
+          "selected_ar_icon": "https://mobilecdn.6thstreet.com/config/icons/CATEGORY-BRANDS2.gif"
+        }
+      },
+      "tamara_range": {
+        "min": 0,
+        "max": 0
+      },
+      "price_assurance_config": {
+        "is_new_tag_visible": true,
+        "isEnabledInPWA": true,
+        "isEnabledInAPP": true,
+        "maxImageSizeForPriceAssurance": 5,
+        "nudgeTimerInSeconds": 300
+      },
+      "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
+      "toll_free": "+971 4814 2666",
+      "has_en_new_coupon": true,
+      "has_ar_new_coupon": true,
+      "is_new_address_enabled": false,
+      "is_exchange_enabled": true,
+      "query_suggestion_enabled": true,
+      "is_ctc_return_enabled": false,
+      "is_ctc_enabled": false,
+      "is_complimentary_widget_enabled": false,
+      "is_contact_banner_enabled": false,
+      "inFullWidthPLP": false,
+      "free_return_amount": 100,
+      "is_live_party_enabled": false,
+      "free_delivery": true,
+      "new_signin_signup_version_enabled": true,
+      "is_cart_deal_enabled": false,
+      "isAlgoliaEventsEnabled": true,
+      "international_shipping_fee": true,
+      "isProductRatingEnabled": true,
+      "is_wallet_enabled": true,
+      "cashback_coupon": "CASHBACK",
+      "is_wallet_banner_enabled": false,
+      "insta_coupon": {
+        "enabled": true,
+        "session_time": 5,
+        "cart_value": 650
+      },
+      "new_design": true,
+      "uMinAvgRating": 1,
+      "uMinRatingCount": 3,
+      "edd_info": {
+        "is_enable": true,
+        "has_pdp": true,
+        "has_cart": true,
+        "has_thank_you": true,
+        "has_order_detail": true,
+        "has_cross_border_enabled": true,
+        "default_message": 2,
+        "ctc_message": 1,
+        "has_item_level": true,
+        "default_message_intl_vendor": "10-12",
+        "intl_vendor_edd_range": {
+          "trendyol_turkey": "10-12",
+          "ayensoft": "10-12",
+          "boohoo_uk": "5-7"
+        },
+        "international_vendors": [
+          "trendyol_turkey",
+          "ayensoft",
+          "boohoo_uk"
+        ]
+      },
+      "cart_deal_notification": {
+        "en": "",
+        "ar": ""
+      },
+      "onboardingImage": {
+        "en": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20En.png",
+        "ar": "https://mobilecdn.6thstreet.com/config/images/Get%20Notified%20Ar.png"
+      },
+      "notificationPopUpData": {
+        "title": {
+          "en": "Want Order Updates?",
+          "ar": "تابع طلبك أولاً بأول!"
+        },
+        "subtitle": {
+          "en": "Turn on alerts so you never miss a delivery update.",
+          "ar": "شغّل التنبيهات حتى لا تفوّت تحديثات التسليم"
+        },
+        "image": "https://mobilecdn.6thstreet.com/config/images/Frame.png"
+      },
+      "cod_alert": {
+        "en": "Cash on Receiving not available for the order above QAR 2700, please choose another payment option.",
+        "ar": "الدفع عند التوصيل غير متوفر للطلبات فوق 2700 ريال قطري. يرجى تحديد خيار دفع آخر"
+      },
+      "inhouse_widget_config": {
+        "recently_viewed_enabled": true,
+        "similar_product_enabled": true,
+        "minCount": 7,
+        "widgetPageSize": 7,
+        "viewAllpageSize": 30,
+        "recentlyViewedAPITimeInterval": 20
+      },
+      "addressFormConfig": {
+        "isApartmentEnabled": true,
+        "isBuildingEnabled": true,
+        "is_map_view_enabled": true
+      },
+      "custom_clearance_msg": {
+        "en": "For orders over QAR 1000, Qatar Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
+        "ar": "للطلبات التي تتجاوز 1000 ريال قطري، يتطلب الجمارك في قطر بيانات الهوية لتخليص الشحنة. يرجى إدخال المعلومات الصحيحة لتجنب التأخير."
+      },
+      "shop_the_look_config": {
+        "isShopTheLookFeatureEnabled": true,
+        "stlMinReqSize": 7,
+        "stlMaxSize": 30
+      },
+      "spcc_config": {
+        "isSpccEnabledPWA": true,
+        "isSpccEnabledAPP": true
+      }
+    }
+  ],
+  "static_files": {
+    "home_v1": "https://config.aivi.com/resources/20190121/$LOCALE/$FILE_NAME",
+    "isAIVI": true,
+    "splash_screen": "https://config.aivi.com/splash_screen/splash_screen.json",
+    "strapi_splash_screen": "https://strapi.6thstreet.com/api/splash-screen-pages",
+    "home": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/$FILE_NAME",
+    "home_custom_categories": "https://config.aivi.com/resources/20190121/$LOCALE/home_custom_categories.json",
+    "categories_custom_categories": "https://config.aivi.com/resources/20190121/$LOCALE/categories_custom_categories.json",
+    "brands_custom_screens": "https://config.aivi.com/resources/20190121/$LOCALE/brands_custom_screens.json",
+    "categories": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/categories_$GENDER.json",
+    "search_trending_tags": "https://config.aivi.com/resources/20190121/$LOCALE/search_trending_tags.json",
+    "search_trending_brands": "https://config.aivi.com/resources/20190121/$LOCALE/search_trending_brands.json",
+    "pdp": "https://config.aivi.com/resources/20190121/$LOCALE/pdp.json",
+    "influencers": "https://config.aivi.com/resources/20190121/$LOCALE/collections/$FILE_NAME",
+    "search": "https://config.aivi.com/resources/20190121/$LOCALE/search/$FILE_NAME",
+    "search_v1": "https://config.aivi.com/resources/20191010_staging/$LOCALE/search/v1/$FILE_NAME",
+    "brand_logos": "https://config.aivi.com/config/brand_logos.json",
+    "about_page": "https://config.aivi.com/resources/20190121/pages/aboutpage.json",
+    "plp_footer_women": "https://config.aivi.com/resources/20190121/pages/plp_footer_women.json",
+    "plp_footer_men": "https://config.aivi.com/resources/20190121/pages/plp_footer_men.json",
+    "plp_footer_kids": "https://config.aivi.com/resources/20190121/pages/plp_footer_kids.json",
+    "plp_footer_home": "https://config.aivi.com/resources/20190121/pages/plp_footer_home.json",
+    "plp_meta": "https://config.aivi.com/resources/20190121/$LOCALE/plp_meta.json",
+    "category_data": "https://mobilecdn.6thstreet.com/resources/20190121/$LANGUAGE/categoryData.json",
+    "more_filter": "https://config.aivi.com/config/more_filter.json",
+    "vip_screen": "https://config.aivi.com/resources/20190121/pages/vip_page.json",
+    "mega_menu_categories": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/categories_mega_menu_$GENDER.json",
+    "vip_screen_app": "https://config.aivi.com/resources/20190121/pages/vip_screen_app.json"
+  },
+  "app_icon": "default",
+  "is_carrempay_enable_loggedinuser": false,
+  "support_email": "customercare@aivi.com",
+  "whatsapp_chatbot_phone": "+97148142666",
+  "mailing_address_type": [
+    {
+      "value": "38945",
+      "label": {
+        "en": "Home",
+        "ar": "الرئيسية"
+      }
+    },
+    {
+      "value": "38946",
+      "label": {
+        "en": "Work",
+        "ar": "الشغل"
+      }
+    },
+    {
+      "value": "38947",
+      "label": {
+        "en": "Other",
+        "ar": "آخر"
+      }
+    }
+  ],
+  "bin_table": {
+    "visa": [],
+    "masterCard": [],
+    "mada": {
+      "6": [],
+      "8": []
+    }
+  }
+}

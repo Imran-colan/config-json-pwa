@@ -1,0 +1,1324 @@
+{
+  "data": [
+    {
+      "key": "new_in",
+      "label": "وصلنا حديثاً",
+      "link": "/catalogsearch/result/?q=%2B&qid=68b00583e53a61d25191c3714bb944d1&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&facetFilters=%5B%22promotion_tags.top%3A%D8%AC%D8%AF%D9%8A%D8%AF%D9%86%D8%A7%22%5D&idx=enterprise_magento_ar_bh_products",
+      "design": {
+        "background_color": "#cbb479",
+        "text_color": "#cbb479"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/NEWIN+-+MAIN+IMAGE.jpg",
+          "description": "وصل حديثاً",
+          "link": "/catalogsearch/result/?q=%252B&qid=68b00583e53a61d25191c3714bb944d1&p=0&dFR%255Bgender%255D%255B0%255D=%25D8%25A3%25D9%2588%25D9%2584%25D8%25A7%25D8%25AF%252C%25D8%25A8%25D9%2586%25D8%25A7%25D8%25AA&dFR%255Bin_stock%255D%255B0%255D=1&facetFilters=%255B%2522promotion_tags.top%253A%25D8%25AC%25D8%25AF%25D9%258A%25D8%25AF%25D9%2586%25D8%25A7%2522%255D&idx=enterprise_magento_ar_bh_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/shoes-boys.jpg",
+              "label": "أحذية",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Footwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/CLOTHING.jpg",
+              "label": "ملابس",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/ACCESSORIES.jpg",
+              "label": "اللإكسسوارات",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/BAGS.jpg",
+              "label": "حقائب",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/kids/category/CAT_KIDS_STATIONARY.jpg",
+              "label": "لوازم المدرسية",
+              "link": "/bts-tag-1.html?q=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "School Supplies"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/NEW+IN/BABY+ESSENTIALS.jpg",
+              "label": "أساسيات الطفل",
+              "link": "/kids/baby-essentials.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%B1%D8%B6%D8%B9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%B1%D8%B6%D8%B9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Baby Essentials"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "-",
+              "label": "أر آند بي",
+              "link": "/r-b.html?q=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&p=0&hFR[categories.level0][0]=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&nR[visibility_catalog][=][0]=1&dFR[in_stock][0]=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "-",
+              "label": "كروكس",
+              "link": "/crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "CROCS"
+            },
+            {
+              "image_url": "-",
+              "label": "اٍل سي واي كيكي",
+              "link": "/lc-waikiki.html?q=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "LC WAIKIKI"
+            },
+            {
+              "image_url": "-",
+              "label": "جان سبورت",
+              "link": "/jansport.html?q=%D8%AC%D8%A7%D9%86+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AC%D8%A7%D9%86+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "JANSPORT"
+            },
+            {
+              "image_url": "-",
+              "label": "ددانييلا",
+              "link": "/ddaniela.html?q=%D8%AF%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%84%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AF%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%84%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "DDANIELA"
+            },
+            {
+              "image_url": "-",
+              "label": "سكيتشرز",
+              "link": "/skechers.html?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "SKECHERS"
+            },
+            {
+              "image_url": "-",
+              "label": "بوما",
+              "link": "/puma.html?q=%D8%A8%D9%88%D9%85%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%85%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "PUMA"
+            },
+            {
+              "image_url": "-",
+              "label": "اسيكس",
+              "link": "/asics.html?q=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "ASICS"
+            },
+            {
+              "image_url": "-",
+              "label": "نايكي",
+              "link": "/nike.html?q=%D9%86%D8%A7%D9%8A%D9%83%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "NIKE"
+            },
+            {
+              "image_url": "-",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "BEVERLY HILLS POLO CLUB"
+            },
+            {
+              "image_url": "-",
+              "label": "تومي هيلفيغر",
+              "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "TOMMY HILFIGER"
+            }
+          ],
+          "button": {
+            "link": "/kids/new-in.html?q=أطفال&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوق حسب الماركة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "footwear",
+      "label": "أحذية",
+      "link": "/kids/footwear.html?q=أطفال+أحذية&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+أحذية&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/FOOTWEAR+-+MAIN+IMAGE.jpg",
+          "description": "أحذية لكل الطلعات",
+          "link": "/kids/footwear.html?q=أطفال+أحذية&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+أحذية&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+              "label": "سكيتشرز",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=سكيتشرز&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/crocs.jpg",
+              "label": "كروكس",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=كروكس&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Michael+Kors.jpg",
+              "label": "مايكل كورس",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/P+Logos/Polo+Ralph+Lauren.jpg",
+              "label": "بولو رالف لورين",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Polo Ralph Lauren"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+              "label": "نايك",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=httpsar-ae.6thstreet.com/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/puma.jpg",
+              "label": "بوما",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=بوما&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/toms.jpg",
+              "label": "تومز",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=تومز&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Toms"
+            },
+            {
+              "image_url": "-",
+              "label": "أر آند بي",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&idx=enterprise_magento_ar_bh_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/asics.jpg",
+              "label": "اسيكس",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=اسيكس&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Asics"
+            },
+            {
+              "image_url": "-",
+              "label": "تومي هيلفيغر",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "-",
+              "label": "يو إس بولو اسن",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%8A%D9%88+%D8%A5%D8%B3+%D8%A8%D9%88%D9%84%D9%88+%D8%A7%D8%B3%D9%86&idx=enterprise_magento_ar_bh_products",
+              "itemName": "U.S. POLO ASSN."
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/h/Heelys.jpg",
+              "label": "هيليز",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=هيليز&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Heelys"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/01-06-2023-Kids/KIDS-LOGO-MEGA+MENU/MOLEKINHA.jpg",
+              "label": "مولكينها",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=مولكينها&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Molekinha"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/h/Havaianas_brand_logo.jpg",
+              "label": "هافاياناز",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=هافاياناز&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Havaianas"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/sneakers.jpg",
+              "label": "سنيكرز",
+              "link": "/kids/footwear/sneakers.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&p=0&hFR[categories.level0][0]=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20///%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20///%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/CLOGS.jpg",
+              "label": "كلوج",
+              "link": "/kids/footwear/clogs.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Clogs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/SPORTS.jpg",
+              "label": "ستايل رياضي",
+              "link": "/kids/footwear/sports-shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sports Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/casual+shoes.jpg",
+              "label": "أحذية كاجوال",
+              "link": "/kids/footwear/casual-shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%BA%D9%8A%D8%B1%20%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%20&p=0&hFR[categories.level0][0]=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20///%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20///%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%BA%D9%8A%D8%B1%20%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%20&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Casual Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-02-2023-Kids/MEGAMENU_KIDS/FORMAL+SHOES.jpg",
+              "label": "أحذية رسمية",
+              "link": "/kids/footwear/formal-shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Formal Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/sandals.jpg",
+              "label": "صنادل",
+              "link": "/kids/footwear/sandals.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%B5%D9%86%D8%A7%D8%AF%D9%84&p=0&hFR[categories.level0][0]=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20///%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20///%20%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sandals"
+            },
+            {
+              "image_url": "-",
+              "label": "فليب فلوب وشباشب",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8%2C%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8&dFR%5BcategoryIds%5D%5B0%5D=9553%2C9552&idx=enterprise_magento_ar_bh_products",
+              "itemName": "SLIDES AND FLIPLOPS"
+            }
+          ],
+          "button": {
+            "link": "/kids/footwear.html?q=أطفال+أحذية&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+أحذية&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "تسوقوا حسب المنتج",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/running.jpg",
+              "label": "للركض والتدريب",
+              "link": "/kids/footwear/sports-shoes/running-training.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9++%D9%84%D9%84%D8%AC%D8%B1%D9%8A%2F%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9++%2F%2F%2F+%D9%84%D9%84%D8%AC%D8%B1%D9%8A%2F%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Running & Training"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/casual+sandals.jpg",
+              "label": "صنادل غير تقليدية",
+              "link": "/kids/footwear/sandals/casual-sandals.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Casual Sandals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/flat+sandals.jpg",
+              "label": "صنادل فلات",
+              "link": "/kids/footwear/sandals/flats.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%81%D9%84%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%81%D9%84%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Flat Sandals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/flip+flops.jpg",
+              "label": "فليب فلوب",
+              "link": "/kids/footwear/flip-flops/flipflops.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8+%D9%88%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8+%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8+%D9%88%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8+%2F%2F%2F+%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Flip Flops"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/ballerinas.jpg",
+              "label": "أحذية باليرينا",
+              "link": "/kids/footwear/casual-shoes/espadrille.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%BA%D9%8A%D8%B1+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9++%D8%A8%D8%A7%D9%84%D9%8A%D8%B1%D9%8A%D9%86%D8%A7+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%BA%D9%8A%D8%B1+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9++%2F%2F%2F+%D8%A8%D8%A7%D9%84%D9%8A%D8%B1%D9%8A%D9%86%D8%A7+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Ballerinas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Footwear/Kids+SBP+Footwear/traditional+sandals.jpg",
+              "label": "صنادل تقليدية",
+              "link": "/kids/footwear/sandals/traditional-sandals.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%B5%D9%86%D8%AF%D9%84+%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%2F%2F%2F+%D8%B5%D9%86%D8%AF%D9%84+%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Traditional Sandals"
+            }
+          ],
+          "button": {
+            "link": "/kids/footwear.html?q=أطفال+أحذية&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+أحذية&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوقوا حسب المنتج"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "clothing",
+      "label": "ملابس",
+      "link": "/kids/clothing.html?q=أطفال+ملابس&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+ملابس&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/MicrosoftTeams-image.png",
+          "description": "جددوا إطلالتهم بأروع التصاميم",
+          "link": "/kids/clothing.html?q=أطفال+ملابس&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+ملابس&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lc_waikiki.jpg",
+              "label": "اٍل سي واي كيكي",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&idx=enterprise_magento_ar_bh_products",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/the_children's_place.jpg",
+              "label": "ذا تشيلدرنز بليس",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&idx=enterprise_magento_ar_bh_products",
+              "itemName": "The Children's Place"
+            },
+            {
+              "image_url": "-",
+              "label": "أر آند بي",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D8%B1+%D8%A2%D9%86%D8%AF+%D8%A8%D9%8A&idx=enterprise_magento_ar_bh_products",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1+%D9%83%D9%8A%D8%AF%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Ddaniela.jpg",
+              "label": "ددانييلا",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=ددانييلا&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Ddaniela"
+            },
+            {
+              "image_url": "-",
+              "label": "فيكتور آند جين",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%81%D9%8A%D9%83%D8%AA%D9%88%D8%B1+%D8%A2%D9%86%D8%AF+%D8%AC%D9%8A%D9%86&idx=enterprise_magento_ar_bh_products",
+              "itemName": "VICTOR AND JANE"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D9%83%D9%8A%D8%AF%D8%B2%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D8%AC%D9%8A%D9%86%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "-",
+              "label": "هاكيت",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D8%A7%D9%83%D9%8A%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "HACKETT"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/12-09-2024-Kids/dummy.png",
+              "label": "بيبيز آند مور",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%2B%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=a8f1e548731618a8790d846da489c83d&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D8%A8%D9%8A%D8%B2+%D8%A2%D9%86%D8%AF+%D9%85%D9%88%D8%B1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Babies & More"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aeropostale.jpg",
+              "label": "ايروبوستال",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=ايروبوستال&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+              "label": "ليفايز",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2%2C%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2+%D9%83%D9%8A%D8%AF%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "-",
+              "label": "كوتون",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D9%88%D8%AA%D9%88%D9%86&idx=enterprise_magento_ar_bh_products",
+              "itemName": "KOTON"
+            },
+            {
+              "image_url": "-",
+              "label": "ديركجي",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%8A%D8%B1%D9%83%D8%AC%D9%8A&idx=enterprise_magento_ar_bh_products",
+              "itemName": "DIRKJE"
+            },
+            {
+              "image_url": "-",
+              "label": "زيبي",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B2%D9%8A%D8%A8%D9%8A&idx=enterprise_magento_ar_bh_products",
+              "itemName": "ZIPPY"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_KIDS_TSHIRT.jpg",
+              "label": "توبات",
+              "link": "/kids/clothing/topwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AA%D9%88%D8%A8%D8%A7%D8%AA++&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AA%D9%88%D8%A8%D8%A7%D8%AA++&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Topwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/DRESSES.jpg",
+              "label": "فساتين",
+              "link": "/kids/clothing/dresses.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Dresses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/BOTTOM.jpg",
+              "label": "ملابس سفلية",
+              "link": "/kids/clothing/bottomwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84+%D9%88+%D9%84%D9%8A%D9%82%D9%86%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84+%D9%88+%D9%84%D9%8A%D9%82%D9%86%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Bottomwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/CAT_KIDS_PAJAMAS.jpg",
+              "label": "مجموعات",
+              "link": "/kids/clothing/sets.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sets"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Winterwear%20%26%20Outwear.jpg",
+              "label": "ملابس الشتاء وملابس خارجية",
+              "link": "/kids/clothing/winterwear-outerwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Winterwear & Outerwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/CLOTHING/CLOTHING+ACC.jpg",
+              "label": "إكسسوارات الملابس",
+              "link": "/kids/clothing/clothing-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Clothing Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Onepieces%20%26%20Body%20Suits.jpg",
+              "label": "البودي سوت وملابس قطعة الواحدة",
+              "link": "/kids/clothing/onepieces-bodysuits.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%8A+%D8%B3%D9%88%D8%AA+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D8%B7%D8%B9%D8%A9+%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%8A+%D8%B3%D9%88%D8%AA+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D8%B7%D8%B9%D8%A9+%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Onepieces & Bodysuits"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/16-3-23+NEW/Megamenu_SBC+_All+copy/KIDS/NIGHT+WEAR.jpg",
+              "label": "ملابس نوم",
+              "link": "/kids/clothing/nightwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D9%86%D9%88%D9%85&p=0&hFR[categories.level0][0]=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20///%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20///%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D9%86%D9%88%D9%85&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Nightwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Onepieces%20%26%20Body%20Suits.jpg",
+              "label": "ملابس سباحة",
+              "link": "/kids/clothing/swim-wear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Swimwear"
+            },
+            {
+              "image_url": "-",
+              "label": "ملابس داخلية وحرارية",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A8%D9%88%D9%83%D8%B3%D8%B1%D8%A7%D8%AA+%D9%88%D8%B3%D8%B1%D8%A7%D9%88%D9%8A%D9%84+%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%2C%D8%AD%D9%85%D8%A7%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%B5%D8%AF%D8%B1%2C%D8%B3%D8%B1%D8%A7%D9%88%D9%8A%D9%84%2C%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA%2C%D9%81%D8%A7%D9%86%D9%8A%D9%84%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9625%2C9624%2C9626%2C9627%2C9623&idx=enterprise_magento_ar_bh_products",
+              "itemName": "INNERWEAR & THERMALS"
+            }
+          ],
+          "button": {
+            "link": "/kids/clothing.html?q=أطفال+ملابس&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+ملابس&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "تسوقوا حسب المنتج",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/T-shirts.jpg",
+              "label": "تيشيرتات",
+              "link": "/kids/clothing/topwear/t-shirts.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AA%D9%88%D8%A8%D8%A7%D8%AA+++%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AA%D9%88%D8%A8%D8%A7%D8%AA+++%2F%2F%2F+%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "T-Shirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/CasualDresses.jpg",
+              "label": "فساتين غير رسمية",
+              "link": "/kids/clothing/dresses/casual-dress.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86+%D9%81%D8%B3%D8%AA%D8%A7%D9%86+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86+%2F%2F%2F+%D9%81%D8%B3%D8%AA%D8%A7%D9%86+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Casual Dresses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/shirts.jpg",
+              "label": "قمصان",
+              "link": "/kids/clothing/topwear/shirts.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AA%D9%88%D8%A8%D8%A7%D8%AA+++%D9%82%D9%85%D8%B5%D8%A7%D9%86+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AA%D9%88%D8%A8%D8%A7%D8%AA+++%2F%2F%2F+%D9%82%D9%85%D8%B5%D8%A7%D9%86+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Shirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Sweatshirt.jpg",
+              "label": "سويتشيرتات",
+              "link": "/kids/clothing/winterwear-outerwear/sweatshirts.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9+%D8%A8%D9%84%D9%88%D8%B2%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9+%2F%2F%2F+%D8%A8%D9%84%D9%88%D8%B2%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sweatshirt"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Socks+%26+Tights.jpg",
+              "label": "جوارب و تايتات",
+              "link": "/kids/kids-accessories/clothing-accessories1/socks-tights.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AC%D9%88%D8%A7%D8%B1%D8%A8+%D9%88%D9%83%D9%8A%D9%84%D9%88%D9%86%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AC%D9%88%D8%A7%D8%B1%D8%A8+%D9%88%D9%83%D9%8A%D9%84%D9%88%D9%86%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Socks & Tights"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Rompers.jpg",
+              "label": "رومبر",
+              "link": "/kids/clothing/onepieces-bodysuits/rompers.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%8A+%D8%B3%D9%88%D8%AA+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D8%B7%D8%B9%D8%A9+%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D8%A9+%D8%B1%D9%88%D9%85%D8%A8%D8%B1%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%8A+%D8%B3%D9%88%D8%AA+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D8%B7%D8%B9%D8%A9+%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D8%A9+%2F%2F%2F+%D8%B1%D9%88%D9%85%D8%A8%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Rompers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Tops+%26+Shorts.jpg",
+              "label": "توبات و شورتات",
+              "link": "/kids/clothing/sets/top-shorts.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA+%D8%A8%D9%84%D8%A7%D9%8A%D8%B2+%D9%88%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA+%2F%2F%2F+%D8%A8%D9%84%D8%A7%D9%8A%D8%B2+%D9%88%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Top & Shorts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Tops+%26+Pants.jpg",
+              "label": "توبات و سراويل",
+              "link": "/kids/clothing/sets/tops-pants.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA+%D8%A8%D9%84%D8%A7%D9%8A%D8%B2+%D9%88+%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA+%2F%2F%2F+%D8%A8%D9%84%D8%A7%D9%8A%D8%B2+%D9%88+%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Tops & Pants"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-11-2021/SBP+Clothing/Kids+SBP+Clothing/Multi+pack_Value+pack.jpg",
+              "label": "طقم منوع / مجموعة قيمة",
+              "link": "/kids/clothing/sets/multi-pack.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA+%D8%B9%D8%A8%D9%88%D8%A7%D8%AA+%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9+%2F+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA+%D9%82%D9%8A%D9%85%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA+%2F%2F%2F+%D8%B9%D8%A8%D9%88%D8%A7%D8%AA+%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9+%2F+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA+%D9%82%D9%8A%D9%85%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Multi Pack/Value Pack"
+            }
+          ],
+          "button": {
+            "link": "/kids/clothing.html?q=أطفال+ملابس&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+ملابس&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوقوا حسب المنتج"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "bags",
+      "label": "حقائب",
+      "link": "/kids/bags.html?q=أطفال+حقائب&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+حقائب&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/BAGS+-+MAIN+IMAGE.jpg",
+          "description": "حقائب يحبها الصغار",
+          "link": "/kids/bags.html?q=أطفال+حقائب&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+حقائب&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "اديداس",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=اديداس&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A%20%D9%87%D9%8A%D9%84%D8%B2%20%D8%A8%D9%88%D9%84%D9%88%20%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/puma.jpg",
+              "label": "بوما",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=بوما&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+              "label": "ليفايز",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=ليفايز&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/herschel.jpg",
+              "label": "هيرشل",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%84&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/the_children's_place.jpg",
+              "label": "ذا تشيلدرنز بليس",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&idx=enterprise_magento_ar_bh_products",
+              "itemName": "The Children's Place"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/J/Jansport.jpg",
+              "label": "جان سبورت",
+              "link": "https://ar-ae.6thstreet.com/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=جان سبورت",
+              "itemName": "Jansport"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1+%D9%83%D9%8A%D8%AF%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/V/Vans.jpg",
+              "label": "فانس",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=فانس&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Vans"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+              "label": "نايك",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+              "label": "سي سي سي",
+              "link": "https://ar-ae.6thstreet.com/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=سي سي سي",
+              "itemName": "CCC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/L/Tru-care.jpg",
+              "label": "تروكير",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Trucare%2C%D8%A8%D8%A8%D8%AC%D9%8A+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D8%A8%D9%8A%D9%83%D9%84%D9%88%D8%AF%D9%8A%D9%88%D9%86+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D8%AA%D8%B1%D9%88%D9%84%D8%B2+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D8%AC%D9%88%D8%AC%D9%88+%D8%B3%D9%8A%D9%88%D8%A7+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D8%AF%D9%8A%D8%B2%D9%86%D9%8A+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D8%B3%D8%AA%D8%A7%D8%B1%D9%88%D8%B1%D8%B2+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D8%B3%D9%88%D8%A8%D8%B1%D9%86%D9%88%D9%81%D8%A7+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D9%85%D8%A7%D8%B1%D9%81%D9%84+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D9%88%D9%88%D8%B1%D9%86%D8%B1+%D8%A8%D8%B1%D9%88%D8%B0%D8%B1%D8%B2+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D9%8A%D9%88%D9%86%D9%8A%D9%81%D8%B1%D8%B3%D8%A7%D9%84%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1%2C%D9%81%D9%88%D9%86%D8%AF%D8%B1%D8%B3%D8%AA%D9%8A%D9%86+%40+%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D8%B1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Trucare"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-07-2022-Kids/Pending+logos/Sambox.jpg",
+              "label": "سامبوكس",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D8%B2%D9%8A+%D9%83%D9%8A%D8%AF%D8%B2+%40%D8%B3%D8%A7%D9%85%D8%A8%D9%88%D9%83%D8%B3%2C%D8%B5%D9%86%D9%81%D9%8A%D9%86%D9%88+%40+%D8%B3%D8%A7%D9%85%D8%A8%D9%88%D9%83%D8%B3%2C%D9%84%D9%8A%D8%AA%D9%84+%D8%B3%D8%AA%D9%88%D8%B1%D9%8A+%40+%D8%B3%D8%A7%D9%85%D8%A8%D9%88%D9%83%D8%B3%2C%D9%86%D9%88%D9%87%D9%88+%40+%D8%B3%D8%A7%D9%85%D8%A8%D9%88%D9%83%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sambox"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/toms.jpg",
+              "label": "تومز",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=تومز&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Toms"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/6-10-22+NEW/high+sierra/MN_Logo_Hr+(1).jpg",
+              "label": "هاي سيرا",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D8%A7%D9%8A%20%D8%B3%D9%8A%D8%B1%D8%A7&idx=enterprise_magento_ar_bh_products",
+              "itemName": "High Sierra"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/category/bags-boys.jpg",
+              "label": "حقائب مدرسية",
+              "link": "/kids/bags/school-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "School Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/11-10-2022/Mega+Menu/Bags/Bags1/Women-bags/Tavel-bag.jpg",
+              "label": "حقائب سفر",
+              "link": "/kids/bags/travel-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B3%D9%81%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B3%D9%81%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Travel Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Handbags.jpg",
+              "label": "حقائب يد",
+              "link": "/kids/bags/hand-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D9%8A%D8%AF&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D9%8A%D8%AF&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Hand Bags"
+            },
+            {
+              "image_url": "-",
+              "label": "محافظ",
+              "link": "/kids/bags/wallets.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AD%D8%A7%D9%81%D8%B8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D9%85%D8%AD%D8%A7%D9%81%D8%B8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "WALLETS"
+            }
+          ],
+          "button": {
+            "link": "/kids/bags.html?q=أطفال+حقائب&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+حقائب&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "تسوقوا حسب المنتج",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/cross+body.jpg",
+              "label": "حقائب كروس بادي",
+              "link": "/kids/bags/hand-bags/cross-body.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D9%8A%D8%AF+%D9%83%D8%B1%D9%88%D8%B3+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D9%8A%D8%AF+%2F%2F%2F+%D9%83%D8%B1%D9%88%D8%B3+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Cross Body"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/trolley+backpack+set.jpg",
+              "label": "طقم حقيبة ظهر بعجلات",
+              "link": "/kids/bags/school-bags/trolley-backpack-set.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Trolley Backpack set"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/lunch+bags.jpg",
+              "label": "حقيبة غداء",
+              "link": "/kids/bags/school-bags/lunch-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Lunch Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Bags+Mega+menu/Bags+mega+menu/mini+bag.jpg",
+              "label": "حقائب صغيرة",
+              "link": "/kids/bags/hand-bags/mini-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D9%8A%D8%AF+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D9%8A%D8%AF+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Mini Bags"
+            }
+          ],
+          "button": {
+            "link": "/kids/bags.html?q=أطفال+حقائب&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+حقائب&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوقوا حسب المنتج"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "accessories",
+      "label": "إكسسوارات",
+      "link": "/kids/kids-accessories.html?q=أطفال+اكسسوارات+أطفال+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+اكسسوارات+أطفال+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACCESSORIES+-+MAIN+IMAGE.jpg",
+          "description": "إكسسوارات تحلي إطلالتهم",
+          "link": "/kids/kids-accessories.html?q=أطفال+اكسسوارات+أطفال+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+اكسسوارات+أطفال+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "اديداس",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3%2C%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3+%D8%A7%D9%88%D8%B1%D8%AC%D9%8A%D9%86%D8%A7%D9%84&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A%20%D9%87%D9%8A%D9%84%D8%B2%20%D8%A8%D9%88%D9%84%D9%88%20%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/herschel.jpg",
+              "label": "هيرشيل",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=هيرشيل&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/the_children's_place.jpg",
+              "label": "ذا تشيلدرنز بليس",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B0%D8%A7%20%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2%20%D8%A8%D9%84%D9%8A%D8%B3&idx=enterprise_magento_ar_bh_products",
+              "itemName": "The Children's Place"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lc_waikiki.jpg",
+              "label": "اٍل سي واي كيكي",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8D%D9%84%20%D8%B3%D9%8A%20%D9%88%D8%A7%D9%8A%20%D9%83%D9%8A%D9%83%D9%8A&idx=enterprise_magento_ar_bh_products",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+              "label": "سي سي سي",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%40+%D8%B3%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A%2C%D8%A7%D9%83%D8%B4%D9%86+%D8%A8%D9%88%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A%2C%D8%B2%D8%A7%D9%87%D8%A7+%D8%B3%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A%2C%D8%B3%D8%A8%D8%B1%D8%A7%D9%86%D8%AF%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A%2C%D9%86%D9%8A%D9%84%D9%8A+%D8%A8%D9%84%D9%88+%D8%B3%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A%2C%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%40+%D8%B3%D9%8A+%D8%B3%D9%8A+%D8%B3%D9%8A&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "CCC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+              "label": "نايك",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1+%D9%83%D9%8A%D8%AF%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/crocs.jpg",
+              "label": "كروكس",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=كروكس&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/Marks_Spencer.jpg",
+              "label": "ماركس و سبنسر",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%85%D8%A7%D8%B1%D9%83%D8%B3+%D9%88+%D8%B3%D8%A8%D9%86%D8%B3%D8%B1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Marks & Spencer"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-07-2022-Kids/Pending+logos/Sambox.jpg",
+              "label": "سامبوكس",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D8%B2%D9%8A+%D9%83%D9%8A%D8%AF%D8%B2+%40%D8%B3%D8%A7%D9%85%D8%A8%D9%88%D9%83%D8%B3&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sambox"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D8%AC%D9%8A%D9%86%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Ddaniela.jpg",
+              "label": "ددانييلا",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=ددانييلا&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Ddaniela"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Clothing%20Accessories.jpg",
+              "label": "إكسسوارات الملابس",
+              "link": "/kids/clothing/clothing-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Clothing Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/School%20Supplies.jpg",
+              "label": "لوازم مدرسية",
+              "link": "/kids/kids-accessories/school-supplies.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "School Supplies"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/SUNGLASSES.jpg",
+              "label": "نظارات شمسية",
+              "link": "/kids/kids-accessories/sunglasses.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sunglasses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/HAIR+ACC.jpg",
+              "label": "إكسسوارات الشعر",
+              "link": "/kids/kids-accessories/hair-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Hair Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Travel%20Accessories.jpg",
+              "label": "اكسسوارات سفر",
+              "link": "/kids/kids-accessories/travel-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%81%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%81%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Travel Accessories"
+            },
+            {
+              "image_url": "-",
+              "label": "أحزمة ربط وحمالات",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B2%D9%85%D8%A9%2C%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%84%D8%A7%D8%AA%2C%D8%B1%D8%A8%D8%B7%D8%A7%D8%AA+%D8%B9%D9%86%D9%82&dFR%5BcategoryIds%5D%5B0%5D=&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Belts, Ties & Suspendors"
+            }
+          ],
+          "button": {
+            "link": "/kids/kids-accessories.html?q=أطفال+اكسسوارات+أطفال+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+اكسسوارات+أطفال+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "تسوقوا حسب المنتج",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/sock+(1).jpg",
+              "label": "جوارب و تايتات",
+              "link": "/kids/kids-accessories/clothing-accessories1/socks-tights.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AC%D9%88%D8%A7%D8%B1%D8%A8+%D9%88%D9%83%D9%8A%D9%84%D9%88%D9%86%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AC%D9%88%D8%A7%D8%B1%D8%A8+%D9%88%D9%83%D9%8A%D9%84%D9%88%D9%86%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Socks & Tights"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/CAPS.jpg",
+              "label": "قبعات و قفازات",
+              "link": "/kids/kids-accessories/clothing-accessories1/caps-mittens.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D8%A8%D8%B9%D8%A7%D8%AA+%D9%88%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%82%D8%A8%D8%B9%D8%A7%D8%AA+%D9%88%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Caps & Mittens"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/stationary.jpg",
+              "label": "قرطاسية",
+              "link": "/kids/kids-accessories/school-supplies/stationery.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D9%82%D8%B1%D8%B7%D8%A7%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D9%82%D8%B1%D8%B7%D8%A7%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Stationery"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/ACC/HAIR+BANDS.jpg",
+              "label": "عصابات الشعر",
+              "link": "/kids/kids-accessories/hair-accessories/hair-bands.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+%D8%B1%D8%A8%D8%B7%D8%A7%D8%AA+%D8%B4%D8%B9%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+%2F%2F%2F+%D8%B1%D8%A8%D8%B7%D8%A7%D8%AA+%D8%B4%D8%B9%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Hair Bands"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/headwear.jpg",
+              "label": "أغطية الرأس",
+              "link": "/kids/kids-accessories/hair-accessories/headwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+%D8%A3%D8%BA%D8%B7%D9%8A%D8%A9+%D8%A7%D9%84%D8%B1%D8%A3%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+%2F%2F%2F+%D8%A3%D8%BA%D8%B7%D9%8A%D8%A9+%D8%A7%D9%84%D8%B1%D8%A3%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Headwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/clips.jpg",
+              "label": "كليبسات شعر",
+              "link": "/kids/kids-accessories/hair-accessories/hair-clips.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+%D8%B4%D8%A8%D8%A7%D8%B5%D8%A7%D8%AA+%D8%B4%D8%B9%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+%2F%2F%2F+%D8%B4%D8%A8%D8%A7%D8%B5%D8%A7%D8%AA+%D8%B4%D8%B9%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Hair Clips"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/08-11-2021/Kids+Accessories+Mega+menu/Kids+Accessories+Mega+menu/keychains.jpg",
+              "label": "سلاسل مفاتيح",
+              "link": "/kids/kids-accessories/travel-accessories/key-chains.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%81%D8%B1+%D9%85%D9%8A%D8%AF%D8%A7%D9%84%D9%8A%D8%A7%D8%AA+%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%81%D8%B1+%2F%2F%2F+%D9%85%D9%8A%D8%AF%D8%A7%D9%84%D9%8A%D8%A7%D8%AA+%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Key Chains"
+            }
+          ],
+          "button": {
+            "link": "/kids/kids-accessories.html?q=أطفال+اكسسوارات+أطفال+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال+%2F%2F%2F+اكسسوارات+أطفال+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=أولاد%2Cبنات&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوقوا حسب المنتج"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "back_to_school",
+      "label": "العودة إلى المدرسة",
+      "link": "/back-to-school.html?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SCHOOLSUPPLIES-+MAIN+IMAGE.jpg",
+          "description": "كل ما يحتاجون إليه للمدرسة",
+          "link": "/back-to-school.html?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/puma.jpg",
+              "label": "بوما",
+              "link": "/puma.html?q=%D8%A8%D9%88%D9%85%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%85%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+              "label": "سكيتشرز",
+              "link": "/skechers.html?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/herschel.jpg",
+              "label": "هيرشل",
+              "link": "/herschel.html?q=%D9%87%D9%8A%D8%B1%D8%B4%D9%8A%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%8A%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/P+Logos/Polo+Ralph+Lauren.jpg",
+              "label": "بولو رالف لورين",
+              "link": "/polo-ralph-lauren.html?q=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Polo Ralph Lauren"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/crocs.jpg",
+              "label": "كروكس",
+              "link": "/crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Michael+Kors.jpg",
+              "label": "مايكل كورس",
+              "link": "/michael-kors.html?q=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/calvin-klein.html?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/the_children's_place.jpg",
+              "label": "ذا تشيلدرنز بليس",
+              "link": "/the-childrens-place.html?q=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_bh_products",
+              "itemName": "The Children's Place"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lc_waikiki.jpg",
+              "label": "اٍل سي واي كيكي",
+              "link": "/lc-waikiki.html?q=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "LC Waikiki"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/Backpacks_.jpg",
+              "label": "حقائب",
+              "link": "/kids/bags/school-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/BLACKNWHITE.jpg",
+              "label": "أحذية",
+              "link": "/catalogsearch/result/?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9776%2C9540%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9552%2C9553%2C9775%2C9774%2C9539&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/LUNCH.jpg",
+              "label": "صناديق للطعام وغيرها",
+              "link": "/catalogsearch/result/?q=%2B&qid=6761fe85870274af3452fe1c338b4ea7&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=10125%2C10124%2C9691%2C9690&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Lunchtime Essentials"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/CLOTHING.jpg",
+              "label": "ملابس",
+              "link": "/catalogsearch/result/?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9597%2C9608%2C9595%2C9601%2C9600%2C9594%2C9596%2C9603%2C9571%2C9565%2C9570%2C9563%2C9569%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C9628%2C9631%2C9592%2C9591%2C9590%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614%2C109%2C6046%2C113%2C115%2C15852&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/STATIONARY.jpg",
+              "label": "القرطاسية",
+              "link": "/catalogsearch/result/?q=%2B&qid=e7b50dbd666b415a91258018b86f04e6&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9693%2C9692%2C9915%2C9689&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Stationary"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/07-03-2023-Kids/Megamenu-BTS/ACCESSORIES.jpg",
+              "label": "إكسسوارات",
+              "link": "/kids/kids-accessories/school-supplies.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Accessories"
+            }
+          ],
+          "button": {
+            "link": "/back-to-school.html?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        },
+        {
+          "type": "grid",
+          "title": "تسوقوا حسب المنتج",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/sneakerrs.jpg",
+              "label": "سنيكرز",
+              "link": "/kids/footwear/sneakers.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/b_w+shoes.jpg",
+              "label": "أحذية بالأبيض والأسود",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%87%D9%84%D8%A9+%D8%A7%D9%84%D8%A5%D8%B1%D8%AA%D8%AF%D8%A7%D8%A1+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D9%84%D9%84%D8%AC%D8%B1%D9%8A%2F%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D9%86%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%86%D9%8A%D9%83%D8%B1%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bcolorfamily%5D%5B0%5D=%D8%A3%D8%A8%D9%8A%D8%B6%2C%D8%A3%D8%B3%D9%88%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Black & White Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/lunchbag.jpg",
+              "label": "حقائب الغداء",
+              "link": "/kids/bags/school-bags/lunch-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Lunch Bag"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/lunchbox.jpg",
+              "label": "صناديق الطعام",
+              "link": "/kids/bags/school-bags/lunch-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Lunch Box"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/trollybag.jpg",
+              "label": "حقائب ذات عجلات",
+              "link": "/kids/bags/school-bags/trolley-backpack.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%AD%D9%82%D9%8A%D8%A8%D8%A9+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%AD%D9%82%D9%8A%D8%A8%D8%A9+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Trolly Bag"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/socks.jpg",
+              "label": "جوارب",
+              "link": "/kids/kids-accessories/clothing-accessories1/socks-tights.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AC%D9%88%D8%A7%D8%B1%D8%A8+%D9%88%D9%83%D9%8A%D9%84%D9%88%D9%86%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AC%D9%88%D8%A7%D8%B1%D8%A8+%D9%88%D9%83%D9%8A%D9%84%D9%88%D9%86%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AC%D9%88%D8%A7%D8%B1%D8%A8+%D9%88%D9%83%D9%8A%D9%84%D9%88%D9%86%D8%A7%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Socks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/belts.jpg",
+              "label": "أحزمة وربطات عُنق",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B2%D9%85%D8%A9%2C%D8%B1%D8%A8%D8%B7%D8%A9+%D8%B9%D9%86%D9%82&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Belt & Tie"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/caps.jpg",
+              "label": "قبعات",
+              "link": "/kids/kids-accessories/clothing-accessories1/caps-mittens.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D8%A8%D8%B9%D8%A7%D8%AA+%D9%88%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%82%D8%A8%D8%B9%D8%A7%D8%AA+%D9%88%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=%D9%82%D8%A8%D8%B9%D8%A7%D8%AA+%D9%88%D9%82%D9%81%D8%A7%D8%B2%D8%A7%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Caps"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/hairaccessories.jpg",
+              "label": "إكسسوارات الشعر",
+              "link": "/kids/kids-accessories/hair-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Hair Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-08-2022-kids/megamenu_creatives/sport+shoes.jpg",
+              "label": "أحذية رياضية",
+              "link": "/kids/footwear/sports-shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Sports Shoes"
+            }
+          ],
+          "button": {
+            "link": "/back-to-school.html?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوقوا حسب المنتج"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "OUTLET",
+      "label": "أوتلت",
+      "link": "/catalogsearch/result/?q=%2B&qid=495c21f207643e79d5134f9fcb32e02c&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_ar_bh_products",
+      "design": {
+        "background_color": "#d12229",
+        "text_color": "#d12229"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE+-+MAIN+IMAGE.jpg",
+          "description": "عروض خيالية",
+          "link": "/catalogsearch/result/?q=%2B&qid=495c21f207643e79d5134f9fcb32e02c&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_ar_bh_products"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+              "label": "اديداس",
+              "link": "/catalogsearch/result/?q=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&qid=0b3a804bd77195905873be7ca17a4dda&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3+%D8%A7%D9%88%D8%B1%D8%AC%D9%8A%D9%86%D8%A7%D9%84%2C%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+              "label": "بيفرلي هيلز بولو كلوب",
+              "link": "/catalogsearch/result/?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&qid=9869ea87544a3ab2a013abc04911883d&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+              "label": "ليفايز",
+              "link": "/catalogsearch/result/?q=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&qid=8a81e3c4dbcbd7dba031e182e671fb6b&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2%2C%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2+%D9%83%D9%8A%D8%AF%D8%B2&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lc_waikiki.jpg",
+              "label": "اٍل سي واي كيكي",
+              "link": "/catalogsearch/result/?q=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&qid=42fcdd5f6cc3109a3e5fec977c6527ca&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/crocs.jpg",
+              "label": "كروكس",
+              "link": "/catalogsearch/result/?q=+++%D9%83%D8%B1%D9%88%D9%83%D8%B3&qid=b407d1bddbd599445fad47a06ca16d1a&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/the_children's_place.jpg",
+              "label": "ذا تشيلدرنز بليس",
+              "link": "/catalogsearch/result/?q=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&qid=04027dd0e5ec6f43be3af04c544b6d4f&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bbrand_name%5D%5B0%5D=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "The Children's Place"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+              "label": "نايك",
+              "link": "/catalogsearch/result/?q=%D9%86%D8%A7%D9%8A%D9%83&qid=684c455fb4818a755eb215e4c258178f&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Ddaniela.jpg",
+              "label": "ددانييلا",
+              "link": "/catalogsearch/result/?q=%D8%AF%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%84%D8%A7&qid=4006a8e350c9c4a6f8ef7e4789078ce4&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%84%D8%A7&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Ddaniela"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/P+Logos/Polo+Ralph+Lauren.jpg",
+              "label": "بولو رالف لورين",
+              "link": "/catalogsearch/result/?q=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&qid=5f7e09aa9ec6d2e9a14e9a8584fac6a4&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Polo Ralph Lauren"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/catalogsearch/result/?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&qid=6d6772d9e1c3fae32b2664234a6b82bf&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1+%D9%83%D9%8A%D8%AF%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/catalogsearch/result/?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&qid=f4779f500caebd58f621e27124ca9ea0&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D9%83%D9%8A%D8%AF%D8%B2%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Calvin Klein"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/FOOTWEAR.jpg",
+              "label": "أحذية",
+              "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Footwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/CLOTHING.jpg",
+              "label": "ملابس",
+              "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/ACCESSORIES.jpg",
+              "label": "إكسسوارات",
+              "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/BAGS.jpg",
+              "label": "حقائب",
+              "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/TOYS.jpg",
+              "label": "ألعاب",
+              "link": "/kids/toys.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AF%D9%85%D9%89++&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AF%D9%85%D9%89++&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Toys"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/SCHOOL+SUPPLIES.jpg",
+              "label": "لوازم المدرسية",
+              "link": "/back-to-school.html?q=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+              "itemName": "School Supplies"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/18-05-2023-Kids/MEGA+MENU+-+KIDS/SALE/BABY+ESSENTIALS.jpg",
+              "label": "أساسيات الطفل",
+              "link": "/kids/baby-essentials.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%B1%D8%B6%D8%B9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%B1%D8%B6%D8%B9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_bh_products",
+              "itemName": "Baby Essentials"
+            }
+          ],
+          "button": {
+            "link": "/kids/outlet.html?q=أطفال&p=0&hFR%5Bcategories.level0%5D%5B0%5D=أطفال&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_bh_products",
+            "plp_title": "تسوق حسب الفئة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

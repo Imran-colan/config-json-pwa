@@ -1,0 +1,182 @@
+{
+  "more_filter": [
+    "fit",
+    "sleeve_length",
+    "sleeve_type",
+    "material",
+    "neck_line",
+    "collar_type",
+    "occasion",
+    "pattern",
+    "dress_length",
+    "skirt_length",
+    "leg_length",
+    "design_details",
+    "trend",
+    "padded",
+    "wired",
+    "type",
+    "heel_height",
+    "heel_shape",
+    "toe_shape",
+    "boot_height",
+    "fastening",
+    "ankle_height",
+    "fastener",
+    "dial_shape",
+    "embellishment",
+    "strap_material",
+    "concern",
+    "formulation",
+    "skin_type",
+    "skin_tone",
+    "finish",
+    "country_of_manufacture",
+    "shade_number",
+    "character",
+    "rise",
+    "closure"
+  ],
+  "more_filter_traslation": {
+    "fit": {
+      "en": "Fit",
+      "ar": "القياس"
+    },
+    "sleeve_length": {
+      "en": "Sleeve Length",
+      "ar": "طول الأكمام"
+    },
+    "sleeve_type": {
+      "en": "Sleeve Type",
+      "ar": "نوع الأكمام"
+    },
+    "material": {
+      "en": "material ",
+      "ar": "الخامات"
+    },
+    "neck_line": {
+      "en": "Neck Line",
+      "ar": "شكل الياقة"
+    },
+    "occasion": {
+      "en": "Occasion",
+      "ar": "المناسبة"
+    },
+    "pattern": {
+      "en": "Pattern",
+      "ar": " النقشة"
+    },
+    "dress_length": {
+      "en": "Dress Length",
+      "ar": "طول الفستان"
+    },
+    "skirt_length": {
+      "en": "Skirt Length",
+      "ar": "طول التنورة"
+    },
+    "leg_length": {
+      "en": "Leg Length",
+      "ar": "طول الساق"
+    },
+    "design_details": {
+      "en": "Design Details",
+      "ar": " تفاصيل التصميم"
+    },
+    "trend": {
+      "en": "Trend",
+      "ar": " الستايل"
+    },
+    "padded": {
+      "en": "Padded",
+      "ar": "التبطين"
+    },
+    "wired": {
+      "en": "Wired",
+      "ar": "بأسلاك"
+    },
+    "type": {
+      "en": "Type",
+      "ar": "النوع"
+    },
+    "heel_height": {
+      "en": "Heel Height",
+      "ar": "طول الكعب"
+    },
+    "heel_shape": {
+      "en": "Heel Shape",
+      "ar": "شكل الكعب"
+    },
+    "toe_shape": {
+      "en": "Toe Shape",
+      "ar": "شكل مقدمة الحذاء"
+    },
+    "boot_height": {
+      "en": "Boot Height",
+      "ar": "طول البوت"
+    },
+    "fastening": {
+      "en": "Fastening",
+      "ar": "الربط"
+    },
+    "ankle_height": {
+      "en": "Ankle Height",
+      "ar": "طول الكاحل"
+    },
+    "fastener": {
+      "en": "Fastener",
+      "ar": "الإغلاق"
+    },
+    "dial_shape": {
+      "en": "Dial Shape",
+      "ar": "شكل الإطار "
+    },
+    "embellishment": {
+      "en": "Embellishment",
+      "ar": "زخرفة "
+    },
+    "strap_material": {
+      "en": "Strap Material",
+      "ar": "مادة الحمالة"
+    },
+    "concern": {
+      "en": "Concern",
+      "ar": "المشكلة"
+    },
+    "formulation": {
+      "en": "Formulation",
+      "ar": "التركيبة"
+    },
+    "skin_type": {
+      "en": "Skin Type",
+      "ar": "نوع البشرة"
+    },
+    "skin_tone": {
+      "en": "SKIN TONE",
+      "ar": "لون البشرة"
+    },
+    "finish": {
+      "en": "Finish",
+      "ar": "اللمسة الأخيرة"
+    },
+    "country_of_manufacture": {
+      "en": "Country of Manufacture",
+      "ar": " بلد الصنع"
+    },
+    "shade_number": {
+      "en": "SHADE NUMBER",
+      "ar": "رقم اللون"
+    },
+    "character": {
+      "en": "Character",
+      "ar": "شخصيات"
+    },
+    "rise": {
+      "en": "Rise",
+      "ar": "ارتفاع الخصر"
+    },
+    "closure": {
+      "en": "Closure",
+      "ar": "الإغلاق"
+    }
+  }
+}

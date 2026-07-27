@@ -1,0 +1,103 @@
+{
+  "widgets": [
+    {
+      "type": "recent_searches"
+    },
+    {
+      "type": "vue_recently_viewed_slider",
+      "header": {
+        "title": "منتجات قمت بمشاهدتها"
+      },
+      "id": 1,
+      "separator": false
+    },
+    {
+      "type": "circleItemSlider",
+      "key": "trending_categories",
+      "items": [],
+      "header": {
+        "title": "العلامات التجارية الأكثر رواجاً"
+      }
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_brands",
+      "items": [],
+      "header": {
+        "title": "الماركة الأكثر رواجاً"
+      }
+    },
+    {
+      "type": "vue_browsing_history_slider",
+      "query": {
+        "filters": [
+          {
+            "field": "gender",
+            "value": "men",
+            "type": "exact"
+          }
+        ]
+      },
+      "layout": {
+        "title": "موصى بها لك"
+      }
+    },
+    {
+      "type": "carouselItemSlider",
+      "key": "trending_styles",
+      "items": [],
+      "header": {
+        "title": "الستايلات الرائجة على آيفي"
+      }
+    },
+    {
+      "type": "recent_searches_product_slider"
+    },
+    {
+      "category": "All",
+      "index": 10,
+      "limit": 20,
+      "type": "new_influencer_slider"
+    },
+    {
+      "type": "grid",
+      "background_color": "#000000",
+      "items_per_row": 4,
+      "item_height": 240,
+      "header": {
+        "title": "اكتشف المزيد"
+      },
+      "items": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/7-7-22+NEW/Premium+Store/Premium-store+_men.jpg",
+          "link": "/premium-store.html?q=premium-store&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=premium-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-6-22+NEW/Shoppping+guide/clothing+_men.jpg",
+          "link": "/clothing-store.html?q=clothing-store&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=clothing-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-6-22+NEW/Shoppping+guide/Comfort_men.jpg",
+          "link": "/men/shoes/comfort-shoes.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%85%D8%B1%D9%8A%D8%AD%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%85%D8%B1%D9%8A%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-6-22+NEW/Shoppping+guide/Running_men.jpg",
+          "link": "/newrunningmen.html?q=newrunningmen&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=newrunningmen&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "image_size": {
+        "height": 669,
+        "width": 500
+      }
+    },
+    {
+      "type": "product_results_slider",
+      "layout": {
+        "title": "المنتجات"
+      }
+    },
+    {
+      "type": "wishlist"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "women": [
+    {
+      "label": "Skechers",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/SKECHERS.jpg",
+      "link": "/catalogsearch/result/?q=Aldo&qid=737e7b8b2d5058ded510e5b6df1184ad&p=0&dFR%5Bgender%5D%5B0%5D=Women"
+    },
+    {
+      "label": "Dune London",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/DUNE.jpg",
+      "link": "/catalogsearch/result/?q=Dune%20London&qid=a7775faf88b526d5c4a103a20172944a&p=0&dFR[gender][0]=Women"
+    },
+    {
+      "label": "Birkenstock",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/BIRKENSTOCK.jpg",
+      "link": "/catalogsearch/result/?q=Birkenstock&qid=1b25bfc9bfcfa26b4f06a89e0ee52fc6&p=0&dFR[gender][0]=Women"
+    },
+    {
+      "label": "Adidas",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/ADIDAS.jpg",
+      "link": "/catalogsearch/result/?q=Adidas&qid=a53bac603b155b432971e843a41b96a1&p=0&dFR%5Bgender%5D%5B0%5D=Women"
+    },
+    {
+      "label": "Tommy Hilfiger",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/TOMMY+HILFIGER.jpg",
+      "link": "/catalogsearch/result/?q=Tommy%20Hilfiger&qid=0bec96d6213ceea063a63f2a0016eb6e&p=0&dFR[gender][0]=Women"
+    },
+    {
+      "label": "Rituals",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/spring+2021/extra/BEAUTY_RITUALS.jpg",
+      "link": "/catalogsearch/result/?q=Rituals&qid=9e77587a4ad6d73fbb2defdb01bde5aa&p=0&dFR[gender][0]=Women"
+    }
+  ],
+  "men": [
+    {
+      "label": "Skechers",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/SKECHERS.jpg",
+      "link": "/catalogsearch/result/?q=Skechers&qid=f00ae3f57e3c06248096dec3f8c03092&p=0&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "Adidas",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/ADIDAS.jpg",
+      "link": "/catalogsearch/result/?q=Adidas&qid=458b3ccb7ecf382f9e69b0bb0791ed82&p=0&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "Beverly Hills Polo Club",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/BEVERLY+HILLS+POLO+CLUB.jpg",
+      "link": "/catalogsearch/result/?q=Beverly%20Hills%20Polo%20Club&qid=dad472a675a926fa5198958fbb986aad&p=0&dFR[gender][0]=Men"
+    },
+    {
+      "label": "Nike",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/NIKE.jpg",
+      "link": "/catalogsearch/result/?q=Nike&qid=8bcd52799bbe7f4d1147d266fbedf5d1&p=0&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "Crocs",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/CROCS_BRAND.jpg",
+      "link": "/catalogsearch/result/?q=crocs&qid=a28baf907c5eef01ec575e3e5634840e&p=0&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "Tommy Hilfiger",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/TOMMY+HILFIGER.jpg",
+      "link": "/catalogsearch/result/?q=Tommy%20Hilfiger&qid=79da8bfcc4c15660f2900c49ab2e4cc7&p=0&dFR[gender][0]=Men"
+    },
+    {
+      "label": "Calvin Klein",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/CALVIN+KLEIN.jpg",
+      "link": "/catalogsearch/result/?q=Calvin+Klein&qid=1b9221b9f856c5dc5072e8f93e9e7b6c&p=0&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "Levi's",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/LEVI_S.jpg",
+      "link": "/catalogsearch/result/?q=Levi%27s&qid=33b214ed9e31d79122d096d7789de6f9&p=0&dFR[gender][0]=Men"
+    },
+    {
+      "label": "Aldo",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/ALDO.jpg",
+      "link": "/catalogsearch/result/?q=Aldo&qid=10049cd0e9ea08c713b7a2c419e9750a&p=0&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "Aeropostale",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/AEROPOSTALE.jpg",
+      "link": "/catalogsearch/result/?q=Aeropostale&qid=ac905605176c80fe843fc5b36d9be6e0&p=0&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "Rituals",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/spring+2021/extra/BEAUTY_RITUALS.jpg",
+      "link": "/catalogsearch/result/?q=rituals&qid=2d38fdb1ecd327aa77cb217620fc7858&p=0&dFR[gender][0]=Men"
+    }
+  ],
+  "kids": [
+    {
+      "label": "Beverly Hills Polo Club",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/BEVERLY+HILLS+POLO+CLUB.jpg",
+      "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+    },
+    {
+      "label": "Skechers",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/SKECHERS.jpg",
+      "link": "/skechers.html?q=Skechers&p=0&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bgender%5D%5B0%5D=Baby+Boy%2CBaby+Girl%2CBoy%2CGirl%2CInfant%2CUnisex"
+    },
+    {
+      "label": "LC Waikiki",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/LC+WAIKIKI.jpg",
+      "link": "/lc-waikiki.html?q=LC+Waikiki&p=0&dFR%5Bbrand_name%5D%5B0%5D=LC+Waikiki&dFR%5Bgender%5D%5B0%5D=Baby+Boy%2CBaby+Girl%2CBoy%2CGirl%2CInfant%2CUnisex"
+    },
+    {
+      "label": "Tommy Hilfiger",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/TOMMY+HILFIGER.jpg",
+      "link": "/tommy-hilfiger.html?q=Tommy+Hilfiger&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tommy+Hilfiger&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+    },
+    {
+      "label": "Polo Ralph Lauren",
+      "image_url": "https://mobilecdn.6thstreet.com/AllBanners/27-10-2021/POLO_logo_pony.png",
+      "link": "/polo-ralph-lauren.html?q=Polo+Ralph+Lauren&p=0&dFR%5Bbrand_name%5D%5B0%5D=Polo+Ralph+Lauren&dFR%5Bgender%5D%5B0%5D=Baby+Boy%2CBaby+Girl%2CBoy%2CGirl%2CInfant%2CUnisex"
+    },
+    {
+      "label": "Crocs",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/CROCS_BRAND.jpg",
+      "link": "/crocs.html?q=Crocs&p=0&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bgender%5D%5B0%5D=Baby+Boy%2CBaby+Girl%2CBoy%2CGirl%2CInfant%2CUnisex"
+    },
+    {
+      "label": "The Children's Place",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/THE+CHILDREN_S+PLACE.jpg",
+      "link": "/the-childrens-place.html?q=The+Children%27s+Place&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=The+Children%27s+Place&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1"
+    },
+    {
+      "label": "Levi's",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/LEVI_S.jpg",
+      "link": "/levis.html?q=Levi%27s&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Levi%27s&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+    },
+    {
+      "label": "Nike",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/27-08-2020/NIKE.jpg",
+      "link": "/nike.html?q=Nike&p=0&dFR%5Bbrand_name%5D%5B0%5D=Nike&dFR%5Bgender%5D%5B0%5D=Baby+Boy%2CBaby+Girl%2CBoy%2CGirl%2CInfant%2CUnisex"
+    },
+    {
+      "label": "R&B Kids",
+      "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/01-11-2021/Baking/RBK+Logo_page-English.jpg",
+      "link": "/catalogsearch/result/?q=R%26B+Kids&p=0&dFR%5Bbrand_name%5D%5B0%5D=R%26B+Kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl"
+    }
+  ]
+}

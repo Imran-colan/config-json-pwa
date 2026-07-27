@@ -1,0 +1,289 @@
+{
+  "widgets": [
+    {
+      "type": "recent_searches"
+    },
+    {
+      "type": "recently_viewed_slider",
+      "header": {
+        "title": "ITEMS YOU HAVE VIEWED"
+      },
+      "id": 1,
+      "separator": true
+    },
+    {
+      "type": "circleItemSlider",
+      "items": [
+        {
+          "label": "Skechers",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/skechers.jpg",
+          "link": "/skechers.html?q=Skechers&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men"
+        },
+        {
+          "label": "Adidas",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/adidas.jpg",
+          "link": "/adidas.html?q=Adidas&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Beverly Hills Polo Club",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/beverly_hills_polo_club.jpg",
+          "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bgender%5D%5B0%5D=Men"
+        },
+        {
+          "label": "Tommy Hilfiger",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+          "link": "/tommy-hilfiger.html?q=Tommy+Hilfiger&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men"
+        },
+        {
+          "label": "Crocs",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/crocs.jpg",
+          "link": "/crocs.html?q=Crocs&p=0&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_qa_products"
+        },
+        {
+          "label": "Levi's",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/levi's.jpg",
+          "link": "/levis.html?q=Levi%27s&p=0&dFR%5Bbrand_name%5D%5B0%5D=Levi%27s&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Calvin Klein",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+          "link": "/calvin-klein.html?q=Calvin+Klein&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men"
+        },
+        {
+          "label": "Aldo",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aldo.jpg",
+          "link": "/aldo.html?q=Aldo&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Aldo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Trendyol",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/Trendyol.jpg",
+          "link": "/trendyol.html?q=Trendyol&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Nike",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nike.jpg",
+          "link": "/nike.html?q=Nike&p=0&dFR%5Bbrand_name%5D%5B0%5D=Nike&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Quwa",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/Q/Quwa.jpg",
+          "link": "/quwa.html?q=QUWA&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=QUWA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=QUWA&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Birkenstock",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/birkenstock.jpg",
+          "link": "/birkenstock.html?q=Birkenstock&p=0&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Athletiq",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/19-07-2022-Kids/Pending+logos/Athletiq.jpg",
+          "link": "/athletiq.html?q=ATHLETIQ&p=0&dFR%5Bcategories.level0%5D%5B0%5D=ATHLETIQ&dFR%5Bbrand_name%5D%5B0%5D=ATHLETIQ&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Ecco",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/E+logo/Ecco.jpg",
+          "link": "/ecco.html?q=ECCO&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=ECCO&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=ECCO&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Aeropostale",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/aeropostale.jpg",
+          "link": "/aeropostale.html?q=Aeropostale&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Drip",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Drip.jpg",
+          "link": "/drip.html?q=DRIP&p=0&dFR%5Bcategories.level0%5D%5B0%5D=DRIP&dFR%5Bbrand_name%5D%5B0%5D=DRIP&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "CCC",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+          "link": "/ccc.html?q=CCC&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=CCC&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Asics",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/asics.jpg",
+          "link": "/asics.html?q=Asics&p=0&dFR%5Bbrand_name%5D%5B0%5D=Asics&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Toms",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/toms.jpg",
+          "link": "/toms.html?q=Toms&p=0&dFR%5Bbrand_name%5D%5B0%5D=Toms&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Puma",
+          "image_url": "https://mobilecdn.6thstreet.com/assets/brands/puma.jpg",
+          "link": "/puma.html?q=Puma&p=0&dFR%5Bcategories.level0%5D%5B0%5D=Puma&dFR%5Bbrand_name%5D%5B0%5D=Puma&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "layout": {
+        "title": "Trending brands"
+      }
+    },
+    {
+      "type": "circleItemSlider",
+      "items": [
+        {
+          "label": "Sneakers",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/9-9-22+NEW/Men+footwear+menu/Sneakers_.jpg",
+          "link": "/men/shoes/sneakers.html?q=Men+Shoes+Sneakers&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Sneakers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men"
+        },
+        {
+          "label": "Polos & Tees",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-8-22+NEW/Men+Mega+menu+creatives/TSHIRTS.jpg",
+          "link": "/men/clothing.html?q=Men+Clothing&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Polo+Tees%2CT-Shirts&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Sandals",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/9-9-22+NEW/Men+footwear+menu/sandals-1.jpg",
+          "link": "/men/shoes/sandals.html?q=Men+Shoes+Sandals&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men"
+        },
+        {
+          "label": "Active Wear",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-8-22+NEW/Men+Mega+menu+creatives/ACTIVE+WEAR.jpg",
+          "link": "/men/clothing/activewear.html?q=Men+Clothing+Active+Wear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Active+Wear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Perfomance",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/7-10-22+NEW/7oct_menu/Perfomance+_men.jpg",
+          "link": "/men/shoes.html?q=Men+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Performance"
+        },
+        {
+          "label": "Jackets & Coats",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-8-22+NEW/Men+Mega+menu+creatives/JACKETS.jpg",
+          "link": "/men/clothing/jackets-and-coats.html?q=Men+Clothing+Jackets+%26+Coats&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Jackets+%26+Coats&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Casual Shoes",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/7-10-22+NEW/7oct_menu/Casual+Shoes+_men.jpg",
+          "link": "https://ar-ae.6thstreet.com/men/clothing/jackets-and-coats.html?q=%D8%B1%D8%AC%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AC%D8%A7%D9%83%D9%8A%D8%AA%D8%A7%D8%AA+%D9%88+%D9%85%D8%B9%D8%A7%D8%B7%D9%81&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AC%D8%A7%D9%83%D9%8A%D8%AA%D8%A7%D8%AA+%D9%88+%D9%85%D8%B9%D8%A7%D8%B7%D9%81&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Vest & Underwear",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-8-22+NEW/Men+Mega+menu+creatives/VESTS.jpg",
+          "link": "/men/clothing/vest-and-underwear.html?q=Men+Clothing+Vest+and+Underwear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Vest+and+Underwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Accessories",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Accessories-Caps.jpg",
+          "link": "/men/accessories.html?q=Men+Accessories&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Jeans",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-8-22+NEW/Men+Mega+menu+creatives/JEANS.jpg",
+          "link": "/men/clothing/jeans.html?q=Men+Clothing+Jeans&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Jeans&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men"
+        },
+        {
+          "label": "Slippers",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/9-9-22+NEW/Men+footwear+menu/flip+flop.jpg",
+          "link": "/men/shoes.html?q=Men+Shoes&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Slippers"
+        },
+        {
+          "label": "Hoodies & Sweatshirts",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-8-22+NEW/Men+Mega+menu+creatives/HOODIES.jpg",
+          "link": "/men/clothing/hoodies-sweatshirts.html?q=Men+Clothing+Hoodies+%26+Sweatshirts&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Hoodies+%26+Sweatshirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Grooming",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming-Shaving+%26+Beard+care.jpg",
+          "link": "/men/grooming.html?q=Men+Grooming&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1%2C1&dFR%5Bgender%5D%5B0%5D=Men"
+        },
+        {
+          "label": "Fragrance",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/10-12-2021-megamenuMen/Gromming-Fragrances.jpg",
+          "link": "/men/grooming/fragrance.html?q=Men+Grooming+Fragrance&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Grooming+%2F%2F%2F+Fragrance&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "label": "Shirts",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-8-22+NEW/Men+Mega+menu+creatives/SHIRTS.jpg",
+          "link": "/men/clothing/shirts.html?q=Men+Clothing+Shirts&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+Shirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "layout": {
+        "title": "Trending categories"
+      }
+    },
+    {
+      "type": "grid",
+      "background_color": "#000000",
+      "items_per_row": 4,
+      "item_height": 240,
+      "header": {
+        "title": "Explore More"
+      },
+      "items": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/7-7-22+NEW/Premium+Store/Premium-store+_men.jpg",
+          "link": "/premium-store.html?q=premium-store&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=premium-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-6-22+NEW/Shoppping+guide/clothing+_men.jpg",
+          "link": "/clothing-store.html?q=clothing-store&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=clothing-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-6-22+NEW/Shoppping+guide/Comfort_men.jpg",
+          "link": "/catalogsearch/result/?q=shoes&qid=09e97fcdf56f04bc5166d6706a45d4c7&p=0&dFR%5B=&dFR%5Bbrand_name%5D%5B0%5D=Birkenstock%2CCrocs%2CECCO%2CGeox%2CHavaianas%2CHush+Puppies%2CToms%2CVionic&dFR%5Bgender%5D%5B0%5D=Boy%2CMen&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-6-22+NEW/Shoppping+guide/Running_men.jpg",
+          "link": "/newrunningmen.html?q=newrunningmen&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=newrunningmen&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men"
+        }
+      ],
+      "image_size": {
+        "height": 669,
+        "width": 500
+      }
+    },
+    {
+      "category": "All",
+      "index": 10,
+      "limit": 20,
+      "type": "new_influencer_slider"
+    },
+    {
+      "type": "vue_recently_viewed_slider",
+      "header": {
+        "title": "ITEMS YOU HAVE VIEWED"
+      },
+      "id": 1,
+      "separator": true
+    },
+    {
+      "type": "vue_browsing_history_slider",
+      "query": {
+        "filters": [
+          {
+            "field": "gender",
+            "value": "men",
+            "type": "exact"
+          }
+        ]
+      },
+      "layout": {
+        "title": "Recommended For You"
+      }
+    },
+    {
+      "type": "brand_results_slider",
+      "limit": 20,
+      "layout": {
+        "title": "Results by brand"
+      }
+    },
+    {
+      "type": "product_results_slider",
+      "layout": {
+        "title": "Products"
+      }
+    },
+    {
+      "type": "wishlist"
+    },
+    {
+      "type": "category_results_tag_group",
+      "limit": 6,
+      "layout": {
+        "title": "Results by category"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "benefit_definitions": [
+    {
+      "key": "curated_offers_for_a_unique_experience",
+      "label": "Curated Offers for a Unique Experience",
+      "icon": "https://mobilecdn.6thstreet.com/config/images/offer.png"
+    },
+    {
+      "key": "early_access_to_exclusive_sale_previews",
+      "label": "Early Access to Exclusive Sale Previews",
+      "icon": "https://mobilecdn.6thstreet.com/config/images/salePreview.png"
+    },
+    {
+      "key": "invites_to_new_product_launch_events",
+      "label": "Invites to New Product Launch Events",
+      "icon": "https://mobilecdn.6thstreet.com/config/images/calendar.png"
+    },
+    {
+      "key": "get_invited_for_club_apparel_connect_events_with_brands",
+      "label": "Get Invited for CLUB AIVI Connect Events with Brands",
+      "icon": "https://mobilecdn.6thstreet.com/config/images/card.png"
+    },
+    {
+      "key": "bonus_birthday_points",
+      "label": "Bonus Birthday Points",
+      "icon": "https://mobilecdn.6thstreet.com/config/images/celebrate.png"
+    },
+    {
+      "key": "private_shopping_sale_of_15_percent_off_across_all_brands",
+      "label": "Private Shopping Sale of 15% Off Across All Brands",
+      "icon": "https://mobilecdn.6thstreet.com/config/images/offer.png"
+    },
+    {
+      "key": "online_shopping",
+      "label": "Online Shopping",
+      "icon": "https://mobilecdn.6thstreet.com/config/images/deliveryTruck.png"
+    },
+    {
+      "key": "upgrade_membership",
+      "label": "Upgrade Membership"
+    }
+  ],
+  "loyalty_tiers": [
+    {
+      "tier": "Silver",
+      "points_earning": "Earn CLUB AIVI Points worth SAR 2 on every SAR 100 Spent.",
+      "base_requirement": "Start Shopping to be a Member",
+      "benefits": {
+        "curated_offers_for_a_unique_experience": "yes",
+        "bonus_birthday_points": "no",
+        "private_shopping_sale_of_15_percent_off_across_all_brands": "no",
+        "early_access_to_exclusive_sale_previews": "yes",
+        "invites_to_new_product_launch_events": "yes",
+        "get_invited_for_club_apparel_connect_events_with_brands": "yes",
+        "online_shopping": "Enjoy free Standard Delivery on orders above SAR 100, plus free Quick and Express Delivery on orders above SAR 350."
+      },
+      "upgrade_membership": "Start Shopping with CLUB AIVI now and be a Silver Tier Member."
+    },
+    {
+      "tier": "Gold",
+      "points_earning": "Earn CLUB AIVI Points worth SAR 3 on every SAR 100 Spent.",
+      "base_requirement": "Purchases above SAR 10,000",
+      "benefits": {
+        "curated_offers_for_a_unique_experience": "yes",
+        "bonus_birthday_points": "100",
+        "private_shopping_sale_of_15_percent_off_across_all_brands": "once a year",
+        "early_access_to_exclusive_sale_previews": "yes",
+        "invites_to_new_product_launch_events": "yes",
+        "get_invited_for_club_apparel_connect_events_with_brands": "yes",
+        "online_shopping": "Enjoy free Standard, Quick, and Express Delivery on all eligible orders."
+      },
+      "upgrade_membership": "Spend between SAR 10,000 to 24,999 in the last 12 months to enjoy the benefits of Gold Tier Membership."
+    },
+    {
+      "tier": "Black",
+      "points_earning": "Earn CLUB AIVI Points worth SAR 5 on every SAR 100 Spent.",
+      "base_requirement": "Purchases above SAR 25,000",
+      "benefits": {
+        "curated_offers_for_a_unique_experience": "yes",
+        "bonus_birthday_points": "200",
+        "private_shopping_sale_of_15_percent_off_across_all_brands": "twice a year",
+        "early_access_to_exclusive_sale_previews": "yes",
+        "invites_to_new_product_launch_events": "yes",
+        "get_invited_for_club_apparel_connect_events_with_brands": "yes",
+        "online_shopping": "Enjoy full delivery benefits with free Standard, Express, and Quick Delivery on all eligible orders."
+      },
+      "upgrade_membership": "Spend over SAR 25,000 in the last 12 months to enjoy the benefits of Black Tier Membership."
+    }
+  ]
+}

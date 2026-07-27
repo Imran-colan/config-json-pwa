@@ -1,0 +1,12 @@
+{
+  "beauty": {
+    "is_enabled": false,
+    "label": "Beauty",
+    "file": "home_beauty_women.json"
+  },
+  "home": {
+    "is_enabled": true,
+    "label": "Premium",
+    "file": "home.json"
+  }
+}

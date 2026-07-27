@@ -1,0 +1,517 @@
+{
+  "data": [
+    {
+      "key": "shoes",
+      "label": "Shoes",
+      "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Formal+Shoes%2CBoots%2CCasual+Shoes%2CCore+sports%2CPerformance%2CSandals%2CShoes%2CSlippers%2CSneakers%2CTrainers%2CBALLERINA%2CCASUAL+SLIP-ONS%2CLoafers%2CCasual+Sandals%2CFlats%2CHeels%2CTraditional+Sandals%2CFlip+Flops%2CSlides%2CHigh+Top%2CLow+Top%2CCasual+Boots%2CChelsea%2CCasual+Slip+on%2CMoccasins+%26+Loafer%2CTennis%2CDerby%2COxford%2CCasual+Sandals%2CDesigner%2CAnkle+Boots%2CCalf+Boots%2CChelsea+Boots%2CKnee+High+Boots%2CSlip-ons%2CBasketball%2CRunning+Shoes%2CTraining+Shoes%2CBlock+Heels%2CFlat+Sandals%2CHeeled+Sandals%2CKitten+Heels%2CMules%2CWedge+Sandals%2CBallerinas%2CEspadrilles%2CLace+Up%2CLoafers+%26+Moccasins%2CPumps%2CFlip+Flop%2CSlides%2CHigh+Top%2CLow+Top%2CMid+Top%2CRUNNING+%26+TRAINING&dFR%5BcategoryIds%5D%5B0%5D=6451%2C6%2C15525%2C10306%2C10303%2C23%2C6165%2C24%2C1753%2C25%2C9776%2C9540%2C9777%2C9543%2C9544%2C9545%2C9546%2C9552%2C9553%2C9775%2C9774%2C15780%2C15779%2C15783%2C6450%2C10286%2C15777%2C15776%2C15769%2C15785%2C15789%2C15790%2C15792%2C15791%2C15526%2C10308%2C10304%2C10305%2C15794%2C15793%2C6448%2C15524%2C15774%2C6447%2C15786%2C15788%2C16338%2C6446%2C15892%2C10292%2C10295%2C10301%2C10297%2C10299%2C9539&idx=enterprise_magento_english_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/Shoes.jpg",
+          "description": "All-Occasion Shoes",
+          "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Formal+Shoes%2CBoots%2CCasual+Shoes%2CCore+sports%2CPerformance%2CSandals%2CShoes%2CSlippers%2CSneakers%2CTrainers%2CBALLERINA%2CCASUAL+SLIP-ONS%2CLoafers%2CCasual+Sandals%2CFlats%2CHeels%2CTraditional+Sandals%2CFlip+Flops%2CSlides%2CHigh+Top%2CLow+Top%2CCasual+Boots%2CChelsea%2CCasual+Slip+on%2CMoccasins+%26+Loafer%2CTennis%2CDerby%2COxford%2CCasual+Sandals%2CDesigner%2CAnkle+Boots%2CCalf+Boots%2CChelsea+Boots%2CKnee+High+Boots%2CSlip-ons%2CBasketball%2CRunning+Shoes%2CTraining+Shoes%2CBlock+Heels%2CFlat+Sandals%2CHeeled+Sandals%2CKitten+Heels%2CMules%2CWedge+Sandals%2CBallerinas%2CEspadrilles%2CLace+Up%2CLoafers+%26+Moccasins%2CPumps%2CFlip+Flop%2CSlides%2CHigh+Top%2CLow+Top%2CMid+Top%2CRUNNING+%26+TRAINING&dFR%5BcategoryIds%5D%5B0%5D=6451%2C6%2C15525%2C10306%2C10303%2C23%2C6165%2C24%2C1753%2C25%2C9776%2C9540%2C9777%2C9543%2C9544%2C9545%2C9546%2C9552%2C9553%2C9775%2C9774%2C15780%2C15779%2C15783%2C6450%2C10286%2C15777%2C15776%2C15769%2C15785%2C15789%2C15790%2C15792%2C15791%2C15526%2C10308%2C10304%2C10305%2C15794%2C15793%2C6448%2C15524%2C15774%2C6447%2C15786%2C15788%2C16338%2C6446%2C15892%2C10292%2C10295%2C10301%2C10297%2C10299%2C9539&idx=enterprise_magento_english_products",
+          "button_label": ""
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://en-ae.6thstreet.com/alma-en-pena.html?q=Alma+en+pena&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Alma+en+pena&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women",
+              "label": "ALMA EN PENA",
+              "link": "/alma-en-pena.html?q=Alma+en+pena&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Alma+en+pena&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+              "promotion_name": "ALMA EN PENA",
+              "itemName": "ALMA EN PENA"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/on-running.html?q=On&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=On&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers%2CLow+Top%2CSports+Shoes%2CRunning+Shoes%2CTennis+Shoes&dFR%5BcategoryIds%5D%5B0%5D=1753%2C10297%2C10306%2C19152%2C10309",
+              "label": "ON",
+              "link": "/on-running.html?q=On&p=0&hFR%5Bcategories.level0%5D%5B0%5D=On&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers%2CLow+Top%2CSports+Shoes%2CRunning+Shoes%2CTennis+Shoes&dFR%5BcategoryIds%5D%5B0%5D=1753%2C10297%2C10306%2C19152%2C10309&idx=enterprise_magento_english_products",
+              "promotion_name": "ON",
+              "itemName": "ON"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/birkenstock.html?q=Birkenstock&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Birkenstock&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1",
+              "label": "BIRKENSTOCK",
+              "link": "/birkenstock.html?q=Birkenstock&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Birkenstock&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+              "promotion_name": "BIRKENSTOCK",
+              "itemName": "BIRKENSTOCK"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/calvin-klein.html?q=Calvin+Klein&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Calvin+Klein&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Boots%2CChelsea+Boots%2CLace+up+Boots%2CAnkle+Boots%2CFormal+Shoes%2CFormal+Lace-Up+Shoes%2CLoafers+%26+Moccasins%2CSandals%2CCasual+Sandals%2CFlat+Sandals%2CHeels%2CPumps%2CStilettos%2CSlip-ons%2CEspadrilles%2CSneakers%2CLow+Top%2CSports+Shoes%2CRunning+Shoes%2CTennis+Shoes%2CBallerinas%2CFlip+Flops+and+Slides%2CSlides&dFR%5BcategoryIds%5D%5B0%5D=6%2C15779%2C19130%2C15789%2C6451%2C19133%2C98%2C23%2C15769%2C15793%2C6448%2C19144%2C19146%2C103%2C19132%2C1753%2C10297%2C10306%2C19152%2C10309%2C16",
+              "label": "CALVIN KLEIN",
+              "link": "/calvin-klein.html?q=Calvin+Klein&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Calvin+Klein&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Boots%2CChelsea+Boots%2CLace+up+Boots%2CAnkle+Boots%2CFormal+Shoes%2CFormal+Lace-Up+Shoes%2CLoafers+%26+Moccasins%2CSandals%2CCasual+Sandals%2CFlat+Sandals%2CHeels%2CPumps%2CStilettos%2CSlip-ons%2CEspadrilles%2CSneakers%2CLow+Top%2CSports+Shoes%2CRunning+Shoes%2CTennis+Shoes%2CBallerinas%2CFlip+Flops+and+Slides%2CSlides&dFR%5BcategoryIds%5D%5B0%5D=6%2C15779%2C19130%2C15789%2C6451%2C19133%2C98%2C23%2C15769%2C15793%2C6448%2C19144%2C19146%2C103%2C19132%2C1753%2C10297%2C10306%2C19152%2C10309%2C16&idx=enterprise_magento_english_products",
+              "promotion_name": "CALVIN KLEIN",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/cole-haan.html?q=Cole+Haan&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Cole+Haan&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "label": "COLE HAAN",
+              "link": "/cole-haan.html?q=Cole+Haan&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Cole+Haan&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+              "promotion_name": "COLE HAAN",
+              "itemName": "COLE HAAN"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/catalogsearch/result/?q=HACKETT&qid=e88d6aeca80cb2d50a5195b8b0840fa7&p=0&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bcategories_without_path%5D%5B0%5D=Loafers+%26+Moccasins%2CSandals%2CSlip-ons%2CSneakers%2CCasual+Sandals%2CEspadrilles%2CLow+Top&dFR%5BcategoryIds%5D%5B0%5D=98%2C100%2C103%2C96%2C15769%2C19132%2C10276",
+              "label": "HACKETT",
+              "link": "/catalogsearch/result/?q=HACKETT&qid=e88d6aeca80cb2d50a5195b8b0840fa7&p=0&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bcategories_without_path%5D%5B0%5D=Loafers+%26+Moccasins%2CSandals%2CSlip-ons%2CSneakers%2CCasual+Sandals%2CEspadrilles%2CLow+Top&dFR%5BcategoryIds%5D%5B0%5D=98%2C100%2C103%2C96%2C15769%2C19132%2C10276&idx=enterprise_magento_english_products",
+              "promotion_name": "HACKETT",
+              "itemName": "HACKETT"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/catalogsearch/result/?q=Guess&qid=b4b3ce5cf63b16d8c6a7b49c932d236f&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Sandals%2CHeels%2CPumps%2CWedges%2CSneakers%2CLow+Top&dFR%5BcategoryIds%5D%5B0%5D=23%2C6448%2C19144%2C6447%2C1753%2C10297",
+              "label": "GUESS",
+              "link": "/catalogsearch/result/?q=Guess&qid=b4b3ce5cf63b16d8c6a7b49c932d236f&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Sandals%2CHeels%2CPumps%2CWedges%2CSneakers%2CLow+Top&dFR%5BcategoryIds%5D%5B0%5D=23%2C6448%2C19144%2C6447%2C1753%2C10297&idx=enterprise_magento_english_products",
+              "promotion_name": "GUESS",
+              "itemName": "GUESS"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/hugo.html?q=Hugo&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Hugo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Boots%2CSneakers%2CSports+Shoes%2CAnkle+Boots%2CLow+Top%2CRunning+Shoes%2CTraining+Shoes&dFR%5BcategoryIds%5D%5B0%5D=6%2C1753%2C10306%2C15789%2C10297%2C19152%2C19153",
+              "label": "HUGO",
+              "link": "/hugo.html?q=Hugo&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Hugo&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Boots%2CSneakers%2CSports+Shoes%2CAnkle+Boots%2CLow+Top%2CRunning+Shoes%2CTraining+Shoes&dFR%5BcategoryIds%5D%5B0%5D=6%2C1753%2C10306%2C15789%2C10297%2C19152%2C19153&idx=enterprise_magento_english_products",
+              "promotion_name": "HUGO",
+              "itemName": "HUGO"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/lacoste.html?q=Lacoste&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Lacoste&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Flip+flops+and+Slides%2CSlides%2CSneakers%2CLow+Top%2CSports+Shoes%2CTraining+Shoes%2CFlat+Shoes%2CLace-up+shoes&dFR%5BcategoryIds%5D%5B0%5D=101%2C10275%2C1753%2C10297%2C10283%2C19136%2C1523%2C19162",
+              "label": "LACOSTE",
+              "link": "/lacoste.html?q=Lacoste&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Lacoste&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Flip+flops+and+Slides%2CSlides%2CSneakers%2CLow+Top%2CSports+Shoes%2CTraining+Shoes%2CFlat+Shoes%2CLace-up+shoes&dFR%5BcategoryIds%5D%5B0%5D=101%2C10275%2C1753%2C10297%2C10283%2C19136%2C1523%2C19162&idx=enterprise_magento_english_products",
+              "promotion_name": "LACOSTE",
+              "itemName": "LACOSTE"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/loci.html?q=LOCI&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=LOCI&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1",
+              "label": "LOCI",
+              "link": "/loci.html?q=LOCI&p=0&hFR%5Bcategories.level0%5D%5B0%5D=LOCI&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+              "promotion_name": "LOCI",
+              "itemName": "LOCI"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/catalogsearch/result/?q=Michael+Kors&qid=0b157aecae8121197b99cd8cfcae8b3a&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Ballerinas%2CFlat+Shoes%2CLoafers+%26+Mocassins%2CSandals%2CSneakers%2CSports+Shoes%2CBALLERINA%2CCasual+Slip-Ons%2CBoots%2CCasual+Sandals%2CFlat+Sandals%2CHeel+Sandals%2CFlip+Flops%2CSlides%2CHigh+Top%2CLow+Top%2CLace-up+shoes%2CHeels%2CPlatforms%2CPumps%2CHigh+Top%2CLow+Top%2CTraining+Shoes%2CBooties&dFR%5BcategoryIds%5D%5B0%5D=16%2C1523%2C20%2C23%2C1753%2C10306%2C9776%2C9540%2C6085%2C9543%2C9544%2C9545%2C9552%2C9553%2C9775%2C9774%2C19162%2C6448%2C19145%2C19144%2C10301%2C10297%2C19153%2C9556",
+              "label": "MICHAEL KORS",
+              "link": "/catalogsearch/result/?q=Michael+Kors&qid=0b157aecae8121197b99cd8cfcae8b3a&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Ballerinas%2CFlat+Shoes%2CLoafers+%26+Mocassins%2CSandals%2CSneakers%2CSports+Shoes%2CBALLERINA%2CCasual+Slip-Ons%2CBoots%2CCasual+Sandals%2CFlat+Sandals%2CHeel+Sandals%2CFlip+Flops%2CSlides%2CHigh+Top%2CLow+Top%2CLace-up+shoes%2CHeels%2CPlatforms%2CPumps%2CHigh+Top%2CLow+Top%2CTraining+Shoes%2CBooties&dFR%5BcategoryIds%5D%5B0%5D=16%2C1523%2C20%2C23%2C1753%2C10306%2C9776%2C9540%2C6085%2C9543%2C9544%2C9545%2C9552%2C9553%2C9775%2C9774%2C19162%2C6448%2C19145%2C19144%2C10301%2C10297%2C19153%2C9556&idx=enterprise_magento_english_products",
+              "promotion_name": "MICHAEL KORS",
+              "itemName": "MICHAEL KORS"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/catalogsearch/result/?q=Tommy+Hilfiger&qid=01240487fa72f81b3e04153c972eac61&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Boots%2CLace+up+Boots%2CAnkle+Boots%2CFlip+flops+and+Slides%2CFlip-Flops%2CSlides%2CFormal+Shoes%2CFormal+Lace-Up+Shoes%2CLoafers+%26+Moccasins%2CSandals%2CCasual+Sandals%2CFlat+Sandals%2CHeels%2CPlatforms%2CPumps%2CWedges%2CSlip-ons%2CSneakers%2CHigh+Top%2CLow+Top%2CSports+Shoes%2CRunning+Shoes%2CTennis+Shoes%2CBallerinas%2CLoafers+%26+Mocassins&dFR%5BcategoryIds%5D%5B0%5D=6%2C19130%2C15789%2C101%2C10292%2C10275%2C6451%2C19133%2C98%2C23%2C15769%2C15793%2C6448%2C19145%2C19144%2C6447%2C103%2C1753%2C10278%2C10297%2C10306%2C19152%2C10286%2C16%2C20",
+              "label": "TOMMY HILFIGER",
+              "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=01240487fa72f81b3e04153c972eac61&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Boots%2CLace+up+Boots%2CAnkle+Boots%2CFlip+flops+and+Slides%2CFlip-Flops%2CSlides%2CFormal+Shoes%2CFormal+Lace-Up+Shoes%2CLoafers+%26+Moccasins%2CSandals%2CCasual+Sandals%2CFlat+Sandals%2CHeels%2CPlatforms%2CPumps%2CWedges%2CSlip-ons%2CSneakers%2CHigh+Top%2CLow+Top%2CSports+Shoes%2CRunning+Shoes%2CTennis+Shoes%2CBallerinas%2CLoafers+%26+Mocassins&dFR%5BcategoryIds%5D%5B0%5D=6%2C19130%2C15789%2C101%2C10292%2C10275%2C6451%2C19133%2C98%2C23%2C15769%2C15793%2C6448%2C19145%2C19144%2C6447%2C103%2C1753%2C10278%2C10297%2C10306%2C19152%2C10286%2C16%2C20&idx=enterprise_magento_english_products",
+              "promotion_name": "TOMMY HILFIGER",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/boss.html?q=BOSS&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=BOSS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers%2CSports+Shoes%2CLow+Top%2CRunning+Shoes%2CTraining+Shoes&dFR%5BcategoryIds%5D%5B0%5D=96%2C10283%2C10276%2C19135%2C19136",
+              "label": "BOSS",
+              "link": "/boss.html?q=BOSS&p=0&hFR%5Bcategories.level0%5D%5B0%5D=BOSS&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bcategories_without_path%5D%5B0%5D=Sneakers%2CSports+Shoes%2CLow+Top%2CRunning+Shoes%2CTraining+Shoes&dFR%5BcategoryIds%5D%5B0%5D=96%2C10283%2C10276%2C19135%2C19136&idx=enterprise_magento_english_products",
+              "promotion_name": "BOSS",
+              "itemName": "BOSS"
+            },
+            {
+              "image_url": "https://en-ae.6thstreet.com/catalogsearch/result/?q=Polo+Ralph+Lauren&qid=7962315a3cf61c453f7776f190fa7767&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Flip+flops+and+Slides%2CLoafers+%26+Moccasins%2CSlip-ons%2CSneakers%2CCasual+Slip-Ons%2CFlip+Flops%2CSlides%2CHigh+Top%2CLow+Top%2CFlip-Flops%2CSlides%2CLow+Top%2CBedroom+Slippers%2CCasual+Sandals%2CFlat+Sandals%2CHeel+Sandals&dFR%5BcategoryIds%5D%5B0%5D=101%2C98%2C103%2C96%2C9540%2C9552%2C9553%2C9775%2C9774%2C10273%2C10275%2C10276%2C19142%2C9543%2C9544%2C9545",
+              "label": "POLO RALPH LAUREN",
+              "link": "/catalogsearch/result/?q=Polo+Ralph+Lauren&qid=7962315a3cf61c453f7776f190fa7767&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Flip+flops+and+Slides%2CLoafers+%26+Moccasins%2CSlip-ons%2CSneakers%2CCasual+Slip-Ons%2CFlip+Flops%2CSlides%2CHigh+Top%2CLow+Top%2CFlip-Flops%2CSlides%2CLow+Top%2CBedroom+Slippers%2CCasual+Sandals%2CFlat+Sandals%2CHeel+Sandals&dFR%5BcategoryIds%5D%5B0%5D=101%2C98%2C103%2C96%2C9540%2C9552%2C9553%2C9775%2C9774%2C10273%2C10275%2C10276%2C19142%2C9543%2C9544%2C9545&idx=enterprise_magento_english_products",
+              "promotion_name": "POLO RALPH LAUREN",
+              "itemName": "POLO RALPH LAUREN"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Formal+Shoes%2CBoots%2CCasual+Shoes%2CCore+sports%2CPerformance%2CSandals%2CShoes%2CSlippers%2CSneakers%2CTrainers%2CBALLERINA%2CCASUAL+SLIP-ONS%2CLoafers%2CCasual+Sandals%2CFlats%2CHeels%2CTraditional+Sandals%2CFlip+Flops%2CSlides%2CHigh+Top%2CLow+Top%2CCasual+Boots%2CChelsea%2CCasual+Slip+on%2CMoccasins+%26+Loafer%2CTennis%2CDerby%2COxford%2CCasual+Sandals%2CDesigner%2CAnkle+Boots%2CCalf+Boots%2CChelsea+Boots%2CKnee+High+Boots%2CSlip-ons%2CBasketball%2CRunning+Shoes%2CTraining+Shoes%2CBlock+Heels%2CFlat+Sandals%2CHeeled+Sandals%2CKitten+Heels%2CMules%2CWedge+Sandals%2CBallerinas%2CEspadrilles%2CLace+Up%2CLoafers+%26+Moccasins%2CPumps%2CFlip+Flop%2CSlides%2CHigh+Top%2CLow+Top%2CMid+Top%2CRUNNING+%26+TRAINING&dFR%5BcategoryIds%5D%5B0%5D=6451%2C6%2C15525%2C10306%2C10303%2C23%2C6165%2C24%2C1753%2C25%2C9776%2C9540%2C9777%2C9543%2C9544%2C9545%2C9546%2C9552%2C9553%2C9775%2C9774%2C15780%2C15779%2C15783%2C6450%2C10286%2C15777%2C15776%2C15769%2C15785%2C15789%2C15790%2C15792%2C15791%2C15526%2C10308%2C10304%2C10305%2C15794%2C15793%2C6448%2C15524%2C15774%2C6447%2C15786%2C15788%2C16338%2C6446%2C15892%2C10292%2C10295%2C10301%2C10297%2C10299%2C9539&idx=enterprise_magento_english_products",
+            "plp_title": "SHOP BY BRAND"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "bags",
+      "label": "Bags",
+      "link": "/catalogsearch/result/?q=Premium+Bags&qid=11315488b89fc4d6492ce34f8ec08bd4&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/Bags.jpg",
+          "description": "Essential Bags",
+          "link": "/catalogsearch/result/?q=Premium+Bags&qid=11315488b89fc4d6492ce34f8ec08bd4&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products"
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "Guess",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Guess&idx=enterprise_magento_english_products",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/coach.jpg",
+              "label": "Coach",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bbrand_name%5D%5B0%5D=Coach&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Handbags%2CCross+Body%2CHandheld+Bags%2CShoulder+Bag%2CWallets%2CCard+Holders%2CWallets&dFR%5BcategoryIds%5D%5B0%5D=5871%2C10700%2C16410%2C10697%2C6321%2C10721%2C16053&idx=enterprise_magento_english_products",
+              "itemName": "Coach"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Women/Missing-logos/Dkny.jpg",
+              "label": "Dkny",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dkny&idx=enterprise_magento_english_products",
+              "itemName": "Dkny"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/Love+Moschino+1.jpg",
+              "label": "Love Moschino",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Love+Moschino&idx=enterprise_magento_english_products",
+              "itemName": "Love Moschino"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Michael+Kors.jpg",
+              "label": "Michael Kors",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Michael+Kors&idx=enterprise_magento_english_products",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/kate_spade.jpg",
+              "label": "Kate Spade",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Kate+Spade&idx=enterprise_magento_english_products",
+              "itemName": "Kate Spade"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "HUGO",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hugo&idx=enterprise_magento_english_products",
+              "itemName": "HUGO"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/Karen+Millen.jpg",
+              "label": "Karen Millen",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Karen+Millen&idx=enterprise_magento_english_products",
+              "itemName": "Karen Millen"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids%2CTommy+Jeans&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/karl_lagerfeld.jpg",
+              "label": "Karl Lagerfeld",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Karl+Lagerfeld&idx=enterprise_magento_english_products",
+              "itemName": "Karl Lagerfeld"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "Calvin Klein",
+              "link": "/catalogsearch/result/?q=Bags&qid=0e4cc69b565334d8a59ee5664d5ff691&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein&idx=enterprise_magento_english_products",
+              "itemName": "Calvin Klein"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=Premium+Bags&qid=11315488b89fc4d6492ce34f8ec08bd4&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+            "plp_title": "SHOP BY BRAND"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "clothing",
+      "label": "Clothing",
+      "link": "/catalogsearch/result/?q=Premium+Clothing&qid=7b3e79acc178a931312981e8c181aaf6&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/Clothing.jpg",
+          "description": "Wardrobe Refreshers",
+          "link": "/catalogsearch/result/?q=Premium+Clothing&qid=7b3e79acc178a931312981e8c181aaf6&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products"
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/28-02-2024/Forever+New+2.jpg",
+              "label": "FOREVER NEW",
+              "link": "/catalogsearch/result/?q=Forever+New&qid=ae23f1709d266d02ca2f7c9f1bcf1a79&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Forever+New&idx=enterprise_magento_english_products",
+              "promotion_name": "FOREVER NEW",
+              "itemName": "FOREVER NEW"
+            },
+            {
+              "image_url": "-",
+              "label": "BARBOUR",
+              "link": "/barbour.html?q=Barbour&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Barbour&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+              "promotion_name": "BARBOUR",
+              "itemName": "BARBOUR"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/GANT+(1).jpg",
+              "label": "HACKETT",
+              "link": "/hackett.html?q=Hackett&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Hackett&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Boy%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Hoodies+%26+Sweatshirts%2CSweatshirts%2CJackets+%26+Coats%2CBlazers%2CCasual+Jackets%2CPants+%26+Chinos%2CCasual+Pants%2CChinos%2CJoggers%2CShirts%2CCasual+Shirts%2CShorts%2CCasual+Shorts%2CChino+Shorts%2CLounge+Shorts%2CSocks%2CCalf+Length+Socks%2CNo+show+Socks%2CSportswear%2CTrack+Pants+%26+Joggers%2CSwimwear%2CBottoms%2CT-Shirts%2CCasual+T-Shirts%2CPolo+T-Shirts%2CVest+%26+Underwear%2CTrunks+%26+Briefs&dFR%5BcategoryIds%5D%5B0%5D=15821%2C15823%2C15804%2C15840%2C15841%2C107%2C15863%2C15859%2C15861%2C108%2C15818%2C109%2C15832%2C15830%2C19294%2C6101%2C19295%2C15857%2C6215%2C15762%2C112%2C19275%2C113%2C15871%2C15870%2C115%2C15852&idx=enterprise_magento_english_products",
+              "promotion_name": "HACKETT",
+              "itemName": "HACKETT"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "HUGO",
+              "link": "/catalogsearch/result/?q=Clothing&qid=1af5bd42ab447b81d51dad913abfd893&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hugo&idx=enterprise_magento_english_products",
+              "promotion_name": "HUGO",
+              "itemName": "HUGO"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/karl_lagerfeld.jpg",
+              "label": "KARL LAGERFELD",
+              "link": "/catalogsearch/result/?q=Clothing&qid=1af5bd42ab447b81d51dad913abfd893&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Karl+Lagerfeld&idx=enterprise_magento_english_products",
+              "promotion_name": "KARL LAGERFELD",
+              "itemName": "KARL LAGERFELD"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lacoste.jpg",
+              "label": "LACOSTE",
+              "link": "/catalogsearch/result/?q=Clothing&qid=1af5bd42ab447b81d51dad913abfd893&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Lacoste&idx=enterprise_magento_english_products",
+              "promotion_name": "LACOSTE",
+              "itemName": "LACOSTE"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/Ted+Baker+(1).jpg",
+              "label": "TED BAKER",
+              "link": "/catalogsearch/result/?q=Clothing&qid=1af5bd42ab447b81d51dad913abfd893&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Ted+Baker&idx=enterprise_magento_english_products",
+              "promotion_name": "TED BAKER",
+              "itemName": "TED BAKER"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "TOMMY HILFIGER",
+              "link": "/catalogsearch/result/?q=Clothing&qid=1af5bd42ab447b81d51dad913abfd893&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger&idx=enterprise_magento_english_products",
+              "promotion_name": "TOMMY HILFIGER",
+              "itemName": "TOMMY HILFIGER"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "CALVIN KLEIN",
+              "link": "/catalogsearch/result/?q=Clothing&qid=1af5bd42ab447b81d51dad913abfd893&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein&idx=enterprise_magento_english_products",
+              "promotion_name": "CALVIN KLEIN",
+              "itemName": "CALVIN KLEIN"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/Boss+(1).jpg",
+              "label": "BOSS",
+              "link": "/catalogsearch/result/?q=Clothing&qid=1af5bd42ab447b81d51dad913abfd893&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CWomen%2CMen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Boss&idx=enterprise_magento_english_products",
+              "promotion_name": "BOSS",
+              "itemName": "BOSS"
+            },
+            {
+              "image_url": "-",
+              "label": "SUPERDRY",
+              "link": "/superdry.html?q=Superdry&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Superdry&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+              "promotion_name": "SUPERDRY",
+              "itemName": "SUPERDRY"
+            },
+            {
+              "image_url": "-",
+              "label": "BCBG",
+              "link": "/bcbg.html?q=BCBG&p=0&hFR%5Bcategories.level0%5D%5B0%5D=BCBG&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+              "promotion_name": "BCBG",
+              "itemName": "BCBG"
+            },
+            {
+              "image_url": "-",
+              "label": "KAREN MILLEN",
+              "link": "/karen-millen.html?q=Karen+Millen&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Karen+Millen&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+              "promotion_name": "KAREN MILLEN",
+              "itemName": "KAREN MILLEN"
+            },
+            {
+              "image_url": "-",
+              "label": "COAST",
+              "link": "/coast.html?q=Coast&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Coast&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+              "promotion_name": "COAST",
+              "itemName": "COAST"
+            },
+            {
+              "image_url": "-",
+              "label": "OASIS",
+              "link": "/oasis.html?q=Oasis&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Oasis&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+              "promotion_name": "OASIS",
+              "itemName": "OASIS"
+            },
+            {
+              "image_url": "-",
+              "label": "NASTY GAL",
+              "link": "/nasty-gal.html?q=Nasty+Gal&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Nasty+Gal&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women&idx=enterprise_magento_english_products",
+              "promotion_name": "NASTY GAL",
+              "itemName": "NASTY GAL"
+            },
+            {
+              "image_url": "-",
+              "label": "BOOHOOMAN",
+              "link": "/boohooman.html?q=boohooMAN&p=0&hFR%5Bcategories.level0%5D%5B0%5D=boohooMAN&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=boohooMAN&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_english_products",
+              "promotion_name": "BOOHOOMAN",
+              "itemName": "BOOHOOMAN"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=Premium+Clothing&qid=7b3e79acc178a931312981e8c181aaf6&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+            "plp_title": "SHOP BY BRAND"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "accessories",
+      "label": "Accessories",
+      "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Tech+Accessories%2CBelts%2CCaps+%26+Hats%2CFace+Mask%2CHair+Accessories%2CHeadwear%2CJewellery%2CScarves%2CSocks%2CSunglasses%2CTies+%26+Gloves%2CWatches%2CCaps+%26+Mittens%2CScarves+%26+Gloves%2CSocks+%26+Tights%2CBeret%2CPanel+Caps%2CChains+%26+Pendants%2CCrew+Socks%2CLaptop+Accessories%2CLeather+Belts%2CNon+Leather+Belts%2CBeanies%2CCaps%2CHats%2CFace+Mask%2CHeadwear%2CHeadband%2CBracelets%2CEarrings%2CNecklaces+%26+Pendants%2CRings%2CBlanket+Scarves%2CKnitted+Scarves%2CSilk+Scarves%2CWoollen+Scarves%2CAnkle+socks%2CNo+Show+Socks%2CAviators%2CCat+Eye+Sunglasses%2CRetro+Sunglasses%2CRound+Sunglasses%2CSquare+Sunglasses%2CGloves%2CAnalog+Watches%2CFashion+Watches&dFR%5BcategoryIds%5D%5B0%5D=2779%2C49%2C51%2C11607%2C52%2C11587%2C6214%2C55%2C1535%2C54%2C10797%2C60%2C9641%2C9642%2C9640%2C10897%2C10899%2C10900%2C11558%2C10972%2C10739%2C10740%2C10741%2C10742%2C10743%2C11608%2C10805%2C11590%2C10757%2C10762%2C10759%2C10753%2C10773%2C10774%2C10769%2C10771%2C11584%2C11583%2C10777%2C10778%2C10779%2C10780%2C10781%2C16027%2C10796%2C9663&idx=enterprise_magento_english_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/ACC_.jpg",
+          "description": "Elevated Accessories",
+          "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Tech+Accessories%2CBelts%2CCaps+%26+Hats%2CFace+Mask%2CHair+Accessories%2CHeadwear%2CJewellery%2CScarves%2CSocks%2CSunglasses%2CTies+%26+Gloves%2CWatches%2CCaps+%26+Mittens%2CScarves+%26+Gloves%2CSocks+%26+Tights%2CBeret%2CPanel+Caps%2CChains+%26+Pendants%2CCrew+Socks%2CLaptop+Accessories%2CLeather+Belts%2CNon+Leather+Belts%2CBeanies%2CCaps%2CHats%2CFace+Mask%2CHeadwear%2CHeadband%2CBracelets%2CEarrings%2CNecklaces+%26+Pendants%2CRings%2CBlanket+Scarves%2CKnitted+Scarves%2CSilk+Scarves%2CWoollen+Scarves%2CAnkle+socks%2CNo+Show+Socks%2CAviators%2CCat+Eye+Sunglasses%2CRetro+Sunglasses%2CRound+Sunglasses%2CSquare+Sunglasses%2CGloves%2CAnalog+Watches%2CFashion+Watches&dFR%5BcategoryIds%5D%5B0%5D=2779%2C49%2C51%2C11607%2C52%2C11587%2C6214%2C55%2C1535%2C54%2C10797%2C60%2C9641%2C9642%2C9640%2C10897%2C10899%2C10900%2C11558%2C10972%2C10739%2C10740%2C10741%2C10742%2C10743%2C11608%2C10805%2C11590%2C10757%2C10762%2C10759%2C10753%2C10773%2C10774%2C10769%2C10771%2C11584%2C11583%2C10777%2C10778%2C10779%2C10780%2C10781%2C16027%2C10796%2C9663&idx=enterprise_magento_english_products"
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "Calvin Klein",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein&idx=enterprise_magento_english_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/Carolina+Herrera.jpg",
+              "label": "Carolina Herrera",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Carolina+Herrera&idx=enterprise_magento_english_products",
+              "itemName": "Carolina Herrera"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/Carrera.jpg",
+              "label": "Carrera",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Carrera&idx=enterprise_magento_english_products",
+              "itemName": "Carrera"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/coach.jpg",
+              "label": "Coach",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=COACH&idx=enterprise_magento_english_products",
+              "itemName": "Coach"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Women/Missing-logos/Dkny.jpg",
+              "label": "Dkny",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Dkny&idx=enterprise_magento_english_products",
+              "itemName": "Dkny"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "Guess",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Guess&idx=enterprise_magento_english_products",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/Hugo+Boss.jpg",
+              "label": "Hugo Boss",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Hugo+Boss&idx=enterprise_magento_english_products",
+              "itemName": "Hugo Boss"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lacoste.jpg",
+              "label": "Lacoste",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Lacoste&idx=enterprise_magento_english_products",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Men/Marc+jacobs.jpg",
+              "label": "Marc Jacobs",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Marc+Jacobs&idx=enterprise_magento_english_products",
+              "itemName": "Marc Jacobs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Moschino.jpg",
+              "label": "Moschino",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=MOSCHINO&idx=enterprise_magento_english_products",
+              "itemName": "Moschino"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=Accessories&qid=3fbc8f20c8d955bc236a700a43069405&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CMen%2CWomen%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger&idx=enterprise_magento_english_products",
+              "itemName": "Tommy Hilfiger"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=Tech+Accessories%2CBelts%2CCaps+%26+Hats%2CFace+Mask%2CHair+Accessories%2CHeadwear%2CJewellery%2CScarves%2CSocks%2CSunglasses%2CTies+%26+Gloves%2CWatches%2CCaps+%26+Mittens%2CScarves+%26+Gloves%2CSocks+%26+Tights%2CBeret%2CPanel+Caps%2CChains+%26+Pendants%2CCrew+Socks%2CLaptop+Accessories%2CLeather+Belts%2CNon+Leather+Belts%2CBeanies%2CCaps%2CHats%2CFace+Mask%2CHeadwear%2CHeadband%2CBracelets%2CEarrings%2CNecklaces+%26+Pendants%2CRings%2CBlanket+Scarves%2CKnitted+Scarves%2CSilk+Scarves%2CWoollen+Scarves%2CAnkle+socks%2CNo+Show+Socks%2CAviators%2CCat+Eye+Sunglasses%2CRetro+Sunglasses%2CRound+Sunglasses%2CSquare+Sunglasses%2CGloves%2CAnalog+Watches%2CFashion+Watches&dFR%5BcategoryIds%5D%5B0%5D=2779%2C49%2C51%2C11607%2C52%2C11587%2C6214%2C55%2C1535%2C54%2C10797%2C60%2C9641%2C9642%2C9640%2C10897%2C10899%2C10900%2C11558%2C10972%2C10739%2C10740%2C10741%2C10742%2C10743%2C11608%2C10805%2C11590%2C10757%2C10762%2C10759%2C10753%2C10773%2C10774%2C10769%2C10771%2C11584%2C11583%2C10777%2C10778%2C10779%2C10780%2C10781%2C16027%2C10796%2C9663&idx=enterprise_magento_english_products",
+            "plp_title": "SHOP BY BRAND"
+          }
+        }
+      ]
+    },
+    {
+      "key": "OUTLET",
+      "label": "OUTLET",
+      "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_english_products",
+      "design": {
+        "background_color": "#d12229",
+        "text_color": "#d12229"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/SALE.jpg",
+          "description": "Price Drops",
+          "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_english_products"
+        },
+        {
+          "type": "grid",
+          "title": "SHOP BY BRAND",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "Tommy Hilfiger",
+              "link": "/catalogsearch/result/?q=Tommy+Hilfiger&qid=e7d4763443c22b438bf22646c2fea737&p=0&dFR%5Bbrand_name%5D%5B0%5D=Tommy+Hilfiger%2CTommy+Hilfiger+kids&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_english_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "Calvin Klein",
+              "link": "/catalogsearch/result/?q=Calvin+Klein&qid=5ef5192fe267cee74a89f3e22986095a&p=0&dFR%5Bbrand_name%5D%5B0%5D=Calvin+Klein%2CCalvin+Klein+Jeans&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_english_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "Hugo",
+              "link": "/catalogsearch/result/?q=Hugo&qid=68b51ef634abd1173ebc53322b6e79c6&p=0&dFR%5Bbrand_name%5D%5B0%5D=Boss%2CHugo%2CHugo+Boss&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_english_products",
+              "itemName": "Hugo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "Guess",
+              "link": "/catalogsearch/result/?q=Guess&qid=339889b7624f3cd0b38abef363fb8beb&p=0&dFR%5Bbrand_name%5D%5B0%5D=Guess&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl%2CMen%2CWomen&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_english_products",
+              "itemName": "Guess"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=Premium&p=0&dFR%5Bgender%5D%5B0%5D=Girl%2CMen%2CWomen%2CBoy&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_english_products",
+            "plp_title": "SHOP BY BRAND"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

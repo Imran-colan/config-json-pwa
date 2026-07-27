@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "key": "Menu",
+      "label": "Mega Menu",
+      "link": "/men.html?idx=enterprise_magento_en_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Kids/April/1-4-26/mega%20menu%20%20(2)/mega%20menu_/k_en.jpg",
+          "description": "BAU",
+          "link": "/catalogsearch/result/?q=%2B&qid=25f2f2da145371eb91f206dd84b86830&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_kw_products",
+          "promotion_name": "Mega-Menu-Banner-Men-EN-BAU",
+          "button_label": "Men"
+        },
+        {
+          "type": "slider",
+          "title": "Slider",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Monalisa%2BCreative/14-08-25/men/all+brands+_kwt_bhd_+en_m.jpg",
+              "label": "",
+              "link": "/shop-by-brands?idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Slider-Men-En-Brands",
+              "itemName": "Brands"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/14-8-25+NEW/mega+menu+(m_w)/new_en.jpg",
+              "label": "",
+              "link": "/men/new-in.html?q=Men&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&dFR[in_stock][0]=1&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Slider-Men-En-New-In",
+              "itemName": "New In"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/14-8-25+NEW/mega+menu+(m_w)/bestseller_en-1.jpg",
+              "label": "",
+              "link": "/catalogsearch/result/?q=%2B&qid=e0d78cd3eeaee31f7811b74e156a6be8&p=0&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&facetFilters=%5B%22promotion_tags.top%3ABESTSELLER%22%5D&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Slider-Men-En-Best-Seller",
+              "itemName": "Trending"
+            }
+          ]
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "Brand",
+      "label": "Mega Menu Brand",
+      "link": "/shop-by-brands?idx=enterprise_magento_en_kw_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "grid",
+          "title": "Shop by brands",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/skechers+copy.png",
+              "label": "SKECHERS",
+              "link": "/skechers.html?q=Skechers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-SKECHERS",
+              "itemName": "SKECHERS"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/BHPC.png",
+              "label": "Beverly Hills Polo Club",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-Beverly Hills Polo Club",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/TH.png",
+              "label": "Tommy Hilfiger",
+              "link": "/tommy-hilfiger.html?q=Tommy+Hilfiger&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Tommy+Hilfiger&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-Tommy Hilfiger",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/Aero.png",
+              "label": "aeropostale",
+              "link": "/aeropostale.html?q=Aeropostale&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Aeropostale&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-aeropostale",
+              "itemName": "aeropostale"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/levis.png",
+              "label": "Levi's",
+              "link": "/levis.html?q=Levi%27s&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Levi%27s&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-Levi's",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/ON.png",
+              "label": "ON",
+              "link": "/on-running.html?q=On&p=0&hFR%5Bcategories.level0%5D%5B0%5D=On&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-ON",
+              "itemName": "ON"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/Steve.png",
+              "label": "Steve Madden",
+              "link": "/steve-madden.html?q=Steve+Madden&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Steve+Madden&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-Steve Madden",
+              "itemName": "Steve Madden"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/Asics.png",
+              "label": "ASICS",
+              "link": "/asics.html?q=Asics&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Asics&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-ASICS",
+              "itemName": "ASICS"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29-3-24+NEW/Mega+menu/Women+MEGA+MENU/top-brands-386x166/top-brands-386x166/ON+copy.png",
+              "label": "Birkenstock",
+              "link": "/birkenstock.html?q=Birkenstock&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Birkenstock&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_en_kw_products",
+              "promotion_name": "Mega-Menu-Brands-Men-En-Birkenstock",
+              "itemName": "Birkenstock"
+            }
+          ],
+          "button": {
+            "link": "/shop-by-brands?idx=enterprise_magento_en_kw_products",
+            "plp_title": "Shop by brands"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

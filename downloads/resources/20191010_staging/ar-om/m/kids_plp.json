@@ -1,0 +1,1020 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 1,
+      "promotion_name": "Kids-AR-SIS-SBC FOOTWEAR",
+      "tag": "kids_footwear",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "SNEAKERS",
+          "tag": "SNEAKERS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/sneakers%20ar.jpg",
+          "link": "/kids/footwear/sneakers.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%86%D9%8A%D9%83%D8%B1%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%86%D9%8A%D9%83%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "0"
+        },
+        {
+          "promotion_name": "SPORTS SHOES",
+          "tag": "SPORTS SHOES",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/sports%20shoes%20ar.jpg",
+          "link": "/kids/footwear/sports-shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "1"
+        },
+        {
+          "promotion_name": "CASUAL SHOES",
+          "tag": "CASUAL SHOES",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/casual%20shoes%20ar.jpg",
+          "link": "/kids/footwear/casual-shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%BA%D9%8A%D8%B1+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%BA%D9%8A%D8%B1+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "2"
+        },
+        {
+          "promotion_name": "CLOGS",
+          "tag": "CLOGS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/Clogs%20ar.jpg",
+          "link": "/kids/footwear/clogs.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D9%84%D9%88%D8%BA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D9%84%D9%88%D8%BA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "3"
+        },
+        {
+          "promotion_name": "SANDALS",
+          "tag": "SANDALS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/sandals%20ar.jpg",
+          "link": "/kids/footwear/sandals.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%B5%D9%86%D8%A7%D8%AF%D9%84&p=0&hFR[categories.level0][0]=%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20///%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20///%20%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR[visibility_catalog][=][0]=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "4"
+        },
+        {
+          "promotion_name": "FORMAL SHOES",
+          "tag": "FORMAL SHOES",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/formal%20shoes%20ar.jpg",
+          "link": "/kids/footwear/formal-shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "5"
+        },
+        {
+          "promotion_name": "SLIDES AND FLIP FLOPS",
+          "tag": "SLIDES AND FLIP FLOPS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/slides%20and%20flip%20flops%20ar.jpg",
+          "link": "/kids/footwear/flip-flops.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8+%D9%88%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8+%D9%88%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "6"
+        },
+        {
+          "promotion_name": "BOOTIES",
+          "tag": "BOOTIES",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/booties%20ar.jpg",
+          "link": "/kids/footwear/booties.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%A8%D9%88%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%A8%D9%88%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 2,
+      "promotion_name": "Kids-AR-SIS-SBC ACCESSORIES",
+      "tag": "kids_kids-accessories",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "JIbbits",
+          "tag": "JIbbits",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/shoe%20accessories%20ar.jpg",
+          "link": "/kids/kids-accessories/shoe-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AC%D9%8A%D8%A8%D9%8A%D8%AA%D8%B2&dFR%5BcategoryIds%5D%5B0%5D=&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "0"
+        },
+        {
+          "promotion_name": "Watches",
+          "tag": "Watches",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/watches%20ar.jpg",
+          "link": "/kids/kids-accessories/watches.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "1"
+        },
+        {
+          "promotion_name": "Sunglasses",
+          "tag": "Sunglasses",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/sunglasses%20ar.jpg",
+          "link": "/kids/kids-accessories/sunglasses.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "2"
+        },
+        {
+          "promotion_name": "Belts & Ties",
+          "tag": "Belts & Ties",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/belts%20ties%20suspenders%20ar.jpg",
+          "link": "/kids/kids-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B2%D9%85%D8%A9%2C%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%84%D8%A7%D8%AA%2C%D8%B1%D8%A8%D8%B7%D8%A7%D8%AA+%D8%B9%D9%86%D9%82&dFR%5BcategoryIds%5D%5B0%5D=&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "3"
+        },
+        {
+          "promotion_name": "Educational Toys",
+          "tag": "Educational Toys",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/EDUCATIONAL%20TOYS.jpg",
+          "link": "/kids/toys/indoor/educational-toys.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AF%D9%85%D9%89+++%D8%A3%D9%84%D8%B9%D8%A7%D8%A8+%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8+%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AF%D9%85%D9%89+++%2F%2F%2F+%D8%A3%D9%84%D8%B9%D8%A7%D8%A8+%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9+%2F%2F%2F+%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8+%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "4"
+        },
+        {
+          "promotion_name": "Hair Accessories",
+          "tag": "Hair Accessories",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/hair%20accessories%20ar.jpg",
+          "link": "/kids/kids-accessories/hair-accessories.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 3,
+      "promotion_name": "Kids-AR-SIS-SBC CLOTHING",
+      "tag": "kids_clothing",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "TOPWEAR",
+          "tag": "TOPWEAR",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/top%20wear%20ar.jpg",
+          "link": "/kids/clothing/topwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AA%D9%88%D8%A8%D8%A7%D8%AA++&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AA%D9%88%D8%A8%D8%A7%D8%AA++&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "0"
+        },
+        {
+          "promotion_name": "BOTTOMWEAR",
+          "tag": "BOTTOMWEAR",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/bottomwear%20ar.jpg",
+          "link": "/kids/clothing/bottomwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D9%81%D9%84%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D9%81%D9%84%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "1"
+        },
+        {
+          "promotion_name": "SETS",
+          "tag": "SETS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/sets%20ar.jpg",
+          "link": "/kids/clothing/sets.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "2"
+        },
+        {
+          "promotion_name": "ONEPIECES & BODYSUITS",
+          "tag": "ONEPIECES & BODYSUITS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/one%20peices%20and%20body%20suits%20ar.jpg",
+          "link": "/kids/clothing/onepieces-bodysuits.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%8A+%D8%B3%D9%88%D8%AA+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D8%B7%D8%B9%D8%A9+%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%8A+%D8%B3%D9%88%D8%AA+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D8%B7%D8%B9%D8%A9+%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "3"
+        },
+        {
+          "promotion_name": "DRESSES",
+          "tag": "DRESSES",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/dresses%20ar.jpg",
+          "link": "/kids/clothing/dresses.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "4"
+        },
+        {
+          "promotion_name": "NIGHTWEAR",
+          "tag": "NIGHTWEAR",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/nightwear%20ar.jpg",
+          "link": "/kids/clothing/nightwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%86%D9%88%D9%85&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%86%D9%88%D9%85&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "5"
+        },
+        {
+          "promotion_name": "MONOCHROME",
+          "tag": "MONOCHROME",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/monocrome.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=8a1d06f751b476a7c25a8c4148383e04&p=0&dFR%5Bcolorfamily%5D%5B0%5D=%D8%A3%D8%A8%D9%8A%D8%B6%2C%D8%B1%D9%85%D8%A7%D8%AF%D9%8A%2C%D9%83%D8%AD%D9%84%D9%8A%2C%D8%A3%D8%B3%D9%88%D8%AF&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "6"
+        },
+        {
+          "promotion_name": "SWIM WEAR",
+          "tag": "SWIM WEAR",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/swimwear%20ar.jpg",
+          "link": "/kids/clothing/swim-wear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "7"
+        },
+        {
+          "promotion_name": "INNER WEAR & MORE",
+          "tag": "INNER WEAR & MORE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/inner%20wear%20and%20thermal%20ar.jpg",
+          "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A8%D9%88%D9%83%D8%B3%D8%B1%D8%A7%D8%AA+%D9%88%D8%B3%D8%B1%D8%A7%D9%88%D9%8A%D9%84+%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%2C%D8%AD%D9%85%D8%A7%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%B5%D8%AF%D8%B1%2C%D8%B3%D8%B1%D8%A7%D9%88%D9%8A%D9%84%2C%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA%2C%D9%81%D8%A7%D9%86%D9%8A%D9%84%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9625%2C9624%2C9626%2C9627%2C9623&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "8"
+        },
+        {
+          "promotion_name": "WINTERWEAR & MORE",
+          "tag": "WINTERWEAR & MORE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/winterwear%20and%20outerwear%20ar.jpg",
+          "link": "/kids/clothing/winterwear-outerwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "9"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 4,
+      "promotion_name": "Kids-AR-Home-SBC",
+      "tag": "kids1",
+      "background_color": "#ffffff",
+      "items_per_row": "6",
+      "item_height": "240",
+      "items": [
+        {
+          "promotion_name": "Home-SBC-SHOES",
+          "tag": "SHOES",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29thKids/SBC/kids/Shoes+ar.jpg",
+          "link": "/kids/footwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9%2Clte80&idx=enterprise_magento_ar_om_products",
+          "width": 348,
+          "height": 290
+        },
+        {
+          "promotion_name": "Home-SBC-BAGS",
+          "tag": "BAGS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29thKids/SBC/kids/bags+ar.jpg",
+          "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_ar_om_products",
+          "width": 348,
+          "height": 290
+        },
+        {
+          "promotion_name": "Home-SBC-CLOTHING",
+          "tag": "CLOTHING",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29thKids/SBC/kids/clothing+ar.jpg",
+          "link": "/kids/clothing.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9%2Clte85&idx=enterprise_magento_ar_om_products",
+          "width": 348,
+          "height": 290
+        },
+        {
+          "promotion_name": "Home-SBC-Watches",
+          "tag": "Watches",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29thKids/watches/watch+ar-1.jpg",
+          "link": "/kids/kids-accessories/watches.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9&idx=enterprise_magento_ar_om_products",
+          "width": 348,
+          "height": 290
+        },
+        {
+          "promotion_name": "Home-SBC-WINTER CLOTHING",
+          "tag": "WINTER CLOTHING",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29thKids/SBC/kids/winter+clothing+ar.jpg",
+          "link": "/kids/clothing/winterwear-outerwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte19%2Clte85&idx=enterprise_magento_ar_om_products",
+          "width": 348,
+          "height": 290
+        },
+        {
+          "promotion_name": "Home-SBC-BABY ESSENTIALS",
+          "tag": "BABY ESSENTIALS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29thKids/SBC/kids/babies+ar.jpg",
+          "link": "/kids/baby-essentials.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%B1%D8%B6%D8%B9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA+%D8%B1%D8%B6%D8%B9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte8%2Clte85&idx=enterprise_magento_ar_om_products",
+          "width": 348,
+          "height": 290
+        },
+        {
+          "promotion_name": "Home-SBC-TOYS",
+          "tag": "TOYS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/29thKids/SBC/kids/toys+ar.jpg",
+          "link": "/kids/toys.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AF%D9%85%D9%89++&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AF%D9%85%D9%89++&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte9%2Clte81&idx=enterprise_magento_ar_om_products",
+          "width": 348,
+          "height": 290
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 5,
+      "promotion_name": "Kids-AR-Home-SSBCD-Sports day",
+      "tag": "sportswear",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "SPORTS SHOES",
+          "tag": "SPORTS SHOES",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/11-7-25+NEW/Kids+SBC/Sportshoes++ar.jpg",
+          "link": "/kids/footwear/sports-shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D9%84%D9%84%D8%AC%D8%B1%D9%8A%2F%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D9%86&idx=enterprise_magento_ar_om_products",
+          "width": 110,
+          "height": 133
+        },
+        {
+          "promotion_name": "TSHIRTS",
+          "tag": "TSHIRTS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/11-7-25+NEW/Kids+SBC/T-shirts+ar.jpg",
+          "link": "/catalogsearch/result/?q=%2B&qid=43e7693025c6675f9e8f3dfff7664137&p=0&dFR%5Bbrand_name%5D%5B0%5D=F5%2C%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3%2C%D8%A7%D8%B3%D9%8A%D9%83%D8%B3%2C%D8%A3%D9%86%D8%AF%D8%B1+%D8%A2%D8%B1%D9%85%D9%88%D8%B1%2C%D8%A7%D9%8A%D9%83%D9%88%2C%D8%A8%D9%88%D9%85%D8%A7%2C%D8%AA%D9%88%D9%86%D8%B2%2C%D8%AC%D8%A7%D9%86+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA%2C%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2%2C%D9%81%D8%A7%D9%86%D8%B3%2C%D9%81%D9%8A%D9%81%D8%A7%2C%D9%81%D9%8A%D9%81%D9%88%D8%A8%D9%8A%D8%B1%D9%81%D9%88%D8%AA%2C%D9%86%D8%A7%D9%8A%D9%83%2C%D9%87%D9%8A%D9%84%D9%8A%D8%B2%2C%D9%87%D9%8A%D9%88%D9%85%D9%84&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9575%2C9624%2C9591%2C9590%2C9613%2C9617%2C9615%2C9616%2C9579&idx=enterprise_magento_ar_om_products",
+          "width": 110,
+          "height": 133
+        },
+        {
+          "promotion_name": "SHORTS",
+          "tag": "SHORTS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/11-7-25+NEW/Kids+SBC/Shorts+ar.jpg",
+          "link": "/kids/clothing/bottomwear/shorts.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D9%81%D9%84%D9%8A%D8%A9+%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D9%81%D9%84%D9%8A%D8%A9+%2F%2F%2F+%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 110,
+          "height": 133
+        },
+        {
+          "promotion_name": "SWIMWEAR",
+          "tag": "SWIMWEAR",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/11-7-25+NEW/Kids+SBC/spswimwear+ar.jpg",
+          "link": "/kids/clothing/swim-wear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 110,
+          "height": 133
+        },
+        {
+          "promotion_name": "JACKETS",
+          "tag": "JACKETS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/11-7-25+NEW/Kids+SBC/Jackets+ar.jpg",
+          "link": "/kids/clothing/winterwear-outerwear.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1+%D9%88%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AC%D8%A7%D9%83%D9%8A%D8%AA%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9617&idx=enterprise_magento_ar_om_products",
+          "width": 110,
+          "height": 133
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 6,
+      "promotion_name": "Kids-AR-StoreSIS-BTS-Brands",
+      "tag": "back-to-school",
+      "background_color": "#ffffff",
+      "items_per_row": "3",
+      "item_height": "240",
+      "title": "ماركات بدرجة الامتياز ",
+      "items": [
+        {
+          "promotion_name": "Skechers",
+          "tag": "Skechers",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/Skechers.jpg",
+          "link": "/skechers.html?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "BEVERLY HILLS POLO CLUB",
+          "tag": "BEVERLY HILLS POLO CLUB",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/BHPC.jpg",
+          "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "NIKE",
+          "tag": "NIKE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/Nike.jpg",
+          "link": "/nike.html?q=%D9%86%D8%A7%D9%8A%D9%83%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "POLO RALPH LAUREN",
+          "tag": "POLO RALPH LAUREN",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/NEW+Polo+Ralph+Lauren.jpg",
+          "link": "/polo-ralph-lauren.html?q=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "Herschel",
+          "tag": "Herschel",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/Herschel.jpg",
+          "link": "/herschel.html?q=%D9%87%D9%8A%D8%B1%D8%B4%D9%8A%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%8A%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "Michael Kors",
+          "tag": "Michael Kors",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/MK.jpg",
+          "link": "/michael-kors.html?q=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "ASICS",
+          "tag": "ASICS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/4-8-25+NEW/light+blue/asics.jpg",
+          "link": "/asics.html?q=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "CROCS",
+          "tag": "CROCS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/Crocs.jpg",
+          "link": "/crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "JANSPORT",
+          "tag": "JANSPORT",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/Jansport.jpg",
+          "link": "/jansport.html?q=%D8%AC%D8%A7%D9%86+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AC%D8%A7%D9%86+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "CALVIN KLEIN",
+          "tag": "CALVIN KLEIN",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/Calvin+Klein.jpg",
+          "link": "/calvin-klein.html?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "TOMMY HILFIGER",
+          "tag": "TOMMY HILFIGER",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/Tommy+Hilfiger.jpg",
+          "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "promotion_name": "Puma",
+          "tag": "Puma",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/Top+Brands/Puma.jpg",
+          "link": "/puma.html?q=%D8%A8%D9%88%D9%85%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%85%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 100
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 7,
+      "promotion_name": "Kids-AR-StoreSIS-BTS-SBC",
+      "tag": "back-to-school",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "School bags ",
+          "tag": "School bags ",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/INSIDE+SBC/school+bags+ar.jpg",
+          "link": "/kids/bags/school-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 82
+        },
+        {
+          "promotion_name": "Monochrome shoes",
+          "tag": "Monochrome shoes",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/INSIDE+SBC/monochrome+shoes+en-1.jpg",
+          "link": "/catalogsearch/result/?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9776%2C9540%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9552%2C9553%2C9775%2C9774%2C9539&dFR%5Bcolorfamily%5D%5B0%5D=%D8%A3%D8%A8%D9%8A%D8%B6%2C%D8%A3%D8%B3%D9%88%D8%AF&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 82
+        },
+        {
+          "promotion_name": "Lunch Essentials",
+          "tag": "Lunch Essentials",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/INSIDE+SBC/lunch+essentials+ar.jpg",
+          "link": "/catalogsearch/result/?q=%2B&qid=6761fe85870274af3452fe1c338b4ea7&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=10125%2C10124%2C9691%2C9690&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 82
+        },
+        {
+          "promotion_name": "Stationery",
+          "tag": "Stationery",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/17-7-25+NEW/INSIDE+SBC/statioanry+ar.jpg",
+          "link": "/catalogsearch/result/?q=%2B&qid=e7b50dbd666b415a91258018b86f04e6&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9693%2C9692%2C9915%2C9689&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 82
+        },
+        {
+          "promotion_name": "Clothing",
+          "tag": "Clothing",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/29-7-25+NEW/clothing+ar.jpg",
+          "link": "/catalogsearch/result/?q=%2B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9597%2C9608%2C9595%2C9601%2C9600%2C9594%2C9596%2C9603%2C9571%2C9565%2C9570%2C9563%2C9569%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C9628%2C9631%2C9592%2C9591%2C9590%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614%2C109%2C6046%2C113%2C115%2C15852&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 82
+        },
+        {
+          "promotion_name": "Character store",
+          "tag": "Character store",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/29-7-25+NEW/sportswear+ar.jpg",
+          "link": "/collection/character-store.html?q=collection+character+store&p=0&hFR%5Bcategories.level0%5D%5B0%5D=collection+%2F%2F%2F+character+store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 82
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 8,
+      "promotion_name": "Kids-AR-StoreSIS-BTS-Lunch time SBC",
+      "tag": "kids_bags_school-bags_lunch-bags",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "Lunch Bags",
+          "tag": "Lunch Bags",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/18-7-25+NEW/bags/lunch+bag+ar.jpg",
+          "link": "/kids/bags/school-bags/lunch-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 83
+        },
+        {
+          "promotion_name": "Lunch Bag Set",
+          "tag": "Lunch Bag Set",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/18-7-25+NEW/bags/lunch+bag+sets+ar.jpg",
+          "link": "/kids/bags/school-bags/lunch-bag-set.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D9%8A%D8%A8%D8%A9+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D9%8A%D8%A8%D8%A9+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 83
+        },
+        {
+          "promotion_name": "Lunch Box",
+          "tag": "Lunch Box",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/18-7-25+NEW/supplies+NEWWW/lunch+boxes+ar.jpg",
+          "link": "/kids/kids-accessories/school-supplies/lunch-boxes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%B9%D9%84%D8%A8+%D8%BA%D8%AF%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%B9%D9%84%D8%A8+%D8%BA%D8%AF%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 83
+        },
+        {
+          "promotion_name": "Water Bottles",
+          "tag": "Water Bottles",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/18-7-25+NEW/supplies+NEWWW/water+bottles+ar.jpg",
+          "link": "/kids/kids-accessories/school-supplies/water-bottles.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D9%82%D9%88%D8%A7%D8%B1%D9%8A%D8%B1+%D9%85%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D8%B7%D9%81%D8%A7%D9%84++%2F%2F%2F+%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D9%82%D9%88%D8%A7%D8%B1%D9%8A%D8%B1+%D9%85%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 100,
+          "height": 83
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 9,
+      "promotion_name": "Kids-AR-SIS-SBC BAGS",
+      "tag": "kids_bags_school-bags",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "BACKPACKS",
+          "tag": "BACKPACKS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/Backpack%20set.jpg",
+          "link": "/kids/bags/school-bags/backpacks.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "0"
+        },
+        {
+          "promotion_name": "Trolley Backpack",
+          "tag": "Trolley Backpack",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/Trolley%20Backpack_.jpg",
+          "link": "/kids/bags/school-bags/trolley-backpack.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%AD%D9%82%D9%8A%D8%A8%D8%A9+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%AD%D9%82%D9%8A%D8%A8%D8%A9+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "1"
+        },
+        {
+          "promotion_name": "BACKPACKS SETS",
+          "tag": "BACKPACKS SETS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/BACKPACK%20set-1.jpg",
+          "link": "/kids/bags/school-bags/backpack-set.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%B8%D9%87%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%B8%D9%87%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "2"
+        },
+        {
+          "promotion_name": "Lunch Bags",
+          "tag": "Lunch Bags",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/lunch%20bags%20ar.jpg",
+          "link": "/kids/bags/school-bags/lunch-bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "3"
+        },
+        {
+          "promotion_name": "Trolley Backpack sets",
+          "tag": "Trolley Backpack sets",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/Trolley%20Backpack%20sets.jpg",
+          "link": "/kids/bags/school-bags/trolley-backpack-set.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9+%2F%2F%2F+%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "4"
+        },
+        {
+          "promotion_name": "SPORT BAGS",
+          "tag": "SPORT BAGS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/sports%20bag%20ar.jpg",
+          "link": "/kids/bags.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AC%D9%8A%D9%85&dFR%5BcategoryIds%5D%5B0%5D=10146&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "5"
+        },
+        {
+          "promotion_name": "CHARACTER BAGS",
+          "tag": "CHARACTER BAGS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/18-05-26/KIDS%20INSIDE%20SBC/AR/CHARACTER%20BAGS.jpg",
+          "link": "/character-store.html?q=character+store&p=0&hFR%5Bcategories.level0%5D%5B0%5D=character+store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1%2C%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1%2C%D8%AD%D9%82%D9%8A%D8%A8%D8%A9+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA%2C%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D8%B8%D9%87%D8%B1%2C%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1+%D8%A8%D8%B9%D8%AC%D9%84%D8%A7%D8%AA%2C%D8%B7%D9%82%D9%85+%D8%AD%D9%82%D9%8A%D8%A8%D8%A9+%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1&dFR%5BcategoryIds%5D%5B0%5D=10124%2C10122%2C10120%2C10123%2C10121%2C10125&idx=enterprise_magento_ar_om_products",
+          "width": 75,
+          "height": 60,
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 10,
+      "promotion_name": "Kids-AR-SIS-Brands FOOTWEAR",
+      "tag": "kids_footwear",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "CROCS",
+          "tag": "CROCS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20SHOES/crocs.jpg",
+          "link": "/crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "SKECHERS",
+          "tag": "SKECHERS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20SHOES/skechers.jpg",
+          "link": "/skechers.html?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "NIKE",
+          "tag": "NIKE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20SHOES/nike.jpg",
+          "link": "/nike.html?q=%D9%86%D8%A7%D9%8A%D9%83%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "MICHAEL KORS",
+          "tag": "MICHAEL KORS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20SHOES/michael%20kors.jpg",
+          "link": "/michael-kors.html?q=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "ASICS",
+          "tag": "ASICS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20SHOES/asics.jpg",
+          "link": "/asics.html?q=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "PUMA",
+          "tag": "PUMA",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/kids-NEW/28-10-25/KIDS+SHOES/puma.jpg",
+          "link": "/puma.html?q=%D8%A8%D9%88%D9%85%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%85%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "MOLEKINHA",
+          "tag": "MOLEKINHA",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20SHOES/molen.jpg",
+          "link": "/molekinha.html?q=%D9%85%D9%88%D9%84%D9%83%D9%8A%D9%86%D9%87%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%88%D9%84%D9%83%D9%8A%D9%86%D9%87%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "TOMMY HILFIGER",
+          "tag": "TOMMY HILFIGER",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/image%20(5).jpg",
+          "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "POLO RALPH LAUREN",
+          "tag": "POLO RALPH LAUREN",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20SHOES/prl.jpg",
+          "link": "/polo-ralph-lauren.html?q=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "BABIES & MORE",
+          "tag": "BABIES & MORE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20SHOES/babies%20and%20more.jpg",
+          "link": "/babies-more.html?q=%D8%A8%D9%8A%D8%A8%D9%8A%D8%B2+%D8%A2%D9%86%D8%AF+%D9%85%D9%88%D8%B1+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D8%A8%D9%8A%D8%B2+%D8%A2%D9%86%D8%AF+%D9%85%D9%88%D8%B1+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=9556%2C9557%2C9776%2C9541%2C9777%2C9548%2C6085%2C11547%2C9543%2C9544%2C9545%2C9546%2C9775%2C9774%2C9539%2C9560%2C9561%2C9559%2C9552%2C9553&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 11,
+      "promotion_name": "Kids-AR-SIS-Brands BAGS",
+      "tag": "kids_bags_school-bags",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "TOMMY HILFIGER",
+          "tag": "TOMMY HILFIGER",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20BAGS/tommy.jpg",
+          "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10067%2C10053%2C10144%2C10137%2C10140%2C10141%2C11379%2C10143%2C10134%2C10135%2C11522%2C11524%2C10146%2C10127%2C10130%2C10132%2C10129%2C10148%2C9691%2C9915%2C9689%2C10123%2C10122%2C10125%2C10124%2C10120%2C10121&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "BEVERLY HILLS POLO CLUB",
+          "tag": "BEVERLY HILLS POLO CLUB",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20BAGS/bhpc.jpg",
+          "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10067%2C10053%2C10144%2C10137%2C10140%2C10141%2C11379%2C10143%2C10134%2C10135%2C11522%2C11524%2C10146%2C10127%2C10130%2C10132%2C10129%2C10148%2C9691%2C9915%2C9689%2C10123%2C10122%2C10125%2C10124%2C10120%2C10121&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "WILDCRAFT",
+          "tag": "WILDCRAFT",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20BAGS/WILDCRAFT.jpg",
+          "link": "/catalogsearch/result/?q=%D9%88%D8%A7%D9%8A%D9%84%D8%AF%D9%83%D8%B1%D8%A7%D9%81%D8%AA&qid=64efce388484267fc6f19bb4cdc688b4&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%88%D8%A7%D9%8A%D9%84%D8%AF%D9%83%D8%B1%D8%A7%D9%81%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10144%2C10137%2C10140%2C10141%2C11379%2C10143%2C10136%2C10134%2C10135%2C11522%2C11524%2C10123%2C10122%2C10125%2C10124%2C10120%2C10121%2C10146%2C10147%2C10127%2C10132%2C10129%2C10148%2C9691%2C10077&dFR%5BcategoryIds%5D%5B0%5D=10067%2C10053%2C10144%2C10137%2C10140%2C10141%2C11379%2C10143%2C10134%2C10135%2C11522%2C11524%2C10146%2C10127%2C10130%2C10132%2C10129%2C10148%2C9691%2C9915%2C9689%2C10123%2C10122%2C10125%2C10124%2C10120%2C10121&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "HERSCHEL",
+          "tag": "HERSCHEL",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20BAGS/herschel.jpg",
+          "link": "/herschel.html?q=%D9%87%D9%8A%D8%B1%D8%B4%D9%8A%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%8A%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10067%2C10053%2C10144%2C10137%2C10140%2C10141%2C11379%2C10143%2C10134%2C10135%2C11522%2C11524%2C10146%2C10127%2C10130%2C10132%2C10129%2C10148%2C9691%2C9915%2C9689%2C10123%2C10122%2C10125%2C10124%2C10120%2C10121&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "AEROPOSTALE",
+          "tag": "AEROPOSTALE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20BAGS/aeropostale.jpg",
+          "link": "/aeropostale.html?q=+%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=+%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10067%2C10053%2C10144%2C10137%2C10140%2C10141%2C11379%2C10143%2C10134%2C10135%2C11522%2C11524%2C10146%2C10127%2C10130%2C10132%2C10129%2C10148%2C9691%2C9915%2C9689%2C10123%2C10122%2C10125%2C10124%2C10120%2C10121&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "BABIES & MORE",
+          "tag": "BABIES & MORE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/bnm.jpg",
+          "link": "/babies-more.html?q=%D8%A8%D9%8A%D8%A8%D9%8A%D8%B2+%D8%A2%D9%86%D8%AF+%D9%85%D9%88%D8%B1+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D8%A8%D9%8A%D8%B2+%D8%A2%D9%86%D8%AF+%D9%85%D9%88%D8%B1+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10067%2C10053%2C10144%2C10137%2C10140%2C10141%2C11379%2C10143%2C10134%2C10135%2C11522%2C11524%2C10146%2C10127%2C10130%2C10132%2C10129%2C10148%2C9691%2C9915%2C9689%2C10123%2C10122%2C10125%2C10124%2C10120%2C10121&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "JANSPORT",
+          "tag": "JANSPORT",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20BAGS/jansport.jpg",
+          "link": "/jansport.html?q=%D8%AC%D8%A7%D9%86+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AC%D8%A7%D9%86+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=10067%2C10053%2C10144%2C10137%2C10140%2C10141%2C11379%2C10143%2C10134%2C10135%2C11522%2C11524%2C10146%2C10127%2C10130%2C10132%2C10129%2C10148%2C9691%2C9915%2C9689%2C10123%2C10122%2C10125%2C10124%2C10120%2C10121&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 12,
+      "promotion_name": "Kids-AR-SIS-Brands CLOTHING",
+      "tag": "kids_clothing",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "BEVERLY HILLS POLO CLUB",
+          "tag": "BEVERLY HILLS POLO CLUB",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/BHPC.jpg",
+          "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "DDANIELA",
+          "tag": "DDANIELA",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/kids-NEW/28-10-25/KIDS+CLOTHING/D+daniela.jpg",
+          "link": "/ddaniela.html?q=%D8%AF%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%84%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AF%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%84%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "BABIES & MORE",
+          "tag": "BABIES & MORE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20CLOTHING/babies%20and%20more.jpg",
+          "link": "/babies-more.html?q=%D8%A8%D9%8A%D8%A8%D9%8A%D8%B2+%D8%A2%D9%86%D8%AF+%D9%85%D9%88%D8%B1+&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D8%A8%D9%8A%D8%B2+%D8%A2%D9%86%D8%AF+%D9%85%D9%88%D8%B1+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "THE CHILDREN'S PLACE",
+          "tag": "THE CHILDREN'S PLACE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20CLOTHING/children%20place.jpg",
+          "link": "/the-childrens-place.html?q=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B0%D8%A7+%D8%AA%D8%B4%D9%8A%D9%84%D8%AF%D8%B1%D9%86%D8%B2+%D8%A8%D9%84%D9%8A%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "LEVI'S",
+          "tag": "LEVI'S",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/kids-NEW/28-10-25/KIDS+CLOTHING/levis.jpg",
+          "link": "/levis.html?q=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "LC WAIKIKI",
+          "tag": "LC WAIKIKI",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/kids-NEW/28-10-25/KIDS+CLOTHING/lc+waikiki+Clo.jpg",
+          "link": "/lc-waikiki.html?q=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "HUGGIES",
+          "tag": "HUGGIES",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/kids-NEW/28-10-25/KIDS+CLOTHING/huggies.jpg",
+          "link": "/huggies.html?q=%D9%87%D8%A7%D8%AC%D9%8A%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D8%A7%D8%AC%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "TOMMY HILFIGER",
+          "tag": "TOMMY HILFIGER",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/kids-NEW/28-10-25/KIDS+CLOTHING/tommy.jpg",
+          "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "ADAMS KIDS",
+          "tag": "ADAMS KIDS",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20CLOTHING/adams%20kids.jpg",
+          "link": "/adams-kids.html?q=%D8%A7%D8%AF%D9%85%D8%B2+%D9%83%D9%8A%D8%AF%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%AF%D9%85%D8%B2+%D9%83%D9%8A%D8%AF%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "promotion_name": "AEROPOSTALE",
+          "tag": "AEROPOSTALE",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2025/kids/october/28-10-25/SIS%20BRANDS%20KIDS/KIDS%20CLOTHING/Aeropostale.jpg",
+          "link": "/aeropostale.html?q=+%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=+%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=10083%2C10047%2C10053%2C9597%2C9608%2C9595%2C9601%2C9600%2C9605%2C9594%2C9596%2C9603%2C9575%2C9574%2C9576%2C9625%2C9626%2C9627%2C9624%2C9623%2C9620%2C9618%2C9622%2C9621%2C9619%2C9638%2C9588%2C9578%2C9584%2C9579%2C9583%2C9587%2C9585%2C9633%2C9571%2C9565%2C9572%2C9570%2C9563%2C9569%2C9564%2C9568%2C9562%2C11520%2C9630%2C17268%2C18993%2C17163%2C9628%2C9631%2C9592%2C9591%2C9590%2C9643%2C9641%2C9642%2C9640%2C10403%2C9611%2C9612%2C9613%2C9617%2C9615%2C9616%2C9614&idx=enterprise_magento_ar_om_products",
+          "width": 80,
+          "height": 80
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 13,
+      "promotion_name": "Kids-AR-BrandSIS-Beverly hills polo club-Banner",
+      "tag": "beverly-hills-polo-club",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "BEVERLY HILLS POLO CLUB",
+          "tag": "BEVERLY HILLS POLO CLUB",
+          "width": 1080,
+          "height": 920,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Women/April/20-4-26/Brand%20SIS%20Banners/Top%20Brand%20Banner%20with%20text%20kids/BHPC%20en-1.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 14,
+      "promotion_name": "Kids-AR-BrandSIS-Crocs-Banner",
+      "tag": "crocs",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "CROCS",
+          "tag": "CROCS",
+          "width": 1080,
+          "height": 920,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Men/MAY/06-05-26/Birkenstock%20and%20Crocs%20CTA%20to%20store/crocs/Crocs%20en%20k-1.jpg",
+          "link": "/page/crocs-store"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 15,
+      "promotion_name": "Kids-AR-BrandSIS-Hoka-Banner",
+      "tag": "hoka",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "HOKA",
+          "tag": "HOKA",
+          "width": 1080,
+          "height": 920,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Women/April/20-4-26/Brand%20SIS%20Banners/Top%20Brand%20Banner%20with%20text%20kids/HOKA%20en-1.jpg",
+          "link": "/catalogsearch/result/?q=%D9%87%D9%88%D9%83%D8%A7&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D9%88%D9%83%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 16,
+      "promotion_name": "Kids-AR-BrandSIS-Lc Waikiki-Banner",
+      "tag": "lc-waikiki",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "LC WAIKIKI",
+          "tag": "LC WAIKIKI",
+          "width": 1080,
+          "height": 920,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Women/April/20-4-26/Brand%20SIS%20Banners/Top%20Brand%20Banner%20with%20text%20kids/LCW%20en-1.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 17,
+      "promotion_name": "Kids-AR-BrandSIS-Skechers-Banner",
+      "tag": "skechers",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "SKECHERS",
+          "tag": "SKECHERS",
+          "width": 1080,
+          "height": 920,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Women/April/20-4-26/Brand%20SIS%20Banners/Top%20Brand%20Banner%20with%20text%20kids/Skechers%20en-1.jpg",
+          "link": "/catalogsearch/result/?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 18,
+      "promotion_name": "Kids-AR-BrandSIS-Tommy hilfiger-Banner",
+      "tag": "tommy-hilfiger",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "TOMMY HILFIGER",
+          "tag": "TOMMY HILFIGER",
+          "width": 1080,
+          "height": 920,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Women/April/20-4-26/Brand%20SIS%20Banners/Top%20Brand%20Banner%20with%20text%20kids/TH%20en-1.jpg",
+          "link": "/catalogsearch/result/?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 19,
+      "promotion_name": "Kids-AR-BrandSIS-Asics-Banner",
+      "tag": "asics",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "asics",
+          "tag": "asics",
+          "width": 1080,
+          "height": 920,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Merch-Women/05-05-2026/Asics+brand+banner+with+CTA/Asics+ar+kids-1.jpg",
+          "link": "/page/asics-store"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 20,
+      "promotion_name": "Kids-AR-BrandSIS-birkenstock-Banner",
+      "tag": "birkenstock",
+      "background_color": "#ffffff",
+      "items": [
+        {
+          "promotion_name": "birkenstock",
+          "tag": "birkenstock",
+          "width": 1080,
+          "height": 920,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Kids/May/7-5-26/Birkenstock%20and%20Crocs%20CTA%20to%20store/Birkenstock%20and%20Crocs%20CTA%20to%20store/b%20en%20k-1.jpg",
+          "link": "/page/birkenstock-store"
+        }
+      ]
+    }
+  ]
+}

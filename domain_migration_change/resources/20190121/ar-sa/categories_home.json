@@ -1,0 +1,395 @@
+{
+  "data": [
+    {
+      "key": "shoes",
+      "label": "أحذية",
+      "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%A8%D9%88%D8%A7%D8%AA%2C%D8%A7%D8%AD%D8%B0%D9%8A%D8%A9+%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%8A%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D9%83%D8%A7%D8%AD%D9%84%2C%D8%A8%D9%88%D8%AA+%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%8A%2C%D8%A8%D9%88%D8%AA+%D9%84%D9%85%D9%86%D8%AA%D8%B5%D9%81+%D8%A7%D9%84%D8%B3%D8%A7%D9%82%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9+%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9%2C%D8%AA%D9%86%D8%B3%2C%D9%83%D9%88%D8%B1%D8%A9+%D8%B3%D9%84%D8%A9-%D8%A7%D9%8A%D8%B1%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D8%B1%D8%A9+%D8%B3%D9%84%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%86%D9%8A%D9%83%D8%B1%D8%B2%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%82%D8%B5%D9%8A%D8%B1%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9%2C%D8%A3%D8%B9%D9%85%D8%A7%D9%84+%D9%85%D8%B5%D9%85%D9%85%D9%8A%D9%86%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%84%D9%84%D8%A3%D9%86%D8%B4%D8%B7%D8%A9+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D8%B3%D9%84%D9%8A%D8%A8+%D8%A3%D9%88%D9%86+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D9%84%D9%88%D9%81%D8%B1%D8%B2+%D9%88%D9%85%D9%88%D9%83%D8%A7%D8%B3%D9%8A%D9%86%2C%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8%2C%D8%B5%D9%86%D8%AF%D9%84%2C%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8%2C%D9%83%D9%84%D9%88%D8%BA%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%A7%D9%84%D9%85%D8%B3%D8%B7%D8%AD%D8%A9%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%B9%D8%A8+%D8%B3%D9%85%D9%8A%D9%83%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%B9%D8%A8+%D8%B9%D8%A7%D9%84%D9%8A%2C%D9%83%D8%B9%D8%A8+%D9%82%D8%B5%D9%8A%D8%B1%2C%D9%83%D8%B9%D8%A8+%D9%85%D8%B1%D8%A8%D8%B9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%2CCasual+Slip-ons%2CLace+Up%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A5%D8%B3%D8%A8%D8%A7%D8%AF%D8%B1%D9%8A%D9%84%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D9%8A%D8%B1%D9%8A%D9%86%D8%A7%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D9%83%D8%B9%D8%A8%2C%D9%84%D9%88%D9%81%D8%B1%D8%B2+%D9%88%D9%85%D9%88%D9%83%D8%A7%D8%B3%D9%8A%D9%86%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%82%D8%B5%D9%8A%D8%B1%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%BA%D9%8A%D8%B1+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%2C%D8%AD%D8%B0%D8%A7%D8%A1+%D8%A8%D8%AF%D9%88%D9%86+%D8%B1%D8%A8%D8%A7%D8%B7&dFR%5BcategoryIds%5D%5B0%5D=6%2C15779%2C15789%2C15792%2C15790%2C6451%2C10306%2C10286%2C10285%2C10308%2C96%2C10278%2C10276%2C10277%2C15785%2C10303%2C10305%2C10304%2C6218%2C15783%2C6450%2C24%2C10295%2C10292%2C15807%2C23%2C15769%2C15793%2C15774%2C6447%2C6448%2C15524%2C15794%2C6165%2C16432%2C16338%2C15788%2C15786%2C15892%2C6446%2C25%2C1753%2C10301%2C10297%2C10299%2C15525%2C15526&idx=enterprise_magento_ar_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/Shoes.jpg",
+          "description": "خطوات أنيقة أينما ذهبت",
+          "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%A8%D9%88%D8%A7%D8%AA%2C%D8%A7%D8%AD%D8%B0%D9%8A%D8%A9+%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%8A%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D9%83%D8%A7%D8%AD%D9%84%2C%D8%A8%D9%88%D8%AA+%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%8A%2C%D8%A8%D9%88%D8%AA+%D9%84%D9%85%D9%86%D8%AA%D8%B5%D9%81+%D8%A7%D9%84%D8%B3%D8%A7%D9%82%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9+%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9%2C%D8%AA%D9%86%D8%B3%2C%D9%83%D9%88%D8%B1%D8%A9+%D8%B3%D9%84%D8%A9-%D8%A7%D9%8A%D8%B1%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D8%B1%D8%A9+%D8%B3%D9%84%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%86%D9%8A%D9%83%D8%B1%D8%B2%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%82%D8%B5%D9%8A%D8%B1%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9%2C%D8%A3%D8%B9%D9%85%D8%A7%D9%84+%D9%85%D8%B5%D9%85%D9%85%D9%8A%D9%86%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%84%D9%84%D8%A3%D9%86%D8%B4%D8%B7%D8%A9+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D8%B3%D9%84%D9%8A%D8%A8+%D8%A3%D9%88%D9%86+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D9%84%D9%88%D9%81%D8%B1%D8%B2+%D9%88%D9%85%D9%88%D9%83%D8%A7%D8%B3%D9%8A%D9%86%2C%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8%2C%D8%B5%D9%86%D8%AF%D9%84%2C%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8%2C%D9%83%D9%84%D9%88%D8%BA%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%A7%D9%84%D9%85%D8%B3%D8%B7%D8%AD%D8%A9%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%B9%D8%A8+%D8%B3%D9%85%D9%8A%D9%83%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%B9%D8%A8+%D8%B9%D8%A7%D9%84%D9%8A%2C%D9%83%D8%B9%D8%A8+%D9%82%D8%B5%D9%8A%D8%B1%2C%D9%83%D8%B9%D8%A8+%D9%85%D8%B1%D8%A8%D8%B9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%2CCasual+Slip-ons%2CLace+Up%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A5%D8%B3%D8%A8%D8%A7%D8%AF%D8%B1%D9%8A%D9%84%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D9%8A%D8%B1%D9%8A%D9%86%D8%A7%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D9%83%D8%B9%D8%A8%2C%D9%84%D9%88%D9%81%D8%B1%D8%B2+%D9%88%D9%85%D9%88%D9%83%D8%A7%D8%B3%D9%8A%D9%86%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%82%D8%B5%D9%8A%D8%B1%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%BA%D9%8A%D8%B1+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%2C%D8%AD%D8%B0%D8%A7%D8%A1+%D8%A8%D8%AF%D9%88%D9%86+%D8%B1%D8%A8%D8%A7%D8%B7&dFR%5BcategoryIds%5D%5B0%5D=6%2C15779%2C15789%2C15792%2C15790%2C6451%2C10306%2C10286%2C10285%2C10308%2C96%2C10278%2C10276%2C10277%2C15785%2C10303%2C10305%2C10304%2C6218%2C15783%2C6450%2C24%2C10295%2C10292%2C15807%2C23%2C15769%2C15793%2C15774%2C6447%2C6448%2C15524%2C15794%2C6165%2C16432%2C16338%2C15788%2C15786%2C15892%2C6446%2C25%2C1753%2C10301%2C10297%2C10299%2C15525%2C15526&idx=enterprise_magento_ar_sa_products"
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/birkenstock.jpg",
+              "label": "بيركنستوك",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D8%B1%D9%83%D9%86%D8%B3%D8%AA%D9%88%D9%83&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Birkenstock"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Women/Missing-logos/Dkny.jpg",
+              "label": "دكني",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%83%D9%86%D9%8A&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Dkny"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "جيس",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D9%8A%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "هوغو",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%88%D8%BA%D9%88&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Hugo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lacoste.jpg",
+              "label": "لاكوست",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/loci.jpg",
+              "label": "لوكي",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%88%D9%83%D9%8A&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Loci"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Michael+Kors.jpg",
+              "label": "مايكل كورس",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/Boss+(1).jpg",
+              "label": "بوس",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Boss"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/28-06-2022-Kids/logo-shamanth/ONRUNNING.jpg",
+              "label": "اون",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%88%D9%86&idx=enterprise_magento_ar_sa_products",
+              "itemName": "On"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/P+Logos/Polo+Ralph+Lauren.jpg",
+              "label": "بولو رالف لورين",
+              "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=a3ed1a59fc9eaad77f4017d744456c61&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D9%84%D9%88+%D8%B1%D8%A7%D9%84%D9%81+%D9%84%D9%88%D8%B1%D9%8A%D9%86&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Polo Ralph Lauren"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%A8%D9%88%D8%A7%D8%AA%2C%D8%A7%D8%AD%D8%B0%D9%8A%D8%A9+%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%8A%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D9%83%D8%A7%D8%AD%D9%84%2C%D8%A8%D9%88%D8%AA+%D8%AA%D8%B4%D9%8A%D9%84%D8%B3%D9%8A%2C%D8%A8%D9%88%D8%AA+%D9%84%D9%85%D9%86%D8%AA%D8%B5%D9%81+%D8%A7%D9%84%D8%B3%D8%A7%D9%82%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9+%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9%2C%D8%AA%D9%86%D8%B3%2C%D9%83%D9%88%D8%B1%D8%A9+%D8%B3%D9%84%D8%A9-%D8%A7%D9%8A%D8%B1%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D8%B1%D8%A9+%D8%B3%D9%84%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B3%D9%86%D9%8A%D9%83%D8%B1%D8%B2%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%82%D8%B5%D9%8A%D8%B1%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9%2C%D8%A3%D8%B9%D9%85%D8%A7%D9%84+%D9%85%D8%B5%D9%85%D9%85%D9%8A%D9%86%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%84%D9%84%D8%A3%D9%86%D8%B4%D8%B7%D8%A9+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D8%B3%D9%84%D9%8A%D8%A8+%D8%A3%D9%88%D9%86+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D9%84%D9%88%D9%81%D8%B1%D8%B2+%D9%88%D9%85%D9%88%D9%83%D8%A7%D8%B3%D9%8A%D9%86%2C%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8%2C%D8%B5%D9%86%D8%AF%D9%84%2C%D9%81%D9%84%D9%8A%D8%A8+%D9%81%D9%84%D9%88%D8%A8%2C%D9%83%D9%84%D9%88%D8%BA%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%A7%D8%AC%D9%88%D8%A7%D9%84%2C%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%A7%D9%84%D9%85%D8%B3%D8%B7%D8%AD%D8%A9%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%B9%D8%A8+%D8%B3%D9%85%D9%8A%D9%83%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84+%D9%83%D8%B9%D8%A8+%D8%B9%D8%A7%D9%84%D9%8A%2C%D9%83%D8%B9%D8%A8+%D9%82%D8%B5%D9%8A%D8%B1%2C%D9%83%D8%B9%D8%A8+%D9%85%D8%B1%D8%A8%D8%B9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%2CCasual+Slip-ons%2CLace+Up%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A5%D8%B3%D8%A8%D8%A7%D8%AF%D8%B1%D9%8A%D9%84%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D9%8A%D8%B1%D9%8A%D9%86%D8%A7%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D9%83%D8%B9%D8%A8%2C%D9%84%D9%88%D9%81%D8%B1%D8%B2+%D9%88%D9%85%D9%88%D9%83%D8%A7%D8%B3%D9%8A%D9%86%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%82%D8%B5%D9%8A%D8%B1%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D8%B1%D9%82%D8%A8%D8%A9+%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%BA%D9%8A%D8%B1+%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%2C%D8%AD%D8%B0%D8%A7%D8%A1+%D8%A8%D8%AF%D9%88%D9%86+%D8%B1%D8%A8%D8%A7%D8%B7&dFR%5BcategoryIds%5D%5B0%5D=6%2C15779%2C15789%2C15792%2C15790%2C6451%2C10306%2C10286%2C10285%2C10308%2C96%2C10278%2C10276%2C10277%2C15785%2C10303%2C10305%2C10304%2C6218%2C15783%2C6450%2C24%2C10295%2C10292%2C15807%2C23%2C15769%2C15793%2C15774%2C6447%2C6448%2C15524%2C15794%2C6165%2C16432%2C16338%2C15788%2C15786%2C15892%2C6446%2C25%2C1753%2C10301%2C10297%2C10299%2C15525%2C15526&idx=enterprise_magento_ar_sa_products",
+            "plp_title": "تسوق حسب الماركة"
+          }
+        }
+      ]
+    },
+    {
+      "key": "bags",
+      "label": "حقائب",
+      "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=170234d86597ff634dd7d6c8448de0aa&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/Bags.jpg",
+          "description": "حقائب تتربع على عرش الموضة",
+          "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=170234d86597ff634dd7d6c8448de0aa&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products"
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "جيس",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D9%8A%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/coach.jpg",
+              "label": "كوتش",
+              "link": "/catalogsearch/result/?q=%D9%83%D9%88%D8%AA%D8%B4&qid=ca8226f4f111ffc6dd22004e0e036476&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D9%8A%D8%AF%2C%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A7%D9%84%D9%83%D8%AA%D9%81%2C%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D9%8A%D8%AF%2C%D9%83%D8%B1%D9%88%D8%B3%2C%D9%85%D8%AD%D8%A7%D9%81%D8%B8%2C%D8%AD%D8%A7%D9%85%D9%84+%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA%2C%D9%85%D8%AD%D8%A7%D9%81%D8%B8&dFR%5BcategoryIds%5D%5B0%5D=5871%2C10697%2C16410%2C10700%2C6321%2C10721%2C16053&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Coach"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Women/Missing-logos/Dkny.jpg",
+              "label": "دكني",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%83%D9%86%D9%8A&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Dkny"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/Love+Moschino+1.jpg",
+              "label": "لوف موسكينو ",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%88%D9%81+%D9%85%D9%88%D8%B3%D9%83%D9%8A%D9%86%D9%88%C2%A0&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Love Moschino"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/M+Logos/Michael+Kors.jpg",
+              "label": "مايكل كورس",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%85%D8%A7%D9%8A%D9%83%D9%84+%D9%83%D9%88%D8%B1%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "هوغو",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%88%D8%BA%D9%88&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Hugo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/Karen+Millen.jpg",
+              "label": "كارن ميلين",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D8%B1%D9%86+%D9%85%D9%8A%D9%84%D9%8A%D9%86&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Karen Millen"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/karl_lagerfeld.jpg",
+              "label": "كارل لاغرفيلد",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D8%B1%D9%84+%D9%84%D8%A7%D8%BA%D8%B1%D9%81%D9%8A%D9%84%D8%AF&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Karl Lagerfeld"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/catalogsearch/result/?q=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=eac2e2095c3f3cb2e3f8d93b716c0517&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Calvin Klein"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&qid=170234d86597ff634dd7d6c8448de0aa&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products",
+            "plp_title": "تسوق حسب الماركة"
+          }
+        }
+      ]
+    },
+    {
+      "key": "clothing",
+      "label": "ملابس",
+      "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=fa12440c4b0e781e8de9a9f882cae5a6&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/Clothing.jpg",
+          "description": "أحدث صيحات الأزياء",
+          "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=fa12440c4b0e781e8de9a9f882cae5a6&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products"
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/28-02-2024/Forever+New+2.jpg",
+              "label": "فوريفر نيو",
+              "link": "/catalogsearch/result/?q=%D9%81%D9%88%D8%B1%D9%8A%D9%81%D8%B1+%D9%86%D9%8A%D9%88&qid=bd685d98ca3d71a8fd3f5f673e34c68c&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%81%D9%88%D8%B1%D9%8A%D9%81%D8%B1+%D9%86%D9%8A%D9%88&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Forever New"
+            },
+            {
+              "image_url": "-",
+              "label": "باربور",
+              "link": "/barbour.html?q=%D8%A8%D8%A7%D8%B1%D8%A8%D9%88%D8%B1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D8%A7%D8%B1%D8%A8%D9%88%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products",
+              "promotion_name": "باربور",
+              "itemName": "BARBOUR"
+            },
+            {
+              "image_url": "-",
+              "label": "بوهو مان",
+              "link": "/boohooman.html?q=boohooMAN&p=0&hFR%5Bcategories.level0%5D%5B0%5D=boohooMAN&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D9%87%D9%88+%D9%85%D8%A7%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bsort%5D%5B0%5D=latest&idx=enterprise_magento_ar_sa_products",
+              "promotion_name": "بوهو مان",
+              "itemName": "BOOHOOMAN"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/GANT+(1).jpg",
+              "label": "جانت",
+              "link": "/catalogsearch/result/?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=7134d3d71e1a2ac35c55cd73026a516f&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D8%A7%D9%86%D8%AA&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Gant"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "هوغو",
+              "link": "/catalogsearch/result/?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=7134d3d71e1a2ac35c55cd73026a516f&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%88%D8%BA%D9%88&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Hugo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lacoste.jpg",
+              "label": "لاكوست",
+              "link": "/catalogsearch/result/?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=7134d3d71e1a2ac35c55cd73026a516f&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/catalogsearch/result/?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=7134d3d71e1a2ac35c55cd73026a516f&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/catalogsearch/result/?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=7134d3d71e1a2ac35c55cd73026a516f&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-05-2023-Men/Logo+1/Boss+(1).jpg",
+              "label": "بوس",
+              "link": "/catalogsearch/result/?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=7134d3d71e1a2ac35c55cd73026a516f&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Boss"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&qid=fa12440c4b0e781e8de9a9f882cae5a6&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products",
+            "plp_title": "تسوق حسب الماركة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "accessories",
+      "label": "إكسسوارات",
+      "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=a6d5e38693755cb8e35060bf40c8df6c&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/ACC_.jpg",
+          "description": "لمسات أنيقة لإطلالتك",
+          "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=a6d5e38693755cb8e35060bf40c8df6c&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products"
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/catalogsearch/result/?q=+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=25fc17d4ca4f34d51554e656e1ce6060&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/coach.jpg",
+              "label": "كوتش",
+              "link": "/catalogsearch/result/?q=%D9%83%D9%88%D8%B4&qid=582998efa567caa1454b65a1298ba120&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D9%88%D8%B4&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA&dFR%5BcategoryIds%5D%5B0%5D=60&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Coach"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "جيس",
+              "link": "/catalogsearch/result/?q=+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=25fc17d4ca4f34d51554e656e1ce6060&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D9%8A%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/Hugo+Boss.jpg",
+              "label": "هوغو بوس",
+              "link": "/catalogsearch/result/?q=+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=25fc17d4ca4f34d51554e656e1ce6060&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%88%D8%BA%D9%88+%D8%A8%D9%88%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Hugo Boss"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/lacoste.jpg",
+              "label": "لاكوست",
+              "link": "/catalogsearch/result/?q=+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=25fc17d4ca4f34d51554e656e1ce6060&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/22-05-2023-Men/Marc+jacobs.jpg",
+              "label": "مارك جاكوبس",
+              "link": "/catalogsearch/result/?q=+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=25fc17d4ca4f34d51554e656e1ce6060&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%85%D8%A7%D8%B1%D9%83+%D8%AC%D8%A7%D9%83%D9%88%D8%A8%D8%B3&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Marc Jacobs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/catalogsearch/result/?q=+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=25fc17d4ca4f34d51554e656e1ce6060&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Tommy Hilfiger"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85+%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&qid=a6d5e38693755cb8e35060bf40c8df6c&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_sa_products",
+            "plp_title": "تسوق حسب الماركة"
+          }
+        }
+      ]
+    },
+    {
+      "key": "OUTLET",
+      "label": "أوتلت",
+      "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_sa_products",
+      "design": {
+        "background_color": "#d12229",
+        "text_color": "#d12229"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/27-11-2023/premium-mega-menu/SALE.jpg",
+          "description": "عروض خيالية وأسعار عالميزانية",
+          "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_sa_products"
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/tommy_hilfiger.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/catalogsearch/result/?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&qid=821a581d756c32a80e19a8d9f9f0715c&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1+%D9%83%D9%8A%D8%AF%D8%B2&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/ck.jpg",
+              "label": "كالفين كلاين",
+              "link": "/catalogsearch/result/?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&qid=8198ceb5190df965ac39db5dcc410030&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86+%D8%AC%D9%8A%D9%86%D8%B2%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://media.6media.me/media/catalog/category/hugo_logo.jpg",
+              "label": "هوغو",
+              "link": "/catalogsearch/result/?q=%D9%87%D9%88%D8%BA%D9%88&qid=89d785490e4d5ec23d6e1dc82e08f596&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%88%D8%B3%2C%D9%87%D9%88%D8%BA%D9%88%2C%D9%87%D9%88%D8%BA%D9%88+%D8%A8%D9%88%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Hugo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/guess.jpg",
+              "label": "جيس",
+              "link": "/catalogsearch/result/?q=%D8%AC%D9%8A%D8%B3&qid=325508b14595eeda545e77d5a589ba67&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D9%8A%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_sa_products",
+              "itemName": "Guess"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85&p=0&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_sa_products",
+            "plp_title": "تسوق حسب الماركة"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

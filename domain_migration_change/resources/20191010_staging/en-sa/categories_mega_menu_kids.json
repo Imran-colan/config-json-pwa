@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "key": "Menu",
+      "label": "Mega Menu",
+      "link": "/kids.html?idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/image_management_tool/2026/Kids/April/1-4-26/mega%20menu%20%20(2)/mega%20menu_/W-EN%20copy%202.jpg",
+          "description": "BAU",
+          "link": "/catalogsearch/result/?q=%2B&qid=3a4f1554bf54d2ae73c6eb95fbee0cd3&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_en_sa_products",
+          "promotion_name": "Mega-Menu-Banner-Kids-EN-BAU",
+          "button_label": "Kids"
+        },
+        {
+          "type": "slider",
+          "title": "Slider",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/29-8-25+NEW/mega+menu+kids/new_en.jpg",
+              "label": "",
+              "link": "/catalogsearch/result/?q=%2B&qid=d5314c951d57ee3cb44b069c7bcb20e1&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&facetFilters=%5B%22promotion_tags.top%3ANEW+IN%22%5D&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Slider-Kids-En-New-In",
+              "itemName": "New In"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/29-8-25+NEW/mega+menu+kids/delivered_en.jpg",
+              "label": " ",
+              "link": "/catalogsearch/result/?q=&qid=4857feed80c6be0dae7bfe2bc4ecd899&p=0&dFR%5Bexpress_delivery_home%5D%5B0%5D=Today+Delivery%2CTomorrow+Delivery&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Slider-Kids-EN-Express Delivery",
+              "itemName": "Express Delivery"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Khadeer-61159/29-8-25+NEW/mega+menu+kids/bestseller_en.jpg",
+              "label": "",
+              "link": "/catalogsearch/result/?q=%2B&qid=310068426bfe2308ef75bf45ff6aa24d&p=0&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&dFR%5Bin_stock%5D%5B0%5D=1&facetFilters=%5B%22promotion_tags.top%3ABESTSELLER%22%5D&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Slider-Kids-En-Best-Seller",
+              "itemName": "Trending"
+            }
+          ]
+        }
+      ],
+      "promotion_name": ""
+    },
+    {
+      "key": "Brand",
+      "label": "Mega Menu Brand",
+      "link": "/shop-by-brands?idx=enterprise_magento_en_sa_products",
+      "design": {
+        "background_color": "#000000",
+        "text_color": "#000000"
+      },
+      "data": [
+        {
+          "type": "grid",
+          "title": "Shop by brands",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Supraja%2Bcreatives/29-7-25/Shop+by+brand/R%26b+1.jpg",
+              "label": "R&B",
+              "link": "/r-b.html?q=R%26B&p=0&hFR%5Bcategories.level0%5D%5B0%5D=R%26B&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Brands-Kids-En-R&B",
+              "itemName": "R&B"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Supraja%2Bcreatives/29-7-25/Shop+by+brand/skechers.jpg",
+              "label": "Skechers",
+              "link": "/skechers.html?q=Skechers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Skechers&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Brands-Kids-En-Skechers",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Supraja%2Bcreatives/29-7-25/Shop+by+brand/bhpc.jpg",
+              "label": "Beverly Hills Polo Club",
+              "link": "/beverly-hills-polo-club.html?q=Beverly+Hills+Polo+Club&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beverly+Hills+Polo+Club&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Brands-Kids-En-Beverly Hills Polo Club",
+              "itemName": "Beverly Hills Polo Club"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Supraja%2Bcreatives/29-7-25/Shop+by+brand/ADIDAS.jpg",
+              "label": "Adidas",
+              "link": "/adidas.html?q=Adidas&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Adidas&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Brands-Kids-En-Adidas",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Supraja%2Bcreatives/29-7-25/Shop+by+brand/MK.jpg",
+              "label": "Michael Kors",
+              "link": "/michael-kors.html?q=Michael+Kors&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Michael+Kors&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Brands-Kids-En-Michael Kors",
+              "itemName": "Michael Kors"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Supraja%2Bcreatives/29-7-25/Shop+by+brand/prl.jpg",
+              "label": "Polo Ralph Lauren",
+              "link": "/polo-ralph-lauren.html?q=Polo+Ralph+Lauren&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Polo+Ralph+Lauren&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Brands-Kids-En-Polo Ralph Lauren",
+              "itemName": "Polo Ralph Lauren"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Supraja%2Bcreatives/29-7-25/Shop+by+brand/puma+2.jpg",
+              "label": "Puma",
+              "link": "/puma.html?q=Puma&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Puma&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Brands-Kids-En-Puma",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Supraja%2Bcreatives/29-7-25/Shop+by+brand/nike.jpg",
+              "label": "Nike",
+              "link": "/nike.html?q=Nike&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Nike&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Boy%2CGirl&idx=enterprise_magento_en_sa_products",
+              "promotion_name": "Mega-Menu-Brands-Kids-En-Nike",
+              "itemName": "Nike"
+            }
+          ],
+          "button": {
+            "link": "/shop-by-brands?idx=enterprise_magento_en_sa_products",
+            "plp_title": "Shop by brands"
+          }
+        }
+      ],
+      "promotion_name": ""
+    }
+  ]
+}

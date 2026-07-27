@@ -1,0 +1,86 @@
+{
+  "more_filter": [
+    "fit",
+    "sleeve_length",
+    "sleeve_type",
+    "material",
+    "neck_line",
+    "collar_type",
+    "occasion",
+    "pattern",
+    "dress_length",
+    "skirt_length",
+    "leg_length",
+    "design_details",
+    "denim_wash",
+    "trend",
+    "padded",
+    "wired"
+  ],
+  "more_filter_traslation": {
+    "fit": {
+      "en": "Fit",
+      "ar": "القياس"
+    },
+    "sleeve_length": {
+      "en": "SLV",
+      "ar": "طول الأكمام"
+    },
+    "sleeve_type": {
+      "en": "Sleeve Type",
+      "ar": "نوع الأكمام"
+    },
+    "material": {
+      "en": "material ",
+      "ar": "الخامات"
+    },
+    "neck_line": {
+      "en": "Neck Line",
+      "ar": "شكل الياقة"
+    },
+    "collar_type": {
+      "en": "Coller Type",
+      "ar": "نوع الياقة"
+    },
+    "occasion": {
+      "en": "Occasion",
+      "ar": "المناسبة"
+    },
+    "pattern": {
+      "en": "Pattern",
+      "ar": " النقشة"
+    },
+    "dress_length": {
+      "en": "Dress Length",
+      "ar": "طول الفستان"
+    },
+    "skirt_length": {
+      "en": "Skirt Length",
+      "ar": "طول التنورة"
+    },
+    "leg_length": {
+      "en": "foot length",
+      "ar": "طول الساق"
+    },
+    "design_details": {
+      "en": "Design Details",
+      "ar": " تفاصيل التصميم"
+    },
+    "denim_wash": {
+      "en": "Denim Wash",
+      "ar": ""
+    },
+    "trend": {
+      "en": "Trend",
+      "ar": ""
+    },
+    "padded": {
+      "en": "Padded",
+      "ar": "التبطين"
+    },
+    "wired": {
+      "en": "Wired",
+      "ar": "بأسلاك"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+    "widgets": [
+        {
+            "type": "recent_searches"
+        },
+		{
+			"type": "recently_viewed_slider",
+			"header": {
+			"title": "ITEMS YOU HAVE VIEWED"
+		},
+			"id": 1,
+			"separator": true
+		},
+        {
+            "type": "circleItemSlider",
+            "items": [
+            {
+                "label": "Dune London",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/D+logo/Dune.jpg",
+                "link": "/catalogsearch/result/?q=Dune+London&qid=e3f9cfafcc2cb21a4b25e87de02fcb3b&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Dune+London&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Aldo",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/aldo.jpg",
+                "link": "/catalogsearch/result/?q=ALDO&qid=7cf8d7f46a02b5d515ac3b46cbba23ed&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Aldo%2CAldo+Accessories&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Charles & Keith",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/charles+%26+keith.jpg",
+                "link": "/catalogsearch/result/?q=Charles+%26+Keith&qid=219f4dd94222858326681ce15eae0404&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Charles+%26+Keith&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Skechers",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/S/Skechers.jpg",
+                "link": "/catalogsearch/result/?q=SKECHERS&qid=6d742ce0118a1187a18e68b841ba772b&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Skechers&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Nine West",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Nine+West.jpg",
+                "link": "/catalogsearch/result/?q=Nine+West&qid=316a991adcae564559b835f9d5064692&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Nine+West&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Beverly Hills Polo Club",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/b/bhpc.jpg",
+                "link": "/catalogsearch/result/?q=Beverly+Hills+Polo+Club&qid=446fdad7477a8971fcbae9c7427327f5&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Beverly+Hills+Polo+Club&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Trendyol",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/T/Trendyol.jpg",
+                "link": "/catalogsearch/result/?q=Trendyol&qid=ff6075cd1794ec49dfb6adeb568d9056&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "CCC",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/CCC2020_shoes%26bags.jpg",
+                "link": "/catalogsearch/result/?q=CCC&qid=ea0c0a24427ce3218e2ce00004bba025&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Naturalizer",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/N+Logos/Naturalizer.jpg",
+                "link": "/catalogsearch/result/?q=Naturalizer&qid=634a82681b8e55987b2f639b0c174f14&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Naturalizer&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Vincci",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/V/VINCCI.jpg",
+                "link": "/catalogsearch/result/?q=Vincci&qid=82d3e00c096eced2ec0c78a9eb4ce3d2&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=VINCCI&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Call it Spring",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/call+it+spring.jpg",
+                "link": "/catalogsearch/result/?q=Call+it+Spring&qid=68e51a2fb0013418c1a65d0887200c65&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Call+it+Spring&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Adidas",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/0-3+KWD/Adidas.jpg",
+                "link": "/catalogsearch/result/?q=ADIDAS&qid=bad336c6497163c52421ce2d6675149c&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Adidas%2CAdidas+Originals%2CAdidas+Originals%2CAdidas+Sport&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Ardene",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/ardene.jpg",
+                "link": "/catalogsearch/result/?q=Ardene&qid=27d8bdcf2b92488a4ecb4672c49ce620&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Ardene&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Crocs",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/c/crocs.jpg",
+                "link": "/catalogsearch/result/?q=Crocs&qid=33b346f20fa5b0c11b6a4a5da937d0c5&p=0&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bin_stock%5D%5B0%5D=1"
+            },
+            {
+                "label": "Aeropostale",
+                "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/14-07-2022-Logos/Brand+logo+-+Final+Bucket/a/aeropostale.jpg",
+                "link": "/catalogsearch/result/?q=aeropostale&qid=c228aac7118e9c6a66de5f826c59a672&p=0&dFR%5Bbrand_name%5D%5B0%5D=Aeropostale&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1"
+            }],
+            "layout":
+            {
+                "title": "Trending brands"
+            }
+        },
+        {
+            "type": "grid",
+            "background_color": "#000000",
+            "items_per_row": 4,
+            "item_height": 240,
+            "header":
+            {
+                "title": "Explore More"
+            },
+            "items": [
+            {
+               
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Statement-shoes.jpg",
+                 "link": "/womenfashionfootwear.html?q=WomenFashionFootwear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=WomenFashionFootwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women"
+            },
+            {
+                "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Comfort_.jpg",
+                 "link": "/women/shoes/comfort-shoes.html?q=Women+Shoes+Comfort&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Comfort&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women"
+            },
+            {
+               "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Handbag+Store.jpg",
+                 "link": "/category-117.html?q=category+117&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=category+117&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women"
+            },
+            {
+               "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/clothing.jpg",
+                 "link": "/clothing-store.html?q=clothing-store&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=clothing-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1"
+            }],
+            "image_size":
+            {
+                "height": 669,
+                "width": 500
+            }
+        },
+		{
+      "category": "All",
+      "index": 10,
+      "limit": 20,
+      "type": "new_influencer_slider"
+    },
+        {
+            "category":"All",
+            "index": 10,
+            "limit": 20,
+            "promotion_name": "Women-EN",
+            "tag": "Super Star Slider",
+            "title": "Trending Super Stars",
+            "type":"influencer_slider",
+            "uuid": "influencer_slider_d2f9d2e0-5322-46dc-9d69-f9e1f95766c6"
+        },
+		{
+      "type": "vue_recently_viewed_slider",
+      "header": { "title": "ITEMS YOU HAVE VIEWED" },
+      "id": 1,
+      "separator": true
+    },
+        {
+            "type": "vue_browsing_history_slider",
+            "query":
+            {
+                "filters": [
+                {
+                    "field": "gender",
+                    "value": "women",
+                    "type": "exact"
+                }]
+            },
+            "layout":
+            {
+                "title": "Recommended For You"
+            }
+        },
+        {
+            "type": "brand_results_slider",
+            "limit": 20,
+            "layout":
+            {
+                "title": "Results by brand"
+            }
+        },
+        {
+            "type": "product_results_slider",
+            "layout":
+            {
+                "title": "Products"
+            }
+        },
+        {
+            "type": "wishlist"
+        }
+    ]
+}

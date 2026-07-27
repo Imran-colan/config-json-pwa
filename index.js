@@ -14,6 +14,9 @@ const LOCALES = ['en-ae', 'ar-ae', 'en-sa', 'ar-sa', 'en-kw', 'ar-kw', 'en-om', 
 const DEVICE_TYPES = ['m', 'd'];
 const CATEGORIES_4 = ['women', 'men', 'kids', 'home'];
 const CATEGORIES_3 = ['men', 'women', 'kids'];
+const CATEGORIES_5 = ['men', 'women', 'kids', "all"];
+const CATEGORIES_6 = ['men', 'women', 'kids', "all", "home"];
+const USER_SEGMENT_CATEGORIES = ["new_user","repeat_user"];
 
 const PARAM_SETS = {
     locale: [...LOCALES, ...COUNTRIES, 'en', 'ar'],
@@ -84,9 +87,13 @@ function generateCombinations(template) {
     applyReplacement('${country-code}', COUNTRIES, 'country_code');
     applyReplacement('${country code}', COUNTRIES, 'country_code');
     applyReplacement('${device-type}', DEVICE_TYPES, 'device_type');
-    applyReplacement('${women,men,kids,home}', CATEGORIES_4, 'category4');
     applyReplacement('${men,women,kids}', CATEGORIES_3, 'category3');
+    applyReplacement('${men,women,kids,home}', CATEGORIES_4, 'category4');
+    applyReplacement('${women,men,kids,home}', CATEGORIES_4, 'category4');
+    applyReplacement('${men,women,kids,all}', CATEGORIES_5, 'category5');
+    applyReplacement('${men,women,kids,all,home}', CATEGORIES_6, 'category5');
     applyReplacement('${gender}', CATEGORIES_4, 'gender');
+    applyReplacement('${user_segment}', USER_SEGMENT_CATEGORIES, 'user_segment');
 
     return results;
 }

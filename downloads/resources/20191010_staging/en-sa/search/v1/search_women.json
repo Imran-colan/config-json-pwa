@@ -1,0 +1,103 @@
+{
+  "widgets": [
+    {
+      "type": "recent_searches"
+    },
+    {
+      "type": "vue_recently_viewed_slider",
+      "header": {
+        "title": "ITEMS YOU HAVE VIEWED"
+      },
+      "id": 1,
+      "separator": false
+    },
+    {
+      "type": "circleItemSlider",
+      "key": "trending_categories",
+      "items": [],
+      "header": {
+        "title": "Trending Categories"
+      }
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_brands",
+      "items": [],
+      "header": {
+        "title": "Trending Brands"
+      }
+    },
+    {
+      "type": "vue_browsing_history_slider",
+      "query": {
+        "filters": [
+          {
+            "field": "gender",
+            "value": "women",
+            "type": "exact"
+          }
+        ]
+      },
+      "layout": {
+        "title": "Recommend For You"
+      }
+    },
+    {
+      "type": "carouselItemSlider",
+      "key": "trending_styles",
+      "items": [],
+      "header": {
+        "title": "TRENDING STYLES ON 6THSTREET"
+      }
+    },
+    {
+      "type": "recent_searches_product_slider"
+    },
+    {
+      "category": "All",
+      "index": 10,
+      "limit": 20,
+      "type": "new_influencer_slider"
+    },
+    {
+      "type": "grid",
+      "background_color": "#000000",
+      "items_per_row": 4,
+      "item_height": 240,
+      "header": {
+        "title": "Explore More"
+      },
+      "items": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Statement-shoes.jpg",
+          "link": "/womenfashionfootwear.html?q=WomenFashionFootwear&idx=enterprise_magento_en_sa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=WomenFashionFootwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Comfort_.jpg",
+          "link": "/women/shoes/comfort-shoes.html?q=Women+Shoes+Comfort&idx=enterprise_magento_en_sa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Shoes+%2F%2F%2F+Comfort&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Women"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Handbag+Store.jpg",
+          "link": "/category-117.html?q=category+117&idx=enterprise_magento_en_sa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=category+117&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/clothing.jpg",
+          "link": "/clothing-store.html?q=clothing-store&idx=enterprise_magento_en_sa_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=clothing-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "image_size": {
+        "height": 669,
+        "width": 500
+      }
+    },
+    {
+      "type": "product_results_slider",
+      "layout": {
+        "title": "Products"
+      }
+    },
+    {
+      "type": "wishlist"
+    }
+  ]
+}

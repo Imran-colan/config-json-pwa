@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 25,
+      "promotion_name": "Kids-En",
+      "tag": "Home-New Carousel-1",
+      "items": [
+        {
+          "promotion_name": "LC Waikiki",
+          "tag": "LC Waikiki",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/LCW_Kids.jpg",
+          "link": "/lc-waikiki.html?q=LC%20Waikiki&p=0&dFR[categories.level0][0]=LC%20Waikiki&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "The Children'S Place",
+          "tag": "The Children'S Place",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/TCP.jpg",
+          "link": "/the-childrens-place.html?q=The%20Children%27s%20Place&p=0&dFR[categories.level0][0]=The%20Children%27s%20Place&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Skechers",
+          "tag": "Skechers",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Skechers_Men.jpg",
+          "link": "/skechers.html?q=Skechers&p=0&dFR[categories.level0][0]=Skechers&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Beverly Hills Polo Club",
+          "tag": "Beverly Hills Polo Club",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/BHPC _ Women.jpg",
+          "link": "/beverly-hills-polo-club.html?q=Beverly%20Hills%20Polo%20Club&p=0&dFR[categories.level0][0]=Beverly%20Hills%20Polo%20Club&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Adidas",
+          "tag": "Adidas",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Adidas_Men.jpg",
+          "link": "/adidas.html?q=Adidas&p=0&dFR[categories.level0][0]=Adidas&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        },
+        {
+          "promotion_name": "Heelys",
+          "tag": "Heelys",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-03-2022+kids/puma/HEELYS_NEWCOLLECTION.jpg",
+          "link": "/heelys.html?q=Heelys&p=0&dFR[categories.level0][0]=Heelys&dFR[gender][0]=Boy,Girl",
+          "width": 240,
+          "height": 322
+        }
+      ]
+    }
+  ]
+}

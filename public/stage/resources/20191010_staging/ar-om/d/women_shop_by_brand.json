@@ -1,0 +1,64 @@
+{
+    "data": [
+
+        {
+            "type": "bannerSliderWithLabel",
+            "index": 1,
+            "promotion_name": "women-Shop-by-brands",
+            "tag": "Shop-by-brands Carousel-1",
+            "items": [
+
+                {
+                    "promotion_name": "Dune London",
+                    "tag": "Dune London",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Dune Women -1.jpg",
+                    "link": "/dune-london.html?q=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86&idx=enterprise_magento_ar_om&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+                    "width": 240,
+                    "height": 322
+                },
+                {
+                    "promotion_name": "Aldo",
+                    "tag": "Aldo",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/aldo_Women.jpg",
+                    "link": "/aldo.html?q=%D8%A3%D9%84%D8%AF%D9%88&idx=enterprise_magento_ar_om&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+                    "width": 240,
+                    "height": 322
+                },
+
+                {
+                    "promotion_name": "Charles & Keith",
+                    "tag": "Charles & Keith",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Charles_&_Keith.jpg",
+                    "link": "/charles-keith.html?q=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&idx=enterprise_magento_ar_om&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+                    "width": 240,
+                    "height": 322
+                },
+
+                {
+                    "promotion_name": "Skechers",
+                    "tag": "Skechers",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/Skechers_Women.jpg",
+                    "link": "/skechers.html?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&idx=enterprise_magento_ar_om&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+                    "width": 240,
+                    "height": 322
+                },
+                {
+                    "promotion_name": "Nine West",
+                    "tag": "Nine West",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/NINE_WEST.jpg",
+                    "link": "/nine-west.html?q=%D9%86%D8%A7%D9%8A%D9%86+%D9%88%D8%B3%D8%AA&idx=enterprise_magento_ar_om&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%86+%D9%88%D8%B3%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%86+%D9%88%D8%B3%D8%AA&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+                    "width": 240,
+                    "height": 322
+                },
+                {
+                    "promotion_name": "Beverly Hills Polo Club",
+                    "tag": "Beverly Hills Polo Club",
+                    "url": "https://mobilecdn.6thstreet.com/AllBanners/SHOPBYBRANDS/BHPC _ Women.jpg",
+                    "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_ar_om&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+                    "width": 240,
+                    "height": 322
+                }
+            ]
+        }
+    ]
+}

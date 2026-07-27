@@ -1,0 +1,99 @@
+{
+  "widgets": [
+    {
+      "type": "recent_searches"
+    },
+    {
+      "type": "vue_recently_viewed_slider",
+      "header": {
+        "title": "منتجات قمت بمشاهدتها"
+      },
+      "id": 1,
+      "separator": false
+    },
+    {
+      "type": "circleItemSlider",
+      "key": "trending_categories",
+      "items": [],
+      "header": {
+        "title": "الفئات الرائجة"
+      }
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_brands",
+      "items": [],
+      "header": {
+        "title": "الماركة الأكثر رواجاً"
+      }
+    },
+    {
+      "type": "vue_browsing_history_slider",
+      "query": {
+        "filters": [
+          {
+            "field": "gender",
+            "value": "women",
+            "type": "exact"
+          }
+        ]
+      },
+      "layout": {
+        "title": "موصى بها لك"
+      }
+    },
+    {
+      "type": "carouselItemSlider",
+      "key": "trending_styles",
+      "items": [],
+      "header": {
+        "title": "الستايلات الرائجة على آيفي"
+      }
+    },
+    {
+      "type": "recent_searches_product_slider"
+    },
+    {
+      "category": "All",
+      "index": 10,
+      "limit": 20
+    },
+    {
+      "type": "grid",
+      "background_color": "#000000",
+      "items_per_row": 4,
+      "item_height": 240,
+      "header": {
+        "title": "اكتشف المزيد"
+      },
+      "items": [
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Statement-shoes.jpg",
+          "link": "/womenfashionfootwear.html?q=WomenFashionFootwear&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=WomenFashionFootwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Comfort_.jpg",
+          "link": "/catalogsearch/result/?q=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&qid=f58b074e55d0caa30f6c726221695d8c&p=0&dFR%5B=&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D8%B1%D9%83%D9%86%D8%B3%D8%AA%D9%88%D9%83%2C%D8%A8%D9%8A%D8%B2%D9%8A%D8%B3%2C%D8%AA%D9%88%D9%85%D8%B2%2C%D8%AC%D9%8A%D9%88%D9%83%D8%B3%2C%D9%81%D9%8A%D9%88%D9%86%D9%8A%D9%83%2C%D9%84%D8%A7%D9%8A%D9%81+%D8%B3%D8%AA%D8%B1%D8%A7%D9%8A%D8%AF%2C%D9%86%D8%A7%D8%AA%D8%B4%D9%8A%D8%B1%D8%A7%D9%84%D9%8A%D8%B2%D8%B1%2C%D9%87%D8%A7%D8%B4+%D8%A8%D8%A7%D8%A8%D9%8A%D8%B2%2C%D9%87%D8%A7%D9%81%D8%A7%D9%8A%D8%A7%D9%86%D8%A7%D8%B2%2C%D9%83%D8%B1%D9%88%D9%83%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%A3%D9%88%D9%84%D8%A7%D8%AF%2C%D8%A8%D9%86%D8%A7%D8%AA%2C%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/Handbag+Store.jpg",
+          "link": "/category-117.html?q=category+117&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=category+117&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/17-06-2022+Women/Shopping+guides+women/clothing.jpg",
+          "link": "/clothing-store.html?q=clothing-store&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=clothing-store&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1"
+        }
+      ],
+      "image_size": {
+        "height": 669,
+        "width": 500
+      }
+    },
+    {
+      "type": "product_results_slider",
+      "layout": {
+        "title": "المنتجات"
+      }
+    }
+  ]
+}

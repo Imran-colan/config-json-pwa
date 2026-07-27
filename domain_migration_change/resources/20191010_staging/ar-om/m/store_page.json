@@ -1,0 +1,437 @@
+{
+  "data": [
+    {
+      "type": "banner",
+      "index": 1,
+      "promotion_name": "Mar108_Banner_All",
+      "tag": "Store_ByHugeDiscount",
+      "items": [
+        {
+          "promotion_name": "Mar108_Banner_AE_EN_AR",
+          "tag": "Store_ByHugeDiscount",
+          "width": 2000,
+          "height": 550,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-06-2022+Women/Testing/Webp/Top%26tees_all_banner_+EN-web+.webp",
+          "link": "/women/clothing.html?q=Women+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bcategories_without_path%5D%5B0%5D=Tops+%26+T-Shirts&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 2,
+      "promotion_name": "Mar108_BannerSliderLabel-All",
+      "tag": "Store_ByHugeDiscount",
+      "items": [
+        {
+          "promotion_name": "Mar108_BannerSliderLabel-All",
+          "tag": "Store_ByHugeDiscount",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/1.webp",
+          "link": "/niran.html?q=Niran&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Niran&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Niran&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_om_products",
+          "text": "Niran",
+          "width": 2000,
+          "height": 550
+        },
+        {
+          "promotion_name": "Mar108_BannerSliderLabel-All",
+          "tag": "Store_ByHugeDiscount",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/2.webp",
+          "link": "/max-factor.html?q=Max+Factor&p=0&dFR%5Bbrand_name%5D%5B0%5D=Max+Factor&dFR%5Bdiscount%5D%5B0%5D=gte0&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "text": "Max Factor",
+          "width": 1998,
+          "height": 550
+        },
+        {
+          "promotion_name": "Mar108_BannerSliderLabel-All",
+          "tag": "Store_ByHugeDiscount",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/3.webp",
+          "link": "/shams.html/?q=Shams&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Shams&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Shams&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_om_products",
+          "text": "Shams",
+          "width": 2000,
+          "height": 550
+        },
+        {
+          "promotion_name": "Mar108_BannerSliderLabel-All",
+          "tag": "Store_ByHugeDiscount",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/4.webp",
+          "link": "/maybelline.html?q=Maybelline+New+York&p=0&dFR%5Bbrand_name%5D%5B0%5D=Maybelline+New+York&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_om_products",
+          "text": "Maybelline",
+          "width": 2000,
+          "height": 549
+        }
+      ]
+    },
+    {
+      "type": "fullWidthBannerSlider",
+      "index": 3,
+      "promotion_name": "Mar108_Fullwidthbanner-All",
+      "tag": "Store_ByHugeDiscount",
+      "items": [
+        {
+          "promotion_name": "Mar108_Fullwidthbanner-All",
+          "tag": "Store_ByHugeDiscount",
+          "width": 2000,
+          "height": 550,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/banner.webp",
+          "link": "/catalogsearch/result/?q=trendyol&qid=aac61ce6dfbaae3f936fd8aa7ae17555&dFR%5Bgender%5D%5B0%5D=Women&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_om_products"
+        },
+        {
+          "promotion_name": "Mar108_Fullwidthbanner-All",
+          "tag": "Store_ByHugeDiscount",
+          "width": 2000,
+          "height": 550,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/banner.webp",
+          "link": "/catalogsearch/result/?q=trendyol&qid=aac61ce6dfbaae3f936fd8aa7ae17555&dFR%5Bgender%5D%5B0%5D=Women&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 4,
+      "promotion_name": "Mar108_Banner_All",
+      "tag": "Store_ByHugeDiscount",
+      "items": [
+        {
+          "promotion_name": "Mar108_Banner_AE_EN_AR",
+          "tag": "Store_ByHugeDiscount",
+          "width": 2000,
+          "height": 550,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/24-06-2022+Women/Testing/Webp/Top%26tees_all_banner_+EN-web+.webp",
+          "link": "/women/clothing.html?q=Women+Clothing&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+%2F%2F%2F+Clothing&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women&dFR%5Bcategories_without_path%5D%5B0%5D=Tops+%26+T-Shirts&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 5,
+      "promotion_name": "Mar108_BannerSliderLabel-All",
+      "tag": "Store_ByHugeDiscount",
+      "items": [
+        {
+          "promotion_name": "Mar108_BannerSliderLabel-All",
+          "tag": "Store_ByHugeDiscount",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/1.webp",
+          "link": "/niran.html?q=Niran&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Niran&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Niran&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_om_products",
+          "text": "Niran",
+          "width": 2000,
+          "height": 550
+        },
+        {
+          "promotion_name": "Mar108_BannerSliderLabel-All",
+          "tag": "Store_ByHugeDiscount",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/2.webp",
+          "link": "/max-factor.html?q=Max+Factor&p=0&dFR%5Bbrand_name%5D%5B0%5D=Max+Factor&dFR%5Bdiscount%5D%5B0%5D=gte0&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "text": "Max Factor",
+          "width": 1998,
+          "height": 550
+        },
+        {
+          "promotion_name": "Mar108_BannerSliderLabel-All",
+          "tag": "Store_ByHugeDiscount",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/3.webp",
+          "link": "/shams.html/?q=Shams&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Shams&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=Shams&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_om_products",
+          "text": "Shams",
+          "width": 2000,
+          "height": 550
+        },
+        {
+          "promotion_name": "Mar108_BannerSliderLabel-All",
+          "tag": "Store_ByHugeDiscount",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/4.webp",
+          "link": "/maybelline.html?q=Maybelline+New+York&p=0&dFR%5Bbrand_name%5D%5B0%5D=Maybelline+New+York&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte0&idx=enterprise_magento_ar_om_products",
+          "text": "Maybelline",
+          "width": 2000,
+          "height": 549
+        }
+      ]
+    },
+    {
+      "type": "fullWidthBannerSlider",
+      "index": 6,
+      "promotion_name": "Mar108_Fullwidthbanner-All",
+      "tag": "Store_ByHugeDiscount",
+      "items": [
+        {
+          "promotion_name": "Mar108_Fullwidthbanner-All",
+          "tag": "Store_ByHugeDiscount",
+          "width": 2000,
+          "height": 550,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/banner.webp",
+          "link": "/catalogsearch/result/?q=trendyol&qid=aac61ce6dfbaae3f936fd8aa7ae17555&dFR%5Bgender%5D%5B0%5D=Women&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_om_products"
+        },
+        {
+          "promotion_name": "Mar108_Fullwidthbanner-All",
+          "tag": "Store_ByHugeDiscount",
+          "width": 2000,
+          "height": 550,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/banner.webp",
+          "link": "/catalogsearch/result/?q=trendyol&qid=aac61ce6dfbaae3f936fd8aa7ae17555&dFR%5Bgender%5D%5B0%5D=Women&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "edge_to_edge_banner",
+      "index": 7,
+      "promotion_name": "Mar108_Edge-All",
+      "tag": "Store_ByHugeDiscount",
+      "items": [
+        {
+          "promotion_name": "Mar108_Edge-All",
+          "tag": "Store_ByHugeDiscount",
+          "width": 2000,
+          "height": 550,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-07-2022-women/Webp+testing/banner.webp",
+          "link": "/catalogsearch/result/?q=trendyol&qid=aac61ce6dfbaae3f936fd8aa7ae17555&dFR%5Bgender%5D%5B0%5D=Women&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 8,
+      "promotion_name": "store-test-16-banner",
+      "tag": "store-test-16",
+      "items": [
+        {
+          "promotion_name": "Home-Hero-Saudi National Day-30-70% Off",
+          "tag": "Saudi National Day-30-70% Off",
+          "width": 1080,
+          "height": 1080,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/Hero/Saudi_national-day_hero_banner_+EN+copy.jpg",
+          "link": "/catalogsearch/result/?q=%2B&qid=c45200ccd685eceeb2559d4d6b722c19&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte30&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "index": 9,
+      "promotion_name": "store-test-16-scroll",
+      "tag": "store-test-16",
+      "title": "أفكار هدايا لك ولمن تحب",
+      "items": [
+        {
+          "promotion_name": "Home-Gift Sets-Saudi National Day-Gift Sets",
+          "tag": "Gift Sets",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/Gift-youreself/Gift+set+copy+3.jpg",
+          "link": "/women-gifting-trend.html?q=Women+Gifting+trend&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women+Gifting+trend&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "text": "الأطقم ",
+          "width": 355,
+          "height": 475
+        },
+        {
+          "promotion_name": "Home-Gift Sets-Saudi National Day-Modest Wear",
+          "tag": "Modest Wear",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/Gift-youreself/Modestwear_.jpg",
+          "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D8%AD%D8%AA%D8%B4%D9%85%D8%A9%2C%D8%B9%D8%A8%D8%A7%D9%8A%D8%A7%D8%AA&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "text": "الملابس المحتشمة",
+          "width": 355,
+          "height": 475
+        },
+        {
+          "promotion_name": "Home-Gift Sets-Saudi National Day-Beauty",
+          "tag": "Beauty",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/Gift-youreself/Beauty.jpg",
+          "link": "/women/beauty.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "text": "الجمال",
+          "width": 355,
+          "height": 475
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "index": 10,
+      "promotion_name": "store-test-16-grid",
+      "tag": "store-test-16",
+      "background_color": "#000000",
+      "items_per_row": 3,
+      "item_height": 240,
+      "header": {
+        "title": "تسوقوا حسب الفئة"
+      },
+      "items": [
+        {
+          "promotion_name": "Home-SBC-Saudi National Day-Footwear",
+          "footer": {
+            "title": "أحذية"
+          },
+          "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_ar_om_products",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/SBC/Shoes+copy.jpg",
+          "tag": "Footwear"
+        },
+        {
+          "promotion_name": "Home-SBC-Saudi National Day-Handbags",
+          "footer": {
+            "title": "حقائب"
+          },
+          "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bdiscount%5D%5B0%5D=gte10&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/SBC/Handbags+copy.jpg",
+          "tag": "Handbags"
+        },
+        {
+          "promotion_name": "Home-SBC-Saudi National Day-Sports",
+          "footer": {
+            "title": "رياضة"
+          },
+          "link": "/store/super6",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/SBC/Sports+copy.jpg",
+          "tag": "Sports"
+        }
+      ],
+      "image_size": {
+        "height": 400,
+        "width": 400
+      }
+    },
+    {
+      "type": "fullWidthBannerSlider",
+      "index": 11,
+      "promotion_name": "store-test-16-fullwidthbannerslider",
+      "tag": "store-test-16",
+      "items": [
+        {
+          "promotion_name": "Home-Hero-Saudi National Day-30-70% Off",
+          "tag": "Saudi National Day-30-70% Off",
+          "width": 1080,
+          "height": 1080,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/Hero/Saudi_national-day_hero_banner_+EN+copy.jpg",
+          "link": "/catalogsearch/result/?q=%2B&qid=c45200ccd685eceeb2559d4d6b722c19&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte30&idx=enterprise_magento_ar_om_products"
+        },
+        {
+          "promotion_name": "Home-Hero-Saudi National Day-30-70% Off",
+          "tag": "Saudi National Day-30-70% Off",
+          "width": 1080,
+          "height": 1080,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/Hero/Saudi_national-day_hero_banner_+EN+copy.jpg",
+          "link": "/catalogsearch/result/?q=%2B&qid=c45200ccd685eceeb2559d4d6b722c19&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte30&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "edge_to_edge_banner",
+      "index": 12,
+      "promotion_name": "store-test-16-edgetoedgebanner",
+      "tag": "store-test-16",
+      "items": [
+        {
+          "promotion_name": "Home-Top Strip-Saudi National Day",
+          "tag": "Top Strip-Saudi National Day",
+          "width": 1080,
+          "height": 125,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/15-09-2022+Women/Women++KSA+national+day/Women+(9)/Hero/Saudi_Strip_AR.jpg",
+          "link": "/catalogsearch/result/?q=%2B&qid=c45200ccd685eceeb2559d4d6b722c19&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte30&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "productSlider",
+      "index": 13,
+      "promotion_name": "store-test-16-productslider",
+      "tag": "store-test-16",
+      "data_url": "/catalogsearch/result/?q=%2B&qid=c45200ccd685eceeb2559d4d6b722c19&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte30",
+      "title": "Test"
+    },
+    {
+      "type": "video",
+      "index": 14,
+      "promotion_name": "store-test-16-video",
+      "tag": "store-test-16",
+      "url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/bmt/13-05-2022+Women/HL+Videos+for+women/Handbags.mp4"
+    },
+    {
+      "type": "circleItemSlider",
+      "index": 15,
+      "promotion_name": "store-test-16-circleitemslider",
+      "tag": "store-test-16",
+      "items": [
+        {
+          "link": "/women/shoes/sandals.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-09-2022/Highlights/Web/footwear++copy.jpg",
+          "label": "الصنادل",
+          "tag": "Sandals",
+          "promotion_name": "Home-Stories-Sandals",
+          "plp_config": {
+            "disable_filters": false,
+            "show_product_count": true,
+            "title": "الصنادل",
+            "banner": {
+              "type": "image",
+              "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/05-08-2022+women/App-HL/footwear+copy.jpg",
+              "aspect_ratio": 0.85,
+              "title": "ستايلات صيفية واو ",
+              "description": "الصنادل من أكثر الشوزات اللي تكون رائجة في الصيف باختلاف ستايلاتها لأنها مريحة لطلعات البحر أو حتى للمشاوير اليومية الكاجوال. اسحبوا الشاشة واكتشفوا ستايلات صيفية ما راح تستغنون عنها من بيركنستوك، كروكس وغيرهم."
+            }
+          }
+        },
+        {
+          "link": "/women/clothing/dresses.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-09-2022/Highlights/Web/Dresses.png",
+          "label": "الفساتين",
+          "tag": "Dresses",
+          "promotion_name": "Home-Stories-Dresses",
+          "plp_config": {
+            "disable_filters": false,
+            "show_product_count": true,
+            "title": "الفساتين",
+            "banner": {
+              "type": "image",
+              "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/05-08-2022+women/App-HL/clothing.jpg",
+              "aspect_ratio": 0.85,
+              "title": "إطلالة أنيقة ",
+              "description": "عندك مناسبة مهمة وتدورين على الفستان المُناسب؟ أو تحبين تنسقين الفساتين لإطلالة كاجوال أنيقة ؟ تعرفي على تشكيلة الفساتين المتنوعة بين القصات المفتوحة، طبعات الورود وغيرها من التصاميم المتنوعة ونسقيها على ذوقك. "
+            }
+          }
+        },
+        {
+          "link": "/women/bags/cross-body-bag.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A8%D8%AD%D9%85%D8%A7%D9%84%D8%A9+%D8%B7%D9%88%D9%8A%D9%84%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%A8%D8%AD%D9%85%D8%A7%D9%84%D8%A9+%D8%B7%D9%88%D9%8A%D9%84%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-09-2022/Highlights/Web/cross+bags.jpg",
+          "label": "شنط الكروس بودي ",
+          "tag": "Body Bag",
+          "promotion_name": "Home-Stories-Body Bag",
+          "plp_config": {
+            "disable_filters": false,
+            "show_product_count": true,
+            "title": "شنط الكروس بودي ",
+            "banner": {
+              "type": "image",
+              "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/05-08-2022+women/Web-hl/cross-bag.jpg",
+              "aspect_ratio": 0.85,
+              "title": "إطلالة كوول ",
+              "description": "شنط الكروس بودي سهلة التنسيق لكل يوم، سواءاً مزاجك اليوم لوك رسمي، كاجوال أو غيره. اختاري اللي على ذوقك من تشكيلة شنط الكروس بودي المتنوعة."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 16,
+      "promotion_name": "Home-Hero-Naturalizer AW22",
+      "tag": "super6",
+      "items": [
+        {
+          "promotion_name": "Home-Hero-Naturalizer AW22",
+          "tag": "Home-Hero-Naturalizer AW22",
+          "width": 1080,
+          "height": 1080,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-10-2022+Women/naturalizer+hero/hero+banner+naturalizer+app+ar.jpg",
+          "link": "/catalogsearch/result/?q=%D9%86%D8%A7%D8%AA%D8%B4%D9%8A%D8%B1%D8%A7%D9%84%D9%8A%D8%B2%D8%B1&qid=7065a66a4544a07a344780cbc02d1620&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D8%AA%D8%B4%D9%8A%D8%B1%D8%A7%D9%84%D9%8A%D8%B2%D8%B1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "index": 17,
+      "promotion_name": "Home-Campaign Spot-Abaya Collections ",
+      "tag": "super6",
+      "items": [
+        {
+          "promotion_name": "Home-Campaign Spot-Abaya Collections ",
+          "tag": "Home-Campaign Spot-Abaya Collections ",
+          "width": 1080,
+          "height": 720,
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/06-10-2022+Women/abaya+spot/Modestwear_CAMPAIGN+SPOT_AR.jpg",
+          "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%B9%D8%A8%D8%A7%D9%8A%D8%A7%D8%AA%2CArabic+Clothing&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_ar_om_products"
+        }
+      ]
+    }
+  ]
+}

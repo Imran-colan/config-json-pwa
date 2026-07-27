@@ -1,0 +1,36 @@
+{
+  "en": [
+    {
+      "title": "Shipping Policy",
+      "items": [
+        "AIVI.com delivers across the Kingdom of Bahrain.",
+        "We accept Cash on Delivery (COD), Credit Cards, Debit Cards, Apple Pay, and My Cash as payment methods.",
+        "Orders are typically delivered within 5–7 business days for most locations.",
+        "Once your shipment is dispatched, an Air Waybill (AWB) number will be generated and shared with you via your registered email address and mobile number, allowing you to track your order.",
+        "A shipping fee of BHD 2 applies to orders below BHD 12.",
+        "If your order includes products sourced from international markets, an international shipping fee may apply.",
+        "If all international shipment items are cancelled, the international shipping fee will be refunded. Otherwise it is non-refundable.",
+        "Products marked with the International Shipment label are sourced from international markets.",
+        "Applicable fees: BHD 2 shipping fee below BHD 12, BHD 3.5 COD fee and BHD 0.5 platform fee may apply.",
+        "Deliveries to out-of-service locations may require additional transit time."
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "title": "سياسة الشحن",
+      "items": [
+        "يوفر AIVI.com خدمة التوصيل إلى جميع أنحاء مملكة البحرين.",
+        "نقبل الدفع باستخدام بطاقات الائتمان وبطاقات الخصم وApple Pay والدفع عند الاستلام ورصيد ماي كاش.",
+        "يتم توصيل الطلبات خلال 5 إلى 7 أيام عمل لمعظم المناطق.",
+        "بمجرد شحن طلبك، سيتم إصدار رقم بوليصة الشحن (AWB) وإرساله إلى بريدك الإلكتروني ورقم هاتفك المسجلين.",
+        "تُطبق رسوم شحن بقيمة 2 دينار بحريني على الطلبات التي تقل قيمتها عن 12 دينارًا بحرينيًا.",
+        "قد تُطبق رسوم شحن دولي على المنتجات المشمولة بخدمة الشحن الدولي.",
+        "في حال إلغاء جميع المنتجات المشمولة بالشحن الدولي سيتم استرداد الرسوم.",
+        "المنتجات التي تحمل علامة الشحن الدولي يتم شحنها من الأسواق الدولية.",
+        "تُطبق رسوم خدمة الدفع عند الاستلام بقيمة 3.5 دينار بحريني ورسوم منصة بقيمة 0.5 دينار بحريني على الطلبات المؤهلة.",
+        "قد يستغرق التوصيل إلى المناطق الواقعة خارج نطاق الخدمة وقتًا إضافيًا."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_brands",
+      "items": [
+        {
+          "en_link": "crocs.html?q=Crocs&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Crocs&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bgender%5D%5B0%5D=kids&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+          "ar_link": "crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_arabic_products",
+          "image_url": "https://media.6media.me/media/catalog/category/crocs_1.jpg",
+          "en_label": "Crocs",
+          "ar_label": "كروكس"
+        }
+      ]
+    },
+    {
+      "type": "circleItemSlider",
+      "key": "trending_categories",
+      "items": [
+        {
+          "en_link": "kids/boys/shoes.html?q=Kids+Boy+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Boy+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=kids&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+          "ar_link": "kids/boys/shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D9%88%D9%84%D8%A7%D8%AF+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D9%88%D9%84%D8%A7%D8%AF+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_arabic_products",
+          "image_url": "https://media.6media.me/media/catalog/product/k/1/k150sbbi-bi-850x760.jpg",
+          "en_label": "Shoes",
+          "ar_label": "أحذية"
+        },
+        {
+          "en_link": "kids/girls/shoes.html?q=Kids+Girl+Shoes&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Girl+%2F%2F%2F+Shoes&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=kids&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+          "ar_link": "kids/girls/shoes.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A8%D9%86%D8%A7%D8%AA+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A8%D9%86%D8%A7%D8%AA+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_arabic_products",
+          "image_url": "https://media.6media.me/media/catalog/product/f/s/fs996pwi-cream-700x450.jpg",
+          "en_label": "Shoes",
+          "ar_label": "أحذية"
+        }
+      ]
+    },
+    {
+      "type": "bannerSliderWithLabel",
+      "key": "trending_styles",
+      "items": [
+        {
+          "en_link": "kids/boys/shoes/sandals.html?q=Kids+Boy+Shoes+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Boy+%2F%2F%2F+Shoes+%2F%2F%2F+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=kids&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+          "ar_link": "kids/boys/shoes/sandals.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A3%D9%88%D9%84%D8%A7%D8%AF+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&p=0&hFR%5Bcategories.level0]%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A3%D9%88%D9%84%D8%A7%D8%AF+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_arabic_products",
+          "image_url": "https://media.6media.me/media/catalog/product/s/k/sk10508l-bkmt-black-multi-700x450.jpg",
+          "en_label": "Sandals",
+          "ar_label": "صنادل"
+        },
+        {
+          "en_link": "kids/girls/shoes/sandals.html?q=Kids+Girl+Shoes+Sandals&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Girl+%2F%2F%2F+Shoes+%2F%2F%2F+Sandals&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=kids&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+          "ar_link": "kids/girls/shoes/sandals.html?q=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%D8%A8%D9%86%D8%A7%D8%AA+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&p=0&hFR%5Bcategories.level0]%5D%5B0%5D=%D8%A3%D8%B7%D9%81%D8%A7%D9%84+%2F%2F%2F+%D8%A8%D9%86%D8%A7%D8%AA+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D8%A8%D9%86%D8%A7%D8%AA%2C%D8%A3%D9%88%D9%84%D8%A7%D8%AF&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_arabic_products",
+          "image_url": "https://media.6media.me/media/catalog/product/1/1/110216c-mini-denim-pink-760x850.jpg",
+          "en_label": "Sandals",
+          "ar_label": "صنادل"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "women": [
+    {
+      "label": "#New in",
+      "link": "/women/new-in.html#q=Women%20New%20In&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20New%20In&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Exclusive",
+      "link": "/exclusive-march.html?q=Exclusive+March&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Exclusive+March&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Women"
+    },
+    {
+      "label": "#Sandals",
+      "link": "/women/shoes/sandals.html#q=Women%20Shoes%20Sandals&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Sandals&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Dresses",
+      "link": "/women/clothing/dresses.html#q=Women%20Clothing%20Dress&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Clothing%20%2F%2F%2F%20Dress&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Bags",
+      "link": "/women/bags.html#q=Women%20Bags&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Women%20%2F%2F%2F%20Bags&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    }
+  ],
+  "men": [
+    {
+      "label": "#New in",
+      "link": "/men/new-in.html#q=Men%20New%20In&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men%20%2F%2F%2F%20New%20In&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#Exclusive",
+      "link": "/exclusive-march.html?q=Exclusive+March&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Exclusive+March&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "#Trainers",
+      "link": "/sportswear.html?q=Sportswear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Sportswear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=Men"
+    },
+    {
+      "label": "#T-shirts",
+      "link": "/men/clothing/tops-t-shirts.html?q=Men+Clothing+T+Shirts&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Clothing+%2F%2F%2F+T+Shirts&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1"
+    },
+    {
+      "label": "#Sandals",
+      "link": "/men/shoes/sandals.html?q=Men%20Shoes%20Sandals&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men%20%2F%2F%2F%20Shoes%20%2F%2F%2F%20Sandals&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    }
+  ],
+  "kids": [
+    {
+      "label": "#BTS",
+      "link": "/bts-tag-1.html?q=BTS+Tag+1&p=0&hFR%5Bcategories.level0%5D%5B0%5D=BTS+Tag+1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&idx=enterprise_magento_english_products&dFR%5Bgender%5D%5B0%5D=Baby+Boy%2CBaby+Girl%2CBoy%2CGirl%2CInfant%2CUnisex"
+    },
+    {
+      "label": "#schoolshoes",
+      "link": "/kids/footwear/shoes/school-shoes.html?q=Kids+Footwear+Shoes+Slip+Ons&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Footwear+%2F%2F%2F+Shoes+%2F%2F%2F+Slip+Ons&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1"
+    },
+    {
+      "label": "#backpacks",
+      "link": "/kids/bags.html?q=Kids+Bags&idx=enterprise_magento_english&p=1&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Bags&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Backpacks"
+    },
+    {
+      "label": "#Newin",
+      "link": "/kids/new-in.html#q=Kids%20New%20In&idx=enterprise_magento_english_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids%20%2F%2F%2F%20New%20In&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+    },
+    {
+      "label": "#tops&tees",
+      "link": "/kids/clothing/topwear.html?q=Kids+Clothing+Topwear&idx=enterprise_magento_english&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Kids+%2F%2F%2F+Clothing+%2F%2F%2F+Topwear&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=Tops%2CTops+%26+Tshirts%2CT+Shirts"
+    }
+  ]
+}

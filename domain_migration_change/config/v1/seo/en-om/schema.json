@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AIVI.com",
+  "legalName": "AIVI General Trading LLC",
+  "url": "https://en-om.aivi.com/",
+  "logo": "https://d33potchz7aua6.cloudfront.net/static/media/6TH_Logo.bc4c18f8.svg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "PO BOX No 27401",
+    "addressLocality": "Dubai",
+    "addressCountry": "UAE"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+971 4814 2666",
+      "contactType": "customer service"
+    }
+  ],
+  "email": "customercare@aivi.com",
+  "sameAs": [
+    "https://www.instagram.com/aivi_ar",
+    "https://www.instagram.com/aivi_en",
+    "https://www.facebook.com/aivi"
+  ]
+}

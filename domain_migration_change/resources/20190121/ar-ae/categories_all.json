@@ -1,0 +1,1385 @@
+{
+  "data": [
+    {
+      "key": "new_in",
+      "label": "وصلنا حديثاً",
+      "link": "/women/new-in.html?q=%EF%BB%A6%EF%BA%B3%EF%BA%8D%EF%BA%80&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%EF%BB%A6%EF%BA%B3%EF%BA%8D%EF%BA%80&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#CBB479",
+        "text_color": "#CBB479"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Brand+Logo+Page/Crocs/women_summer_first+banner.jpg",
+          "description": "تشكيلة شتاء/خريف 2021",
+          "button_label": "تسوقي الأحذيّة",
+          "link": "/aw-21.html?q=AW+21&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=AW+21&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "ألدو",
+              "link": "/aldo.html?q=%D8%A3%D9%84%D8%AF%D9%88&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "ديون لندن",
+              "link": "/dune-london.html?q=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "تشارلز آند كيث",
+              "link": "/charles-keith.html?q=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/adidas.jpg",
+              "label": "اديداس",
+              "link": "/adidas.html?q=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/skechers.jpg",
+              "label": "سكتشرز",
+              "link": "/skechers.html?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/trendyol.jpg",
+              "label": "ترينديول",
+              "link": "/trendyol.html?q=%D8%AA%D8%B1%D9%8A%D9%86%D8%AF%D9%8A%D9%88%D9%84&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D8%B1%D9%8A%D9%86%D8%AF%D9%8A%D9%88%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "بفرلي هيلس بولو كلوب",
+              "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "أردين",
+              "link": "/catalogsearch/result/?q=%D8%A7%D8%B1%D8%AF%D9%8A%D9%86&qid=baeb3a1e7dc108c39c3a03af66524061&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%B1%D8%AF%D9%8A%D9%86",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "كروكس",
+              "link": "/crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "اٍل سي واي كيكي",
+              "link": "/lc-waikiki.html?q=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "LC Waikiki"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/shoes.jpg",
+              "label": "أحذية",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Footwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/sports+shoes.jpg",
+              "label": "رياضة",
+              "link": "/sports.html?q=%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9++&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9++&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sports"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/bags.jpg",
+              "label": "حقائب",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Clothing.jpg",
+              "label": "ملابس",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Accessories.jpg",
+              "label": "إكسسوارات",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_lips.jpg",
+              "label": "جمال",
+              "link": "/women/beauty.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Beauty"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Kids+Cat+Page/Clothing/MicrosoftTeams-image+(33).png",
+              "label": "منتجات العناية بالأحذية",
+              "link": "/shoe-care.html?q=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Shoe Care"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/premium.jpg",
+              "label": "بريميوم",
+              "link": "/catalogsearch/result/?q=+&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&dFR%5Bsort%5D%5B0%5D=latest&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Premium"
+            }
+          ],
+          "button": {
+            "link": "/women/new-in.html?q=%EF%BB%A6%EF%BA%B3%EF%BA%8D%EF%BA%80&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%EF%BB%A6%EF%BA%B3%EF%BA%8D%EF%BA%80&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bis_new_in%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+            "plp_title": "وصلنا حديثاً"
+          }
+        }
+      ]
+    },
+    {
+      "key": "shoes",
+      "label": "أحذية",
+      "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Shoes/Top+Banner/sassy+sandals.jpg",
+          "description": "صنادل أنيقة",
+          "link": "/women/shoes/sandals.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bsort%5D%5B0%5D=latest"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "تشارلز آند كيث",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "ألدو",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "ديون لندن",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/birkenstock.jpg",
+              "label": "بيركنستوك",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D8%B1%D9%83%D9%86%D8%B3%D8%AA%D9%88%D9%83",
+              "itemName": "Birkenstock"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/naturalizer.jpg",
+              "label": "ناتشيراليزر",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D8%AA%D8%B4%D9%8A%D8%B1%D8%A7%D9%84%D9%8A%D8%B2%D8%B1",
+              "itemName": "Naturalizer"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "كروكس",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/call+it+spring.jpg",
+              "label": "كول ات سبرنج",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D9%88%D9%84+%D8%A7%D8%AA+%D8%B3%D8%A8%D8%B1%D9%86%D8%AC",
+              "itemName": "Call It Spring"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/nine+west.jpg",
+              "label": "ناين وست",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%86+%D9%88%D8%B3%D8%AA",
+              "itemName": "Nine West"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/toms.jpg",
+              "label": "تومز",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D8%B2",
+              "itemName": "TOMS"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/hush+puppies.jpg",
+              "label": "هاش بابيز",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D8%A7%D8%B4+%D8%A8%D8%A7%D8%A8%D9%8A%D8%B2",
+              "itemName": "Hush Puppies"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/sandals+copy.jpg",
+              "label": "صنادل",
+              "link": "/women/shoes/sandals.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%B5%D9%86%D8%A7%D8%AF%D9%84&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%2F%2F%2F%20%D8%B5%D9%86%D8%A7%D8%AF%D9%84&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Sandals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Pumps.jpg",
+              "label": "أحذية بكعب",
+              "link": "/women/shoes/pumps.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A8%D9%83%D8%B9%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A8%D9%83%D8%B9%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Pumps"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/sneaker.jpg",
+              "label": "سنيكرز",
+              "link": "/women/shoes/trainers.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Sneakers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/flats.jpg",
+              "label": "أحذية فلات",
+              "link": "/women/shoes/flats.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D9%81%D9%84%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D9%81%D9%84%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Flats"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Mules.jpg",
+              "label": "أحذية مفتوحة من الخلف ",
+              "link": "/women/shoes/mules.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D9%85%D9%8A%D9%88%D9%84%20%28%D9%83%D8%B9%D8%A8%20%D8%B9%D8%B1%D9%8A%D8%B6%29&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D9%85%D9%8A%D9%88%D9%84%20%28%D9%83%D8%B9%D8%A8%20%D8%B9%D8%B1%D9%8A%D8%B6%29&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Mules"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Comfort+Shoes.jpg",
+              "label": "أحذية مريحة",
+              "link": "/women/shoes/comfort-shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D9%85%D8%B1%D9%8A%D8%AD%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D9%85%D8%B1%D9%8A%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Comfort"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Wedges.jpg",
+              "label": "كعب ويدج",
+              "link": "/women/shoes/wedges.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D8%B9%D8%A8+%D8%B3%D9%85%D9%8A%D9%83&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D9%83%D8%B9%D8%A8+%D8%B3%D9%85%D9%8A%D9%83&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Wedges"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Flip+Flops.jpg",
+              "label": "شباشب",
+              "link": "/women/shoes/flip-flops.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8%20%D9%81%D9%84%D9%8A%D8%A8%20%D9%81%D9%84%D9%88%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%2F%2F%2F%20%D8%B4%D8%A8%D8%A7%D8%B4%D8%A8%20%D9%81%D9%84%D9%8A%D8%A8%20%D9%81%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Flip Flops"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Ballerinas+%26+Loafers.jpg",
+              "label": "أحذية باليرينا ولوفرز",
+              "link": "/women/shoes/ballerinas.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A8%D8%A7%D9%84%D9%8A%D8%B1%D9%8A%D9%86%D8%A7&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9%20%D8%A8%D8%A7%D9%84%D9%8A%D8%B1%D9%8A%D9%86%D8%A7&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Ballerinas & Loafers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Boots.jpg",
+              "label": "أبوات",
+              "link": "/women/shoes/boots.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A3%D8%A8%D9%88%D8%A7%D8%AA%D9%84%D8%A2%D9%86&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%2F%2F%2F+%D8%A3%D8%A8%D9%88%D8%A7%D8%AA%D9%84%D8%A2%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Boots"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Kids+Cat+Page/Clothing/MicrosoftTeams-image+(33).png",
+              "label": "منتجات العناية بالأحذية",
+              "link": "/shoe-care.html?q=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Shoe Care"
+            }
+          ],
+          "button": {
+            "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+            "plp_title": "أحذية"
+          }
+        }
+      ]
+    },
+    {
+      "key": "bags",
+      "label": "حقائب",
+      "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/bling+bling.jpg",
+          "description": "حقائب منمقة",
+          "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcolorfamily%5D%5B0%5D=%D8%B0%D9%87%D8%A8%D9%8A%2C%D8%B0%D9%87%D8%A8%D9%8A+%D9%88%D8%B1%D8%AF%D9%8A%2C%D9%81%D8%B6%D9%8A%2C%D9%85%D8%B9%D8%AF%D9%86%D9%8A"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "ألدو",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88%2C%D8%A3%D9%84%D8%AF%D9%88+%D8%A3%D9%83%D8%B3%D9%8A%D8%B3%D9%88%D8%B1%D9%8A%D8%B2",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "تشارلز آند كيث",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "ديون لندن",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "بفرلي هيلس بولو كلوب",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/nine+west.jpg",
+              "label": "ناين وست",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%86+%D9%88%D8%B3%D8%AA",
+              "itemName": "Nine West"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/call+it+spring.jpg",
+              "label": "كول ات سبرنج",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D9%88%D9%84+%D8%A7%D8%AA+%D8%B3%D8%A8%D8%B1%D9%86%D8%AC",
+              "itemName": "Call it Spring"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/herschel.jpg",
+              "label": "هيرشل",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%84",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/naturalizer.jpg",
+              "label": "ناتشيراليزر",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%86%D8%A7%D8%AA%D8%B4%D9%8A%D8%B1%D8%A7%D9%84%D9%8A%D8%B2%D8%B1",
+              "itemName": "Naturalizer"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/parfois.jpg",
+              "label": "بارفوا",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D8%A7%D8%B1%D9%81%D9%88%D8%A7%D9%87",
+              "itemName": "Parfois"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/Jansport-Logo-260X260-04212017.jpg",
+              "label": "جان سبورت",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D8%A7%D9%86+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA",
+              "itemName": "Jansport"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_cross+body.jpg",
+              "label": "كروس بودي",
+              "link": "/women/bags/cross-body-bag.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%A8%D8%AD%D9%85%D8%A7%D9%84%D8%A9%20%D8%B7%D9%88%D9%8A%D9%84%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%A8%D8%AD%D9%85%D8%A7%D9%84%D8%A9%20%D8%B7%D9%88%D9%8A%D9%84%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Cross Body Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_tote+bags.jpg",
+              "label": "حقائب توت",
+              "link": "/women/bags/totes.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D9%8A%D8%AF%20%D9%83%D8%A8%D9%8A%D8%B1%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D9%8A%D8%AF%20%D9%83%D8%A8%D9%8A%D8%B1%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Totes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_shoulder+bag.jpg",
+              "label": "حقائب كتف",
+              "link": "/women/bags/shoulder-bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D9%83%D8%AA%D9%81&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D9%83%D8%AA%D9%81&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Shoulder Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_backpack.jpg",
+              "label": "حقائب ظهر",
+              "link": "/women/bags/backpacks.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%B8%D9%87%D8%B1&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%B8%D9%87%D8%B1&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Backpacks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_clutches.jpg",
+              "label": "حقائب كلاتش",
+              "link": "/women/bags/clutches.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D9%8A%D8%AF&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%2F%2F%2F%20%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%20%D9%8A%D8%AF&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Clutches"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/Bags/women_view+all_bags_wallet.jpg",
+              "label": "محافظ",
+              "link": "/women/accessories/wallets.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%2F%2F%2F%20%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Wallets"
+            }
+          ],
+          "button": {
+            "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+            "plp_title": "حقائب"
+          }
+        }
+      ]
+    },
+    {
+      "key": "sports",
+      "label": "رياضة",
+      "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/MicrosoftTeams-image+(15).png",
+          "description": "ركن السنيكرز",
+          "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/adidas.jpg",
+              "label": "اديداس",
+              "link": "/adidas.html?q=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/skechers.jpg",
+              "label": "سكيتشرز",
+              "link": "/skechers.html?q=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%83%D9%8A%D8%AA%D8%B4%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Skechers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/nike.jpg",
+              "label": "نايك",
+              "link": "/nike.html?q=%D9%86%D8%A7%D9%8A%D9%83&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%A7%D9%8A%D9%83&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Nike"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/reebok.jpg",
+              "label": "ريبوك",
+              "link": "/reebok.html?q=%D8%B1%D9%8A%D8%A8%D9%88%D9%83&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D9%8A%D8%A8%D9%88%D9%83&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bbrand_name%5D%5B0%5D=%D8%B1%D9%8A%D8%A8%D9%88%D9%83",
+              "itemName": "Reebok"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/puma.jpg",
+              "label": "بوما",
+              "link": "/puma.html?q=%D8%A8%D9%88%D9%85%D8%A7&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%88%D9%85%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Puma"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/asics.jpg",
+              "label": "اسيكس",
+              "link": "/asics.html?q=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%B3%D9%8A%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Asics"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-Nov-2020/UA+logo+300x300px.jpg",
+              "label": "أندر آرمور",
+              "link": "/under-armour.html?q=Under+Armour&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Under+Armour&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Under Armour"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/fila.jpg",
+              "label": "فيلا",
+              "link": "/fila.html?q=%D9%81%D9%8A%D9%84%D8%A7&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%81%D9%8A%D9%84%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Fila"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/anta.jpg",
+              "label": "انتا",
+              "link": "/catalogsearch/result/?q=%D8%A7%D9%86%D8%AA%D8%A7&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%86%D8%AA%D8%A7&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%2C%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Anta"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/sports+shoes.jpg",
+              "label": "أحذية رياضية",
+              "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
+              "itemName": "Sports Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/tees.jpg",
+              "label": "تيشيرتات",
+              "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA",
+              "itemName": "Tees "
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/pants.jpg",
+              "label": "بنطلونات رياضية",
+              "link": "/category-170.html?q=category+170&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=category+170&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AC%D9%88%D8%BA%D8%B1",
+              "itemName": "Track Pants"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/06-10-2021/n000004040832-1.jpg",
+              "label": "قوارير مياه",
+              "link": "/catalogsearch/result/?q=bottle&p=0&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AD%D9%88%D8%A7%D8%A6%D8%AC+%D8%A7%D9%84%D8%B3%D9%81%D8%B1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Sports Bottles"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/06-10-2021/ba5883-082-1.jpg",
+              "label": "حقائب",
+              "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%2C%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AD%D9%82%D8%A7%D8%A6%D8%A8+%D8%B8%D9%87%D8%B1",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/1-2%20test/Men_Cat%201_Running.jpg",
+              "label": "أحذيّة للجري",
+              "link": "/newrunningwomen.html?q=newrunningwomen&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=newrunningwomen&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Running Shoes"
+            }
+          ],
+          "button": {
+            "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+            "plp_title": "رياضة"
+          }
+        }
+      ]
+    },
+    {
+      "key": "clothing",
+      "label": "ملابس",
+      "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/sports/tee+time.jpg",
+          "description": "تيشيرتات",
+          "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AA%D9%8A%D8%B4%D8%B1%D8%AA%D8%A7%D8%AA+%D9%88%D8%A8%D9%84%D8%A7%D9%8A%D8%B2%2C%D8%AA%D9%8A%D8%B4%D8%B1%D8%AA%D8%A7%D8%AA"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/trendyol.jpg",
+              "label": "ترينديول",
+              "link": "/trendyol.html?q=%D8%AA%D8%B1%D9%8A%D9%86%D8%AF%D9%8A%D9%88%D9%84&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D8%B1%D9%8A%D9%86%D8%AF%D9%8A%D9%88%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Trendyol"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/lcwaikiki.jpg",
+              "label": "اٍل سي واي كيكي",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A",
+              "itemName": "LC Waikiki"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "بفرلي هيلس بولو كلوب",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/levis.jpg",
+              "label": "ليفايز",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2",
+              "itemName": "Levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aeropostale.jpg",
+              "label": "أيروبوستال",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84",
+              "itemName": "Aeropostale"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "أردين",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%B1%D8%AF%D9%8A%D9%86",
+              "itemName": "Ardene"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/anotah+(1).jpg",
+              "label": "انوتا",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%86%D9%88%D8%AA%D8%A7",
+              "itemName": "Anotah"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/veromoda.jpg",
+              "label": "فيرو مودا",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%81%D9%8A%D8%B1%D9%88+%D9%85%D9%88%D8%AF%D8%A7",
+              "itemName": "Vero Moda"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/la+vie+en+rose.jpg",
+              "label": "لافي ان روز",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%84%D8%A7%D9%81%D9%8A+%D8%A7%D9%86+%D8%B1%D9%88%D8%B2",
+              "itemName": "La Vie en Rose"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/undiz.jpg",
+              "label": "اونديز",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%88%D9%86%D8%AF%D9%8A%D8%B2",
+              "itemName": "Undiz"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/_Tops+%26+Tees.jpg",
+              "label": "توبات وتيشيرتات",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%AA%D9%8A%D8%B4%D8%B1%D8%AA%D8%A7%D8%AA%2C%D8%AA%D9%8A%D8%B4%D8%B1%D8%AA%D8%A7%D8%AA+%D9%88%D8%A8%D9%84%D8%A7%D9%8A%D8%B2",
+              "itemName": "Tops & Tshirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Dresses.jpg",
+              "label": "فساتين",
+              "link": "/women/clothing/dresses.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%2F%2F%2F%20%D9%81%D8%B3%D8%A7%D8%AA%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Dresses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Shirts+%26+Blouses.jpg",
+              "label": "قمصان وبلوزات",
+              "link": "/women/clothing/shirts-blouses.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%82%D9%85%D8%B5%D8%A7%D9%86+%D9%88%D8%A8%D9%84%D8%A7%D9%8A%D8%B2&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%82%D9%85%D8%B5%D8%A7%D9%86+%D9%88%D8%A8%D9%84%D8%A7%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Shirts & Blouses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/Sportswear.jpg",
+              "label": "ملابس رياضية",
+              "link": "/women/clothing/sportswear.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Sportswear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Modest+Wear.jpg",
+              "label": "أزياء محتشمة",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bcategories_without_path%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%2C%D8%B9%D8%A8%D8%A7%D9%8A%D8%A7%D8%AA",
+              "itemName": "Modest Wear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Pants.jpg",
+              "label": "بنطلونات",
+              "link": "/women/clothing/pants.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%2F%2F%2F%20%D8%A8%D9%86%D8%A7%D8%B7%D9%8A%D9%84&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Pants"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/New+in/View+All/Jeans.jpg",
+              "label": "جينزات",
+              "link": "/women/clothing/jeans.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D8%AC%D9%8A%D9%86%D8%B2&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%2F%2F%2F%20%D8%AC%D9%8A%D9%86%D8%B2&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Jeans"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/innerwear.jpg",
+              "label": "ملابس داخلية",
+              "link": "/women/clothing/lingerie.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Innerwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/skirt.jpg",
+              "label": "تنانير",
+              "link": "/women/clothing/skirts.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AA%D9%86%D8%A7%D9%86%D9%8A%D8%B1&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AA%D9%86%D8%A7%D9%86%D9%8A%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Skirts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Sleepwear.jpg",
+              "label": "ملابس نوم",
+              "link": "/women/clothing/sleepwear.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%86%D9%88%D9%85&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%86%D9%88%D9%85&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sleepwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Shorts.jpg",
+              "label": "شورتات",
+              "link": "/women/clothing/shorts.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%B4%D9%88%D8%B1%D8%AA%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Shorts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Sweaters+%26+Knitwear.jpg",
+              "label": "ملابس & محبوكة",
+              "link": "/women/clothing/knitwear.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D8%AD%D8%A8%D9%88%D9%83%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D8%AD%D8%A8%D9%88%D9%83%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Sweaters & Knitwear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/jacket.jpg",
+              "label": "جاكيتات",
+              "link": "/women/clothing/jackets.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AC%D8%A7%D9%83%D9%8A%D8%AA%D8%A7%D8%AA&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%AC%D8%A7%D9%83%D9%8A%D8%AA%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Jackets"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Jumpsuits.jpg",
+              "label": "وجمبسوت",
+              "link": "/women/clothing/jumpsuits.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%A7%D9%81%D8%B1%D9%88%D9%84%D8%A7%D8%AA+%D9%88%D8%AC%D9%85%D8%A8%D8%B3%D9%88%D8%AA&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D8%A7%D9%81%D8%B1%D9%88%D9%84%D8%A7%D8%AA+%D9%88%D8%AC%D9%85%D8%A8%D8%B3%D9%88%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Jumpsuits"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Maternity+Clothing.jpg",
+              "label": "ملابس الأمومة",
+              "link": "/women/clothing/maternity.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AD%D9%88%D8%A7%D9%85%D9%84+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%AD%D9%88%D8%A7%D9%85%D9%84+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Maternity Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Swim+Wear.jpg",
+              "label": "ملابس سباحة",
+              "link": "/women/clothing/swimwear.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B3%D8%A8%D8%A7%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Swim Wear"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Plus+Size.jpg",
+              "label": "حجم اضافي",
+              "link": "/women/clothing/plus-size.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D9%85%D9%82%D8%A7%D8%B3+%D9%83%D8%A8%D9%8A%D8%B1+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%2F%2F%2F+%D9%85%D9%82%D8%A7%D8%B3+%D9%83%D8%A8%D9%8A%D8%B1+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Plus Size"
+            }
+          ],
+          "button": {
+            "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+            "plp_title": "ملابس"
+          }
+        }
+      ]
+    },
+    {
+      "key": "accessories",
+      "label": "إكسسوارات",
+      "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/finishing+touches-accessories.jpg",
+          "description": "قطع تكتمل بها أناقتك",
+          "link": "/women/jewellery.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/aldo.jpg",
+              "label": "ألدو",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A3%D9%84%D8%AF%D9%88%2C%D8%A3%D9%84%D8%AF%D9%88+%D8%A3%D9%83%D8%B3%D9%8A%D8%B3%D9%88%D8%B1%D9%8A%D8%B2",
+              "itemName": "Aldo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "تشارلز آند كيث",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/dune+london.jpg",
+              "label": "ديون لندن",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AF%D9%8A%D9%88%D9%86+%D9%84%D9%86%D8%AF%D9%86",
+              "itemName": "Dune London"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/herschel.jpg",
+              "label": "هيرشل",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%87%D9%8A%D8%B1%D8%B4%D9%84",
+              "itemName": "Herschel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/ardene.jpg",
+              "label": "أردين",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%B1%D8%AF%D9%8A%D9%86",
+              "itemName": "Ardene"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_watches.jpg",
+              "label": "ساعات",
+              "link": "/women/accessories/watches.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA%D8%A7&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%2F%2F%2F%20%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA%D8%A7&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Watch"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_sunglasses.jpg",
+              "label": "نظارات شمسية",
+              "link": "/women/accessories/sunglasses.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%2F%2F%2F%20%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%B4%D9%85%D8%B3%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Sunglasses"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_jewellery.jpg",
+              "label": "مجوهرات",
+              "link": "/women/jewellery.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D9%85%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Jewellery"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_hair+accessories.jpg",
+              "label": "إكسسوارات الشعر",
+              "link": "/women/accessories/hair-accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%2F%2F%2F%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Hair Accessory"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_belts.jpg",
+              "label": "أحزمة",
+              "link": "/women/accessories/belts.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A3%D8%AD%D8%B2%D9%85%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%2F%2F%2F%20%D8%A3%D8%AD%D8%B2%D9%85%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Belts"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Socks.jpg",
+              "label": "جوارب",
+              "link": "/women/accessories/socks.html?q=%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AC%D9%88%D8%A7%D8%B1%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%20%2F%2F%2F%20%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%20%2F%2F%2F%20%D8%AC%D9%88%D8%A7%D8%B1%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Socks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Kids+Cat+Page/Clothing/MicrosoftTeams-image+(33).png",
+              "label": "منتجات العناية بالأحذية",
+              "link": "/shoe-care.html?q=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84%2C%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Shoecare"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_scarves.jpg",
+              "label": "أوشحة",
+              "link": "/women/accessories/scarves.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A3%D9%88%D8%B4%D8%AD%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%A3%D9%88%D8%B4%D8%AD%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Scarves"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/MAsk.jpg",
+              "label": "أقنعة",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic&p=1&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D9%82%D9%86%D8%B9%D8%A9",
+              "itemName": "Mask"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/women_view+all_accessories_hats.jpg",
+              "label": "قبعات",
+              "link": "/women/accessories/hats.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D9%82%D8%A8%D8%B9%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D9%82%D8%A8%D8%B9%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Caps & Hats"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Travel.jpg",
+              "label": "السفر",
+              "link": "/women/accessories/travel.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D9%81%D8%B1%D8%A7&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%A7%D9%84%D8%B3%D9%81%D8%B1%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Travel"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Tech.jpg",
+              "label": "تكنولوجيا",
+              "link": "/women/accessories/technology.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Tech"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Keychain.jpg",
+              "label": "سلاسل مفاتيح",
+              "link": "/women/accessories/key-chains.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B9%D9%84%D9%91%D8%A7%D9%82%D8%A7%D8%AA+%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+%2F%2F%2F+%D8%B9%D9%84%D9%91%D8%A7%D9%82%D8%A7%D8%AA+%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1",
+              "itemName": "Keychain"
+            }
+          ],
+          "button": {
+            "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+            "plp_title": "إكسسوارات "
+          }
+        }
+      ]
+    },
+    {
+      "key": "premium",
+      "label": "بريميوم",
+      "link": "/catalogsearch/result/?q=+&qid=7ace68e495ddb4280e29cd89cbbb21c2&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AC%D9%8A%D8%B3%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86%2C%D9%83%D8%A7%D8%B1%D9%84+%D9%84%D8%A7%D8%BA%D8%B1%D9%81%D9%8A%D9%84%D8%AF%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_arabic_products",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/premium.jpg",
+          "description": "لمحبي الشعارات",
+          "link": "/logo-tees.html?q=%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA+%D9%85%D8%B9+%D9%84%D9%88%D8%BA%D9%88+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%D8%A7%D8%AA+%D9%85%D8%B9+%D9%84%D9%88%D8%BA%D9%88+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/tommy.jpg",
+              "label": "تومي هيلفيغر",
+              "link": "/tommy-hilfiger.html?q=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Tommy Hilfiger"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/calvin+klein.jpg",
+              "label": "كالفين كلاين",
+              "link": "/calvin-klein.html?q=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Calvin Klein"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/lacoste.jpg",
+              "label": "لاكوست",
+              "link": "/lacoste.html?q=%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Lacoste"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/colehaan.jpg",
+              "label": "كول هان",
+              "link": "/cole-haan.html?q=%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Cole Haan"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/guess.jpg",
+              "label": "جيس",
+              "link": "/guess.html?q=%D8%AC%D9%8A%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AC%D9%8A%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D9%8A%D8%B3",
+              "itemName": "Guess"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/rituals.jpg",
+              "label": "ريتوالز",
+              "link": "/catalogsearch/result/?q=+&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/01-Nov-2020/Sacoor+Brothers+LOGO+black+300x300.jpg",
+              "label": "ساكور براذرز",
+              "link": "/sacoor-brothers.html?q=%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D8%A7%D9%83%D9%88%D8%B1+%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Sacoor Brothers"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/assets/brands/karl_lagerfeld.jpg",
+              "label": "كارل لاغرفيلد",
+              "link": "/karl-legerfield.html?q=%D9%83%D8%A7%D8%B1%D9%84+%D9%84%D8%A7%D8%BA%D8%B1%D9%81%D9%8A%D9%84%D8%AF&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%A7%D8%B1%D9%84+%D9%84%D8%A7%D8%BA%D8%B1%D9%81%D9%8A%D9%84%D8%AF&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "Karl Lagerfeld"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_SHOES.jpg",
+              "label": "أحذية",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86%2C%D9%83%D8%A7%D8%B1%D9%84+%D9%84%D8%A7%D8%BA%D8%B1%D9%81%D9%8A%D9%84%D8%AF%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D8%AC%D9%8A%D8%B3",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_BAGS.jpg",
+              "label": "حقائب",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86%2C%D8%AC%D9%8A%D8%B3%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_CLOTHING.jpg",
+              "label": "ملابس",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D8%AC%D9%8A%D8%B3%2C%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%AA%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_ACCESSORIES.jpg",
+              "label": "إكسسوارات",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_BEAUTY.jpg",
+              "label": "جمال",
+              "link": "/catalogsearch/result/?q=+&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2",
+              "itemName": "BEauty"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/accessories/Premium/WOMEN_PREMIUM_SPORTS.jpg",
+              "label": "رياضة",
+              "link": "/sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bsort%5D%5B0%5D=price_high",
+              "itemName": "Sports"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=+&qid=7ace68e495ddb4280e29cd89cbbb21c2&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D9%88%D9%85%D9%8A+%D8%AC%D9%8A%D9%86%D8%B2%2C%D8%AA%D9%88%D9%85%D9%8A+%D9%87%D9%8A%D9%84%D9%81%D9%8A%D8%BA%D8%B1%2C%D8%AC%D9%8A%D8%B3%2C%D9%83%D9%88%D9%84+%D9%87%D8%A7%D9%86%2C%D9%83%D8%A7%D8%B1%D9%84+%D9%84%D8%A7%D8%BA%D8%B1%D9%81%D9%8A%D9%84%D8%AF%2C%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&idx=enterprise_magento_arabic_products",
+            "plp_title": "بريميوم"
+          }
+        }
+      ]
+    },
+    {
+      "key": "beauty",
+      "label": "جمال",
+      "link": "/women/beauty.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D9%86%D8%B3%D8%A7%D8%A1",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/fragrances_.jpg",
+          "description": "عطور",
+          "link": "/signature-scents.html?q=%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A6%D8%AD+%D8%A7%D9%84%D9%85%D9%85%D9%8A%D8%B2%D8%A9+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A6%D8%AD+%D8%A7%D9%84%D9%85%D9%85%D9%8A%D8%B2%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/rituals.jpg",
+              "label": "ريتوالز ",
+              "link": "/rituals.html?q=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D9%8A%D8%AA%D9%88%D8%A7%D9%84%D8%B2+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Rituals"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/inglot.jpg",
+              "label": "إنجلوت",
+              "link": "/inglot.html?q=%D8%A7%D9%86%D8%AC%D9%84%D9%88%D8%AA&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%86%D8%AC%D9%84%D9%88%D8%AA&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D9%86%D8%AC%D9%84%D9%88%D8%AA",
+              "itemName": "Inglot"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/Niran.jpg",
+              "label": "Niran",
+              "link": "/niran.html?q=%D9%86%D9%8A%D8%B1%D8%A7%D9%86&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D9%8A%D8%B1%D8%A7%D9%86&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Niran"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/Loreal+.jpg",
+              "label": "لوريال باريس",
+              "link": "/loreal.html?q=%D9%84%D9%88%D8%B1%D9%8A%D8%A7%D9%84&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%88%D8%B1%D9%8A%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "L'oreal Paris"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/ajmal+perfume.jpg",
+              "label": " أجمل برفم",
+              "link": "/ajmal-perfume.html?q=%D8%A3%D8%AC%D9%85%D9%84+%D9%84%D9%84%D8%B9%D8%B7%D9%88%D8%B1&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%AC%D9%85%D9%84+%D9%84%D9%84%D8%B9%D8%B7%D9%88%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Ajmal Perfume"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/Sigma+Beauty.jpg",
+              "label": "سيجما بيوتي",
+              "link": "/sigma-beauty.html?q=%D8%B3%D9%8A%D8%AC%D9%85%D8%A7+%D8%A8%D9%8A%D9%88%D8%AA%D9%8A&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B3%D9%8A%D8%AC%D9%85%D8%A7+%D8%A8%D9%8A%D9%88%D8%AA%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Sigma Beauty"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/SOME+BY+MI.jpg",
+              "label": "MIبعض من ",
+              "link": "/some-by-mi.html?q=MI%D8%A8%D8%B9%D8%B6+%D9%85%D9%86+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=MI%D8%A8%D8%B9%D8%B6+%D9%85%D9%86+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Some By Mi"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/Swiss+Arabian.jpg",
+              "label": "Swiss Arabian",
+              "link": "/swiss-arabian.html?q=Swiss+Arabian&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Swiss+Arabian&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Swiss Arabian"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/montblanc.jpg",
+              "label": "Montblanc",
+              "link": "/montblanc.html?q=MONTBLANC&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=MONTBLANC&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Montblanc"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/yves+rocher.jpg",
+              "label": "يفيس روتشر",
+              "link": "/yves-rocher.html?q=%D9%8A%D9%81%D9%8A%D8%B3+%D8%B1%D9%88%D8%AA%D8%B4%D8%B1&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%8A%D9%81%D9%8A%D8%B3+%D8%B1%D9%88%D8%AA%D8%B4%D8%B1&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Yves Rocher"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/coach.jpg",
+              "label": "كوش",
+              "link": "/coach.html?q=%D9%83%D9%88%D8%AA%D8%B4&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D9%88%D8%AA%D8%B4&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Coach"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/jimmy+choo.jpg",
+              "label": "جيمي شو",
+              "link": "/catalogsearch/result/?q=%D8%AC%D9%8A%D9%85%D9%8A+%D8%B4%D9%88&p=0&dFR%5Bbrand_name%5D%5B0%5D=%D8%AC%D9%8A%D9%85%D9%8A+%D8%B4%D9%88",
+              "itemName": "Jimmy Choo"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/calvin+klein.jpg",
+              "label": "كالفين كلاين",
+              "link": "/women/beauty.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D9%83%D8%A7%D9%84%D9%81%D9%8A%D9%86+%D9%83%D9%84%D8%A7%D9%8A%D9%86&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%B9%D8%B7%D9%88%D8%B1",
+              "itemName": "Calvin Klein"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_eyes.jpg",
+              "label": "العيون",
+              "link": "/eyemakeups.html?q=%D9%85%D9%83%D9%8A%D8%A7%D8%AC+%D8%B9%D9%8A%D9%88%D9%86+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%83%D9%8A%D8%A7%D8%AC+%D8%B9%D9%8A%D9%88%D9%86+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Eyes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_face.jpg",
+              "label": "الوجه",
+              "link": "/beauty-face-all-edit.html?q=Beauty%20Face%20All%20Edit&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beauty%20Face%20All%20Edit&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Face"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_lips.jpg",
+              "label": "أحمر الشفاه",
+              "link": "/beauty-lips-all-edit.html?q=Beauty-Lips-All-Edit&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Beauty-Lips-All-Edit&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Lipsticks"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_fragrances.jpg",
+              "label": "العطور",
+              "link": "/signature-scents.html?q=%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A6%D8%AD+%D8%A7%D9%84%D9%85%D9%85%D9%8A%D8%B2%D8%A9+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A6%D8%AD+%D8%A7%D9%84%D9%85%D9%85%D9%8A%D8%B2%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Fragrance"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Arabic+Fragrance.jpg",
+              "label": "العطر العربي",
+              "link": "/arabic-fragrance.html?q=%D8%B9%D8%B7%D9%88%D8%B1+%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B9%D8%B7%D9%88%D8%B1+%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Arabic Fragrance"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_skincare.jpg",
+              "label": "مستحضرات العناية بالبشرة",
+              "link": "/korean.html?q=%D9%83%D9%88%D8%B1%D9%8A&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D9%88%D8%B1%D9%8A&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Korean Brands"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_nails.jpg",
+              "label": "الأظافر",
+              "link": "/perfect-nails.html?q=%D8%A3%D8%B8%D8%A7%D9%81%D8%B1++&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%B8%D8%A7%D9%81%D8%B1++&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Nails"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Eyelashes.jpg",
+              "label": "الرموش",
+              "link": "/eye-lashes.html?q=%D8%B1%D9%85%D9%88%D8%B4+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%B1%D9%85%D9%88%D8%B4+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Eyelashes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_bodycare.jpg",
+              "label": "العناية بالشعر",
+              "link": "/complete-hair-care.html?q=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9+%D8%A8%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9+%D8%A8%D8%A7%D9%84%D8%B4%D8%B9%D8%B1+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Hair Care"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Tools+%26+Accessories.jpg",
+              "label": "أدوات وإكسسوارات",
+              "link": "/tools-and-accessories.html?q=%D8%A3%D8%AF%D9%88%D8%A7%D8%AA+%D9%88%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A3%D8%AF%D9%88%D8%A7%D8%AA+%D9%88%D8%A5%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Tools & Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/women_view+all_beauty_giftsets.jpg",
+              "label": "أطقم هدايا",
+              "link": "/gift-set.html?q=%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D9%87%D8%AF%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D9%87%D8%AF%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Gift Sets"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/20-11-2021/icon+image/icon+change/Vegan+Beauty.jpg",
+              "label": "صديقة للبيئة",
+              "link": "/vegan-beauty-edit.html?q=%D8%AC%D9%85%D8%A7%D9%84+%D9%86%D8%A8%D8%A7%D8%AA%D9%8A+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AC%D9%85%D8%A7%D9%84+%D9%86%D8%A8%D8%A7%D8%AA%D9%8A+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Vegan Beauty"
+            }
+          ],
+          "button": {
+            "link": "/women/beauty.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1%2C%D9%86%D8%B3%D8%A7%D8%A1%2C%D9%86%D8%B3%D8%A7%D8%A1",
+            "plp_title": "جمال"
+          }
+        }
+      ]
+    },
+    {
+      "key": "exclusive",
+      "label": "حصري",
+      "link": "/catalogsearch/result/?q=%2B&qid=d97636b975d6c7d7c153438df539e1f2&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bpromotion%5D%5B0%5D=حصريّة",
+      "design": {
+        "background_color": "#000",
+        "text_color": "#000"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/exclusive+c%26k.jpg",
+          "description": "تشارلز آند كيث",
+          "link": "/charles-keith.html?q=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bpromotion%5D%5B0%5D=%D8%AD%D8%B5%D8%B1%D9%8A%D9%91%D8%A9"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/charles+%26+Keith.jpg",
+              "label": "تشارلز آند كيث",
+              "link": "/charles-keith.html?q=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bpromotion%5D%5B0%5D=%D8%AD%D8%B5%D8%B1%D9%8A%D9%91%D8%A9",
+              "itemName": "Charles & Keith"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/BHPC.jpg",
+              "label": "بفرلي هيلس بولو كلوب",
+              "link": "/beverly-hills-polo-club.html?q=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D9%81%D8%B1%D9%84%D9%8A+%D9%87%D9%8A%D9%84%D8%B2+%D8%A8%D9%88%D9%84%D9%88+%D9%83%D9%84%D9%88%D8%A8&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bpromotion%5D%5B0%5D=%D8%AD%D8%B5%D8%B1%D9%8A%D9%91%D8%A9",
+              "itemName": "BHPC"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/hush+puppies.jpg",
+              "label": "هاش بابيز",
+              "link": "/hush-puppies.html?q=%D9%87%D8%A7%D8%B4+%D8%A8%D8%A7%D8%A8%D9%8A%D8%B2&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D8%A7%D8%B4+%D8%A8%D8%A7%D8%A8%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bpromotion%5D%5B0%5D=%D8%AD%D8%B5%D8%B1%D9%8A%D9%91%D8%A9",
+              "itemName": "Hush Puppies"
+            },
+            {
+              "image_url": "https://6thstreetmobileapp-eu-c.s3.eu-central-1.amazonaws.com/AllBanners/New-Folder/Cat+brands/By+Brands/crocs.jpg",
+              "label": "كروكس",
+              "link": "/crocs.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D8%B1%D8%AC%D8%A7%D9%84&dFR%5Bpromotion%5D%5B0%5D=%D8%AD%D8%B5%D8%B1%D9%8A%D9%91%D8%A9",
+              "itemName": "Crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/New-Folder/Cat+brands/By+Brands/Clovia.jpg",
+              "label": "Clovia",
+              "link": "/clovia.html?q=%D9%83%D9%84%D9%88%D9%81%D9%8A%D8%A7+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D9%84%D9%88%D9%81%D9%8A%D8%A7+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1",
+              "itemName": "Clovia"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/WOMEN_EXCLUSIVE_FOOTWEAR.jpg",
+              "label": "أحذية",
+              "link": "/exclusive-march.html?q=%D8%AD%D8%B5%D8%B1%D9%8A+%D9%84%D8%B4%D9%87%D8%B1+%D9%85%D8%A7%D8%B1%D8%B3+&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D8%AD%D8%B5%D8%B1%D9%8A+%D9%84%D8%B4%D9%87%D8%B1+%D9%85%D8%A7%D8%B1%D8%B3+&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bcategories_without_path%5D%5B0%5D=%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%2C%D8%B5%D9%86%D8%A7%D8%AF%D9%84%2C%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9+%D8%A8%D9%83%D8%B9%D8%A8",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/WOMEN_EXCLUSIVE_BAGS.jpg",
+              "label": "حقائب",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/WOMEN_EXCLUSIVE_CLOTHING.jpg",
+              "label": "ملابس",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bbrand_name%5D%5B0%5D=%D8%A7%D8%B1%D8%AF%D9%8A%D9%86%2CClovia",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/Cat+upload/Beauty/WOMEN_EXCLUSIVE_ACCESSORIES.jpg",
+              "label": "إكسسوارات",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bbrand_name%5D%5B0%5D=%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%A2%D9%86%D8%AF+%D9%83%D9%8A%D8%AB%2C%D8%A7%D9%8D%D9%84+%D8%B3%D9%8A+%D9%88%D8%A7%D9%8A+%D9%83%D9%8A%D9%83%D9%8A&dFR%5Bcategories_without_path%5D%5B0%5D=%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA+%D8%B4%D9%85%D8%B3%D9%8A%D8%A9%2CBody+Jewellery%2C%D8%A3%D8%B3%D8%A7%D9%88%D8%B1%2C%D8%A3%D9%82%D8%B1%D8%A7%D8%B7%2C%D8%AE%D9%88%D8%A7%D8%AA%D9%85%2C%D8%B3%D9%84%D8%A7%D8%B3%D9%84%2CShoe+Accessories%2C%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%AC%D8%B3%D9%85",
+              "itemName": "Accessories"
+            }
+          ],
+          "button": {
+            "link": "/catalogsearch/result/?q=%2B&qid=d97636b975d6c7d7c153438df539e1f2&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bpromotion%5D%5B0%5D=حصريّة",
+            "plp_title": "حصري"
+          }
+        }
+      ]
+    },
+    {
+      "key": "sale",
+      "label": "قسم العروض",
+      "link": "/women/outlet.html?q=نساء&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=نساء&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+      "design": {
+        "background_color": "#D12229",
+        "text_color": "#D12229"
+      },
+      "data": [
+        {
+          "type": "banner",
+          "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/banner/tshirts_outlet.png",
+          "description": "تيشيرتات",
+          "link": "/women/outlet.html?q=%D9%86%D8%B3%D8%A7%D8%A1&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1"
+        },
+        {
+          "type": "slider",
+          "title": "تسوق حسب الماركة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Adidas.jpg",
+              "label": "اديداس",
+              "link": "/adidas/women.html?q=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3%20%D9%86%D8%B3%D8%A7%D8%A1&idx=enterprise_magento_arabic_products&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A7%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "Adidas"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Aeropostale_Ar.jpg",
+              "label": "أيروبوستال",
+              "link": "/aeropostale.html?q=+%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=+%D8%A7%D9%8A%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "aeropostale"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Birkenstock_Ar.jpg",
+              "label": "بيركنستوك",
+              "link": "/birkenstock/women.html?q=%D8%A8%D9%8A%D8%B1%D9%83%D9%86%D8%B3%D8%AA%D9%88%D9%83%20%D9%86%D8%B3%D8%A7%D8%A1&idx=enterprise_magento_arabic_products&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&hFR%5Bcategories.level0%5D%5B0%5D=%D8%A8%D9%8A%D8%B1%D9%83%D9%86%D8%B3%D8%AA%D9%88%D9%83&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "birkenstock"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Crocs_Ar.jpg",
+              "label": "كروكس",
+              "link": "/crocs/women.html?q=%D9%83%D8%B1%D9%88%D9%83%D8%B3%20%D9%86%D8%B3%D8%A7%D8%A1&idx=enterprise_magento_arabic_products&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&hFR%5Bcategories.level0%5D%5B0%5D=%D9%83%D8%B1%D9%88%D9%83%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "crocs"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/brands/2020-12-30/Levis_Ar.jpg",
+              "label": "ليفايز",
+              "link": "/levis/women.html?q=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2%20%D9%86%D8%B3%D8%A7%D8%A1&idx=enterprise_magento_arabic_products&p=0&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&hFR%5Bcategories.level0%5D%5B0%5D=%D9%84%D9%8A%D9%81%D8%A7%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+              "itemName": "levi's"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/2020-03-09-staging/APP_LOGOS-14.jpg",
+              "label": "هاش بابيز",
+              "link": "/hush-puppies.html?q=%D9%87%D8%A7%D8%B4+%D8%A8%D8%A7%D8%A8%D9%8A%D8%B2&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%87%D8%A7%D8%B4+%D8%A8%D8%A7%D8%A8%D9%8A%D8%B2&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1",
+              "itemName": "hush puppies"
+            }
+          ]
+        },
+        {
+          "type": "grid",
+          "title": "تسوق حسب الفئة",
+          "items": [
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_SHOES.jpg",
+              "label": "أحذية",
+              "link": "/women/shoes.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A3%D8%AD%D8%B0%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte20",
+              "itemName": "Shoes"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_BAGS.jpg",
+              "label": "حقائب",
+              "link": "/women/bags.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%AD%D9%82%D8%A7%D8%A6%D8%A8&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Bags"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_clothing.jpg",
+              "label": "ملابس",
+              "link": "/women/clothing.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D9%85%D9%84%D8%A7%D8%A8%D8%B3&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bdiscount%5D%5B0%5D=gte20",
+              "itemName": "Clothing"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_ACCESSORIES.jpg",
+              "label": "إكسسوارات ",
+              "link": "/women/accessories.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte20",
+              "itemName": "Accessories"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_BEAUTY.jpg",
+              "label": "جمال",
+              "link": "/women/beauty.html?q=%D9%86%D8%B3%D8%A7%D8%A1+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1+%2F%2F%2F+%D8%A7%D9%84%D8%B5%D8%AD%D8%A9+%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte20",
+              "itemName": "Beauty"
+            },
+            {
+              "image_url": "https://mobilecdn.6thstreet.com/AllBanners/categories/women/category/OUTLET_sports.jpg",
+              "label": "الرياضة",
+              "link": "sportswear.html?q=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&idx=enterprise_magento_arabic&p=0&hFR%5Bcategories.level0%5D%5B0%5D=%D9%85%D9%84%D8%A7%D8%A8%D8%B3+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9&nR%5Bvisibility_catalog%5D%5B=%5D%5B0%5D%3D1&dFR%5Bgender%5D%5B0%5D=%D9%86%D8%B3%D8%A7%D8%A1&dFR%5Bdiscount%5D%5B0%5D=gte10",
+              "itemName": "Sports"
+            }
+          ],
+          "button": {
+            "link": "/women/outlet.html?q=نساء&idx=enterprise_magento_arabic_products&p=0&hFR%5Bcategories.level0%5D%5B0%5D=نساء&nR%5Bdiscount%5D%5B%3E%3D%5D%5B0%5D=10&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1",
+            "plp_title": "قسم العروض"
+          }
+        }
+      ]
+    }
+  ]
+}

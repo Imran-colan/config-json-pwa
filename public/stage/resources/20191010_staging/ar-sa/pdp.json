@@ -1,0 +1,24 @@
+{
+    "widgets": [
+    {
+        "type": "vue_visually_similar_slider",
+        "layout":
+        {
+            "title": "منتجات اخرى قد تنال إعجابك"
+        }
+    },
+    {
+        "type": "vue_recently_viewed_slider",
+        "layout":
+        {
+            "title": "منتجات عرضتها مؤخراً"
+        }
+    },
+    {
+        "type": "vue_style_it_slider",
+        "layout":
+        {
+            "title": "يمكنك تنسيقها مع"
+        }
+    }]
+}

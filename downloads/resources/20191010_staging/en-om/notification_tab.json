@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "label": "Promotional",
+    "subLabel": "Top deals, sales and more",
+    "routeKey": "promotional",
+    "changeable": true
+  },
+  {
+    "id": 2,
+    "label": "Transactional",
+    "subLabel": "Latest updates on your orders",
+    "routeKey": "transactional",
+    "changeable": false
+  }
+]

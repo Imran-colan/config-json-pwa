@@ -1,0 +1,373 @@
+{
+  "desktop": {
+    "top": [
+      {
+        "name": "product_gallery"
+      }
+    ],
+    "center": [
+      {
+        "name": "metadata"
+      },
+      {
+        "name": "size_color"
+      },
+      {
+        "name": "variants"
+      },
+      {
+        "name": "delivery"
+      },
+      {
+        "name": "policy_info"
+      },
+      {
+        "name": "offer_tabs"
+      },
+      {
+        "name": "desc_highlights"
+      }
+    ],
+    "bottom": [
+      {
+        "name": "more_from_brand"
+      },
+      {
+        "name": "inhouse_component_slider"
+      },
+      {
+        "name": "vue_component_slider"
+      },
+      {
+        "name": "from_wishlist"
+      }
+    ]
+  },
+  "mobile": {
+    "top": [
+      {
+        "name": "product_gallery"
+      }
+    ],
+    "center": [
+      {
+        "name": "metadata"
+      },
+      {
+        "name": "size_color"
+      },
+      {
+        "name": "delivery"
+      },
+      {
+        "name": "policy_info"
+      },
+      {
+        "name": "offer_tabs"
+      },
+      {
+        "name": "desc_highlights"
+      },
+      {
+        "name": "complete_the_look"
+      }
+    ],
+    "bottom": [
+      {
+        "name": "more_from_brands"
+      },
+      {
+        "name": "inhouse_component_slider"
+      },
+      {
+        "name": "vue_component_slider"
+      },
+      {
+        "name": "from_wishlist"
+      }
+    ]
+  },
+  "infoTiles_data": {
+    "genuine": {
+      "tile_icon": "genuineIcon",
+      "tile_text": "100% Genuine",
+      "popup_desc": "Rest assured, AIVI offers only 100% genuine and authentic products",
+      "popup_title": "100% Authentic"
+    },
+    "handInExchange": {
+      "tile_icon": "exchangeIcon",
+      "tile_text": "Hand in Hand Exchange",
+      "popup_desc": "We collect your return and deliver your exchange simultaneously for a faster, seamless experience",
+      "popup_title": "Hand in Hand Exchange"
+    },
+    "freeReturns": {
+      "tile_icon": "returnableIcon",
+      "tile_text": "Free Shipping & Free Returns",
+      "popup_desc": "Return any unsatisfactory items within 14 days from receiving your order.",
+      "popup_title": "Free Return"
+    },
+    "nonReturnable": {
+      "tile_icon": "nonReturnableIcon",
+      "tile_text": "Non Returnable",
+      "popup_desc": "Item cannot be returned.",
+      "popup_title": "Return Policy"
+    }
+  },
+  "infoTiles_data_new": {
+    "genuineProduct": {
+      "key": "genuineProduct",
+      "tile_icon": "genuineProduct",
+      "tile_text": "100% Genuine",
+      "popup_desc": "Rest assured, AIVI offers only 100% genuine and authentic products",
+      "popup_title": "100% Authentic",
+      "title": "100% Genuine Products",
+      "popup_body": [
+        {
+          "id": 0,
+          "type": "image",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/appareal_group_banner_logo.png",
+          "key": "apparel_group_full_logo"
+        },
+        {
+          "id": 1,
+          "type": "image",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/ic_authenticity_badge.png",
+          "key": "authenticity_badge"
+        },
+        {
+          "id": 2,
+          "type": "info",
+          "key": "authorised_retailer_certification",
+          "heading": "Authorised Retailer Certification",
+          "body": "Apparel Group certifies that At AIVI, including its holding companies and retail stores, is an authorized online and offline retailer of 100% genuine and original products across all featured brands."
+        },
+        {
+          "id": 4,
+          "type": "separator",
+          "key": "separator"
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ceoSignature.png",
+          "key": "signature"
+        },
+        {
+          "id": 6,
+          "type": "subHeading2",
+          "key": "signatory_name",
+          "text": "Neeraj Teckchandani - CEO"
+        },
+        {
+          "id": 7,
+          "type": "subHeading",
+          "key": "signatory_title",
+          "text": "Authorised Signatory"
+        },
+        {
+          "id": 8,
+          "type": "status",
+          "key": "verified_authentic",
+          "status": "success",
+          "text": "Verified Authentic"
+        }
+      ]
+    },
+    "priceAssurance": {
+      "key": "priceAssurance",
+      "tile_icon": "priceAssurance",
+      "title_text": "Price Assurance",
+      "popup_body": [
+        {
+          "id": 1,
+          "type": "text",
+          "key": "delivery_description",
+          "text": "At AIVI, we promise the best deal every time.If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
+        }
+      ]
+    },
+    "onTimeDelivery": {
+      "key": "onTimeDelivery",
+      "tile_icon": "onTimeDelivery",
+      "title_text": "On-Time Delivery",
+      "popup_body": [
+        {
+          "id": 0,
+          "type": "feature_row",
+          "key": "delivery_features",
+          "items": [
+            {
+              "id": 1,
+              "icon": "speed",
+              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_delivery-flash.png",
+              "text": "Speed you can count on"
+            },
+            {
+              "id": 2,
+              "icon": "clock",
+              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_clock.png",
+              "text": "On time or on us"
+            },
+            {
+              "id": 3,
+              "icon": "location",
+              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_location.png",
+              "text": "Know where it is, anytime"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "key": "delivery_description",
+          "text": "We understand how important it is for your order to arrive on time. That’s why we’re committed to delivering your purchases promptly, every time. If, for any reason within our control, your order doesn’t arrive by the promised date, you’ll be eligible for a refund of your shipping fee. The amount will be credited to My Cash."
+        },
+        {
+          "id": 2,
+          "type": "link",
+          "key": "terms_and_conditions",
+          "url": "/on-time-delivery",
+          "text": "Terms and Conditions",
+          "action": "open_tnc"
+        }
+      ]
+    },
+    "handInExchange": {
+      "tile_icon": "exchangeIcon",
+      "tile_text": "Seamless Exchanges",
+      "popup_desc": "We’ll pick up your return and drop off your exchange at the same time for a hassle-free experience! Exchange eligibility will be confirmed after your order, as some items may not be exchangeable.",
+      "popup_title": "Seamless Exchanges"
+    },
+    "freeReturns": {
+      "tile_icon": "returnableIcon",
+      "tile_text": "Free Returns",
+      "popup_desc": "Return any unsatisfactory items for free within 14 days of receiving your order.",
+      "popup_title": "Free Returns"
+    },
+    "nonReturnable": {
+      "tile_icon": "nonReturnableIcon",
+      "tile_text": "Non Returnable",
+      "popup_desc": "Item cannot be returned.",
+      "popup_title": "Return Policy"
+    }
+  },
+  "widgets": [
+    {
+      "type": "vue_visually_similar_slider",
+      "layout": {
+        "title": "You may also like"
+      }
+    },
+    {
+      "type": "vue_recently_viewed_slider",
+      "layout": {
+        "title": "Recently viewed"
+      }
+    },
+    {
+      "type": "vue_style_it_slider",
+      "layout": {
+        "title": "Style it with"
+      }
+    }
+  ],
+  "inhouse_widgets": [
+    {
+      "type": "similarProducts",
+      "layout": {
+        "title": "Similar Products"
+      }
+    },
+    {
+      "type": "recently_viewed_slider",
+      "header": {
+        "title": "Recently viewed"
+      }
+    },
+    {
+      "type": "dynamic_widget",
+      "index": 4,
+      "promotion_name": "Dynamic Wigets Promo Name Slider",
+      "tag": "Dynamic Wigets Tag Name Slider",
+      "data_url": "https://recsys.6thstreet.com/recommend/pdp",
+      "title": "Dynamic Wigets Title Slider",
+      "background_color": "#ffffff",
+      "view_style": "slider",
+      "view_type": "product",
+      "itemPerRow": 2,
+      "minCount": 8,
+      "gender": false,
+      "results": 12,
+      "view_all_results": 10,
+      "guest": false,
+      "showItemLabel": false,
+      "header": {
+        "title": "Inspired by Your Taste"
+      },
+      "items": [
+        {
+          "promotion_name": "Dynamic Wigets Promo Name Item",
+          "tag": "Dynamic Wigets Tag Name Item"
+        }
+      ]
+    }
+  ],
+  "bank_offers": [
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/FAB.jpg",
+      "bank_name": "FAB",
+      "desc": "25% off with FAB Emirati Islamic Credit card!",
+      "link": "/store/fab-emirati-w"
+    },
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSEnglish.png",
+      "bank_name": "ANB",
+      "desc": "Spend SAR 400+ and get a \n chance to win an iPad",
+      "link": ""
+    }
+  ],
+  "similar_product_eligible_category": {
+    "Men": [
+      "Clothing",
+      "Shoes",
+      "Cloth",
+      "Bags",
+      "Footwear"
+    ],
+    "Women": [
+      "Clothing",
+      "Shoes",
+      "Cloth",
+      "Bags",
+      "Footwear"
+    ],
+    "Kids": [
+      "Clothing",
+      "Shoes",
+      "Cloth",
+      "Bags",
+      "Footwear"
+    ],
+    "رجال": [
+      "ملابس",
+      "أحذية",
+      "Cloth",
+      "حقائب",
+      "أحذية"
+    ],
+    "نساء": [
+      "ملابس",
+      "أحذية",
+      "Cloth",
+      "حقائب",
+      "أحذية"
+    ],
+    "أطفال": [
+      "ملابس",
+      "أحذية",
+      "Cloth",
+      "حقائب",
+      "أحذية"
+    ]
+  }
+}

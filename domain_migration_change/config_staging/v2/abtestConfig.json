@@ -1,0 +1,369 @@
+{
+  "ae": {
+    "Express": {
+      "campaignName": "ed_ae",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": false,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "HPP": {
+      "campaignName": "hpp",
+      "defaultUserSegment": "repeat_user",
+      "type": 1,
+      "defaultVariant": "c",
+      "defaultValue": "1",
+      "trackEvent": true
+    },
+    "ModyAI": {
+      "campaignName": "modyai",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": true,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": false
+        }
+      ]
+    },
+    "SiteWideCoupon": {
+      "campaignName": "swc",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": false,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "NewPDP": {
+      "campaignName": "new-PDP",
+      "type": 1,
+      "defaultVariant": "v1",
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "defaultValue": "v1"
+    },
+    "platformFee": {
+      "campaignName": "pf_ae",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": true,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        },
+        {
+          "name": "PlatformFee",
+          "defaultValue": 0
+        }
+      ]
+    },
+    "SimilarProducts": {
+      "campaignName": "wt_sp",
+      "type": 1,
+      "defaultVariant": "c",
+      "defaultValue": "c",
+      "getConfigVwo": true,
+      "trackEvent": true
+    }
+  },
+  "sa": {
+    "Express": {
+      "campaignName": "ed_sa",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": false,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "HPP": {
+      "campaignName": "hpp",
+      "defaultUserSegment": "repeat_user",
+      "type": 1,
+      "defaultVariant": "c",
+      "defaultValue": "1",
+      "trackEvent": true
+    },
+    "ModyAI": {
+      "campaignName": "modyai",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": true,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": false
+        }
+      ]
+    },
+    "SiteWideCoupon": {
+      "campaignName": "swc",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "NewPDP": {
+      "campaignName": "new-PDP",
+      "type": 1,
+      "defaultVariant": "v1",
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "defaultValue": "v1"
+    }
+  },
+  "kw": {
+    "Express": {
+      "campaignName": "ed_kw",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": false,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "HPP": {
+      "campaignName": "hpp",
+      "defaultUserSegment": "repeat_user",
+      "type": 1,
+      "defaultVariant": "c",
+      "defaultValue": "1",
+      "trackEvent": true
+    },
+    "ModyAI": {
+      "campaignName": "modyai",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": true,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": false
+        }
+      ]
+    },
+    "SiteWideCoupon": {
+      "campaignName": "swc",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "NewPDP": {
+      "campaignName": "new-PDP",
+      "type": 1,
+      "defaultVariant": "v1",
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "defaultValue": "v1"
+    }
+  },
+  "om": {
+    "Express": {
+      "campaignName": "ed_om",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": false,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "HPP": {
+      "campaignName": "hpp",
+      "defaultUserSegment": "repeat_user",
+      "type": 1,
+      "defaultVariant": "c",
+      "defaultValue": "1",
+      "trackEvent": true
+    },
+    "ModyAI": {
+      "campaignName": "modyai",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": true,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": false
+        }
+      ]
+    },
+    "SiteWideCoupon": {
+      "campaignName": "swc",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "NewPDP": {
+      "campaignName": "new-PDP",
+      "type": 1,
+      "defaultVariant": "v1",
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "defaultValue": "v1"
+    }
+  },
+  "bh": {
+    "Express": {
+      "campaignName": "ed_bh",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": false,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "HPP": {
+      "campaignName": "hpp",
+      "defaultUserSegment": "repeat_user",
+      "type": 1,
+      "defaultVariant": "c",
+      "defaultValue": "1",
+      "trackEvent": true
+    },
+    "ModyAI": {
+      "campaignName": "modyai",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": true,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": false
+        }
+      ]
+    },
+    "SiteWideCoupon": {
+      "campaignName": "swc",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "NewPDP": {
+      "campaignName": "new-PDP",
+      "type": 1,
+      "defaultVariant": "v1",
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "defaultValue": "v1"
+    }
+  },
+  "qa": {
+    "Express": {
+      "campaignName": "ed_qa",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": false,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "HPP": {
+      "campaignName": "hpp",
+      "defaultUserSegment": "repeat_user",
+      "type": 1,
+      "defaultVariant": "c",
+      "defaultValue": "1",
+      "trackEvent": true
+    },
+    "ModyAI": {
+      "campaignName": "modyai",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": true,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": false
+        }
+      ]
+    },
+    "SiteWideCoupon": {
+      "campaignName": "swc",
+      "defaultVariant": "c",
+      "type": 2,
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "variable": [
+        {
+          "name": "enable",
+          "defaultValue": true
+        }
+      ]
+    },
+    "NewPDP": {
+      "campaignName": "new-PDP",
+      "type": 1,
+      "defaultVariant": "v1",
+      "getConfigVwo": false,
+      "trackEvent": true,
+      "defaultValue": "v1"
+    }
+  }
+}

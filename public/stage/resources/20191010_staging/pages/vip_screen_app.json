@@ -1,0 +1,72 @@
+{
+	"data": {
+		"faq": {
+			"en": {
+				"title": "FAQs",
+				"content": [{
+						"title": "How am I a VIP member?",
+						"description": "VIP membership is awarded to our most loyal customers who have made high-value purchases."
+					},
+					{
+						"title": "How can I reach your customer service?",
+						"description": "You can contact our customer service team through the following channels:",
+						"items": [
+							"Phone: 048142666 (9:00 am to 9:00 pm)",
+							"WhatsApp: +97148142666",
+							"Email: customercare@aivi.com"
+						]
+					},
+					{
+						"title": "How do I update my account information?",
+						"description": "You can edit your account information in the \"My Account\" section. Note that certain details like Title, Name, Gender, and Date of Birth require assistance from our Customer Service team."
+					},
+					{
+						"title": "How will I receive invitations to exclusive events?",
+						"description": "You'll be notified via email, WhatsApp, SMS, or push notification, based on your chosen communication preference."
+					},
+					{
+						"title": "How will I receive early notifications about sales?",
+						"description": "You'll receive early notifications via email, WhatsApp, SMS, or push notification, based on your communication preference."
+					},
+					{
+						"title": "Still have more questions?",
+						"description": "Visit our FAQs or contact our customer service team."
+					}
+				]
+			},
+			"ar": {
+				"title": "الأسئلة الأكثر شيوعاً",
+				"content": [{
+						"title": "ماذا تعني عميل VIP؟",
+						"description": "نقوم بمنح عضوية VIP لعملائنا الأكثر ولاءً الذين يقومون بعمليات شرائية ذات قيمة عالية."
+					},
+					{
+						"title": "كيف يمكنني التواصل مع فريق خدمة العملاء التابع لكم؟",
+						"description": "يمكنك التواصل مع فريق خدمة العملاء من خلال:",
+						"items": [
+							"الهاتف: 048142666 ( 9:00 صباحاً وحتى 9:00 مساءً )",
+							"الواتس آب: 97148142666 +",
+							"البريد الإلكتروني: customercare@aivi.com"
+						]
+					},
+					{
+						"title": "كيف يمكنني تحديث بيانات حسابي؟",
+						"description": "يمكنك تعديل بياناتك من خلال الذهاب إلى \"الملف الشخصي\". ويرجى العلم بأن بعض البيانات مثل الاسم ، الجنس، تاريخ الميلاد. قد تحتاج للتواصل مع فريق خدمة العملاء للتعديل."
+					},
+					{
+						"title": "كيف سأتمكن من استلام الدعوات الخاصة بالفعاليات الحصرية؟ ",
+						"description": "سيتم إعلامك عن طريق البريد الإلكتروني، الواتس آب، رسائل نصية أو عن طريق الاشعارات على حسب اختيارك لطريقة التواصل التي ترغب بها. "
+					},
+					{
+						"title": "كيف سيتم إعلامي عن الخصومات والعروض بشكل مبكر؟  ",
+						"description": "سيتم إعلامك مبكراً عن طريق البريد الإلكتروني، الواتس آب، الرسائل النصية، أو عن طريق الاشعارات على حسب اختيارك لطريقة التواصل التي ترغب بها. "
+					},
+					{
+						"title": "هل لديك المزيد من الأسئلة؟ ",
+						"description": "برجاء الذهاب إلى الأسئلة والأجوبة أو التواصل مع فريق خدمة العملاء."
+					}
+				]
+			}
+		}
+	}
+}

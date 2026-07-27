@@ -1,0 +1,365 @@
+{
+  "desktop": {
+    "top": [
+      {
+        "name": "product_gallery"
+      }
+    ],
+    "center": [
+      {
+        "name": "metadata"
+      },
+      {
+        "name": "variants"
+      },
+      {
+        "name": "size_color"
+      },
+      {
+        "name": "delivery"
+      },
+      {
+        "name": "policy_info"
+      },
+      {
+        "name": "offer_tabs"
+      },
+      {
+        "name": "desc_highlights"
+      }
+    ],
+    "bottom": [
+      {
+        "name": "more_from_brands"
+      },
+      {
+        "name": "inhouse_component_slider"
+      },
+      {
+        "name": "vue_component_slider"
+      },
+      {
+        "name": "from_wishlist"
+      }
+    ]
+  },
+  "mobile": {
+    "top": [
+      {
+        "name": "product_gallery"
+      }
+    ],
+    "center": [
+      {
+        "name": "metadata"
+      },
+      {
+        "name": "size_color"
+      },
+      {
+        "name": "delivery"
+      },
+      {
+        "name": "policy_info"
+      },
+      {
+        "name": "offer_tabs"
+      },
+      {
+        "name": "desc_highlights"
+      },
+      {
+        "name": "complete_the_look"
+      }
+    ],
+    "bottom": [
+      {
+        "name": "more_from_brands"
+      },
+      {
+        "name": "inhouse_component_slider"
+      },
+      {
+        "name": "vue_component_slider"
+      },
+      {
+        "name": "from_wishlist"
+      }
+    ]
+  },
+  "infoTiles_data": {
+    "handInExchange": {
+      "tile_icon": "exchangeIcon",
+      "tile_text": "حالة الاختبار2",
+      "popup_desc": "وصف الاختبار2",
+      "popup_title": "اختبار البوب"
+    },
+    "freeReturns": {
+      "tile_icon": "returnableIcon",
+      "tile_text": "حالة الاختبار3",
+      "popup_desc": "وصف الاختبار3",
+      "popup_title": "اختبار البوب"
+    },
+    "nonReturnable": {
+      "tile_icon": "nonReturnableIcon",
+      "tile_text": "غير قابل للإرجاع",
+      "popup_desc": "لا يمكن إرجاع هذا المنتج",
+      "popup_title": "سياسة الإرجاع"
+    },
+    "genuine": {
+      "tile_icon": "genuineIcon",
+      "tile_text": "حالة الاختبار1",
+      "popup_desc": "وصف الاختبار1",
+      "popup_title": "اختبار البوب"
+    }
+  },
+  "infoTiles_data_new": {
+    "genuineProduct": {
+      "key": "genuineProduct",
+      "tile_icon": "genuineProduct",
+      "tile_text": "منتجات أصلية",
+      "title": "منتجات أصلية 100%",
+      "popup_body": [
+        {
+          "id": 0,
+          "type": "image",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/appareal_group_banner_logo.png",
+          "key": "apparel_group_full_logo"
+        },
+        {
+          "id": 1,
+          "type": "image",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_authenticity_badge_ar.png",
+          "key": "authenticity_badge"
+        },
+        {
+          "id": 2,
+          "type": "info",
+          "key": "authorised_retailer_certification",
+          "heading": "شهادة بائع التجزئة المعتمد",
+          "body": "تؤكد مجموعة Apparel Group أن شركة AIVI، بما في ذلك شركاتها القابضة ومتاجر البيع بالتجزئة، هي بائع تجزئة معتمد عبر الإنترنت وخارجه لمنتجات أصلية 100% من جميع العلامات التجارية المعروضة."
+        },
+        {
+          "id": 4,
+          "type": "separator",
+          "key": "separator"
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ceoSignature.png",
+          "key": "signature"
+        },
+        {
+          "id": 6,
+          "type": "subHeading2",
+          "key": "signatory_name",
+          "text": "نيراج تيكشانداني - الرئيس التنفيذي"
+        },
+        {
+          "id": 7,
+          "type": "subHeading",
+          "key": "signatory_title",
+          "text": "الموقّع المعتمد"
+        },
+        {
+          "id": 8,
+          "type": "status",
+          "key": "verified_authentic",
+          "status": "success",
+          "text": "تم التحقق من صحة المنتج"
+        }
+      ]
+    },
+    "priceAssurance": {
+      "key": "priceAssurance",
+      "tile_icon": "priceAssurance",
+      "title_text": "ضمان السعر",
+      "popup_body": [
+        {
+          "id": 1,
+          "type": "text",
+          "key": "delivery_description",
+          "text": "أن شركة AIVI، نضمن لك أفضل العروض دائمًا. إذا وجدت نفس المنتج بسعر أقل على موقع إلكتروني أو تطبيق آخر، فسنرد لك الفرق إلى حسابك في My Cash."
+        }
+      ]
+    },
+    "onTimeDelivery": {
+      "key": "onTimeDelivery",
+      "tile_icon": "onTimeDelivery",
+      "title_text": "التسليم في الموعد المحدد",
+      "popup_body": [
+        {
+          "id": 0,
+          "type": "feature_row",
+          "key": "delivery_features",
+          "items": [
+            {
+              "id": 1,
+              "icon": "speed",
+              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_delivery-flash.png",
+              "text": "سرعة يمكنك الاعتماد عليها"
+            },
+            {
+              "id": 2,
+              "icon": "clock",
+              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_clock.png",
+              "text": "في الموعد أو علينا"
+            },
+            {
+              "id": 3,
+              "icon": "location",
+              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_location.png",
+              "text": "اعرف مكانه، في أي وقت"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "key": "delivery_description",
+          "text": "ندرك أهمية وصول طلبك في الوقت المحدد. لذا، نلتزم بتوصيل مشترياتك بسرعة في كل مرة. إذا لم يصل طلبك في الموعد المحدد لأي سبب خارج عن إرادتنا، يحق لك استرداد رسوم الشحن، وسيتم إضافة المبلغ إلى رصيدك."
+        },
+        {
+          "id": 2,
+          "type": "link",
+          "key": "terms_and_conditions",
+          "url": "/on-time-delivery",
+          "text": "الشروط والأحكام",
+          "action": "open_tnc"
+        }
+      ]
+    },
+    "handInExchange": {
+      "tile_icon": "exchangeIcon",
+      "tile_text": "عمليات تبادل سلسة",
+      "popup_title": "عمليات تبادل سلسة",
+      "popup_desc": "سنقوم باستلام المنتج المرتجع وتسليم المنتج البديل في نفس الوقت لتجربة سلسة! سيتم تأكيد إمكانية الاستبدال بعد إتمام طلبك، حيث قد لا تكون بعض المنتجات قابلة للاستبدال."
+    },
+    "freeReturns": {
+      "tile_icon": "returnableIcon",
+      "tile_text": "إرجاع مجاني",
+      "popup_desc": "إرجاع مجاني",
+      "popup_title": "يمكنك إرجاع أي منتجات غير مرضية مجانًا خلال 14 يومًا من استلام طلبك."
+    },
+    "nonReturnable": {
+      "tile_icon": "nonReturnableIcon",
+      "tile_text": "غير قابل للإرجاع",
+      "popup_desc": "لا يمكن إرجاع هذا المنتج",
+      "popup_title": "سياسة الإرجاع"
+    }
+  },
+  "widgets": [
+    {
+      "type": "vue_visually_similar_slider",
+      "layout": {
+        "title": "منتجات اخرى قد تنال إعجابك"
+      }
+    },
+    {
+      "type": "vue_recently_viewed_slider",
+      "layout": {
+        "title": "منتجات عرضتها مؤخراً"
+      }
+    },
+    {
+      "type": "vue_style_it_slider",
+      "layout": {
+        "title": "يمكنك تنسيقها مع"
+      }
+    }
+  ],
+  "inhouse_widgets": [
+    {
+      "type": "similarProducts",
+      "layout": {
+        "title": "منتجات مشابهة"
+      }
+    },
+    {
+      "type": "recently_viewed_slider",
+      "header": {
+        "title": "تم تصفحها مؤخراً"
+      }
+    },
+    {
+      "type": "dynamic_widget",
+      "index": 4,
+      "promotion_name": "Dynamic Wigets Promo Name Slider",
+      "tag": "Dynamic Wigets Tag Name Slider",
+      "data_url": "https://recsys.6thstreet.com/recommend/pdp",
+      "title": "Dynamic Wigets Title Slider",
+      "background_color": "#ffffff",
+      "view_style": "slider",
+      "view_type": "product",
+      "itemPerRow": 2,
+      "minCount": 8,
+      "gender": false,
+      "results": 12,
+      "view_all_results": 10,
+      "guest": false,
+      "showItemLabel": false,
+      "header": {
+        "title": "Inspired by Your Taste"
+      },
+      "items": [
+        {
+          "promotion_name": "Dynamic Wigets Promo Name Item",
+          "tag": "Dynamic Wigets Tag Name Item"
+        }
+      ]
+    }
+  ],
+  "bank_offers": [
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/FAB.jpg",
+      "bank_name": "FAB",
+      "desc": "خصم 25% مع بطاقة إماراتي الائتمانية من أبوظبي الأول الإسلامي",
+      "link": "/store/fab-emirati-w"
+    }
+  ],
+  "similar_product_eligible_category": {
+    "Men": [
+      "Clothing",
+      "Shoes",
+      "Cloth",
+      "Bags",
+      "Footwear"
+    ],
+    "Women": [
+      "Clothing",
+      "Shoes",
+      "Cloth",
+      "Bags",
+      "Footwear"
+    ],
+    "Kids": [
+      "Clothing",
+      "Shoes",
+      "Cloth",
+      "Bags",
+      "Footwear"
+    ],
+    "رجال": [
+      "ملابس",
+      "أحذية",
+      "Cloth",
+      "حقائب",
+      "أحذية"
+    ],
+    "نساء": [
+      "ملابس",
+      "أحذية",
+      "Cloth",
+      "حقائب",
+      "أحذية"
+    ],
+    "أطفال": [
+      "ملابس",
+      "أحذية",
+      "Cloth",
+      "حقائب",
+      "أحذية"
+    ]
+  }
+}

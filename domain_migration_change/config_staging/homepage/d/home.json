@@ -1,0 +1,32 @@
+{
+  "women": {
+    "en": {
+      "img": "https://mobilecdn.6thstreet.com/AllBanners/27-12-2021/home/Desktop-women.jpg",
+      "label": "shop women"
+    },
+    "ar": {
+      "img": "https://mobilecdn.6thstreet.com/AllBanners/27-12-2021/home/Desktop-women.jpg",
+      "label": "متجر للنساء"
+    }
+  },
+  "men": {
+    "en": {
+      "img": "https://mobilecdn.6thstreet.com/AllBanners/27-12-2021/home/Desktop-mens.jpg",
+      "label": "shop men"
+    },
+    "ar": {
+      "img": "https://mobilecdn.6thstreet.com/AllBanners/27-12-2021/home/Desktop-mens.jpg",
+      "label": "متجر للرجال"
+    }
+  },
+  "kids": {
+    "en": {
+      "img": "https://mobilecdn.6thstreet.com/AllBanners/27-12-2021/home/Desktop-kids.jpg",
+      "label": "shop kids"
+    },
+    "ar": {
+      "img": "https://mobilecdn.6thstreet.com/AllBanners/27-12-2021/home/Desktop-kids.jpg",
+      "label": "متجر للأطفال"
+    }
+  }
+}
