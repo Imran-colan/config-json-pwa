@@ -322,6 +322,12 @@
       "bank_name": "ANB",
       "desc": "احصل على خصم 30% عند الدفع ببطاقة مصرف الإنماء",
       "link": "/store/alnami-bank-offer"
+    },
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSArabic.png",
+      "bank_name": "",
+      "desc": "أنفق 400 ريال سعودي أو أكثر واحصل على فرصة للفوز بجهاز iPad.",
+      "link": ""
     }
   ],
   "similar_product_eligible_category": {

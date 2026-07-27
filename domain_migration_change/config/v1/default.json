@@ -17,6 +17,8 @@
       "useRECAPTCHA": false,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -268,7 +270,7 @@
         "name_ar": "آيفي"
       },
       "club_apparel_support": {
-        "support_email": "CAsupport@clubaivi.com",
+        "support_email": "customercare@aivi.com",
         "toll_free": "+971 4814 2666"
       },
       "isQuickDelivery": true,
@@ -518,6 +520,8 @@
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": true,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -767,7 +771,7 @@
         "name_ar": "آيفي"
       },
       "club_apparel_support": {
-        "support_email": "CAsupport@clubapparel.com",
+        "support_email": "customercare@aivi.com",
         "toll_free": "+966 9200 35167"
       },
       "isQuickDelivery": true,
@@ -1016,6 +1020,8 @@
       "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -1265,7 +1271,7 @@
         "name_ar": "آيفي"
       },
       "club_apparel_support": {
-        "support_email": "CAsupport@clubapparel.com",
+        "support_email": "customercare@aivi.com",
         "toll_free": "+965 2226 1111"
       },
       "isQuickDelivery": true,
@@ -1507,6 +1513,8 @@
       "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -1757,7 +1765,7 @@
         "name_ar": "آيفي"
       },
       "club_apparel_support": {
-        "support_email": "CAsupport@clubaivi.com",
+        "support_email": "customercare@aivi.com",
         "toll_free": "+971 4814 2666"
       },
       "isQuickDelivery": true,
@@ -2003,6 +2011,8 @@
       "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -2252,7 +2262,7 @@
         "name_ar": "آيفي"
       },
       "club_apparel_support": {
-        "support_email": "CAsupport@clubapparel.com",
+        "support_email": "customercare@aivi.com",
         "toll_free": "+971 4814 2666"
       },
       "isQuickDelivery": true,
@@ -2498,6 +2508,8 @@
       "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isAlgoliaEventsEnabled_app": true,
+      "is_cookies_consent_enabled": false,
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -2747,7 +2759,7 @@
         "name_ar": "آيفي"
       },
       "club_apparel_support": {
-        "support_email": "CAsupport@clubapparel.com",
+        "support_email": "customercare@aivi.com",
         "toll_free": "+971 4814 2666"
       },
       "isQuickDelivery": true,

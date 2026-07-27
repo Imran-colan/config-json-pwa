@@ -1,117 +1,28 @@
 {
   "en": [
     {
-      "title": "CLUB AIVI Queries",
-      "items": [
-        {
-          "subtitle": "What is CLUB AIVI?",
-          "desc": "CLUB AIVI is the most rewarding loyalty programme in the region. It is an app-based cardless loyalty programme that offers you rewards/points on your purchase that you may spend instantly on your next purchase across our 85+ brands and 2,300+ retail stores in the GCC."
-        },
-        {
-          "subtitle": "What are the benefits of CLUB AIVI?",
-          "desc": "CLUB AIVI members earn rewards/points on their purchases that you may spend instantly on your next purchase across our 85+ brands and 2,300+ retail stores in the GCC."
-        },
-        {
-          "subtitle": "How do I collect CLUB AIVI rewards/points?",
-          "desc": "CLUB AIVI rewards/points can be collected by scanning your identification barcode on the app at the point of sale/payment during a transaction."
-        },
-        {
-          "subtitle": "What is the value of CLUB AIVI points, i.e., what is the value of one point?",
-          "items": [
-            "UAE, KSA & Qatar - 1 point is equal to 1 AED.",
-            "Bahrain 10 points = 1 BD / OMR",
-            "Kuwait 25 Points = 2 KWD"
-          ]
-        },
-        {
-          "subtitle": "Where can I redeem my CLUB AIVI Points?",
-          "desc": "CLUB AIVI Points can be redeemed at any participating CLUB AIVI Stores & AIVI App in the GCC. The brands are country-specific and hence change from country to country."
-        },
-        {
-          "subtitle": "Why can't I redeem my points until I log into the app?",
-          "desc": "Once you have gained access to the app, you will be required to complete your profile to be able to use your points. Once you complete your profile, your points will be unlocked for redemption."
-        },
-        {
-          "subtitle": "When can I redeem my points?",
-          "desc": "Points can be redeemed instantly at your next purchase and if your profile details have been completed."
-        },
-        {
-          "subtitle": "Can I collect and redeem my points during sales and promotions?",
-          "desc": "Yes, points can be earned and redeemed during sales and promotions."
-        },
-        {
-          "subtitle": "Do my points transfer if I change my number?",
-          "desc": "Yes, your points will be transferred to the number you have updated on the mobile app."
-        },
-        {
-          "subtitle": "How are my points calculated?",
-          "desc": "Points are calculated tier wise.",
-          "items": [
-            "Black Tier gets CLUB AIVI points worth AED 5 on every AED 100 spent.",
-            "Gold Tier gets CLUB AIVI points worth AED 3 on every AED 100 spent.",
-            " Silver Tier gets CLUB AIVI points worth AED 2 on every AED 100 spent."
-          ]
-        },
-        {
-          "subtitle": "How can I become a Gold or Black tier member?",
-          "desc": "To become a Gold tier member, you must spend a minimum of AED 10,000 in the last 365 days. Similarly, you must spend 25,000 or more in the past 365 days to become a Black tier member."
-        },
-        {
-          "subtitle": "What are the benefits for a Gold tier member?",
-          "desc": "A Gold tier member gets 100 points on their birthday, a Private shopping sale of 15% off across all brands one day in a year, and early access to exclusive sale previews. You will also earn CLUB AIVI points worth AED 3 for every AED 100 spent."
-        },
-        {
-          "subtitle": "What are the benefits for a Black tier member?",
-          "desc": "Celebrate your birthday with 200 CLUB AIVI points, a Private Shopping Sale of 15% off across all brands two days a year, and early access to exclusive sale previews. Earn CLUB AIVI points worth AED 5 on every AED 100 spent."
-        },
-        {
-          "subtitle": "Can I collect or redeem my points without the app?",
-          "desc": "No, the CLUB AIVI app is required."
-        },
-        {
-          "subtitle": "Do you have an Arabic Version of this App?",
-          "desc": "Yes, we have an Arabic version of the App."
-        }
-      ]
-    },
-    {
       "title": "General Queries",
       "items": [
         {
-          "subtitle": "Who can buy from AIVI.com?",
-          "desc": "Any individual 18 years of age and legally allowed to shop in United Arab Emirates can shop at AIVI.com. They need to possess a valid credit / debit card (VISA / MASTER CARD) issued by an authorized bank."
+          "subtitle": "Who can buy from aivi.com ?",
+          "desc": "Any individual 18 years of age and legally allowed to shop at AIVI.com . They need to possess a valid credit / debit card (VISA / MASTER CARD) issued by an authorized bank."
         },
         {
-          "subtitle": "How do I shop at www.AIVI.com?",
-          "desc": "You can visit at our how to shop section link at the end of every page."
+          "subtitle": "How can I contact aivi.com ?",
+          "desc": "You can call us on our customer service numbers from 9:00 am to 9:00 pm UAE time and speak to our customer service representative or write to us customercare@aivi.com for any queries you have about aivi.com , or your order. You can also give the feedback on our website regarding our services. You can contact us for the following: Password related queries; Login related queries; My account / profile change queries; Payment related queries; Merchandise / product related queries; Website navigation related queries; Pricing, promotion, discount related queries; Delivery related queries; or Anything that the customer may wish to clarify about aivi.com ."
         },
         {
-          "subtitle": "How can I contact www.AIVI.com?",
-          "desc": "You can call us at Tel. No +971-48142666 between 9:00 am to 7:00 pm and speak to our customer service representative or write to us customercare@AIVI.com for any queries you have about AIVI.com, or your order. You can also give the feedback on our website regarding our services. You can contact us for the following:",
-          "items": [
-            "Password related queries.",
-            "Login related queries.",
-            "My account / profile change queries.",
-            "Payment related queries.",
-            "Merchandise / product related queries.",
-            "Website navigation related queries.",
-            "Pricing, promotion, discount related queries.",
-            "Delivery related queries; or",
-            "Anything that the customer may wish to clarify about AIVI.com."
-          ]
-        },
-        {
-          "subtitle": " How can I stop AIVI.com e-mails from my spam folder?",
-          "desc": "We take care to not spam our valuable customer's mail boxes. However, sometimes our emails may land in your spam / junk mail folder. You will need to add AIVI.com mail ids (customercare@AIVI.com ) into your trusted sender list."
+          "subtitle": "How can I stop aivi.com e-mails from my spam folder?",
+          "desc": "We take care to not spam our valuable customer's mail boxes. However, sometimes our emails may land in your spam / junk mail folder. You will need to add aivi.com mail ids (customercare@aivi.com ) into your trusted sender list."
         },
         {
           "subtitle": "How do I unsubscribe from your mailing list?",
-          "desc": "You have made during various online / offline interactions with us, we would communicate with you periodically for event based communications such as order information, renewal notices, invites, reminders, special offers etc. If you are not interested to receive any emails from us, you can select your preferences online in 'My Account' section. However, you would continue to receive transaction based e-mails such as order confirmation mail etc."
+          "desc": "You have made during various online / offline interactions with us, we would communicate with you periodically for event based communications such as order information, renewal notices, invites, reminders, special offers etc. If you are not interested to receive any emails from us, you can select your preferences online in \"My Account\" section. However, you would continue to receive transaction based e-mails such as order confirmation mail etc."
         }
       ]
     },
     {
-      "title": "Payment related",
+      "title": "Payment Related",
       "items": [
         {
           "subtitle": "How can I make a payment?",
@@ -122,41 +33,73 @@
           "desc": "No, presently we are not accepting payment through Cheque /Demand Draft."
         },
         {
-          "subtitle": "Can I buy AIVI.com gift voucher (GV) online?",
-          "desc": "Yes, you can buy an online gift voucher, which can redeemed onwww.AIVI.com However the same voucher cannot be redeemed in store. Once Gift vouchers ordered shall not be cancelled or returned."
+          "subtitle": "Can I buy aivi.com eGift Card online?",
+          "desc": "Yes, you can buy an online gift voucher (eGift Card), which can be redeemed on aivi.com website and app. However, the same voucher cannot be redeemed in store. If you return an item or cancel your order using the voucher, the refund value will be added to your \"My Cash\" wallet on AiVi, subject to our refund and exchange policy."
         },
         {
-          "subtitle": "Can I redeem AIVI.com gift voucher for online shopping?",
-          "desc": "No, you cannot redeem physical (paper) gift vouchers online."
+          "subtitle": "Can I redeem aivi.com gift voucher for online shopping?",
+          "desc": "We don’t have the option to redeem physical gift cards on aivi.com .\n Physical gift cards can only be used in stores. However, you can use our eGift Card for your online purchases on aivi.com ."
         },
         {
           "subtitle": "Is stop-payment allowed in case my card has been misused or a purchase made fraudulently?",
-          "desc": "Is stop-payment allowed in case my card has been misused or a purchase made fraudulently."
+          "desc": "No, we do not allow stop payments once a purchase has been successfully completed.\n All confirmed transactions are considered final. However, if you believe your card has been misused or a purchase was made fraudulently, we recommend contacting your bank or card issuer immediately to report the issue and request further assistance."
         },
         {
           "subtitle": "What can be done if my credit/debit card has been compromised while making a payment online?",
-          "desc": "Please refer ourï¿½privacy policy, which mentions that we do not collect or receive your credit card information, and your money is collected directly on the Bank payment gateway. If you think that your credit card has been compromised, then immediately report the same to your card issuing bank."
+          "desc": "Please refer our privacy policy, which mentions that we do not collect or receive your credit card information, and your money is collected directly on the bank payment gateway. If you think that your credit card has been compromised, then immediately report the same to your card issuing bank."
         },
         {
           "subtitle": "Can I pay in-store for a product bought online?",
-          "desc": "No, we currently do not support this facility."
+          "desc": "No, we don’t have an in-store payment option for online purchases. However, you can still pay in-store for a product that isn’t physically available— the store team will assist you in placing the order on AiVi and have it delivered to your preferred address. This applies on Club AIVI stores."
+        },
+        {
+          "subtitle": "What payment methods are available in the UAE (AE)?",
+          "desc": "In the UAE, you can pay using Credit/Debit Cards, Apple Pay, Tabby, Tamara, or Cash on Delivery (COD)."
+        },
+        {
+          "subtitle": "What payment methods are available in Saudi Arabia (SA)?",
+          "desc": "In Saudi Arabia, you can pay using Credit/Debit Cards, Apple Pay, Tabby, Tamara, or Cash on Delivery (COD)."
+        },
+        {
+          "subtitle": "What payment methods are available in Kuwait (KW)?",
+          "desc": "In Kuwait, you can pay using Credit/Debit Cards, Apple Pay, KNET, or Cash on Delivery (COD)."
+        },
+        {
+          "subtitle": "What payment methods are available in Oman (OM)?",
+          "desc": "In Oman, you can pay using Credit/Debit Cards or Cash on Delivery (COD)."
+        },
+        {
+          "subtitle": "What payment methods are available in Bahrain (BH)?",
+          "desc": "In Bahrain, you can pay using Credit/Debit Cards or Apple Pay."
+        },
+        {
+          "subtitle": "What payment methods are available in Qatar (QA)?",
+          "desc": "In Qatar, you can pay using Credit Cards, Apple Pay, QPAY (Debit Card), or Cash on Delivery (COD)."
+        },
+        {
+          "subtitle": "i want to change payment method for already placed order?",
+          "desc": "No, the payment method cannot be changed once an order has been placed."
+        },
+        {
+          "subtitle": "Do watches sold on AiVi come with a box?",
+          "desc": "Yes, all our watches come with a watch box."
         }
       ]
     },
     {
-      "title": "Merchandise related",
+      "title": "Merchandise Related",
       "items": [
         {
-          "subtitle": "Is there any difference between the merchandise sold at AIVI.com.com and CLUB AIVI stores?",
-          "desc": "We collect information from you when you register on our site or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously."
+          "subtitle": "Is there any difference between the merchandise sold at aivi.com .com and Club AIVI stores?",
+          "desc": "aivi.com offers the same quality of merchandise as sold in Club AIVI stores, and the prices are also the same."
         },
         {
           "subtitle": "What do we use your information for?",
-          "desc": "AIVI.com offers the same quality of merchandise as sold in CLUB AIVI stores, and the prices are also the same."
+          "desc": "We collect information from you when you register on our site or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously."
         },
         {
           "subtitle": "How do I understand which size will fit me? Do you have any size charts?",
-          "desc": "We have standard size and size charts."
+          "desc": "We have standard size and size charts on both aivi.com app and website."
         },
         {
           "subtitle": "If I want product from a particular brand how can I find it?",
@@ -169,135 +112,266 @@
       "items": [
         {
           "subtitle": "I want to return a product, how can I do that?",
-          "desc": "",
-          "items": [
-            "To return an item using the app/web, follow these steps:\n  1. Go to \"My Orders.\"\n  2. Select the order you wish to return.\n  3. Tap on \"Return/Exchange.\"\n  4. Choose the item you want to return and the reason for the return.\n  5. Select your preferred refund method.\n  6. Tap on \"Return Item\" to complete the process.\n\nBefore initiating a return, please verify that the product is eligible for return by checking the product highlights.",
-            "Most merchandise is returnable in our stores and to check which merchandise items cannot be returned in our stores please call our customer care on +971-48142666.",
-            "You can also visit the nearest respective CLUB AIVI store in United Arab Emirates, and return the merchandise in unused, saleable condition, along with the original sale invoice.",
-            "You may call AIVI.com customer support care at on +971-48142666, and request a return or exchange. We will arrange for the merchandise to be collected from the delivery address through courier, and returned to us. We shall process the return subject to receipt of the merchandise at our location in unused condition in its original packaging along with original tags and invoice, failing which return/ exchange / refund may not be possible. For Details please refer our returns policy."
-          ]
+          "desc": "Returning an item is quick and simple: \n 1. Go to “My Orders.” \n 2. Select the order you’d like to return. \n 3. Tap “Return/Exchange.” \n 4. Choose the item and select a reason for the return. \n 5. Pick your preferred refund method. \n 6. Tap “Return Item” to complete your request. \n Tip: Before starting your return, please make sure the product is eligible for return by checking the Product Highlights section. \n In-Store Returns (UAE Only) \n You can also return your items at the nearest Club AIVI store in the United Arab Emirates. \n Please ensure the item is unused, in saleable condition, and accompanied by the original invoice. \n To confirm which items are eligible for in-store return, contact our Customer Care team. \n Returns via Courier \n If you prefer, you can request a return or exchange through our Customer Care team. \n We’ll arrange for the item to be collected from your address and returned to us. \n Once we receive the item in unused condition, with original packaging, tags, and invoice, we’ll process your return. \n Returns or exchanges may not be accepted if these conditions aren’t met. \n For full details, please review our Returns Policy."
         },
         {
           "subtitle": "What happens if merchandise ordered is out of stock?",
-          "desc": "If the merchandise is out of stock when you are adding it to your shopping bag, you will be informed immediately and the merchandise won't get added to the shopping bag. If the merchandise is out of stock after it has been added to your shopping bag but before check out is completed, you will be informed at the time of check out. You then need to remove it from your bag before proceeding to check out. If merchandise goes out of stock after you placed the order and received an order-confirmation, then we will put our best to fulfill the order by sourcing the selected merchandise. In circumstances that we are not able to source it for you, or if it is take longer than 9 days to ship, we will inform you about the delay and cancel the merchandise, and shall reverse any charges made to your credit / debit card against that merchandise."
+          "desc": "If an item is out of stock when you try to add it to your shopping bag, you’ll be notified immediately, and it won’t be added to your bag.\n \n If an item goes out of stock after being added to your shopping bag but before checkout is completed, you’ll be informed at checkout. You’ll then need to remove that item before proceeding with your purchase.\n \n If an item becomes out of stock after you’ve placed your order and received an order confirmation, we’ll do our best to fulfill your order by sourcing the selected merchandise.\n \n In case we’re unable to source it, or if shipping takes longer than 4 days, we’ll notify you about the delay, cancel the item, and refund any charges made to your credit or debit card for that merchandise."
         },
         {
           "subtitle": "Is there a limit to the quantity that I can order for?",
-          "desc": "No, however when the order quantities are large, we may verify in order to ensure your security, to confirm that you have indeed ordered for these items."
-        },
-        {
-          "subtitle": "Can I cancel an order or a merchandise?",
-          "desc": "Yes, you can cancel the order fully or partially before it is shipped. However, youï¿½cannot cancel your order for the loyalty points or gift vouchers, once placed. To check the status of whether your order has been shipped or not, click on the 'Order Status' link at the top of the page, and then on the link to the specific order, which will indicate the shipping status of each merchandise in your order. However, additions to an order, or changes to the merchandise ordered, are not possible."
-        },
-        {
-          "subtitle": "Can I change shipping address of the order?",
-          "desc": "You can change the shipping address before your order is billed and shipped by calling Customer Care on +971-48142666 from 9.00 am 7.00PM Saturday through Thursday."
-        },
-        {
-          "subtitle": "What is your return/refund and replacement policy?",
-          "desc": "We offer a 14 day refund and exchange policy, which is applicable to most products sold on AIVI.com. Please refer our returns policy for more details."
-        },
-        {
-          "subtitle": "In case I change my mind about the color / size picked up, can I have it exchanged?",
-          "desc": "Yes, for most products, you can exchange unused items. Some products are excluded from this for hygiene reasons. For details on which products cannot be exchanged or returned, please refer our return policy."
-        },
-        {
-          "subtitle": "Can I return or exchange a product by mail/ courier?",
-          "desc": "Yes, this is possible, you will need to call our Customer Service Representative and register your request. After we receive your request, we would get in touch with you and explain the process of returning the product through courier, for details please refer to our returns policy."
-        },
-        {
-          "subtitle": "Can I return my product to your store?",
-          "desc": "Yes, merchandise can be returned at our stores; to check which merchandise cannot be returned in our stores please call our customer care, for more details please refer our returns policy."
-        },
-        {
-          "subtitle": "How can I return/exchange the merchandise if there is no CLUB AIVI store in my city?",
-          "desc": "You may call AIVI.com customer care, and request to them a return or exchange. We will manage for the merchandise to be collected from the delivery address through courier, and returned to us. We shall process the return subject to receipt of the merchandise at our location in unused condition in its original packaging along with original tags and invoice, if failed then the return/ exchange / refund may not be possible."
-        },
-        {
-          "subtitle": "How can I receive my money for the merchandise which I have returned or cancelled?",
-          "desc": "You will receive your money in the same manner in which you paid for purchase. However, for returns, you will be provided with a credit note which you can utilize to shop at any of our physical stores."
-        },
-        {
-          "subtitle": "Can I get warranty/guarantee for the merchandise?",
-          "desc": "If manufacturer warranty/guarantee is associated with the Merchandise, it would be mentioned along with the other product details."
+          "desc": "There is a limit of maximum of 20 items in cart, we may verify in order to ensure your security, to confirm that you have indeed ordered for these items."
         }
       ]
     },
     {
-      "title": "Shipping related",
+      "title": "Cancellation / Returns / Refund /Exchange related",
+      "items": [
+        {
+          "subtitle": "Can I cancel an order or a merchandise?",
+          "desc": "Yes, you can cancel the order fully or partially before it is shipped. However, you cannot cancel your order for the loyalty points or gift vouchers, once placed. To check the status of whether your order has been shipped or not, click on the \"Order Status\" link at the top of the page, and then on the link to the specific order, which will indicate the shipping status of each merchandise in your order. However, additions to an order, or changes to the merchandise ordered, are not possible."
+        },
+        {
+          "subtitle": "Can I change shipping address of the order?",
+          "desc": "You can change the shipping address before your order is billed and shipped by contacting our Customer Care."
+        },
+        {
+          "subtitle": "What is your return/refund and replacement policy?",
+          "desc": "We offer a 14 days refund and exchange policy, which is applicable to most products sold on aivi.com . Please refer our returns policy for more details."
+        },
+        {
+          "subtitle": "In case I change my mind about the color / size picked up, can I have it exchanged?",
+          "desc": "Yes, for most products, you can exchange unused items. Some products are excluded from this for hygiene reasons. For details on which products cannot be exchanged or returned, please refer to our return policy."
+        },
+        {
+          "subtitle": "Can I return or exchange a product by mail/ courier?",
+          "desc": "Yes, this is possible, you will need to call our Customer Service agent and register your request. After we receive your request, we would get in touch with you and explain the process of returning the product through courier, for details please refer to our returns policy."
+        },
+        {
+          "subtitle": "Can I return my purchased item to your store?",
+          "desc": "Yes, purchased items can be returned in our stores; to check which product cannot be returned in our stores please contact our customer care, for more details please refer our returns policy."
+        },
+        {
+          "subtitle": "How can I return/exchange the purchased items if there is no Club AIVI store in my city?",
+          "desc": "You may call aivi.com customer care, and request to them a return or exchange. We will manage for the item to be collected from the delivery address through courier, and returned to us. We shall process the return subject to receipt of the purchased item at our location in unused condition in its original packaging along with original tags and invoice, if failed then the return/ exchange / refund may not be possible."
+        },
+        {
+          "subtitle": "How can I receive my money for the merchandise which I have returned or cancelled?",
+          "desc": "How can I receive my money for the purchased item which I have returned or cancelled?"
+        },
+        {
+          "subtitle": "Can I get warranty/guarantee for the purchased item?",
+          "desc": "If manufacturer warranty/guarantee is associated with the purchased item, it would be mentioned along with the other product details."
+        },
+        {
+          "subtitle": "How many days do I have to return or exchange an item?",
+          "desc": "You can return or exchange items within 14 days from the date of receiving your package, make sure they are unused, in original packaging, and with original tags and invoice."
+        },
+        {
+          "subtitle": "Is the return process free?",
+          "desc": "Yes, returns and exchanges are free of charge, the elligible items must be in an unused condition with original tags and invoice."
+        },
+        {
+          "subtitle": "How long does it take to process a refund?",
+          "desc": "Refunds are processed within 7 working days after the returned item is received and inspected."
+        },
+        {
+          "subtitle": "How do I get a refund if I paid with Cash on Delivery (COD)?",
+          "desc": "For Cash on Delivery (COD) payments, refunds will be issued as store credit. These credits do not expire and are redeemable online only. Once processed, your refund amount will appear in the “My Cash” section of your wallet on aivi.com ."
+        },
+        {
+          "subtitle": "Which items cannot be returned or exchanged?",
+          "desc": "Fragrances, cosmetics, innerwear (undergarments and lingerie), gift vouchers, and any made-to-order or altered merchandise cannot be returned or exchanged."
+        },
+        {
+          "subtitle": "Can I return an item bought during a sale or promotion?",
+          "desc": "Items purchased under promotions or discounts cannot be exchanged unless the same promotion is still active at the same price. They may still be eligible for return depending on product eligibility."
+        },
+        {
+          "subtitle": "Can I return items bought online to a physical store?",
+          "desc": "Yes, you can return eligible items to the nearest Club AIVI store with the original invoice, provided the items are unused and in saleable condition."
+        },
+        {
+          "subtitle": "Can I exchange an item for a different product?",
+          "desc": "Exchanges are only allowed for the same product in a different size or color. International partner items are not eligible for exchange, only return."
+        },
+        {
+          "subtitle": "How soon will I get my exchange item?",
+          "desc": "Once your returned item reaches our warehouse (within 48–72 hours of pickup) and passes inspection, the exchange item will be shipped to you."
+        },
+        {
+          "subtitle": "Do I need to pay for return shipping?",
+          "desc": "No, return shipping is free if your item is eligible for return or exchange."
+        },
+        {
+          "subtitle": "What happens if I return an item without the invoice?",
+          "desc": "Returns without the original sales invoice cannot be accepted. Please make sure to include it with your return."
+        },
+        {
+          "subtitle": "What should I do if my order arrives damaged or tampered with?",
+          "desc": "If your order arrives in a damaged or a tampered packaging, please reject the delivery and contact Customer Care or send an email to customercare@aivi.com with your order reference number."
+        },
+        {
+          "subtitle": "Can I cancel my order after it has been placed?",
+          "desc": "Yes, you can cancel your order. However, once it has been fullfilled, cancellation is not possible from your end and you will have to contact our customer service."
+        },
+        {
+          "subtitle": "Do you accept returns for opened products?",
+          "desc": "Unfortunately, we do not accept opened packages for return. To be eligible for a return or exchange, items must be unused, in their original packaging, with original tags and the invoice."
+        },
+        {
+          "subtitle": "Return / Exchange Policy Summary",
+          "desc": "Return / Exchange Window: Requests must be raised within 14 days from delivery.\n \n Eligibility: Items must be unused, in their original packaging, with original tags and the invoice intact.\n \n Non-Returnable Items:\n \n Fragrances (perfumes)\n \n Cosmetics\n \n Innerwear (undergarments and lingerie)\n \n Gift vouchers\n \n Made-to-order or altered items\n \n Return Pickup: Scheduled within 24–48 hours after placing the return request.\n \n Refunds\n \n Refunds are processed within 7 working days after the returned merchandise is received and approved.\n \n Credit / Debit Card: Refunded to the original card within 5–7 working days (bank processing delays may apply).\n \n Apple Pay: Refunded within 5–7 working days.\n \n Tabby / Tamara: Refund processed within 1–2 working days.\n \n Cash on Delivery (COD): Refunded as store credit to the AiVi Wallet (My Cash) within 1 day.\n \n My Cash is valid for 1 year.\n \n Exchanges\n \n Exchanges are allowed only for the same item in a different size or color.\n \n The exchange value must be equal to the original item value.\n \n Exchange items are shipped 48–72 hours after the return pickup, once the item is inspected.\n \n Items sourced from international partners are eligible for return only and cannot be exchanged.\n \n Important Notes\n \n Please check your package upon delivery. If the package appears tampered with or damaged, refuse delivery and contact Customer Care immediately.\n \n Policies may be updated by management at any time. Continued use of the platform indicates acceptance of the updated terms.\n \n Key Timelines to Remember\n \n 14 days to request a return or exchange\n \n 7 working days for refund processing\n \n 48–72 hours for exchange dispatch after pickup"
+        },
+        {
+          "subtitle": "Instructions for Return / Exchange Placing",
+          "desc": "• Log in to the AiVi website or app.\n • Go to My Orders.\n • Select the relevant order.\n • Choose Place Return or Place Exchange."
+        }
+      ]
+    },
+    {
+      "title": "Shipped Related",
       "items": [
         {
           "subtitle": "Where do you deliver?",
-          "desc": "We currently deliver to in major cities in United Arab Emirates."
+          "desc": "We currently deliver to all major cities across the United Arab Emirates, Saudi Arabia, Kuwait, Bahrain, Qatar, and Oman."
         },
         {
           "subtitle": "What is your shipping policy?",
-          "desc": "Please refer to our Shipping Policy section for the same."
+          "desc": "Please refer to our Shipping Policy section on our app or website for the same."
         },
         {
           "subtitle": "Are there any places/ items for which delivery might take longer?",
-          "desc": "Expected time taken to dispatch the shipment is given against each product on the respective product details page. Typically all United Arab Emirates deliveries are completed within 1-2 days once we receive your order we make all attempts to deliver within the committed time, however, it might take longer than expected in some far to reach areas, due to poor logistics connectivity."
+          "desc": "Yes, delivery may take longer for certain items. Products that fall under international shipment require additional processing time and are usually delivered within 12 to 14 days. You can check whether an item is part of international shipment or standard delivery by reviewing the Product Highlights section on the product page."
         },
         {
-          "subtitle": "What happens in case I am not available when you deliver the merchandise?",
-          "desc": "Our shipping company will come again to your place. You should plan and coordinate the purchase in a manner that someone will accept the merchandise in your absence."
+          "subtitle": "What happens in case I am not available when you deliver the order?",
+          "desc": "Our shipping company will come again to your place. You should plan and coordinate the purchase in a manner that someone will accept the order in your absence."
         },
         {
-          "subtitle": "What if only part of my order has arrived?",
-          "desc": "In some cases, some merchandise may not be ready to ship, and so we may ship a partial order of the merchandise which is ready to ship. The remaining merchandise shall be shipped as soon as it becomes available, but not later than 9 days from your order. If we are not able to ship the item within 9 days from your order, we will cancel the unshipped merchandise and shall inform you about it. For more details you can check order status in My account section."
+          "subtitle": "What if only part of my order has been delivered?",
+          "desc": "Sometimes, we ship products directly from the nearest stores. This means that items in your order might be delivered in multiple shipments. You’ll receive an SMS with your shipment numbers and tracking link once they’re dispatched."
         },
         {
-          "subtitle": "What I do when my order arrives damaged?",
-          "desc": "If you find that the Cover is damaged before accepting the delivery, please refuse the delivery and immediately inform us. Once you have accepted the delivery, and thereafter realized that the cover is damaged, then please feel free to get in touch with us within 14 day of receiving the cover or merchandise. For more details please see our returns policy."
+          "subtitle": "What should I do if I receive a damaged item?",
+          "desc": "If you find that the packaging/wrapper is damaged before accepting the delivery, please refuse the delivery and immediately inform us. Once you have received the item, and thereafter realized that the package is damaged, then please feel free to get in touch with us within 14 days of receiving the item. For more details please see our returns policy."
         },
         {
           "subtitle": "Can I change my delivery address?",
-          "desc": "Yes, you may change the delivery address, only when we have not billed and shipped your order. You have to call customer care on Phone no +971-48142666 between 9:00 am to 7:00 pm and may request for the same"
+          "desc": "Yes, you may change the delivery address, only when we have not billed and shipped your order. You have to contact the customer care and may request for the same"
         },
         {
           "subtitle": "Can you hold my order in case I am not available?",
-          "desc": "You can call us at Customer Care to inform us about such situation, and we shall try to accommodate your instructions. But, we cannot hold your orders for shipment beyond 9 days from the date of the order."
+          "desc": "You can call us at Customer Care to inform us about such situation, and we shall try to accommodate your instructions. But, we cannot hold prepaid orders beyond 4 days and Cash on Delivery (COD) orders beyond 2 days from the date of the order."
         },
         {
           "subtitle": "What are the shipping charges and/ or if there is any additional charges for delivery?",
-          "desc": "We will charge for shipping unless otherwise specified. Our shipping charges are based on factors such as quantity of merchandise ordered, type of merchandise ordered and delivery destination. If you want more information, you can see our shipping policy. We do not charge additional for any extra amount on the delivery, so you need not make the payment to the delivery man for your order."
+          "desc": "We will charge for shipping unless otherwise specified. Our shipping charges are based on factors such as quantity of items ordered, type of the items ordered and delivery destination. If you want more information, you can see our shipping policy. We do not charge additional for any extra amount on the delivery, so you need not make the payment to the delivery man for your order."
         },
         {
-          "subtitle": "Does the ordered merchandise price include shipping charges?",
-          "desc": "The shipping charges and service tax on shipping charges will be added to your order amount on the billing page, after you have indicated the recipient's shipping address. To view our shipping charges click here."
+          "subtitle": "Does the ordered item price include shipping charges?",
+          "desc": "The shipping charges and service tax on shipping charges will be added to your order amount on the billing page, after you have indicated the recipient's shipping address."
         },
         {
-          "subtitle": "How can I Track my Order?",
-          "desc": "You can check through order status on our website www.AIVI.com in my account section."
+          "subtitle": "How can I track my order?",
+          "desc": "You can check through order status in \"My Account\" section on our AiVi Website or App."
         },
         {
-          "subtitle": "Who will pay charges for the return merchandise?",
-          "desc": "If you are not satisfied with your purchase of merchandise for any reason, and wish to return the merchandise as per the Returns Policy through courier pickup arranged by us , you need do not have to pay any courier charges for the return of merchandise for the shipment purpose."
+          "subtitle": "Who will pay charges for the returned item?",
+          "desc": "If you are not satisfied with your purchase for any reason, and wish to return the item as per the Returns Policy through courier pickup arranged by us , you do not need to pay any courier charges for the return of item for the shipment purpose."
         },
         {
-          "subtitle": "What can be done if the merchandise ordered reaches to me in a damaged/defective condition?",
-          "desc": "If you feel that the package/wrapper is damaged before accepting the delivery of merchandise, then do not accept the delivery and immediately inform us about it. If you have accepted the delivery of merchandise, thereafter you known that the package is damaged, then you can contact with us within 14 days of receiving the delivery. With an exception of a few merchandise we have a 14 days return / exchange policy. For more information please see our returns policy. Please see our shipping policy and returns policy for your reference."
-        },
-        {
-          "subtitle": "How can I cancel my merchandise which was ordered?",
-          "desc": "You may cancel the order, before it is shipped. With an exception of a few merchandise, which cannot be cancelled we will refund the full amount charged to your card. For more details please refer our shipping policy and returns policy."
+          "subtitle": "How can I cancel my order?",
+          "desc": "You may cancel the order, before it is shipped. With an exception of a few purchases, which cannot be cancelled we will refund the full amount charged to your card. For more details please refer to our shipping/ return policy."
         },
         {
           "subtitle": "What should I do if I get something different instead of what I have ordered?",
           "desc": "We will take utmost care to your merchandise what you ordered. Rarely the orders get mixed up. If you found the same you can contact us within 24 hours of receiving the delivery."
+        },
+        {
+          "subtitle": "Do you offer free shipping?",
+          "desc": "Yes, orders above the minimum order value qualify for free shipping. For smaller orders, a shipping fee applies depending on your country."
+        },
+        {
+          "subtitle": "How can I track my order?",
+          "desc": "Once your order is shipped, an Air Waybill (AWB) number will be generated. You will receive this via email and SMS, which you can use to track your order."
+        },
+        {
+          "subtitle": "Do you deliver to all areas in UAE, Saudi Arabia, Kuwait, Oman, Bahrain, and Qatar?",
+          "desc": "Yes, we deliver across UAE, Saudi Arabia, Kuwait, Oman, Bahrain, and Qatar."
+        },
+        {
+          "subtitle": "What are the delivery timelines and charges in the UAE (AE)?",
+          "desc": "In the UAE, delivery takes 3–5 days. Shipping fee is AED 10 for orders below AED 100. Cash on Delivery (COD) fee is AED 20."
+        },
+        {
+          "subtitle": "What are the delivery timelines and charges in Saudi Arabia (SA)?",
+          "desc": "In Saudi Arabia, delivery takes 5–7 days. Shipping fee is SAR 10 for orders below SAR 100. Cash on Delivery (COD) fee is SAR 30."
+        },
+        {
+          "subtitle": "What are the delivery timelines and charges in Kuwait (KW)?",
+          "desc": "In Kuwait, delivery takes 5–7 days. Shipping fee is KWD 2 for orders below KWD 10. Cash on Delivery (COD) fee is KWD 2.75."
+        },
+        {
+          "subtitle": "What are the delivery timelines and charges in Oman (OM)?",
+          "desc": "In Oman, delivery takes 5–7 days. Shipping fee is OMR 2 for orders below OMR 12. Cash on Delivery (COD) fee is OMR 2."
+        },
+        {
+          "subtitle": "What are the delivery timelines and charges in Bahrain (BH)?",
+          "desc": "In Bahrain, delivery takes 5–7 days. Shipping fee is BHD 2 for orders below BHD 12. Cash on Delivery (COD) fee is BHD 3.5."
+        },
+        {
+          "subtitle": "What are the delivery timelines and charges in Qatar (QA)?",
+          "desc": "In Qatar, delivery takes 5–7 days. Shipping fee is QAR 10 for orders below QAR 100. Cash on Delivery (COD) fee is QAR 33."
+        },
+        {
+          "subtitle": "Are international shipment fees refundable?",
+          "desc": "If all international items in your order are cancelled, the international shipping fee will be refunded. If only some are cancelled, the fee still applies and is not refundable."
+        },
+        {
+          "subtitle": "Can I change my delivery address after placing an order?",
+          "desc": "Delivery address changes are not guaranteed after placing an order, but you can contact Customer Care immediately to check if it can be updated."
+        },
+        {
+          "subtitle": "Do you offer installments or a Buy Now, Pay Later (BNPL) service in UAE / Saudi Arabia?",
+          "desc": "Yes, we offer a Buy Now, Pay Later (BNPL) service, primarily through Tamara & Tabby. This allows you to split your purchase into easy, interest-free monthly installments at checkout."
+        },
+        {
+          "subtitle": "Do you offer installments or a Buy Now, Pay Later (BNPL) service in Kuwait /Qatar/Oman/Bahrain?",
+          "desc": "No, we currently do not offer installment or Buy Now, Pay Later (BNPL) services in Kuwait, Qatar, Oman, or Bahrain."
+        },
+        {
+          "subtitle": "What time does the 60-minute delivery start?",
+          "desc": "60-minute delivery is available daily between 11:00 AM and 10:00 PM in the UAE for selected items. The delivery countdown starts as soon as your order is successfully placed and confirmed on the AiVi app or website."
+        },
+        {
+          "subtitle": "I selected items with 60-minute delivery, but checkout shows delivery for tomorrow. Why?",
+          "desc": "60-minute delivery may no longer be available if the item is out of stock at the nearest store or if your delivery location is not covered by the 60-minute delivery service. In such cases, the system will automatically show the next available delivery option at checkout.\n \n To ensure 60-minute delivery, please confirm that the item is marked as eligible and that your location falls within the service area."
+        },
+        {
+          "subtitle": "I selected items with Express Delivery, but checkout shows delivery for tomorrow. Why?",
+          "desc": "Express delivery is available only for eligible locations. If your address is not covered by the Express delivery service, the system will automatically display the next available delivery option.\n \n Additionally, Express orders placed between 12:00 AM and 2:00 PM are delivered the same day. Orders placed after 2:00 PM will be scheduled for delivery the next day."
+        },
+        {
+          "subtitle": "Shipping Policy Summary",
+          "desc": "We offer Cash on Delivery (COD) in supported countries. Delivery timelines and applicable charges are as follows: United Arab Emirates: Delivery within 3–5 days. Orders below AED 100 are subject to an AED 9 shipping fee, and Cash on Delivery orders are subject to an AED 20 COD service fee. Kingdom of Saudi Arabia: Delivery within 5–7 days. Orders below SAR 100 are subject to a SAR 9 shipping fee, and Cash on Delivery orders are subject to a SAR 30 COD service fee. Kuwait: Delivery within 5–7 days. Orders below KWD 10 are subject to a KWD 2 shipping fee, and Cash on Delivery orders are subject to a KWD 2.75 COD service fee. Qatar: Delivery within 5–7 days. Orders below QAR 100 are subject to a QAR 9 shipping fee, and Cash on Delivery orders are subject to a QAR 33 COD service fee. Oman: Delivery within 5–7 days. Orders below OMR 12 are subject to an OMR 2 shipping fee, and Cash on Delivery orders are subject to an OMR 2 COD service fee. Bahrain: Delivery within 5–7 days. Orders below BHD 12 are subject to a BHD 2 shipping fee, and Cash on Delivery orders are subject to a BHD 3.5 COD service fee. Once your order has been shipped, you will receive the Air Waybill (AWB) number via email and SMS. For products marked with the International Shipping badge, the international shipping fee will be refunded only if all such items in the order are cancelled. If only some of the international shipping items are cancelled, the international shipping fee is non-refundable. For more information, please refer to our Shipping Policy."
+        },
+        {
+          "subtitle": "What are your delivery modes?",
+          "desc": "Standard Delivery: Receive your order within 3–5 days.\n \n Express Delivery (1-Day Delivery): Get your order delivered within 1 day.\n \n Quick Delivery: Available as 60-minute, 90-minute, or 2-hour delivery, depending on product availability and location. This option is offered for selected items and areas only.\n \n Delivery options and estimated timelines may vary based on your location and the items in your cart. You can view the available delivery methods and expected delivery time for your order at checkout on our website or app."
         }
       ]
     },
     {
-      "title": "Privacy / Security related related",
+      "title": "Privacy / Security related",
       "items": [
         {
           "subtitle": "What is your privacy policy?",
-          "desc": "Be assured that we do not store your card details. When you enter the card details you are redirected to the respective banks secure payment site. Bank exchanges the data provided by you with your card issuing bank through a Secured Socket Layer. Your card issuing bank authorizes or rejects the transaction, based on which we process or reject the order. At no point do we receive / store your card details. Please refer Secure Shopping for more details."
+          "desc": "Be assured that we do not store your card details. When you enter the card details you are redirected to the respective banks secure payment site. Bank exchanges the data provided by you with your card issuing bank through a Secured Socket Layer. Your card issuing bank authorizes or rejects the transaction, based on which we process or reject the order. At no point do we receive / store your card details. Please refer to the Secure Shopping for more details."
         },
         {
           "subtitle": "Is the information I enter encrypted?",
-          "desc": "Yes, we encrypt all credit / debit card or payment information using 128 bit encryption programs."
+          "desc": "Yes, we encrypt all credit / debit card or payment information."
         }
       ]
     },
@@ -306,61 +380,60 @@
       "items": [
         {
           "subtitle": "Is registration on the website compulsory?",
-          "desc": "No, it is not compulsory to register to shop at AIVI.com to browse. At the point of check out you will be required to register."
+          "desc": "No, it is not compulsory to register to shop at aivi.com to browse. At the point of check out you will be required to register."
         },
         {
           "subtitle": "Is my personal information secured?",
-          "desc": "You can see our Privacy policy Secure shopping commitment."
+          "desc": "Yes. You can check our Privacy Policy Secure Shopping commitment."
         },
         {
-          "subtitle": "How do we protect your information?",
-          "desc": "We implement a variety of security measures to maintain the safety of your personal information when you access your personal information."
+          "subtitle": "How do you protect my information?",
+          "desc": "We use multiple security measures to protect your personal information and ensure it remains safe whenever you access it."
         },
         {
           "subtitle": "Is there any charge for registration on the website?",
-          "desc": "There is No Charge for registration on AIVI.com."
+          "desc": "No. There is no charge for registration on aivi.com . Register for free."
         },
         {
-          "subtitle": "How can my registration expire?",
-          "desc": "Registrations do not expire. If your account is inactive for a long period of time we will suspend it or de-activate it, in which case, you can immediately contact our Customer Service Representative on phone to activate the account. We will reactivate your account after verification to confirm your identity."
+          "subtitle": "Would my registration expire?",
+          "desc": "Registrations do not expire. If your account is inactive for a long period of time we will suspend it or de-activate it, in this case, you can immediately contact our Customer Service Representative to activate the account. We will reactivate your account after verification to confirm your identity."
         },
         {
           "subtitle": "Can you please explain the benefits for registration?",
-          "desc": "If you are a registered member you will get following benefits:",
-          "items": [
-            "Checkout - Sign in and proceed to checkout for quick ordering.",
-            "Order History - Review details of your Order.",
-            "Address Book - Create and save addresses of your family & friends for faster check out."
-          ]
+          "desc": "If you are a registered member you will get the following benefits: Checkout - Sign in and proceed to checkout for quick ordering. Order History - Review details of your order. Address Book - create and save addresses of your family & friends for faster check out."
         },
         {
           "subtitle": "What happens if I forget my password?",
-          "desc": "We can retrieve your password for that you have to go to forgot password page, and enter your email ID registered with us. We will reply through email your password to your email ID."
+          "desc": "We can retrieve your password for that you have to go to \"Forgot Password\" page, and enter your email ID registered with us. We will reply through email your password to your email ID."
         },
         {
-          "subtitle": "If I want to edit my personal information, can I do it?",
-          "desc": "Yes, it is possible to change your information; this can be done in the My Account section under edit profile tab. But, you will not be able to modify your Title, Name, Gender, and Date of birth."
+          "subtitle": "Can I edit my personal information?",
+          "desc": "Yes, it is possible to change your information; this can be done in the My Account section under \"Edit Profile\" tab. But, you will not be able to modify your title, name, gender, and date of birth."
         },
         {
-          "subtitle": "What happens in case I forget my Login Id?",
-          "desc": "You can write to us at customercare@AIVI.com while writing following details: Date of birth, First Name, Last Name, Address, Past order number of an order placed from your login id, if any."
+          "subtitle": "What happens in case I forget my Login ID?",
+          "desc": "You can contact us at customercare@aivi.com \n and include the following details in your message: your date of birth, first name, last name, address, and, if available, a past order number placed using your login ID."
         }
       ]
     },
     {
-      "title": "My Cash Related",
+      "title": "My cash related",
       "items": [
         {
-          "subtitle": "Where can I locate my cash?",
-          "desc": "To check your available my cash, simply visit your account page and click on my wallet tab, where you'll find both your my cash credit history and balance."
+          "subtitle": "Where can I locate \"My Cash\"?",
+          "desc": "To check your available \"My Cash\", simply visit your account page and click on my wallet tab, where you'll find both your my cash credit history and balance."
         },
         {
-          "subtitle": "What is the duration of my cash validity?",
-          "desc": "My cash remains valid forever, there is no expiry for my cash."
+          "subtitle": "What is the duration of \"My Cash\" validity?",
+          "desc": "\"My Cash\" remains valid forever, there is no expiry for \"My Cash\"."
         },
         {
-          "subtitle": "Why is my cash not appearing in my account?",
-          "desc": "If your my cash is not visible, it could be due to zero balance. If you believe this isn't the case, please reach out to our Customer Service team for assistance."
+          "subtitle": "Why can't I see \"My Cash\" in \"My Account\"?",
+          "desc": "If your \"My Cash\" is not visible, it could be due to zero balance. If you believe this isn't the case, please reach out to our Customer Service team for assistance."
+        },
+        {
+          "subtitle": "Do you offer a Click & Collect option? Can I buy online and pickup from the store?",
+          "desc": "No, Click & Collect is not available at the moment."
         }
       ]
     },
@@ -399,10 +472,15 @@
         {
           "subtitle": "What is a 60-Minute Delivery Service?",
           "desc": "It’s a premium service that ensures eligible items are delivered within 60 minutes of confirmation. It is available in select areas and for specific products only."
-        },
+        }
+      ]
+    },
+    {
+      "title": "Platform Fee Related",
+      "items": [
         {
           "subtitle": "Are all products eligible for 60-Minute Delivery?",
-          "desc": "No, only products marked with a '60 Min' badge qualify for this service."
+          "desc": "No, only products marked with a \"60 Min\" badge qualify for this service."
         },
         {
           "subtitle": "How do I know if my location is eligible?",
@@ -422,7 +500,7 @@
         },
         {
           "subtitle": "How can I cancel my order after placing it?",
-          "desc": "Yes, you can cancel your order before it is shipped. However, once it has been shipped, cancellation is not possible."
+          "desc": "Yes, you can cancel your order. However, once it has been fullfilled, cancellation is not possible from your end and you will have to contact our customer service."
         },
         {
           "subtitle": "How can I track my order?",
@@ -449,122 +527,192 @@
           "desc": "Yes. If some items qualify for 60-Minute Delivery and others don’t, your order will be split into separate deliveries, which will be clearly shown at checkout."
         }
       ]
-    }
-  ],
-  "ar": [
+    },
     {
-      "title": "استفسارات كلوب أباريل",
+      "title": "JOB Related",
       "items": [
         {
-          "subtitle": "ما هو كلوب أباريل؟",
-          "desc": "كلوب آيفيهو برنامج الولاء الأكثر مكافأة في المنطقة، برنامج ولاء رقمي دون بطاقة، يعمل عبر تطبيق ذكي، ويمنحك نقاطا ومكافآت عند كل عملية شراء حيث يمكنك استخدام هذه النقاط فورا في عملية الشراء التالية عبر أكثر من 85 علامة تجارية و2,300 متجر بيع بالتجزئة في دول مجلس التعاون الخليجي"
+          "subtitle": "How can I apply for jobs at AiVi?",
+          "desc": "You can explore and apply for current job openings at AiVi through our official LinkedIn page here: https://www.linkedin.com/jobs/aivi.com -jobs-worldwide?keywords=aivi.com"
         },
         {
-          "subtitle": "ما هي مزايا كلوب أباريل؟",
-          "desc": "يمنحك برنامج كلوب آيفينقاطا ومكافآت عند كل عملية شراء، ويمكنك استخدام هذه النقاط فورا في عملية الشراء التالية عبر أكثر من 85 علامة تجارية و2,300 متجر بيع بالتجزئة في دول الخليج"
+          "subtitle": "I applied for a job at AiVi but haven’t received any update. What should I do?",
+          "desc": "Thank you for your interest in joining AiVi. Kindly wait for our HR team to review your application and get back to you. We appreciate your patience."
         },
         {
-          "subtitle": "كيف يمكنني جمع مكافآت/نقاط كلوب أباريل؟",
-          "desc": "يمكن جمع مكافآت/ نقاط كلوب آيفيمن خلال مسح الرمز التعريفي (الباركود) الخاص بك في التطبيق عند نقطة البيع أو أثناء الدفع في كل عملية شراء."
-        },
-        {
-          "subtitle": "ما هي قيمة نقاط كلوب أباريل؟ (كم تساوي النقطة الواحدة؟)",
-          "items": [
-            "الإمارات العربية المتحدة، المملكة العربية السعودية، دولة قطر: كل نقطة واحدة = 1 درهم/ريال",
-            "مملكة البحرين: 10 نقاط = 1 دينار بحريني / ريال عُماني",
-            "دولة الكويت: 25 = 2 دينار كويتي"
-          ]
-        },
-        {
-          "subtitle": "أين يمكنني استبدال نقاط كلوب أباريل؟",
-          "items": [
-            "يمكن استبدال نقاط كلوب آيفيفي جميع متاجر كلوب آيفيالمشاركة، وكذلك عبر تطبيق  آيفي في دول الخليج",
-            "يرجى الأخذ  بعين الإعتبار أن العلامات التجارية المشاركة تختلف من دولة إلى أخرى"
-          ]
-        },
-        {
-          "subtitle": "لماذا لا يمكنني استبدال نقاطي قبل تسجيل الدخول إلى التطبيق؟",
-          "desc": "بعد تسجيل الدخول إلى التطبيق، سيُطلب منك استكمال ملفك الشخصي حتى تتمكّن من استخدام نقاطك وبمجرد إتمام ملفك الشخصي بنجاح، سيتم تفعيل نقاطك وإتاحتها للاستبدال."
-        },
-        {
-          "subtitle": "متى يمكنني استبدال نقاطي؟",
-          "desc": "يمكنك استبدال النقاط فورًا في عملية الشراء التالية، شرط استكمال بيانات ملفك الشخصي في التطبيق"
-        },
-        {
-          "subtitle": "هل يمكنني جمع واستخدام نقاطي أثناء العروض والتخفيضات؟",
-          "desc": "نعم، يمكن جمع النقاط واستخدامها أثناء العروض والتخفيضات"
-        },
-        {
-          "subtitle": "هل تنتقل نقاطي إذا قمت بتغيير رقم هاتفي؟",
-          "desc": "نعم، سيتم نقل نقاطك إلى الرقم الجديد الذي قمت بتحديثه في تطبيق الهاتف المحمول."
-        },
-        {
-          "subtitle": "كيف يتم احتساب النقاط؟",
-          "desc": "يتم احتساب النقاط حسب الفئة:",
-          "items": [
-            "الفئة السوداء: يحصل الأعضاء على نقاط كلوب آيفيبقيمة 5 دراهم مقابل كل 100 درهم يتم إنفاقها.",
-            "الفئة الذهبية: يحصل الأعضاء على نقاط كلوب آيفيبقيمة 3 دراهم مقابل كل 100 درهم يتم إنفاقها.",
-            "الفئة الفضية : يحصل الأعضاء على نقاط كلوب آيفيبقيمة 2 درهم مقابل كل 100 درهم يتم إنفاقها."
-          ]
-        },
-        {
-          "subtitle": "كيف يمكنني أن أصبح عضوًا في الفئة الذهبية أو السوداء؟",
-          "items": [
-            "لتصبح عضوًا في الفئة الذهبية، يجب أن تكون قد أنفقت ما لا يقل عن 10,000 درهم خلال آخر 365 يومًا.",
-            "وبالمثل، لتصبح عضوًا في الفئة السوداء، يجب أن تكون قد أنفقت 25,000 درهم أو أكثر خلال آخر 365 يومًا"
-          ]
-        },
-        {
-          "subtitle": "ما هي مزايا العضو في الفئة الذهبية ؟",
-          "desc": "يحصل عضو الفئة الذهبية على 100 نقطة في عيد ميلاك و تخفيض خاص بنسبة 15% في يوم واحد سنويًا على جميع العلامات التجارية خلال جلسة تسوق خاصة بالإضافة إلى الوصول المبكرللعروض الحصرية قبل باقي الأعضاء كما سيكسب نقاط كلوب آيفيبقيمة 3 دراهم مقابل كل 100 درهم يتم إنفاقها"
-        },
-        {
-          "subtitle": "ما هي مزايا العضو في الفئة السوداء؟",
-          "desc": "يحصل عضو الفئة السوداء على 200 نقطة كلوب آيفيفي عيد ميلاده وتخفيض خاص بنسبة 15% في يومين سنويًا على جميع العلامات التجارية خلال جلسة تسوق خاصة بالإضافة إلى الوصول المبكر إلى العروض الحصرية قبل باقي الأعضاء كما سيكسب نقاط كلوب آيفيبقيمة 5 دراهم مقابل كل 100 درهم يتم إنفاقها"
-        },
-        {
-          "subtitle": "هل يمكنني جمع أو استبدال نقاطي بدون التطبيق؟",
-          "desc": "لا، يتطلب برنامج كلوب آيفياستخدام التطبيق لإتمام جمع واستبدال النقاط"
-        },
-        {
-          "subtitle": "هل يوجد نسخة باللغة العربية من هذا التطبيق؟",
-          "desc": "نعم، لدينا نسخة باللغة العربية من التطبيق"
+          "subtitle": "Do you provide job updates for other companies?",
+          "desc": "No, we only provide information regarding AiVi job opportunities. For other companies, please check their official career pages."
         }
       ]
     },
     {
+      "title": "About AiVi",
+      "items": [
+        {
+          "subtitle": "What is aivi.com ?",
+          "desc": "aivi.com is an elevated fashion and lifestyle destination committed to styling GCC’s GEN NOW to WOW. We offer shoes, bags, outfits, beauty essentials, and accessories from over 1200+ global brands at accessible prices."
+        },
+        {
+          "subtitle": "Which countries does aivi.com serve?",
+          "desc": "We currently deliver across the UAE, Saudi Arabia, Kuwait, Oman, Qatar, and Bahrain."
+        },
+        {
+          "subtitle": "What kind of products can I shop at aivi.com ?",
+          "desc": "You can shop on-trend fashion and lifestyle items including shoes, bags, outfits, beauty essentials, and accessories – all curated to bring you the latest styles."
+        },
+        {
+          "subtitle": "Does aivi.com sell international brands?",
+          "desc": "Yes, we bring you over 1200+ global brands, making it easy to shop the latest trends at affordable prices."
+        },
+        {
+          "subtitle": "What makes aivi.com different?",
+          "desc": "We believe in looking like a million bucks without spending it. That’s why we deliver on-trend fashion and lifestyle products at accessible prices, right to your doorstep."
+        },
+        {
+          "subtitle": "Where can I download the AiVi shopping app?",
+          "desc": "You can download the AiVi app from the App Store or Google Play"
+        },
+        {
+          "subtitle": "Are the products sold on aivi.com authentic?",
+          "desc": "Yes, all products sold on aivi.com are 100% authentic. As part of our “Genuine Products” promise, every item you purchase is certified and guaranteed to be original, sourced directly from authorized brands and partners."
+        },
+        {
+          "subtitle": "What unique shopping experiences does aivi.com offer?",
+          "desc": "We launched the GCC’s first ‘phygital’ store in Dubai—a tech-driven, immersive space blending physical and digital shopping experiences."
+        },
+        {
+          "subtitle": "Who owns aivi.com ?",
+          "desc": "aivi.com is part of Apparel Group, a major UAE-based fashion and retail conglomerate with over 85 brands and 2,300+ stores across 14 countries."
+        },
+        {
+          "subtitle": "What is the Apparel Group?",
+          "desc": "Apparel Group is a UAE-based fashion and lifestyle retail conglomerate founded by Sima Ved. It operates in 14 countries with over 2,300+ retail stores and 85+ brands, including AIVI"
+        }
+      ]
+    },
+    {
+      "title": "AiVi Support",
+      "items": [
+        {
+          "subtitle": "How can I contact the support team in my country?",
+          "desc": "Contact us at +96522261111 (Kuwait) or +97148142666 (UAE, Saudi, Bahrain, Oman), from 9:00 AM to 9:00 PM GST, or email customercare@aivi.com."
+        },
+        {
+          "subtitle": "What are your working hours?",
+          "desc": "Our customer support service runs from 9:00 AM to 9:00 PM GST, seven days a week."
+        }
+      ]
+    },
+    {
+      "title": "Order Placement",
+      "items": [
+        {
+          "subtitle": "How to place an order ?",
+          "desc": "Kindly follow the below steps to place your order\n • Download the 6th Street online shopping application\n • Select your location\n • Choose your item\n • Add to cart\n • Head to checkout\n • Enter your Email ID\n • Select payment mode\n Just so you know, you can check the price in your country."
+        },
+        {
+          "subtitle": "Recently order was failed. What is the reason I was unable to add the same items to my cart?",
+          "desc": "If you’re unable to find an item again, it may be out of stock. You can click on the “Notify Me” option on the product page to receive a notification as soon as the item is back in stock."
+        }
+      ]
+    },
+    {
+      "title": "VIP",
+      "items": [
+        {
+          "subtitle": "Do you have any VIP membership",
+          "desc": "Yes, we have VIP membership program on AiVi."
+        },
+        {
+          "subtitle": "What are the benifits of VIP members",
+          "desc": "- Priority Customer Service: Skip the wait times and experience top-notch assistance.\n - Expedited Delivery: Enjoy faster shipping on your orders.\n - Exclusive Event Invitations: Be front and center at our coveted events.\n - Early Access to Sales: Shop the deals before anyone else."
+        },
+        {
+          "subtitle": "How am I a VIP member?",
+          "desc": "VIP membership is awarded to our most loyal customers who have made high-value purchases."
+        },
+        {
+          "subtitle": "How do I update my account information?",
+          "desc": "You can edit your account information in \"My Account\" section. \n Note that certain details like title, name, gender, and date of birth require assistance from our Customer Service team."
+        },
+        {
+          "subtitle": "How will I receive invitations to exclusive events?",
+          "desc": "You'll be notified based via email, WhatsApp, SMS, or push notification, based on your chosen communication preference."
+        },
+        {
+          "subtitle": "How will I receive early notifications about sales?",
+          "desc": "You'll receive early notifications via email, WhatsApp, SMS, or push notification, based on your communication preference."
+        }
+      ]
+    },
+    {
+      "title": "Coupon Codes / Discount Coupons / Promotional Coupons",
+      "items": [
+        {
+          "subtitle": "How can I get a discount coupon?",
+          "desc": "Discount codes are updated regularly. Any available discounts will be shown on the AiVi app and can be applied at checkout if eligible.\n \n You can also follow our official social media pages to stay updated on the latest offers, promotions, and discount codes."
+        },
+        {
+          "subtitle": "Where can I find available coupons?",
+          "desc": "You can find all available coupons directly on the checkout page. The coupons shown are based on your order eligibility.\n How do I apply a coupon to my order?\n • Visit our website or app.\n • Add your selected items to your cart.\n • Proceed to checkout.\n • Review the available coupons for your order.\n • Select and apply your preferred coupon before completing your purchase."
+        }
+      ]
+    },
+    {
+      "title": "Purchase",
+      "items": [
+        {
+          "subtitle": "Can I transfer My Cash balance to my bank account?",
+          "desc": "No, My Cash balance cannot be transferred to a bank account. Any available balance can be used directly for purchases on AiVi."
+        }
+      ]
+    },
+    {
+      "title": "About AiVi Promise",
+      "items": [
+        {
+          "subtitle": "Does AIVI Sell Genuine Products",
+          "desc": "100% Genuine Products: All products sold on AiVi are authentic and sourced directly from trusted global brands.\n \n Certified Retailer: AiVi (including its holding companies and retail stores) is officially certified by Apparel Group as an authorized online and offline retailer.\n \n Shop with Confidence: Apparel, footwear, accessories, beauty, fragrances, and more — all verified as authentic.\n \n Full Transparency: Certification details are available on the AiVi website for added assurance."
+        },
+        {
+          "subtitle": "How Does AIVI's Price Assurance Work?",
+          "desc": "Price Assurance\n \n Best Price Guaranteed: If you find the same product at a lower price elsewhere, we’ll match it by refunding the difference to your My Cash account.\n \n Eligibility\n \n Applies only to identical products (same brand, size, color, and style).\n \n The product must be listed on another online store or at the Phygital Store.\n \n All products sold on 6thStreet are eligible.\n \n The lower price must be in the same currency (AED, SAR, OMR, KWD, BHD, QAR).\n \n Conditions\n \n Requests must be submitted within 2 days of delivery, after full payment is completed.\n \n The refund applies to the individual product price, not the total order value.\n \n If the product goes on sale on AiVi within 2 days of delivery, only the price difference will be refunded (subject to matching size and color).\n \n Each product is eligible for one Price Assurance claim only.\n \n Once a product is price-assured, it is not eligible for return.\n \n How to Claim Price Assurance\n \n Log in to your AiVi account.\n \n Go to My Account > Price Assurance > Raise a Request.\n \n Select the product, enter the lower price, upload a screenshot, and provide the product link.\n \n Our team will review your request. If approved, the price difference will be credited to My Cash within 48 hours.\n \n Track your request under My Account > Price Assurance > Past Requests.\n \n Data Security: All submitted information, including screenshots, links, and order details, is handled with strict confidentiality in accordance with our Privacy Policy."
+        },
+        {
+          "subtitle": "What Is AIVI's On-Time Delivery Promise?",
+          "desc": "Price Assurance\n \n Best Price Guaranteed: If you find the same product at a lower price elsewhere, we’ll match it by refunding the difference to your My Cash account.\n \n Eligibility\n \n Applies only to identical products (same brand, size, color, and style).\n \n The product must be listed on another online store or at the Phygital Store.\n \n All products sold on AiVi are eligible.\n \n The lower price must be in the same currency (AED, SAR, OMR, KWD, BHD, QAR).\n \n Conditions\n \n Requests must be submitted within 2 days of delivery, after full payment is completed.\n \n The refund applies to the individual product price, not the total order value.\n \n If the product goes on sale on AiVi within 2 days of delivery, only the price difference will be refunded (subject to matching size and color).\n \n Each product is eligible for one Price Assurance claim only.\n \n Once a product is price-assured, it is not eligible for return.\n \n How to Claim Price Assurance\n \n Log in to your AiVi account.\n \n Go to My Account > Price Assurance > Raise a Request.\n \n Select the product, enter the lower price, upload a screenshot, and provide the product link.\n \n Our team will review your request. If approved, the price difference will be credited to My Cash within 48 hours.\n \n Track your request under My Account > Price Assurance > Past Requests.\n \n Data Security: All submitted information, including screenshots, links, and order details, is handled with strict confidentiality in accordance with our Privacy Policy."
+        }
+      ]
+    },
+    {
+      "title": "Referral Program Queries",
+      "items": [
+        {
+          "subtitle": "How Does AIVI's Refer & Earn Program Work?",
+          "desc": "Referral codes can be shared an unlimited number of times.\n \n Referral codes can only be used by logged-in customers and are valid only on the first order of a new account.\n \n Referral rewards are applied based on the active promotion in your country.\n \n Rewards are credited to your My Cash account once the referred customer completes their first successful order using your referral code.\n \n Earned My Cash is valid for one year from the date it is issued.\n \n Users are not allowed to use their own referral code to place an order.\n \n Please note that the exact referral reward amount (for example, AED 40) may vary depending on the current promotion. To view the latest reward details, visit the Refer & Earn section in your AiVi account or check our website/app here:\n https://aivi.com /refer-earn"
+        }
+      ]
+    }
+  ],
+  "ar": [
+    {
       "title": "استفسارات عامة",
       "items": [
         {
-          "subtitle": "من يمكنه الشراء من AIVI.com؟",
-          "desc": "يمكن لأي فرد يبلغ من العمر 18 عامًا ويسمح له قانونًا بالتسوق في الإمارات العربية المتحدة التسوق من AIVI.com ، حيث يحتاجون إلى امتلاك بطاقة ائتمان / خصم سارية (VISA / MASTER CARD) صادرة من بنك معتمد."
+          "subtitle": "من يمكنه الشراء منaivi.com ؟",
+          "desc": "يمكن لأي شخص يبلغ 18 عامًا أو أكثر، ويُسمح له قانونًا بالتسوق عبر AIVI.com، إنشاء طلب. ولإتمام عملية الشراء، يجب أن يمتلك بطاقة ائتمانية أو بطاقة خصم سارية (Visa أو Mastercard) صادرة عن بنك معتمد."
         },
         {
-          "subtitle": "كيف أتسوق على www.AIVI.com؟",
-          "desc": "يمكنك زيارة رابط قسم كيفية التسوق في نهاية كل صفحة."
+          "subtitle": "كيف يمكنني التواصل معaivi.com ؟",
+          "desc": "يمكنك التواصل مع فريق خدمة العملاء يوميًا من الساعة 9:00 صباحًا حتى 9:00 مساءً بتوقيت الإمارات عبر أرقام خدمة العملاء أو مراسلتنا على customercare@aivi.com . كما يمكنك إرسال ملاحظاتك عبر الموقع. ويسعدنا مساعدتك في جميع استفساراتك المتعلقة بكلمة المرور، وتسجيل الدخول، والحساب الشخصي، وطرق الدفع، والمنتجات، والتصفح، والأسعار والعروض، والتوصيل، أو أي استفسار آخر يتعلق بـ aivi.com ."
         },
         {
-          "subtitle": "كيف يمكنني الاتصال بـ www.AIVI.com؟",
-          "desc": "يمكنك الاتصال بنا على الهاتف. رقم 48142666-971+ بين الساعة 9:00 صباحًا حتى 7:00 مساءً والتحدث إلى ممثل خدمة العملاء لدينا أو راسلنا على customercare@aivi.com لأية استفسارات لديك حول AIVI.com أو طلبك. يمكنك أيضًا تقديم الملاحظات على موقعنا على الإنترنت فيما يتعلق بخدماتنا. يمكنك الاتصال بنا للحصول على ما يلي::",
-          "items": [
-            "الاستفسارات المتعلقة بكلمة المرور.",
-            "الاستفسارات المتعلقة بتسجيل الدخول.",
-            "الإستفسارت تغيير حسابي / ملفي الشخصي",
-            "الاستفسارات المتعلقة بالدفع.",
-            "الاستفسارات المتعلقة بالسلع / المنتج.",
-            "الاستفسارات المتعلقة بالتنقل في الموقع.",
-            "التسعير والترويج والاستفسارات المتعلقة بالخصم.",
-            "الاستفسارات المتعلقة بالتسليم ؛ أو",
-            "أي شيء قد يرغب العميل في توضيحه حول AIVI.com"
-          ]
+          "subtitle": "كيف يمكنني منع رسائل aivi.comالإلكترونية من الوصول إلى البريد غير الهام؟",
+          "desc": "نحرص على عدم إرسال رسائل غير مرغوب فيها، ولكن قد تصل بعض رسائلنا إلى مجلد البريد غير الهام (Spam أو Junk). لضمان استلام رسائلنا، أضف عنوان customercare@aivi.com إلى قائمة المرسلين الموثوقين في بريدك الإلكتروني."
         },
         {
-          "subtitle": "كيف يمكنني إيقاف رسائل البريد الإلكتروني الخاصة بـ AIVI.com من مجلد البريد العشوائي  الخاص بي؟",
-          "desc": "نحن نحرص على عدم إرسال بريد عشوائي إلى صناديق بريد عملائنا الكرام. ومع ذلك ، قد تصل رسائل البريد الإلكتروني الخاصة بنا في بعض الأحيان إلى مجلد البريد العشوائي  / البريد العشوائي. ستحتاج إلى إضافة معرّفات بريد AIVI.com (customercare@aivi.com) إلى قائمة المرسلين الموثوق بهم."
-        },
-        {
-          "subtitle": "كيف يمكنني إلغاء الاشتراك من قائمتك البريدية؟",
-          "desc": "لقد أجريت خلال تفاعلات مختلفة عبر الإنترنت / دون اتصال معنا ، سنتواصل معك بشكل دوري للاتصالات القائمة على الأحداث مثل معلومات الطلب وإشعارات التجديد والدعوات والتذكيرات والعروض الخاصة وما إلى ذلك. إذا لم تكن مهتمًا بتلقي أي رسائل بريد إلكتروني منا ، يمكنك تحديد تفضيلاتك عبر الإنترنت في قسم  'حسابي'. ومع ذلك ، ستستمر في تلقي رسائل البريد الإلكتروني القائمة على المعاملات مثل بريد تأكيد الطلب وما إلى ذلك."
+          "subtitle": "كيف يمكنني إلغاء الاشتراك في القائمة البريدية؟",
+          "desc": "قد نرسل إليك رسائل تتعلق بطلباتك أو حسابك، مثل تأكيد الطلبات، والإشعارات، والعروض، والتذكيرات. وإذا لم ترغب في استلام الرسائل التسويقية، يمكنك تعديل تفضيلاتك من قسم **حسابي**. وستستمر في استلام الرسائل المتعلقة بطلباتك، مثل رسائل تأكيد الطلب."
         }
       ]
     },
@@ -572,32 +720,64 @@
       "title": "الدفع ذات الصلة",
       "items": [
         {
-          "subtitle": "كيف يمكنني السداد؟",
-          "desc": "يمكن السداد من خلال جميع بطاقات الائتمان وبطاقات الخصم (إذا كان البنك الذي تتعامل معه قد سمح لك بإجراء معاملات عبر الإنترنت) ، والدفع عبر الإنترنت من خلال التحويل المصرفي ، واسترداد نقاط الولاء والمكافآت والدفع نقدًا عند التسليم."
+          "subtitle": "كيف يمكنني الدفع؟",
+          "desc": "يمكنك الدفع باستخدام بطاقات الائتمان والخصم (إذا كانت مفعّلة للشراء عبر الإنترنت)، أو التحويل البنكي الإلكتروني، أو استبدال نقاط الولاء والمكافآت، أو الدفع عند الاستلام."
         },
         {
-          "subtitle": "هل تقبل الدفع من خلال شيك / كمبيالة تحت الطلب؟",
-          "desc": "لا ، لا نقبل حاليًا الدفع من خلال شيك / كمبيالة تحت الطلب."
+          "subtitle": "هل تقبلون الدفع بالشيكات أو الحوالات البنكية؟",
+          "desc": "لا، لا نقبل حاليًا الدفع بالشيكات أو الحوالات البنكية."
         },
         {
-          "subtitle": "هل يمكنني شراء قسيمة هدايا AIVI.com (GV) عبر الإنترنت؟",
-          "desc": "نعم, يمكنك شراء قسيمة هدايا عبر الإنترنت, كما يمكن إستردادها على الموقع www.AIVI.com ومع ذلك لا يمكن إستبدال القسيمة نفسها في المتجر. بمجرد طلب قسائم الهدايا لن يتم إلغاؤها أو إعادتها."
+          "subtitle": "هل يمكنني شراء بطاقة هدايا إلكترونية منaivi.com ؟",
+          "desc": "نعم، يمكنك شراء بطاقة هدايا إلكترونية (eGift Card) واستخدامها للتسوق عبر موقع وتطبيق aivi.com . ولا يمكن استخدامها داخل المتاجر. وإذا قمت بإرجاع منتج أو إلغاء طلب تم دفعه باستخدام بطاقة الهدايا الإلكترونية، فسيتم إضافة قيمة المبلغ المسترد إلى محفظة **ماي كاش**، وذلك وفقًا لسياسة الإرجاع والاسترداد."
         },
         {
-          "subtitle": "هل يمكنني إستبدال قسيمة هدايا AIVI.com للتسوق عبر الإنترنت؟ ",
-          "desc": "لا, لا يمكنك إسترداد قسائم الهدايا المادية (الورقية) عبر الإنترنت."
+          "subtitle": "هل يمكنني استخدام قسيمة هداياaivi.comللتسوق عبر الموقع؟",
+          "desc": "لا يمكن استخدام بطاقات الهدايا الخاصة بالمتاجر على aivi.com . إذ تقتصر بطاقات الهدايا الفعلية على الشراء داخل المتاجر فقط، بينما يمكن استخدام بطاقة الهدايا الإلكترونية (eGift Card) للتسوق عبر aivi.com ."
         },
         {
-          "subtitle": "ما الذي يمكنني فعله إذا تم إختراق بطاقة الإئتمان / الخصم الخاصة بي أثناء إجراء عملية الدفع عبر الإنترنت؟",
-          "desc": "هل يُسمح بإلغاء الدفع في حالة إساءة إستخدام بطاقتي أو إجراء عملية شراء بطريقة إحتيالية؟"
+          "subtitle": "هل يمكنني إيقاف عملية الدفع إذا تم استخدام بطاقتي بشكل غير مصرح به أو في عملية شراء احتيالية؟",
+          "desc": "لا، لا يمكن إيقاف عملية الدفع بعد إتمامها بنجاح. فجميع عمليات الشراء المؤكدة تُعد نهائية. وإذا كنت تعتقد أن بطاقتك استُخدمت دون إذنك أو في عملية احتيالية، فننصحك بالتواصل مع البنك أو الجهة المصدرة للبطاقة فورًا للإبلاغ عن ذلك وطلب المساعدة."
         },
         {
-          "subtitle": "ما الذي يمكنني فعله إذا تم إختراق بطاقة الإئتمان / الخصم الخاصة بي أثناء إجراء عملية الدفع عبر الإنترنت؟",
-          "desc": "يرجى الرجوع إلى سياسة الخصوصية الخاصة بنا, والتي تنص على أننا لا نجمع أو نتلقى معلومات بطاقتك الائتمانية, وأن أموالك يتم جمعها مباشرة على بوابة الدفع الإلكترونية, إذا كنت تعتقد أن بطاقتك الائتمانية قد تم اختراقها, فقم بإبلاغ البنك الخاص ببطاقتك على الفور."
+          "subtitle": "ماذا أفعل إذا تعرضت بطاقتي الائتمانية أو بطاقة الخصم للاختراق أثناء الدفع عبر الإنترنت؟",
+          "desc": "يرجى الرجوع إلى سياسة الخصوصية، حيث نوضح أننا لا نقوم بجمع أو حفظ بيانات بطاقتك البنكية، إذ تتم جميع عمليات الدفع مباشرة عبر بوابة دفع آمنة تابعة للبنك. وإذا كنت تعتقد أن بيانات بطاقتك قد تعرضت للاختراق، يرجى التواصل فورًا مع البنك المصدر للبطاقة."
         },
         {
-          "subtitle": "هل يمكنني الدفع في المتجر مقابل منتج تم شراؤه عبر الإنترنت؟",
-          "desc": "لا, نحن لا ندعم طريقة الدفع هذه حاليًا."
+          "subtitle": "هل يمكنني الدفع في المتجر مقابل منتج اشتريته عبر الموقع؟",
+          "desc": "لا، لا يمكن الدفع داخل المتجر مقابل طلب تم إنشاؤه عبر الموقع أو التطبيق. ولكن إذا كان المنتج غير متوفر في المتجر، يمكن لفريق المتجر مساعدتك في إنشاء طلب عبر آيفي، ليتم توصيله إلى العنوان الذي تختاره. تتوفر هذه الخدمة في متاجر كلوب آيفي."
+        },
+        {
+          "subtitle": "ما هي وسائل الدفع المتاحة في الإمارات العربية المتحدة؟",
+          "desc": "في الإمارات العربية المتحدة، يمكنك الدفع باستخدام بطاقات الائتمان والخصم، أو Apple Pay، أو Tabby، أو Tamara، أو الدفع عند الاستلام."
+        },
+        {
+          "subtitle": "ما هي وسائل الدفع المتاحة في المملكة العربية السعودية؟",
+          "desc": "في المملكة العربية السعودية، يمكنك الدفع باستخدام بطاقات الائتمان والخصم، أو Apple Pay، أو Tabby، أو Tamara، أو الدفع عند الاستلام."
+        },
+        {
+          "subtitle": "ما هي وسائل الدفع المتاحة في الكويت؟",
+          "desc": "في الكويت، يمكنك الدفع باستخدام بطاقات الائتمان والخصم، أو Apple Pay، أو KNET، أو الدفع عند الاستلام."
+        },
+        {
+          "subtitle": "ما هي وسائل الدفع المتاحة في عُمان؟",
+          "desc": "في سلطنة عُمان، يمكنك الدفع باستخدام بطاقات الائتمان والخصم أو الدفع عند الاستلام."
+        },
+        {
+          "subtitle": "ما هي وسائل الدفع المتاحة في البحرين؟",
+          "desc": "في البحرين، يمكنك الدفع باستخدام بطاقات الائتمان والخصم أو Apple Pay."
+        },
+        {
+          "subtitle": "ما هي وسائل الدفع المتاحة في قطر؟",
+          "desc": "في قطر، يمكنك الدفع باستخدام بطاقات الائتمان، أو Apple Pay، أو QPAY (بطاقة الخصم)، أو الدفع عند الاستلام."
+        },
+        {
+          "subtitle": "أرغب في تغيير طريقة الدفع لطلب تم تأكيده، كيف يمكنني ذلك؟",
+          "desc": "لا، لا يمكن تغيير طريقة الدفع بعد تأكيد الطلب."
+        },
+        {
+          "subtitle": "هل تأتي الساعات المباعة على آيفي مع العلبة الأصلية؟",
+          "desc": "نعم، جميع الساعات التي نبيعها تأتي مع علبة الساعة الأصلية."
         }
       ]
     },
@@ -605,144 +785,270 @@
       "title": "منتجات ذات صلة",
       "items": [
         {
-          "subtitle": "هل هناك فرق بين البضائع المباعة على موقع AIVI.com ومتاجر كلوب أباريل؟",
-          "desc": "نجمع المعلومات منك عندما تقوم بالتسجيل على موقعنا أو ملء نموذج التسجيل. عند الطلب أو التسجيل على موقعنا, قد يُطلب منك إدخال إسمك أو عنوان بريدك الإلكتروني. ومع ذلك يمكنك زيارة موقعنا كزائر. "
+          "subtitle": "هل توجد اختلافات بين المنتجات المتوفرة علىaivi.comوتلك المتوفرة في متاجر كلوب آيفي؟",
+          "desc": "تقدم aivi.com نفس المنتجات الأصلية المتوفرة في متاجر كلوب آيفي، وبنفس الأسعار."
         },
         {
-          "subtitle": "في ماذا نستخدم معلوماتك الخاصة؟ ",
-          "desc": "يقدم موقع AIVI.com نفس الأسعار وجودة المنتجات التي تُباع في متاجر كلوب أباريل."
+          "subtitle": "كيف نستخدم معلوماتك؟",
+          "desc": "نجمع المعلومات التي تقدمها عند إنشاء حساب أو تعبئة نموذج على الموقع. وقد يُطلب منك إدخال اسمك أو بريدك الإلكتروني عند التسجيل أو إتمام الطلب. كما يمكنك تصفح الموقع دون إنشاء حساب إذا رغبت بذلك."
         },
         {
-          "subtitle": "كيف أعرف القياس المناسب لي؟ هل لديكم جداول قياسات؟ ",
-          "desc": "لدينا حجم قياسي وجدول قياسات. "
+          "subtitle": "كيف أحدد المقاس المناسب لي؟ وهل تتوفر جداول للمقاسات؟",
+          "desc": "نوفر دليلًا للمقاسات لمعظم المنتجات على موقع وتطبيق aivi.com لمساعدتك في اختيار المقاس المناسب."
         },
         {
-          "subtitle": "إذا كنت أريد منتجًا من علامة تجارية معينة, فكيف يمكنني العثور عليه؟",
-          "desc": "يمكنك البحث عن العلامة التجارية في صفحة البحث, وإذا كنت ترغب في التسوق لعلامة تجارية معينة في فئة ما,  فيمكنك النقر فوق العلامات التجارية المدرجة على الجانب الأيسر من الصفحة تحت عنوان العلامات التجارية."
+          "subtitle": "كيف يمكنني العثور على منتجات علامة تجارية معينة؟",
+          "desc": "يمكنك البحث عن أي علامة تجارية باستخدام شريط البحث في جميع صفحات الموقع. كما يمكنك تصفح العلامات التجارية المتاحة داخل أي فئة من خلال قسم **العلامات التجارية**."
         }
       ]
     },
     {
-      "title": "الإلغاء/ الإرجاع/ الإستردادات. ",
+      "title": "الإلغاء/ الإرجاع/ الإستردادات.",
       "items": [
         {
-          "subtitle": "كيف يمكنني إرجاع منتج؟ ",
-          "desc": "",
-          "items": [
-            "لإرجاع منتج باستخدام التطبيق أو الموقع الإلكتروني، يرجى اتباع الخطوات التالية:\n  1. انتقل إلى \"طلباتي\"\n  2. اختر الطلب الذي ترغب في إرجاعه\n  3. اضغط على \"إرجاع/استبدال\".\n  4. اختر المنتج الذي تريد إرجاعه وحدد سبب الإرجاع.\n  5. حدد طريقة الاسترداد المفضلة لديك.\n  6. اضغط على \"إرجاع المنتج\" لإكمال العملية.\n\nقبل البدء بطلب الإرجاع، يرجى التأكد من أن المنتج مؤهل للإرجاع من خلال التحقق من تفاصيل المنتج",
-            "+يمكنك إرجاع المنتجات بالطرق التالية: يمكن إرجاع معظم البضائع في متاجرنا وللتحقق من المنتجات التي لا يمكن إرجاعها في متاجرنا ، يرجى الاتصال بخدمة العملاء على الرقم 48142666-971+.",
-            "يمكنك زيارة أقرب متجر كلوب آيفيفي الإمارات العربية المتحدة, وإعادة المنتجات في حالتها الجديدة بأن تكون غير مستخدمة وقابلة للبيع, ويجب إحضار الفاتورة الأصلية. ",
-            "يمكنك الإتصال بخدمة عملاء AIVI.com على الرقم 48142666-971+, وطلب الإرجاع أو الإستبدال. وسنقوم بترتيب إستلام المنتجات من عنوان التسليم عبر شركة الشحن وإعادتها إلينا. سنقوم بمعالجة عملية الإرجاع لأستلام المنتجات في موقعنا في حالة غير مستخدمة وفي عبوتها الأصلية مع العلامات الأصلية والفاتورة, وإلا فقد يتعذر عملية الإرجاع / الإستبدال / وإسترداد الأموال. لمزيد من التفاصيل يرجى الرجوع إلى سياسة الإرجاع الخاصة بنا."
-          ]
+          "subtitle": "كيف يمكنني إرجاع منتج؟",
+          "desc": "إرجاع المنتجات سهل وسريع. انتقل إلى **طلباتي**، واختر الطلب، ثم اضغط على **إرجاع/استبدال**. بعد ذلك، حدد المنتج وسبب الإرجاع، واختر طريقة استرداد المبلغ، ثم اضغط على **إرجاع المنتج** لإرسال الطلب. قبل البدء، تأكد من أن المنتج مؤهل للإرجاع من خلال قسم **أهم مميزات المنتج**. كما يمكنك إرجاع المنتجات إلى أحد متاجر كلوب آيفي داخل الإمارات العربية المتحدة، بشرط أن تكون غير مستخدمة وبحالتها الأصلية مع فاتورة الشراء. ويمكنك أيضًا طلب الإرجاع أو الاستبدال عبر خدمة العملاء، حيث سنرتب استلام المنتج من عنوانك. وبعد استلامه والتأكد من حالته، سنستكمل إجراءات الإرجاع أو الاستبدال وفقًا لسياسة الإرجاع."
         },
         {
-          "subtitle": "ماذا يحدث إذا كانت المنتجات المطلوبة غير متوفرة؟",
-          "desc": "إذا نفدت المنتجات عند إضافتها إلى حقيبة التسوق الخاصة بك, فسيتم إبلاغك على الفور ولن تتم إضافتها إلى حقيبة التسوق. إذا كانت البضائع غير متوفرة في المخزون بعد إضافتها إلى حقيبة التسوق الخاصة بك قبل إكمال تأكيد الطلب, فسيتم إبلاغك قبل تأكيد الطلب. تحتاج بعد ذلك إلى إزالتها من حقيبتك قبل متابعة تأكيد الطلب. إذا نفدت المنتجات من المخزون بعد تقديم الطلب وتلقي تأكيد الطلب, فسنبذل قصارى جهدنا لتلبية الطلب من خلال تحديد مصادر المنتجات المحددة. إذا لم نتمكن من توفيرها لك, أو إذا استغرق الشحن أكثر من 9 أيام, فسنبلغك بالتأخير ونلغي المنتجات, وسنقوم بإلغاء أي رسوم تم فرضها على بطاقة الائتمان / الخصم الخاصة بك مقابل تلك المنتجات."
+          "subtitle": "ماذا يحدث إذا نفد مخزون المنتج الذي طلبته؟",
+          "desc": "إذا نفد مخزون المنتج قبل إضافته إلى سلة التسوق، فسيتم إبلاغك بذلك ولن تتم إضافته. وإذا نفد المخزون بعد إضافته إلى السلة وقبل إتمام الطلب، فسيظهر إشعار عند الدفع وستحتاج إلى إزالة المنتج للمتابعة. أما إذا نفد المخزون بعد تأكيد الطلب، فسنبذل قصارى جهدنا لتوفير المنتج. وإذا تعذر ذلك أو استغرق الشحن أكثر من أربعة أيام، فسنبلغك بالتأخير، ونلغي المنتج، ونسترد المبلغ المدفوع إليه عبر وسيلة الدفع الأصلية."
         },
         {
-          "subtitle": "هل هناك حد للكمية التي يمكنني طلبها؟",
-          "desc": "لا, ولكن عندما تكون كميات الطلب كبيرة, سنقوم بالتحقق من هويتك, للتأكد من أنك طلبت بالفعل هذه المنتجات. "
+          "subtitle": "هل يوجد حد أقصى لعدد المنتجات التي يمكنني طلبها؟",
+          "desc": "يمكنك إضافة ما يصل إلى 20 منتجًا في سلة التسوق. وقد نتواصل معك للتحقق من الطلب حفاظًا على أمان حسابك والتأكد من صحة عملية الشراء."
         },
         {
-          "subtitle": "هل يمكنني إلغاء الطلب أو بعض المنتجات؟ ",
-          "desc": "نعم ,يمكنك إلغاء الطلب كليًا أو جزئيًا قبل شحنه. ولكن عن إلغاء الطلب لا يمكنك الحصول على نقاط الولاء أو إسترداد قسائم الهدايا. للتحقق من حالة ما إذا كان قد تم شحن طلبك أم لا, انقر فوق رابط 'حالة الطلب' في أعلى الصفحة, ثم على الرابط الخاص بالطلب المحدد, والذي سيشير إلى حالة الشحن لكل منتج في الطلب في الخاص بك. ومع ذلك لا يمكنك التعديل على الطلب بإضافة منتجات أو تغييرها."
+          "subtitle": "هل يمكنني إلغاء طلب أو منتج؟",
+          "desc": "نعم، يمكنك إلغاء الطلب بالكامل أو جزء منه قبل شحنه. ولا يمكن إلغاء الطلبات المدفوعة باستخدام نقاط الولاء أو بطاقات الهدايا بعد تأكيدها. ويمكنك التحقق من حالة الشحن من خلال صفحة **حالة الطلب**. بعد شحن الطلب، لا يمكن إضافة منتجات جديدة إليه أو تعديل المنتجات الموجودة فيه."
         },
         {
-          "subtitle": "هل يمكنني تغيير عنوان شحن الطلب؟",
-          "desc": "يمكنك تغيير عنوان الشحن قبل إصدار فاتورة طلبك وشحنه عن طريق الإتصال بخدمة العملاء على 48142666-971+ من 9.00 صباحًا 7.00 مساءً من السبت إلى الخميس."
+          "subtitle": "هل يمكنني تغيير عنوان التوصيل بعد تقديم الطلب؟",
+          "desc": "يمكنك تغيير عنوان التوصيل قبل إصدار فاتورة الطلب وشحنه، وذلك بالتواصل مع فريق خدمة العملاء."
         },
         {
-          "subtitle": "ما هي سياسة الإرجاع / الإسترداد والإستبدال الخاصة بكم؟",
-          "desc": "نحن نقدم سياسة إسترداد وإستبدال لمدة 14 يومًا, والتي تنطبق على معظم المنتجات المباعة على AIVI.com, يرجى الرجوع إلى سياسة الإرجاع لدينا لمزيد من التفاصيل."
+          "subtitle": "ما هي سياسة الإرجاع والاسترداد والاستبدال؟",
+          "desc": "نوفر سياسة إرجاع واستبدال لمدة 14 يومًا على معظم المنتجات المتوفرة على aivi.com . ولمزيد من التفاصيل، يُرجى الاطلاع على سياسة الإرجاع."
         },
         {
-          "subtitle": "في حال أردت تغيير لون أو قياس المنتج, هل يمكنني إستبداله؟",
-          "desc": "نعم, بالنسبة لمعظم المنتجات, يمكنك إستبدال العناصر غير المستخدمة. وسيتم إستبعاد بعض المنتجات من هذا لأسباب تتعلق بالنظافة. للحصول على تفاصيل حول المنتجات التي لا يمكن إستبدالها أو إرجاعها, يرجى الرجوع إلى سياسة الإرجاع الخاصة بنا."
+          "subtitle": "إذا غيرت رأيي بشأن اللون أو المقاس، هل يمكنني استبداله؟",
+          "desc": "نعم، يمكنك استبدال معظم المنتجات غير المستخدمة. ومع ذلك، لا يمكن استبدال أو إرجاع بعض المنتجات لأسباب تتعلق بالصحة والسلامة. لمعرفة المنتجات المستثناة، يُرجى الاطلاع على سياسة الإرجاع."
         },
         {
-          "subtitle": "هل يمكنني إرجاع أو استبدال منتج عن طريق شركة الشحن؟",
-          "desc": "نعم يمكنك, ستحتاج إلى الإتصال بممثل خدمة العملاء لدينا وتسجيل طلبك. بعد أن نتلقى طلبك سنتواصل معك ونوضح لك عملية إعادة المنتج عبر شركة الشحن, ولمزيد من التفاصيل يرجى الرجوع إلى سياسة الإرجاع الخاصة بنا."
+          "subtitle": "هل يمكنني إرجاع أو استبدال المنتج عبر البريد أو شركة الشحن؟",
+          "desc": "نعم، يمكنك طلب الإرجاع أو الاستبدال عبر التواصل مع فريق خدمة العملاء. وبعد تسجيل الطلب، سننسق معك استلام المنتج من خلال شركة الشحن. ولمزيد من التفاصيل، يُرجى الاطلاع على سياسة الإرجاع."
         },
         {
-          "subtitle": "هل يمكنني إعادة المنتج إلى المتجر؟ ",
-          "desc": "نعم, يمكن إرجاع البضائع في متاجرنا ؛ للتحقق من البضائع التي لا يمكن إرجاعها, يرجى الاتصال بخدمة العملاء, ولمزيد من التفاصيل يرجى الرجوع إلى سياسة الإرجاع الخاصة بنا. "
+          "subtitle": "هل يمكنني إرجاع المنتج إلى أحد متاجركم؟",
+          "desc": "نعم، يمكنك إرجاع المنتجات إلى متاجرنا. ولمعرفة المنتجات غير المؤهلة للإرجاع داخل المتجر، يُرجى التواصل مع فريق خدمة العملاء أو مراجعة سياسة الإرجاع."
         },
         {
-          "subtitle": "كيف يمكنني إرجاع / إستبدال المنتجات إذا لم يكن هناك متجر كلوب آيفيفي مدينتي؟",
-          "desc": "يمكنك التواصل بخدمة عملاء AIVI.com وتطلب منهم الإرجاع أو الإستبدال. سنعمل على جمع البضائع من عنوان التسليم عبر شركة الشحن وإعادتها إلينا. سنقوم بمعالجة عملية الإرجاع لإستلام المنتجات في موقعنا في حالة غير مستخدمة في عبوتها الأصلية مع العلامات الأصلية والفاتورة, وإلا فقد يتعذر عملية الإرجاع / الإستبدال / وإسترداد الأموال. "
+          "subtitle": "كيف يمكنني إرجاع أو استبدال المنتج إذا لم يكن هناك متجر كلوب آيفي في مدينتي؟",
+          "desc": "يمكنك التواصل مع فريق خدمة العملاء في aivi.com لطلب إرجاع أو استبدال المنتج. وسنرتب استلامه من عنوان التوصيل عبر شركة الشحن. وسيتم استكمال إجراءات الإرجاع أو الاستبدال بعد استلام المنتج بحالته الأصلية، غير مستخدم، مع التغليف الأصلي، وبطاقات التعريف، وفاتورة الشراء. وفي حال عدم استيفاء هذه الشروط، قد لا يكون الإرجاع أو الاستبدال أو استرداد المبلغ ممكنًا."
         },
         {
-          "subtitle": "كيف يمكنني الحصول على أموالي مقابل المنتج التي قمت بإرجاعه أو إلغائه؟",
-          "desc": "سوف تتلقى أموالك بنفس الطريقة التي دفعت بها عملية الطلب. وبالنسبة للإرجاع سيتم تزويدك بإشعار إئتمان يمكنك إستخدامه للتسوق في أي من متاجرنا. "
+          "subtitle": "كيف يمكنني استرداد قيمة المنتج الذي أرجعته أو ألغيت طلبه؟",
+          "desc": "سيتم استرداد قيمة المنتج وفقًا لوسيلة الدفع المستخدمة عند الشراء، وبما يتوافق مع سياسة الإرجاع والاسترداد لدينا."
         },
         {
-          "subtitle": "هل يمكنني الحصول على ضمان للمنتجات؟",
-          "desc": "إذا كان ضمان الشركة المصنعة مرتبطًا بالمنتج, فسيتم ذكره في خانة تفاصيل المنتج الأخرى."
+          "subtitle": "هل يشمل المنتج ضمانًا؟",
+          "desc": "إذا كان المنتج مشمولًا بضمان أو كفالة من الشركة المصنعة، فسيتم توضيح ذلك ضمن تفاصيل المنتج."
+        },
+        {
+          "subtitle": "كم يومًا لدي لإرجاع أو استبدال المنتج؟",
+          "desc": "يمكنك إرجاع أو استبدال المنتجات خلال 14 يومًا من تاريخ استلام الطلب، بشرط أن تكون غير مستخدمة، وفي تغليفها الأصلي، مع بطاقات التعريف وفاتورة الشراء."
+        },
+        {
+          "subtitle": "هل الإرجاع مجاني؟",
+          "desc": "نعم، الإرجاع والاستبدال مجانيان. ويشترط أن تكون المنتجات المؤهلة غير مستخدمة، مع بطاقات التعريف الأصلية وفاتورة الشراء."
+        },
+        {
+          "subtitle": "كم يستغرق استرداد المبلغ؟",
+          "desc": "يتم استرداد المبلغ خلال 7 أيام عمل من استلام المنتج المرتجع وفحصه."
+        },
+        {
+          "subtitle": "كيف أسترد المبلغ إذا دفعت نقدًا عند الاستلام؟",
+          "desc": "إذا تم الدفع نقدًا عند الاستلام، فسيتم استرداد المبلغ على شكل رصيد متجر (ماي كاش). ولا تنتهي صلاحية هذا الرصيد، ويمكن استخدامه للتسوق عبر aivi.com فقط. وبعد إتمام عملية الاسترداد، سيظهر الرصيد في قسم **ماي كاش** داخل محفظتك."
+        },
+        {
+          "subtitle": "ما هي المنتجات التي لا يمكن إرجاعها أو استبدالها؟",
+          "desc": "لا يمكن إرجاع أو استبدال العطور، ومستحضرات التجميل، والملابس الداخلية، واللانجري، وقسائم الهدايا، والمنتجات المصنوعة حسب الطلب أو المعدلة."
+        },
+        {
+          "subtitle": "هل يمكنني إرجاع منتج اشتريته خلال التخفيضات أو العروض الترويجية؟",
+          "desc": "لا يمكن استبدال المنتجات التي تم شراؤها خلال التخفيضات أو العروض الترويجية، إلا إذا كان العرض نفسه لا يزال ساريًا وبالسعر نفسه. ومع ذلك، قد تكون مؤهلة للإرجاع وفقًا لسياسة الإرجاع ونوع المنتج."
+        },
+        {
+          "subtitle": "هل يمكنني إرجاع المنتجات التي اشتريتها عبر الموقع إلى أحد المتاجر؟",
+          "desc": "نعم، يمكنك إرجاع المنتجات المؤهلة إلى أقرب متجر كلوب آيفي مع فاتورة الشراء الأصلية، بشرط أن تكون غير مستخدمة وبحالة قابلة للبيع."
+        },
+        {
+          "subtitle": "هل يمكنني استبدال المنتج بمنتج مختلف؟",
+          "desc": "يمكن استبدال المنتج نفسه فقط بمقاس أو لون مختلف. أما المنتجات المشحونة من شركائنا الدوليين فلا يمكن استبدالها، وإنما يمكن إرجاعها فقط."
+        },
+        {
+          "subtitle": "متى سأستلم المنتج البديل؟",
+          "desc": "بعد وصول المنتج المرتجع إلى مستودعاتنا (خلال 48 إلى 72 ساعة من استلامه من شركة الشحن) واجتيازه الفحص، سيتم شحن المنتج البديل إليك."
+        },
+        {
+          "subtitle": "هل سأتحمل رسوم شحن الإرجاع؟",
+          "desc": "لا، لا تتحمل أي رسوم لشحن المنتج المرتجع إذا كان مؤهلًا للإرجاع أو الاستبدال."
+        },
+        {
+          "subtitle": "ماذا يحدث إذا أرجعت المنتج دون فاتورة؟",
+          "desc": "لا يمكن قبول طلبات الإرجاع دون فاتورة الشراء الأصلية، لذا يُرجى إرفاقها مع المنتج عند الإرجاع."
+        },
+        {
+          "subtitle": "ماذا أفعل إذا وصل طلبي تالفًا أو تعرض للعبث؟",
+          "desc": "إذا وصل طلبك في عبوة تالفة أو تبدو عليها آثار عبث، يُرجى رفض استلام الشحنة والتواصل مع فريق خدمة العملاء أو مراسلتنا على customercare@aivi.com مع تزويدنا برقم الطلب."
+        },
+        {
+          "subtitle": "هل يمكنني إلغاء طلبي بعد تأكيده؟",
+          "desc": "نعم، يمكنك إلغاء الطلب. أما إذا تم تجهيزه، فلن تتمكن من إلغائه بنفسك، ويُرجى التواصل مع فريق خدمة العملاء للمساعدة."
+        },
+        {
+          "subtitle": "هل تقبلون إرجاع المنتجات التي تم فتحها؟",
+          "desc": "لا يمكن إرجاع المنتجات بعد فتحها. وللتأهل للإرجاع أو الاستبدال، يجب أن يكون المنتج غير مستخدم، وفي تغليفه الأصلي، مع بطاقات التعريف وفاتورة الشراء."
+        },
+        {
+          "subtitle": "ملخص سياسة الإرجاع والاستبدال",
+          "desc": "يمكنك تقديم طلب إرجاع أو استبدال خلال 14 يومًا من تاريخ استلام الطلب، بشرط أن يكون المنتج غير مستخدم، وفي تغليفه الأصلي، مع بطاقات التعريف وفاتورة الشراء. ولا يمكن إرجاع أو استبدال العطور، ومستحضرات التجميل، والملابس الداخلية، واللانجري، وقسائم الهدايا، والمنتجات المصنوعة حسب الطلب أو المعدلة. يتم جدولة استلام المنتجات المرتجعة خلال 24 إلى 48 ساعة من تقديم الطلب. ويُعالج طلب استرداد المبلغ خلال 7 أيام عمل من استلام المنتج وفحصه. ويتم استرداد المبلغ إلى البطاقة البنكية أو Apple Pay خلال 5 إلى 7 أيام عمل، بينما تُعالج استردادات Tabby وTamara خلال يوم إلى يومي عمل. أما الطلبات المدفوعة عند الاستلام، فيتم استردادها على شكل **رصيد ماي كاش** خلال يوم واحد، ويكون الرصيد صالحًا لمدة سنة. يُسمح بالاستبدال للمنتج نفسه فقط بمقاس أو لون مختلف، وبنفس قيمة المنتج الأصلي. ويتم شحن المنتج البديل خلال 48 إلى 72 ساعة بعد استلام المنتج المرتجع وفحصه. أما المنتجات المشحونة من شركائنا الدوليين فهي مؤهلة للإرجاع فقط ولا يمكن استبدالها. ويُرجى التأكد من سلامة الطرد عند الاستلام، وفي حال وجود تلف أو آثار عبث، ارفض استلام الشحنة وتواصل مع فريق خدمة العملاء فورًا. وقد يتم تحديث السياسات من وقت لآخر، ويُعد استمرار استخدام المنصة موافقة على أحدث نسخة منها."
+        },
+        {
+          "subtitle": "طريقة تقديم طلب إرجاع أو استبدال",
+          "desc": "لتقديم طلب إرجاع أو استبدال، سجّل الدخول إلى موقع أو تطبيق آيفي، ثم انتقل إلى **طلباتي**، واختر الطلب المطلوب، ثم اضغط على **تقديم طلب إرجاع** أو **تقديم طلب استبدال**."
         }
       ]
     },
     {
-      "title": "الشحن ",
+      "title": "الشحن",
       "items": [
         {
-          "subtitle": "إين يمكنكم التوصيل؟ ",
-          "desc": "نقوم بالتوصيل حاليًا إلى المدن الرئيسية في الإمارات العربية المتحدة. "
+          "subtitle": "إلى أين تقومون بالتوصيل؟",
+          "desc": "نوصل حاليًا إلى جميع المدن الرئيسية في الإمارات العربية المتحدة، والمملكة العربية السعودية، والكويت، والبحرين، وقطر، وسلطنة عُمان."
         },
         {
-          "subtitle": "ما هي سياسة الشحن الخاصة بكم؟ ",
-          "desc": "يرجى الرجوع إلى قسم سياسة الشحن الخاصة بنا. "
+          "subtitle": "ما هي سياسة الشحن لديكم؟",
+          "desc": "لمعرفة تفاصيل الشحن، يُرجى الرجوع إلى قسم **سياسة الشحن** في الموقع أو التطبيق."
         },
         {
-          "subtitle": "هل هناك أي أماكن أو منتجات قد يستغرق التسليم وقتًا أطول؟",
-          "desc": "الوقت المتوقع الذي يستغرقه إرسال الشحنة مذكور مقابل كل منتج في صفحة تفاصيل المنتج المعنية. عادةً ما يتم الإنتهاء من جميع عمليات التسليم في الإمارات العربية المتحدة في غضون يوم إلى يومين بمجرد إستلامنا لطلبك, فإننا نبذل جميع المحاولات للتسليم في غضون الوقت المحدد, ومع ذلك قد يستغرق الأمر وقتًا أطول من المتوقع في بعض المناطق البعيدة للوصول, نظرًا لضعف الإتصال اللوجستي."
+          "subtitle": "هل توجد مناطق أو منتجات قد يستغرق توصيلها وقتًا أطول؟",
+          "desc": "نعم، قد يستغرق توصيل بعض المنتجات وقتًا أطول. فالمنتجات التي يتم شحنها دوليًا تحتاج إلى وقت إضافي للمعالجة، وعادةً ما يتم توصيلها خلال 12 إلى 14 يومًا. ويمكنك معرفة ما إذا كان المنتج يُشحن دوليًا أو ضمن الشحن المحلي من خلال قسم **أهم مميزات المنتج** في صفحة المنتج."
         },
         {
-          "subtitle": "ماذا يحدث في حالة عدم تواجدي عند إستلام الطلب؟ ",
-          "desc": "سوف تأتي شركة الشحن الخاصة بنا مرة أخرى إلى موقعك. يجب أن تنسق مع شخص ما لإستلام طلبك في حالة عدم تواجدك. "
+          "subtitle": "ماذا يحدث إذا لم أكن متواجدًا عند وصول الطلب؟",
+          "desc": "إذا لم تكن متواجدًا عند محاولة التوصيل، فستقوم شركة الشحن بمحاولة التوصيل مرة أخرى. لذا يُرجى التأكد من وجود شخص يمكنه استلام الطلب نيابةً عنك عند الحاجة."
         },
         {
-          "subtitle": "ماذا لو وصل جزء فقط من طلبي؟",
-          "desc": "في بعض الحالات قد لا تكون بعض المنتجات جاهزة للشحن, ولذلك قد نقوم بشحن طلب جزئي للمنتجات الجاهزة للشحن. سيتم شحن المنتجات المتبقية بمجرد توفرها, ولكن في موعد لا يتجاوز 9 أيام من طلبك. إذا لم نتمكن من شحن المنتج خلال 9 أيام, فسنقوم بإلغاء المنتجات غير المشحونة وسنبلغك بذلك. لمزيد من التفاصيل يمكنك التحقق من حالة الطلب في قسم حسابي."
+          "subtitle": "ماذا أفعل إذا استلمت جزءًا فقط من طلبي؟",
+          "desc": "قد نقوم بشحن بعض المنتجات من أقرب متجر، لذلك قد يصلك طلبك على عدة شحنات. وعند شحن الطلب، ستصلك رسالة نصية تتضمن أرقام الشحنات ورابط تتبع كل شحنة."
         },
         {
-          "subtitle": "ماذا أفعل عندما يصل طلبي تالفًا؟",
-          "desc": "إذا وجدت أن الغطاء تالف قبل قبول التسليم, فيرجى رفض الإستلام وإبلاغنا على الفور. وبمجرد قبول التسليم وبعد ذلك أدركت أن الغطاء تالف, فلا تتردد في الاتصال بنا في غضون 14 يومًا من إستلام الغطاء أو المنتجات. لمزيد من التفاصيل يرجى الإطلاع على سياسة الإرجاع الخاصة بنا."
+          "subtitle": "ماذا أفعل إذا استلمت منتجًا تالفًا؟",
+          "desc": "إذا لاحظت أن التغليف تالف أو يبدو أنه تعرض للعبث قبل استلام الطلب، فيُرجى رفض استلام الشحنة وإبلاغنا فورًا. وإذا اكتشفت وجود تلف بعد استلام الطلب، فيمكنك التواصل معنا خلال 14 يومًا من تاريخ الاستلام. ولمزيد من التفاصيل، يُرجى مراجعة سياسة الإرجاع."
         },
         {
-          "subtitle": "هل يمكنني تغيير عنوان التوصيل الخاص بي؟",
-          "desc": "نعم ، يمكنك تغيير عنوان التسليم قبل أن نرسل لك فاتورة الطلب وشحن طلبك. يجب عليك الإتصال بخدمة العملاء على الهاتف رقم 48142666-971+ بين الساعة 9:00 صباحًا حتى 7:00 مساءً. "
+          "subtitle": "هل يمكنني تغيير عنوان التوصيل؟",
+          "desc": "نعم، يمكنك تغيير عنوان التوصيل طالما لم تتم معالجة طلبك أو شحنه بعد. ولتنفيذ ذلك، يُرجى التواصل مع فريق خدمة العملاء."
         },
         {
-          "subtitle": "هل يمكنك تعليق طلبي في حالة عدم تواجدي؟",
-          "desc": "يمكنك الإتصال على خدمة العملاء  لإبلاغنا بمثل هذا الموقف. ولكن لا يمكننا تعليق طلباتك للشحن لأكثر من 9 أيام من تاريخ الطلب."
+          "subtitle": "هل يمكنكم الاحتفاظ بطلبي إذا لم أكن متواجدًا؟",
+          "desc": "إذا لم تتمكن من استلام الطلب، يُرجى التواصل مع فريق خدمة العملاء وسنبذل قصارى جهدنا لتلبية طلبك. ومع ذلك، لا يمكن الاحتفاظ بالطلبات المدفوعة مسبقًا لأكثر من 4 أيام، أو بطلبات الدفع عند الاستلام لأكثر من يومين من تاريخ تقديم الطلب."
         },
         {
-          "subtitle": "ما هي رسوم الشحن أو إذا كان هناك أي رسوم إضافية للتسليم؟ ",
-          "desc": "سوف نفرض رسوم على الشحن ما لم ينص على خلاف ذلك. تعتمد رسوم الشحن لدينا على عوامل مثل كمية المنتجات المطلوبة ونوعها ووجهة التسليم. وللمزيد من المعلومات يمكنك الإطلاع على سياسة الشحن الخاصة بنا. كما أننا لا نفرض رسومًا إضافية على أي مبلغ عند التسليم, لذلك لا تحتاج إلى سداد المبلغ إلى موظف التوصيل. "
+          "subtitle": "ما هي رسوم الشحن؟ وهل توجد أي رسوم إضافية للتوصيل؟",
+          "desc": "تُطبق رسوم الشحن ما لم يُذكر خلاف ذلك. وتختلف الرسوم حسب عدد المنتجات، ونوعها، وعنوان التوصيل. ولمزيد من التفاصيل، يُرجى الاطلاع على سياسة الشحن. ولن يتم فرض أي رسوم إضافية عند التسليم، لذلك لا يلزم دفع أي مبلغ لمندوب التوصيل."
         },
         {
-          "subtitle": "هل يشمل سعر الطلبية رسوم الشحن؟",
-          "desc": "سيتم إضافة رسوم الشحن وضريبة الخدمة على رسوم الشحن إلى مبلغ طلبك في صفحة الفوترة ، بعد أن تشير إلى عنوان الشحن الخاص بالمستلم. لعرض رسوم الشحن لدينا انقر هنا."
+          "subtitle": "هل يشمل سعر المنتج رسوم الشحن؟",
+          "desc": "تُضاف رسوم الشحن وضريبة القيمة المضافة (إن وجدت) إلى إجمالي الطلب في صفحة الدفع بعد إدخال عنوان التوصيل."
         },
         {
-          "subtitle": "كيف يمكنني تتبع طلبيتي؟",
-          "desc": "يمكنك التحقق من حالة الطلب على موقعنا www.AIVI.com في خانة حسابي."
+          "subtitle": "كيف يمكنني تتبع طلبي؟",
+          "desc": "يمكنك تتبع حالة طلبك من خلال قسم **حسابي** في موقع أو تطبيق آيفي."
         },
         {
-          "subtitle": "من سيقوم بدفع رسوم المنتجات المسترجعة؟",
-          "desc": "إذا لم تكن راضيًا عن شرائك لأي سبب من الأسباب ، وترغب في إرجاع المنتجات وفقًا لسياسة الإرجاع من خلال خدمة التوصيل بالبريد السريع التي نرتبها ، فلن تضطر إلى دفع أي رسوم بريد سريع "
+          "subtitle": "من يتحمل رسوم شحن المنتج المُعاد؟",
+          "desc": "إذا رغبت في إرجاع منتج وفقًا لسياسة الإرجاع، واخترت خدمة استلام المنتج التي نوفرها، فلن تتحمل أي رسوم لشحن المنتج المرتجع."
         },
         {
-          "subtitle": "ماذا أفعل إذا وصلت طلبيتي بحالة تالفة؟",
-          "desc": "إذا شعرت أن العبوة / الغلاف تالف قبل قبول تسليم الشحنة ، فلا تقبل التسليم وأبلغنا بذلك على الفور. إذا كنت قد قبلت تسليم الشحنة ، وبعد ذلك علمت أن الطرد تالف ، فيمكنك الاتصال بنا في غضون 14 يوم من استلامها. باستثناء عدد قليل من المنتجات ، لدينا سياسة إرجاع / استبدال لمدة 14 يومًا. لمزيد من المعلومات يرجى الاطلاع على سياسة الإرجاع وسياسة الشحن الخاصة بنا."
+          "subtitle": "كيف يمكنني إلغاء طلبي؟",
+          "desc": "يمكنك إلغاء الطلب قبل شحنه. وباستثناء بعض الحالات التي لا يمكن فيها الإلغاء، سيتم استرداد كامل المبلغ إلى وسيلة الدفع المستخدمة. ولمزيد من التفاصيل، يُرجى الاطلاع على سياسة الشحن والإرجاع."
         },
         {
-          "subtitle": "كيف يمكنني إلغاء الطلبية التي طلبتها؟",
-          "desc": "يمكنك إلغاء الطلب قبل شحنه. باستثناء بعض الطلبيات التي لا يمكن إلغاؤها ، سنقوم برد كامل المبلغ المخصوم من بطاقتك. لمزيد من التفاصيل ، يرجى الرجوع إلى سياسة الشحن وسياسة الإرجاع الخاصة بنا."
+          "subtitle": "ماذا أفعل إذا استلمت منتجًا مختلفًا عن الذي طلبته؟",
+          "desc": "نحرص على تجهيز طلبك بعناية، إلا أنه قد تحدث أخطاء نادرة في تجهيز الطلبات. إذا استلمت منتجًا مختلفًا عن الذي طلبته، يُرجى التواصل معنا خلال 24 ساعة من استلام الطلب."
         },
         {
-          "subtitle": "ماذا أفعل إذا حصلت على شيء مختلف عما طلبته؟",
-          "desc": "لا تقلق سنهتم بذلك. نادرًا ما تختلط الطلبات. إذا وجدت خطأ في الطلبية ، يمكنك الاتصال بنا في غضون 24 ساعة من استلام الشحنة            "
+          "subtitle": "هل تقدمون خدمة الشحن المجاني؟",
+          "desc": "نعم، الطلبات التي تتجاوز الحد الأدنى لقيمة الشراء مؤهلة للشحن المجاني. أما الطلبات الأقل من الحد الأدنى فتُطبق عليها رسوم شحن حسب الدولة."
+        },
+        {
+          "subtitle": "كيف يمكنني تتبع طلبي؟",
+          "desc": "بمجرد شحن طلبك، سيتم إصدار رقم بوليصة الشحن (AWB)، وستتلقى هذا الرقم عبر البريد الإلكتروني ورسالة نصية، ويمكنك استخدامه لتتبع طلبك."
+        },
+        {
+          "subtitle": "هل تقومون بالتوصيل إلى جميع المناطق في الإمارات العربية المتحدة والمملكة العربية السعودية والكويت وعُمان والبحرين وقطر؟",
+          "desc": "نعم، نوصل إلى جميع مناطق الإمارات العربية المتحدة، والمملكة العربية السعودية، والكويت، وسلطنة عُمان، والبحرين، وقطر."
+        },
+        {
+          "subtitle": "ما هي مواعيد ورسوم التوصيل في الإمارات العربية المتحدة؟",
+          "desc": "في الإمارات العربية المتحدة، يستغرق التوصيل من 3 إلى 5 أيام. تبلغ رسوم الشحن 10 دراهم للطلبات التي تقل قيمتها عن 100 درهم، بينما تبلغ رسوم الدفع عند الاستلام 20 درهمًا."
+        },
+        {
+          "subtitle": "ما هي مواعيد ورسوم التوصيل في المملكة العربية السعودية؟",
+          "desc": "في المملكة العربية السعودية، يستغرق التوصيل من 5 إلى 7 أيام. تبلغ رسوم الشحن 10 ريالات للطلبات التي تقل قيمتها عن 100 ريال، بينما تبلغ رسوم الدفع عند الاستلام 30 ريالًا."
+        },
+        {
+          "subtitle": "ما هي مواعيد ورسوم التوصيل في الكويت؟",
+          "desc": "في الكويت، يستغرق التوصيل من 5 إلى 7 أيام. تبلغ رسوم الشحن 2 دينار للطلبات التي تقل قيمتها عن 10 دنانير، بينما تبلغ رسوم الدفع عند الاستلام 2.75 دينار."
+        },
+        {
+          "subtitle": "ما هي مواعيد ورسوم التوصيل في عُمان؟",
+          "desc": "في سلطنة عُمان، يستغرق التوصيل من 5 إلى 7 أيام. تبلغ رسوم الشحن ريالين عُمانيين للطلبات التي تقل قيمتها عن 12 ريالًا عُمانيًا، بينما تبلغ رسوم الدفع عند الاستلام ريالين عُمانيين."
+        },
+        {
+          "subtitle": "ما هي مواعيد ورسوم التوصيل في البحرين؟",
+          "desc": "في البحرين، يستغرق التوصيل من 5 إلى 7 أيام. تبلغ رسوم الشحن دينارين بحرينيين للطلبات التي تقل قيمتها عن 12 دينارًا بحرينيًا، بينما تبلغ رسوم الدفع عند الاستلام 3.5 دينار بحريني."
+        },
+        {
+          "subtitle": "ما هي مواعيد ورسوم التوصيل في قطر؟",
+          "desc": "في قطر، يستغرق التوصيل من 5 إلى 7 أيام. تبلغ رسوم الشحن 10 ريالات قطرية للطلبات التي تقل قيمتها عن 100 ريال قطري، بينما تبلغ رسوم الدفع عند الاستلام 33 ريالًا قطريًا."
+        },
+        {
+          "subtitle": "هل يتم استرداد رسوم الشحن الدولي؟",
+          "desc": "إذا تم إلغاء جميع المنتجات المشمولة بالشحن الدولي في طلبك، فسيتم استرداد رسوم الشحن الدولي. أما إذا تم إلغاء بعض المنتجات فقط، فلن يتم استرداد رسوم الشحن الدولي."
+        },
+        {
+          "subtitle": "هل يمكنني تغيير عنوان التوصيل بعد تقديم الطلب؟",
+          "desc": "لا يمكن ضمان تغيير عنوان التوصيل بعد تأكيد الطلب، ولكن يمكنك التواصل مع فريق خدمة العملاء فورًا للتحقق من إمكانية إجراء التعديل."
+        },
+        {
+          "subtitle": "هل توفرون خدمة التقسيط أو الشراء الآن والدفع لاحقًا في الإمارات العربية المتحدة أو المملكة العربية السعودية؟",
+          "desc": "نعم، نوفر خدمة **اشترِ الآن وادفع لاحقًا** عبر Tamara وTabby، لتتمكن من تقسيم قيمة مشترياتك إلى دفعات شهرية ميسرة وبدون فوائد عند إتمام الطلب."
+        },
+        {
+          "subtitle": "هل توفرون خدمة التقسيط أو الشراء الآن والدفع لاحقًا في الكويت أو قطر أو عُمان أو البحرين؟",
+          "desc": "لا، لا نوفر حاليًا خدمات التقسيط أو **اشترِ الآن وادفع لاحقًا** في الكويت أو قطر أو سلطنة عُمان أو البحرين."
+        },
+        {
+          "subtitle": "متى تبدأ خدمة التوصيل خلال 60 دقيقة؟",
+          "desc": "تتوفر خدمة التوصيل خلال 60 دقيقة يوميًا في الإمارات العربية المتحدة من الساعة 11:00 صباحًا حتى 10:00 مساءً، وذلك على المنتجات المؤهلة فقط. ويبدأ احتساب مدة الـ 60 دقيقة بمجرد تأكيد طلبك بنجاح عبر تطبيق أو موقع آيفي."
+        },
+        {
+          "subtitle": "اخترت منتجات مؤهلة للتوصيل خلال 60 دقيقة، ولكن يظهر في صفحة الدفع أن موعد التوصيل غدًا. لماذا؟",
+          "desc": "قد لا تتوفر خدمة التوصيل خلال 60 دقيقة إذا نفد المنتج من أقرب متجر، أو إذا كان عنوان التوصيل خارج نطاق الخدمة. وفي هذه الحالة، سيعرض لك النظام تلقائيًا أقرب خيار توصيل متاح عند إتمام الطلب. وللاستفادة من الخدمة، تأكد من أن المنتج يحمل شارة **60 دقيقة** وأن عنوانك ضمن مناطق التغطية."
+        },
+        {
+          "subtitle": "اخترت منتجات مؤهلة للتوصيل السريع، ولكن يظهر في صفحة الدفع أن موعد التوصيل غدًا. لماذا؟",
+          "desc": "تتوفر خدمة التوصيل السريع في المناطق المؤهلة فقط. وإذا كان عنوان التوصيل خارج نطاق الخدمة، فسيعرض لك النظام تلقائيًا أقرب خيار توصيل متاح. كما يتم توصيل الطلبات المقدمة بين الساعة 12:00 منتصف الليل و2:00 ظهرًا في اليوم نفسه، بينما تُسلّم الطلبات المقدمة بعد الساعة 2:00 ظهرًا في اليوم التالي."
+        },
+        {
+          "subtitle": "ملخص سياسة الشحن",
+          "desc": "نوفر خدمة الدفع عند الاستلام في الدول المدعومة. مواعيد ورسوم التوصيل كالتالي: الإمارات العربية المتحدة: خلال 3 إلى 5 أيام، ورسوم الشحن 9 دراهم للطلبات الأقل من 100 درهم، ورسوم الدفع عند الاستلام 20 درهمًا. المملكة العربية السعودية: خلال 5 إلى 7 أيام، ورسوم الشحن 9 ريالات للطلبات الأقل من 100 ريال، ورسوم الدفع عند الاستلام 30 ريالًا. الكويت: خلال 5 إلى 7 أيام، ورسوم الشحن ديناران للطلبات الأقل من 10 دنانير، ورسوم الدفع عند الاستلام 2.75 دينار. قطر: خلال 5 إلى 7 أيام، ورسوم الشحن 9 ريالات قطرية للطلبات الأقل من 100 ريال قطري، ورسوم الدفع عند الاستلام 33 ريالًا قطريًا. سلطنة عُمان: خلال 5 إلى 7 أيام، ورسوم الشحن ريالان عُمانيان للطلبات الأقل من 12 ريالًا، ورسوم الدفع عند الاستلام ريالان عُمانيان. البحرين: خلال 5 إلى 7 أيام، ورسوم الشحن ديناران بحرينيان للطلبات الأقل من 12 دينارًا، ورسوم الدفع عند الاستلام 3.5 دينار بحريني. ستتلقى رقم بوليصة الشحن (AWB) عبر البريد الإلكتروني والرسائل النصية بمجرد شحن الطلب. أما المنتجات التي تحمل شارة الشحن الدولي، ففي حال إلغاء جميع هذه المنتجات سيتم استرداد رسوم الشحن الدولي، بينما لا تُسترد الرسوم عند إلغاء جزء منها فقط. ولمزيد من التفاصيل، يُرجى مراجعة سياسة الشحن على الموقع."
+        },
+        {
+          "subtitle": "ما هي خيارات التوصيل المتاحة؟",
+          "desc": "نوفر عدة خيارات للتوصيل لتناسب احتياجاتك. **التوصيل العادي:** خلال 3 إلى 5 أيام. **التوصيل السريع:** خلال يوم واحد. **التوصيل السريع جدًا:** خلال 60 أو 90 أو 120 دقيقة، وذلك حسب توفر المنتج ومنطقة التوصيل. قد تختلف خيارات التوصيل والمدة المتوقعة بحسب موقعك والمنتجات الموجودة في سلة التسوق، ويمكنك الاطلاع على الخيارات المتاحة وموعد التوصيل المتوقع عند إتمام الطلب."
         }
       ]
     },
@@ -750,12 +1056,12 @@
       "title": "الأمور المتعلقة بالخصوصية",
       "items": [
         {
-          "subtitle": "ما هي سياسة االخصوصية؟ ",
-          "desc": "تأكد من أننا لا نقوم بتخزين تفاصيل بطاقتك. عند إدخال تفاصيل البطاقة ، يتم إعادة توجيهك إلى موقع الدفع الآمن للبنوك المعنية. يقوم البنك بتبادل البيانات التي قدمتها مع البنك الذي أصدر بطاقتك من خلال طبقة مقابس آمنة. سيصرح البنك الذي أصدر بطاقتك المعاملة  أو يرفضها ، بناءً على قيامنا بمعالجة الطلب أو رفضه. لا نتلقى / نخزن تفاصيل بطاقتك في أي وقت. يرجى الرجوع إلى التسوق الآمن لمزيد من التفاصيل.            "
+          "subtitle": "ما هي سياسة الخصوصية لديكم؟",
+          "desc": "اطمئن، فنحن لا نحتفظ ببيانات بطاقتك البنكية. عند إدخال بيانات البطاقة، يتم تحويلك مباشرة إلى بوابة الدفع الآمنة الخاصة بالبنك، حيث تتم معالجة العملية عبر اتصال مشفر وآمن. يقوم البنك المصدر للبطاقة بالموافقة على العملية أو رفضها، وبناءً على ذلك يتم تأكيد الطلب أو رفضه. ولا نقوم في أي مرحلة بالاطلاع على بيانات بطاقتك أو حفظها. ولمزيد من المعلومات، يُرجى الاطلاع على صفحة **التسوق الآمن**."
         },
         {
-          "subtitle": "هل المعلومات التي أدخلها مشفرة؟",
-          "desc": "نعم ، نقوم بتشفير جميع بطاقات الائتمان / الخصم أو معلومات الدفع باستخدام برامج تشفير 128 بت."
+          "subtitle": "هل يتم تشفير المعلومات التي أدخلها؟",
+          "desc": "نعم، يتم تشفير جميع بيانات بطاقات الائتمان والخصم وجميع معلومات الدفع باستخدام تقنيات حماية آمنة."
         }
       ]
     },
@@ -763,45 +1069,61 @@
       "title": "الأمور المتعلقة بالتسجيل",
       "items": [
         {
-          "subtitle": "هل التسجيل في الموقع إجباري؟",
-          "desc": "لا ، ليس إلزاميًا التسجيل في AIVI.com للتسوق. عند الخروج ، سيُطلب منك التسجيل."
+          "subtitle": "هل التسجيل في الموقع إلزامي؟",
+          "desc": "لا، لست بحاجة إلى إنشاء حساب لتصفح aivi.com . ولكن لإتمام عملية الشراء، سيُطلب منك تسجيل الدخول أو إنشاء حساب عند الدفع."
         },
         {
           "subtitle": "هل معلوماتي الشخصية آمنة؟",
-          "desc": "يمكنك الاطلاع على التزامنا بالتسوق الآمن وسياسة الخصوصية الخاصة بنا"
+          "desc": "نعم، يمكنك الاطلاع على سياسة الخصوصية والتزامنا بحماية بياناتك من خلال صفحة **التسوق الآمن**."
         },
         {
-          "subtitle": "كيف نقوم بحماية معلوماتك؟",
-          "desc": "نقوم بتنفيذ مجموعة متنوعة من الإجراءات الأمنية للحفاظ على سلامة معلوماتك الشخصية"
+          "subtitle": "كيف تحمون معلوماتي الشخصية؟",
+          "desc": "نستخدم مجموعة من إجراءات وتقنيات الحماية لضمان الحفاظ على معلوماتك الشخصية وتأمينها في جميع الأوقات."
         },
         {
-          "subtitle": "هل هناك أي رسوم للتسجيل في الموقع؟",
-          "desc": "لا توجد رسوم للتسجيل في موقع AIVI.com."
+          "subtitle": "هل توجد رسوم للتسجيل في الموقع؟",
+          "desc": "لا، إنشاء حساب على aivi.com مجاني بالكامل ولا يترتب عليه أي رسوم."
         },
         {
-          "subtitle": "كيف يمكن أن تنتهي صلاحية التسجيل الخاصة بي؟",
-          "desc": "صلاحية التسجيل لا تنتهي. إذا كان حسابك غير نشط لفترة طويلة من الوقت ، فسنقوم بتعليقه أو إلغاء تنشيطه ، وفي هذه الحالة ، يمكنك الاتصال على الفور بممثل خدمة العملاء على الهاتف لتنشيط الحساب. سنعيد تنشيط حسابك بعد التحقق لتأكيد هويتك."
+          "subtitle": "هل تنتهي صلاحية حسابي؟",
+          "desc": "لا تنتهي صلاحية حسابك. وإذا ظل غير نشط لفترة طويلة، فقد يتم تعليقه أو إلغاء تنشيطه. وفي هذه الحالة، يمكنك التواصل مع فريق خدمة العملاء لإعادة تفعيله بعد التحقق من هويتك."
         },
         {
-          "subtitle": "هل يمكنك شرح فوائد التسجيل من فضلك؟",
-          "desc": "إذا كنت عضوًا مسجلاً ، فستحصل على المزايا التالية:",
-          "items": [
-            "تسجيل الخروج - تسجيل الدخول والإستمرار للطلب السريع.",
-            "محفوظات الطلبات - راجع تفاصيل طلبك.",
-            "دفتر العناوين - قم بإنشاء وحفظ عناوين عائلتك وأصدقائك للإستمرار في الدفع بشكل أسرع."
-          ]
+          "subtitle": "ما هي مزايا إنشاء حساب؟",
+          "desc": "عند إنشاء حساب في aivi.com ، ستستفيد من مزايا عديدة، منها: إتمام الطلبات بسرعة، والاطلاع على سجل طلباتك، وحفظ عناوينك وعناوين أفراد عائلتك أو أصدقائك لتسريع عملية الشراء مستقبلًا."
         },
         {
-          "subtitle": "ماذا يحدث إذا نسيت كلمة المرور الخاصة بي؟",
-          "desc": "يمكننا استرداد كلمة المرور الخاصة بك. عليك الانتقال إلى صفحة نسيت كلمة المرور وإدخال البريد الإلكتروني المسجل لدينا. سنقوم بالرد عليك ببريد إلكتروني يحتوي على كلمة المرور الخاصة بك "
+          "subtitle": "ماذا أفعل إذا نسيت كلمة المرور؟",
+          "desc": "إذا نسيت كلمة المرور، انتقل إلى صفحة **نسيت كلمة المرور؟** وأدخل عنوان بريدك الإلكتروني المسجل لدينا. سنرسل إليك تعليمات إعادة تعيين كلمة المرور عبر البريد الإلكتروني."
         },
         {
-          "subtitle": "هل يمكنني تعديل معلوماتي الشخصية إذا رغبت بذلك؟",
-          "desc": "نعم ، من الممكن تغيير معلوماتك ؛ يمكن القيام بذلك في قسم 'حسابي' ثم 'تعديل الملف الشخصي'. لكن لن تتمكن من تعديل المسمى الوظيفي والاسم والجنس وتاريخ الميلاد."
+          "subtitle": "هل يمكنني تعديل معلوماتي الشخصية؟",
+          "desc": "نعم، يمكنك تحديث معلومات حسابك من خلال قسم **حسابي** ثم **تعديل الملف الشخصي**. ومع ذلك، لا يمكن تعديل اللقب أو الاسم أو الجنس أو تاريخ الميلاد."
         },
         {
-          "subtitle": "ماذا يحدث في حال نسيت معرف تسجيل الدخول الخاص بي؟",
-          "desc": "يمكنك مراسلتنا على customercare@aivi.com ولابد من كتابة التفاصيل التالية: تاريخ الميلاد ، الاسم الأول ، اسم العائلة ، العنوان ، رقم الطلب السابق للطلب الذي تم تقديمه من معرف تسجيل الدخول الخاص بك ، إن وجد.            "
+          "subtitle": "ماذا أفعل إذا نسيت اسم المستخدم؟",
+          "desc": "إذا نسيت اسم المستخدم، يُرجى مراسلتنا على customercare@aivi.com مع تزويدنا بتاريخ ميلادك، والاسم الأول، واسم العائلة، والعنوان، ورقم أي طلب سابق (إن وجد)، وسنساعدك في استعادة بيانات حسابك."
+        }
+      ]
+    },
+    {
+      "title": "النقد الخاص بي",
+      "items": [
+        {
+          "subtitle": "أين يمكنني العثور على رصيد ماي كاش؟",
+          "desc": "يمكنك الاطلاع على رصيد **ماي كاش** من خلال صفحة **حسابي** ثم **المحفظة**، حيث ستجد الرصيد الحالي وسجل جميع العمليات."
+        },
+        {
+          "subtitle": "ما مدة صلاحية رصيد ماي كاش؟",
+          "desc": "رصيد **ماي كاش** لا تنتهي صلاحيته."
+        },
+        {
+          "subtitle": "لماذا لا يظهر رصيد ماي كاش في حسابي؟",
+          "desc": "إذا لم يظهر رصيد **ماي كاش** في حسابك، فقد يكون رصيدك الحالي صفرًا. وإذا كنت تعتقد أن هناك مشكلة، يُرجى التواصل مع فريق خدمة العملاء."
+        },
+        {
+          "subtitle": "هل توفرون خدمة الاستلام من المتجر؟ هل يمكنني الشراء عبر الموقع والاستلام من المتجر؟",
+          "desc": "لا، خدمة الاستلام من المتجر (Click & Collect) غير متوفرة حاليًا."
         }
       ]
     },
@@ -809,28 +1131,28 @@
       "title": "الخدمة السريعة",
       "items": [
         {
-          "subtitle": "ما هي خدمة توصيل اكسبرس؟",
-          "desc": "تقدم خدمة توصيل اكسبرس خيارات توصيل مميزة أسرع (في نفس اليوم أو في اليوم التالي) للمنتجات المؤهلة للتوصيل السريع وللعملاء حسب موقعهم."
+          "subtitle": "ما هي خدمة التوصيل السريع؟",
+          "desc": "التوصيل السريع هو خدمة مدفوعة توفر خيارات توصيل أسرع، مثل التوصيل في نفس اليوم أو اليوم التالي، وذلك للمنتجات والمناطق المؤهلة."
         },
         {
-          "subtitle": "كيف يمكنني معرفة ما إذا كان طلبي مؤهلاً لتوصيل اكسبرس؟",
-          "desc": "يعتمد التأهل على عوامل مثل موقع العميل وتوافر المنتج. سترى خيار توصيل اكسبرس خلال عملية الطلب في صفحة المنتج ويمكنك اختيار المنتجات المؤهلة في صفحة الدفع"
+          "subtitle": "كيف أعرف ما إذا كان طلبي مؤهلًا للتوصيل السريع؟",
+          "desc": "تعتمد أهلية التوصيل السريع على موقع التوصيل وتوفر المنتج. وإذا كان المنتج مؤهلًا، ستظهر لك خدمة **التوصيل السريع** في صفحة المنتج، ويمكنك اختيارها عند إتمام الطلب."
         },
         {
-          "subtitle": "هل توصيل اكسبرس مجاني؟",
-          "desc": "لا، هي خدمة مدفوعة بشكل عام لضمان السرعة والأولوية. ولكن التوصيل العادي دائمًا مجاني"
+          "subtitle": "هل خدمة التوصيل السريع مجانية؟",
+          "desc": "عادةً ما تكون خدمة التوصيل السريع مدفوعة، بينما يبقى التوصيل العادي مجانيًا دائمًا."
         },
         {
-          "subtitle": "ماذا يحدث إذا تأخر توصيل اكسبرس عن الوقت المحدد؟",
-          "desc": "إذا تأخر توصيل اكسبرس عن الوقت المحدد الموعود، فقد تكون مؤهلاً لاسترداد رسوم الخدمة"
+          "subtitle": "ماذا يحدث إذا تأخر طلبي بالتوصيل السريع؟",
+          "desc": "إذا تأخر التوصيل السريع عن الموعد الموعود، فقد تكون مؤهلًا لاسترداد رسوم خدمة التوصيل السريع."
         },
         {
-          "subtitle": "هل يمكنني إلغاء طلب توصيل اكسبرس؟",
-          "desc": "نعم، يمكنك إلغاء طلب توصيل اكسبرس وفقًا لسياسة الإلغاء. إذا كنت مؤهلاً، ستتلقى استرداداً لرسوم خدمة توصيل اكسبرس"
+          "subtitle": "هل يمكنني إلغاء طلب التوصيل السريع؟",
+          "desc": "نعم، يمكنك إلغاء طلب التوصيل السريع وفقًا لسياسة الإلغاء المعتمدة. وإذا كان طلبك مؤهلًا، فسيتم استرداد رسوم خدمة التوصيل السريع."
         },
         {
-          "subtitle": "هل جميع المنتجات مؤهلة لتوصيل اكسبرس؟",
-          "desc": "ليست كل المنتجات مؤهلة. توصيل اكسبرس متاح للمنتجات المتوفرة محليًا لضمان توصيل السريع"
+          "subtitle": "هل جميع المنتجات مؤهلة للتوصيل السريع؟",
+          "desc": "لا، ليست جميع المنتجات مؤهلة للتوصيل السريع، إذ تتوفر الخدمة عادةً للمنتجات المتوفرة في المخزون المحلي."
         }
       ]
     },
@@ -839,55 +1161,225 @@
       "items": [
         {
           "subtitle": "ما هي خدمة التوصيل خلال 60 دقيقة؟",
-          "desc": "هي خدمة متميزة تضمن توصيل المنتجات المؤهلة خلال 60 دقيقة من تأكيد الطلب. الخدمة متاحة في مناطق محددة ومنتجات معينة فقط."
-        },
+          "desc": "هي خدمة مميزة تتيح توصيل المنتجات المؤهلة خلال 60 دقيقة من تأكيد الطلب، وهي متوفرة لمنتجات ومناطق محددة فقط."
+        }
+      ]
+    },
+    {
+      "title": "رسوم المنصة",
+      "items": [
         {
           "subtitle": "هل جميع المنتجات مؤهلة لخدمة التوصيل خلال 60 دقيقة؟",
-          "desc": "لا، فقط المنتجات التي تحمل شارة '60 دقيقة' مؤهلة لهذه الخدمة."
+          "desc": "لا، تقتصر الخدمة على المنتجات التي تحمل شارة **60 دقيقة**."
         },
         {
-          "subtitle": "كيف يمكنني معرفة ما إذا كان موقعي مؤهلاً للخدمة؟",
-          "desc": "يمكنك التحقق من توفر الخدمة عن طريق إدخال عنوان التوصيل الخاص بك. الخدمة متاحة في مناطق محددة"
+          "subtitle": "كيف أعرف ما إذا كان موقعي مشمولًا بخدمة التوصيل خلال 60 دقيقة؟",
+          "desc": "يمكنك التحقق من توفر الخدمة بإدخال عنوان التوصيل، حيث تتوفر في مناطق محددة فقط."
         },
         {
-          "subtitle": "هل هناك رسوم إضافية على خدمة التوصيل خلال 60 دقيقة؟",
-          "desc": "نعم، قد يتم تطبيق رسوم توصيل. سيتم عرض المبلغ المحدد في صفحة الدفع."
+          "subtitle": "هل توجد رسوم إضافية لخدمة التوصيل خلال 60 دقيقة؟",
+          "desc": "نعم، قد تُطبق رسوم على خدمة التوصيل خلال 60 دقيقة، وسيظهر المبلغ عند إتمام الطلب."
         },
         {
-          "subtitle": "ما هي طرق الدفع المقبولة؟",
-          "desc": "يتم قبول طرق الدفع المسبق فقط. خدمة الدفع عند الاستلام غير متاحة لهذه الخدمة"
+          "subtitle": "ما هي وسائل الدفع المتاحة؟",
+          "desc": "تتوفر لهذه الخدمة وسائل الدفع الإلكترونية المدفوعة مسبقًا فقط، ولا تدعم الدفع عند الاستلام."
         },
         {
-          "subtitle": "ماذا يحدث إذا لم يتم توصيل طلبي خلال 60 دقيقة؟",
-          "desc": "نحن نسعى للالتزام بوقت التوصيل، ولكن قد تحدث تأخيرات بسبب حركة المرور أو الطقس أو ظروف غير متوقعة. في حال كان هناك تأخير كبير، سنقوم بإبلاغك، وقد يتم رد رسوم التوصيل في بعض الحالات."
+          "subtitle": "ماذا يحدث إذا لم يصل طلبي خلال 60 دقيقة؟",
+          "desc": "نسعى دائمًا للالتزام بموعد التوصيل، ولكن قد تحدث بعض التأخيرات بسبب الازدحام المروري أو الأحوال الجوية أو ظروف خارجة عن الإرادة. وفي حال حدوث تأخير كبير، سنبلغك بذلك، وقد يتم استرداد رسوم التوصيل في بعض الحالات."
         },
         {
-          "subtitle": "كيف يمكنني إلغاء طلبي بعد تقديمه؟",
-          "desc": "نعم، يمكنك إلغاء طلبك قبل شحنه. ولكن بمجرد شحنه، لا يمكن إلغاء الطلب"
+          "subtitle": "كيف يمكنني إلغاء طلبي بعد تأكيده؟",
+          "desc": "نعم، يمكنك إلغاء الطلب قبل تجهيزه. أما بعد تجهيزه، فلن تتمكن من إلغائه بنفسك، ويُرجى التواصل مع فريق خدمة العملاء للمساعدة."
         },
         {
           "subtitle": "كيف يمكنني تتبع طلبي؟",
-          "desc": "ستتلقى تحديثات التتبع عبر صفحة 'طلباتي' في تطبيقنا، بما في ذلك وقت التوصيل المقدر وتفاصيل الساعي"
+          "desc": "يمكنك متابعة حالة طلبك من خلال صفحة **طلباتي** في التطبيق، حيث ستظهر لك حالة الشحنة، وموعد التوصيل المتوقع، وبيانات شركة الشحن."
         },
         {
-          "subtitle": "كيف يمكنني تغيير عنواني بعد تقديم طلب التوصيل خلال 60 دقيقة؟",
-          "desc": "للأسف، بمجرد تقديم الطلب، لا يمكن تغيير عنوان التوصيل بسبب سرعة معالجة الطلب."
+          "subtitle": "كيف يمكنني تغيير عنوان التوصيل بعد تقديم طلب التوصيل خلال 60 دقيقة؟",
+          "desc": "للأسف، لا يمكن تغيير عنوان التوصيل بعد تأكيد الطلب، وذلك بسبب سرعة معالجة الطلبات."
         },
         {
-          "subtitle": "هل سأسترد رسوم التوصيل إذا قمت بالإلغاء؟",
-          "desc": "نعم، إذا قمت بإلغاء الطلب بالكامل، سيتم استرداد رسوم التوصيل. أما إذا قمت بإلغاء بعض المنتجات من طلب التوصيل خلال 60 دقيقة بشكل جزئي، فلن يتم استرداد رسوم التوصيل."
+          "subtitle": "هل سأسترد رسوم التوصيل إذا ألغيت الطلب؟",
+          "desc": "نعم، إذا ألغيت الطلب بالكامل، فسيتم استرداد رسوم التوصيل. أما إذا ألغيت جزءًا من طلب التوصيل خلال 60 دقيقة، فلن يتم استرداد رسوم التوصيل."
         },
         {
-          "subtitle": "هل يمكنني إرجاع منتجات من طلب توصيل خلال 60 دقيقة؟",
-          "desc": "نعم، تطبق سياسة الإرجاع القياسية الخاصة بنا. نحن نقدم سياسة استرداد واستبدال لمدة 14 يومًا لمعظم المنتجات. يرجى الرجوع إلى سياسة الإرجاع الخاصة بنا لمزيد من التفاصيل."
+          "subtitle": "هل يمكنني إرجاع منتجات طلب التوصيل خلال 60 دقيقة؟",
+          "desc": "نعم، تنطبق سياسة الإرجاع المعتادة على هذه الطلبات. نوفر سياسة إرجاع واستبدال لمدة 14 يومًا لمعظم المنتجات. ولمزيد من التفاصيل، يُرجى الاطلاع على سياسة الإرجاع."
         },
         {
-          "subtitle": "ما هي مواعيد الخدمة؟",
-          "desc": "تعمل الخدمة من الساعة 10 صباحًا حتى 8 مساءً، سبعة أيام في الأسبوع، على الرغم من أن التوفر قد يختلف حسب الموقع."
+          "subtitle": "ما هي أوقات عمل الخدمة؟",
+          "desc": "تتوفر الخدمة يوميًا من الساعة 10:00 صباحًا حتى 8:00 مساءً، وقد تختلف ساعات التوفر حسب المنطقة."
         },
         {
-          "subtitle": "هل يمكنني دمج توصيل خلال 60 دقيقة مع خيارات التوصيل الأخرى؟",
-          "desc": "نعم، إذا كانت بعض المنتجات مؤهلة للتوصيل خلال 60 دقيقة والبعض الآخر غير مؤهل، سيتم تقسيم طلبك إلى خدمات توصيل منفصلة، وسيتم عرض ذلك بوضوح عند الدفع."
+          "subtitle": "هل يمكنني الجمع بين خدمة التوصيل خلال 60 دقيقة وخيارات التوصيل الأخرى؟",
+          "desc": "نعم، إذا كانت بعض المنتجات مؤهلة للتوصيل خلال 60 دقيقة وأخرى غير مؤهلة، فسيتم تقسيم الطلب إلى شحنات منفصلة، وسيظهر ذلك بوضوح عند إتمام الطلب."
+        }
+      ]
+    },
+    {
+      "title": "الوظائف",
+      "items": [
+        {
+          "subtitle": "كيف يمكنني التقدم لوظيفة في آيفي؟",
+          "desc": "يمكنك الاطلاع على الوظائف الشاغرة والتقدم إليها عبر صفحة آيفي الرسمية على لينكدإن: https://www.linkedin.com/jobs/aivi.com -jobs-worldwide?keywords=aivi.com"
+        },
+        {
+          "subtitle": "تقدمت لوظيفة في آيفي ولم أتلقَّ أي تحديث، ماذا أفعل؟",
+          "desc": "شكرًا لاهتمامك بالانضمام إلى آيفي. يُرجى انتظار مراجعة طلبك من قبل فريق الموارد البشرية، وسيتم التواصل معك في حال وجود أي مستجدات."
+        },
+        {
+          "subtitle": "هل توفرون تحديثات عن وظائف في شركات أخرى؟",
+          "desc": "لا، نوفر معلومات عن الوظائف المتاحة في آيفي فقط. وللاطلاع على فرص العمل في شركات أخرى، يُرجى زيارة صفحات التوظيف الرسمية الخاصة بها."
+        }
+      ]
+    },
+    {
+      "title": "حول آيفي",
+      "items": [
+        {
+          "subtitle": "ما هوaivi.com ؟",
+          "desc": "aivi.com هي وجهتك المتكاملة للأزياء وأسلوب الحياة، صُممت لتقدم أحدث الصيحات في عالم الموضة. نوفر تشكيلة تضم الأحذية، والحقائب، والملابس، ومنتجات التجميل، والإكسسوارات من أكثر من 1200 علامة تجارية عالمية بأسعار تناسب الجميع."
+        },
+        {
+          "subtitle": "ما هي الدول التي يخدمهاaivi.com ؟",
+          "desc": "نوصل حاليًا إلى الإمارات العربية المتحدة، والمملكة العربية السعودية، والكويت، وسلطنة عُمان، وقطر، والبحرين."
+        },
+        {
+          "subtitle": "ما المنتجات التي يمكنني تسوقها عبرaivi.com ؟",
+          "desc": "يمكنك التسوق من تشكيلة واسعة تضم الأحذية، والحقائب، والملابس، ومنتجات التجميل، والإكسسوارات، مع أحدث الصيحات المختارة بعناية."
+        },
+        {
+          "subtitle": "هل يبيعaivi.comعلامات تجارية عالمية؟",
+          "desc": "نعم، نوفر أكثر من 1200 علامة تجارية عالمية، لتتسوق أحدث الصيحات بأسعار تناسب الجميع."
+        },
+        {
+          "subtitle": "ما الذي يميزaivi.com ؟",
+          "desc": "نؤمن بأن الأناقة لا يجب أن تكون باهظة الثمن، لذلك نقدم أحدث منتجات الأزياء وأسلوب الحياة بأسعار مناسبة، مع توصيلها مباشرة إلى باب منزلك."
+        },
+        {
+          "subtitle": "أين يمكنني تنزيل تطبيق آيفي للتسوق؟",
+          "desc": "يمكنك تنزيل تطبيق آيفي من متجر App Store أو Google Play."
+        },
+        {
+          "subtitle": "هل المنتجات المباعة علىaivi.comأصلية؟",
+          "desc": "نعم، جميع المنتجات المباعة على aivi.com أصلية 100%. وبموجب وعد **المنتجات الأصلية**، نضمن أن جميع المنتجات معتمدة ويتم توريدها مباشرة من العلامات التجارية وشركائنا المعتمدين."
+        },
+        {
+          "subtitle": "ما التجارب والمزايا التي يقدمهاaivi.com ؟",
+          "desc": "افتتحنا أول متجر **فيجيتال** في دول الخليج بدبي، ليجمع بين تجربة التسوق داخل المتجر والتسوق الرقمي في تجربة واحدة متكاملة."
+        },
+        {
+          "subtitle": "من يملكaivi.com ؟",
+          "desc": "aivi.com جزء من أباريل جروب، إحدى أكبر مجموعات الأزياء والتجزئة في المنطقة، والتي تضم أكثر من 85 علامة تجارية و2,300 متجر في 14 دولة."
+        },
+        {
+          "subtitle": "ما هي أباريل جروب؟",
+          "desc": "أباريل جروب هي مجموعة رائدة في قطاع الأزياء وأسلوب الحياة، تأسست على يد سيما فيد، وتدير أكثر من 85 علامة تجارية و2,300 متجر في 14 دولة، ومن بينها آيفي."
+        }
+      ]
+    },
+    {
+      "title": "دعم آيفي",
+      "items": [
+        {
+          "subtitle": "كيف يمكنني التواصل مع فريق الدعم في دولتي؟",
+          "desc": "يمكنك التواصل معنا على الرقم +96522261111 في الكويت، أو +97148142666 في الإمارات العربية المتحدة، والمملكة العربية السعودية، والبحرين، وسلطنة عُمان، يوميًا من الساعة 9:00 صباحًا حتى 9:00 مساءً بتوقيت الخليج، أو عبر البريد الإلكتروني customercare@aivi.com ."
+        },
+        {
+          "subtitle": "ما هي ساعات عملكم؟",
+          "desc": "يتوفر فريق خدمة العملاء يوميًا من الساعة 9:00 صباحًا حتى 9:00 مساءً بتوقيت الخليج."
+        }
+      ]
+    },
+    {
+      "title": "إجراء الطلب",
+      "items": [
+        {
+          "subtitle": "كيف يمكنني تقديم طلب؟",
+          "desc": "لتقديم طلب، حمّل تطبيق آيفي، ثم اختر دولتك، وحدد المنتجات التي ترغب بشرائها، وأضفها إلى سلة التسوق، ثم انتقل إلى صفحة الدفع، وأدخل بريدك الإلكتروني، واختر طريقة الدفع المناسبة لإتمام الطلب. كما يمكنك الاطلاع على الأسعار الخاصة ببلدك قبل إتمام الشراء."
+        },
+        {
+          "subtitle": "فشل طلبي مؤخرًا، لماذا لا أستطيع إضافة المنتجات نفسها إلى سلة التسوق؟",
+          "desc": "إذا لم تتمكن من العثور على المنتج مرة أخرى، فقد يكون قد نفد من المخزون. يمكنك الضغط على **أبلغني عند التوفر** في صفحة المنتج ليصلك إشعار فور توفره مجددًا."
+        }
+      ]
+    },
+    {
+      "title": "كبار الشخصيات",
+      "items": [
+        {
+          "subtitle": "هل لديكم برنامج عضوية لكبار العملاء؟",
+          "desc": "نعم، نوفر برنامج عضوية كبار العملاء (VIP) في آيفي."
+        },
+        {
+          "subtitle": "ما مزايا عضوية كبار العملاء؟",
+          "desc": "تشمل مزايا عضوية كبار العملاء: أولوية في خدمة العملاء، وتوصيل أسرع، ودعوات حصرية للفعاليات، وإمكانية التسوق المبكر قبل بدء التخفيضات."
+        },
+        {
+          "subtitle": "كيف أصبح عضوًا في برنامج كبار العملاء؟",
+          "desc": "تُمنح عضوية كبار العملاء لعملائنا الأكثر ولاءً الذين أجروا مشتريات بقيمة مرتفعة."
+        },
+        {
+          "subtitle": "كيف يمكنني تحديث معلومات حسابي؟",
+          "desc": "يمكنك تحديث معلومات حسابك من خلال قسم **حسابي**. أما تعديل بعض البيانات مثل اللقب، أو الاسم، أو الجنس، أو تاريخ الميلاد، فيتطلب التواصل مع فريق خدمة العملاء."
+        },
+        {
+          "subtitle": "كيف سأتلقى دعوات الفعاليات الحصرية؟",
+          "desc": "ستصلك دعوات الفعاليات عبر البريد الإلكتروني أو واتساب أو الرسائل النصية أو الإشعارات داخل التطبيق، بحسب تفضيلات التواصل التي اخترتها."
+        },
+        {
+          "subtitle": "كيف سأتلقى إشعارات مبكرة عن التخفيضات؟",
+          "desc": "ستصلك إشعارات التخفيضات المبكرة عبر البريد الإلكتروني أو واتساب أو الرسائل النصية أو الإشعارات داخل التطبيق، بحسب تفضيلات التواصل التي اخترتها."
+        }
+      ]
+    },
+    {
+      "title": "أكواد وعروض الخصم",
+      "items": [
+        {
+          "subtitle": "كيف يمكنني الحصول على رمز خصم؟",
+          "desc": "يتم تحديث رموز الخصم باستمرار. وستظهر جميع العروض والخصومات المتاحة داخل تطبيق آيفي، ويمكن استخدام أي رمز خصم مؤهل عند إتمام الطلب. كما يمكنك متابعة حساباتنا الرسمية على منصات التواصل الاجتماعي للاطلاع على أحدث العروض والخصومات."
+        },
+        {
+          "subtitle": "أين يمكنني العثور على كوبونات الخصم المتاحة؟",
+          "desc": "يمكنك العثور على جميع كوبونات الخصم المتاحة مباشرةً في صفحة إتمام الطلب، حيث تظهر الكوبونات المؤهلة لطلبك تلقائيًا. لاستخدام كوبون خصم، أضف المنتجات إلى سلة التسوق، ثم انتقل إلى صفحة الدفع، واختر الكوبون المناسب من القائمة المتاحة قبل إتمام عملية الشراء."
+        }
+      ]
+    },
+    {
+      "title": "الشراء",
+      "items": [
+        {
+          "subtitle": "هل يمكنني تحويل رصيد ماي كاش إلى حسابي البنكي؟",
+          "desc": "لا، لا يمكن تحويل رصيد ماي كاش إلى حساب بنكي. ويمكن استخدام أي رصيد متوفر للتسوق عبر آيفي فقط."
+        }
+      ]
+    },
+    {
+      "title": "حول وعد آيفي",
+      "items": [
+        {
+          "subtitle": "هل المنتجات المباعة على آيفي أصلية؟",
+          "desc": "جميع المنتجات المباعة على آيفي أصلية 100% ويتم توريدها مباشرة من علامات تجارية عالمية موثوقة. وتُعد آيفي، إلى جانب شركاتها التابعة ومتاجرها، متجرًا معتمدًا رسميًا من أباريل جروب للبيع عبر الإنترنت والمتاجر. يمكنك التسوق بثقة من تشكيلة تضم الملابس، والأحذية، والحقائب، والإكسسوارات، والعطور، ومنتجات التجميل وغيرها، مع ضمان أصالة جميع المنتجات. كما يمكنك الاطلاع على شهادة الاعتماد عبر موقع آيفي لمزيد من الاطمئنان."
+        },
+        {
+          "subtitle": "كيف تعمل ميزة ضمان الأسعار في آيفي؟",
+          "desc": "**ضمان الأسعار** يضمن لك الحصول على أفضل سعر. فإذا وجدت المنتج نفسه بسعر أقل لدى متجر آخر، سنعيد إليك فرق السعر على شكل **رصيد ماي كاش**. يشترط أن يكون المنتج مطابقًا تمامًا (العلامة التجارية، والمقاس، واللون، والستايل)، وأن يكون معروضًا على متجر إلكتروني آخر أو في أحد المتجر الفيجيتال، وأن يكون السعر بنفس العملة المحلية. يجب تقديم الطلب خلال يومين من استلام الطلب وبعد إتمام الدفع بالكامل. ويُحتسب الاسترداد على سعر المنتج فقط وليس قيمة الطلب بالكامل. وإذا انخفض سعر المنتج على آيفي خلال يومين من الاستلام، فسيتم استرداد فرق السعر فقط، بشرط تطابق المقاس واللون. يمكن الاستفادة من ضمان الأسعار مرة واحدة لكل منتج، وبعد الاستفادة منه لا يصبح المنتج مؤهلًا للإرجاع. لتقديم الطلب، سجّل الدخول إلى حسابك، ثم انتقل إلى **حسابي > ضمان الأسعار > تقديم طلب**، وحدد المنتج، وأدخل السعر الأقل، وأرفق لقطة شاشة ورابط المنتج. وبعد مراجعة الطلب، سيتم إضافة فرق السعر إلى **ماي كاش** خلال 48 ساعة في حال الموافقة. ويمكنك متابعة حالة الطلب من خلال **حسابي > ضمان الأسعار > الطلبات السابقة**. وتُعامل جميع البيانات المرفقة بسرية تامة وفقًا لسياسة الخصوصية."
+        },
+        {
+          "subtitle": "ما هي سياسة آيفي للتوصيل في الموعد المحدد؟",
+          "desc": "**ضمان الأسعار** يضمن لك الحصول على أفضل سعر. فإذا وجدت المنتج نفسه بسعر أقل لدى متجر آخر، سنعيد إليك فرق السعر على شكل **رصيد ماي كاش**. يشترط أن يكون المنتج مطابقًا تمامًا (العلامة التجارية، والمقاس، واللون، والستايل)، وأن يكون معروضًا على متجر إلكتروني آخر أو في المتجر الفيجيتال، وأن يكون السعر بنفس العملة المحلية. يجب تقديم الطلب خلال يومين من استلام الطلب وبعد إتمام الدفع بالكامل. ويُحتسب الاسترداد على سعر المنتج فقط وليس قيمة الطلب بالكامل. وإذا انخفض سعر المنتج على آيفي خلال يومين من الاستلام، فسيتم استرداد فرق السعر فقط، بشرط تطابق المقاس واللون. يمكن الاستفادة من ضمان الأسعار مرة واحدة لكل منتج، وبعد الاستفادة منه لا يصبح المنتج مؤهلًا للإرجاع. لتقديم الطلب، سجّل الدخول إلى حسابك، ثم انتقل إلى **حسابي > ضمان الأسعار > تقديم طلب**، وحدد المنتج، وأدخل السعر الأقل، وأرفق لقطة شاشة ورابط المنتج. وبعد مراجعة الطلب، سيتم إضافة فرق السعر إلى **ماي كاش** خلال 48 ساعة في حال الموافقة. ويمكنك متابعة حالة الطلب من خلال **حسابي > ضمان الأسعار > الطلبات السابقة**. وتُعامل جميع البيانات المرفقة بسرية تامة وفقًا لسياسة الخصوصية."
+        }
+      ]
+    },
+    {
+      "title": "استفسارات برنامج الإحالة",
+      "items": [
+        {
+          "subtitle": "كيف يعمل برنامج أوصِ واربح من آيفي؟",
+          "desc": "يمكنك مشاركة رمز الدعوة الخاص بك عددًا غير محدود من المرات.\n \n يمكن استخدام رمز الدعوة فقط من قِبل العملاء المسجلين الدخول، ويكون صالحًا لأول طلب فقط على الحساب الجديد.\n \n تختلف مكافآت الدعوة حسب العرض الترويجي الساري في بلدك.\n \n ستتم إضافة المكافأة إلى رصيد **ماي كاش** بعد إتمام العميل الذي تمت دعوته لأول طلب ناجح باستخدام رمز الدعوة الخاص بك.\n \n رصيد **ماي كاش** المكتسب من برنامج الدعوات صالح لمدة سنة واحدة من تاريخ إضافته.\n \n لا يُسمح باستخدام رمز الدعوة الخاص بك لإجراء طلب على حسابك الشخصي.\n \n يرجى ملاحظة أن قيمة مكافأة الدعوة (على سبيل المثال 40 درهمًا إماراتيًا) قد تختلف حسب العرض الترويجي الساري. للاطلاع على أحدث تفاصيل المكافآت، انتقل إلى قسم **ادعُ واكسب** في حسابك على آيفي أو تفضل بزيارة:\n https://aivi.com /refer-earn"
         }
       ]
     }

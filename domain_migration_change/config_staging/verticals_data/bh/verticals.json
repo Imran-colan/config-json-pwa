@@ -127,6 +127,43 @@
       }
     },
     {
+      "text_en": "School",
+      "text_ar": "المدرسة",
+      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_home_bts_selected_ar.png",
+      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_home_bts_unselected_ar.png",
+      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_home_bts_selected_en.png",
+      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_home_bts_unselected_en.png",
+      "type": "brand",
+      "name": "school",
+      "identifier": "bts",
+      "tabs_home": {
+        "en": {
+          "girls": {
+            "is_enabled": true,
+            "label": "Girls",
+            "file": "girls.json"
+          },
+          "boys": {
+            "is_enabled": true,
+            "label": "Boys",
+            "file": "boys.json"
+          }
+        },
+        "ar": {
+          "girls": {
+            "is_enabled": true,
+            "label": "اناث",
+            "file": "girls.json"
+          },
+          "boys": {
+            "is_enabled": true,
+            "label": "ذكور",
+            "file": "boys.json"
+          }
+        }
+      }
+    },
+    {
       "text_en": "Beauty",
       "text_ar": "جمال",
       "icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config_staging/verticals_data/bh/home/beauty/beauty_selected_ar.png",

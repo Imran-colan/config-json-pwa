@@ -316,6 +316,12 @@
       "bank_name": "FAB",
       "desc": "خصم 25% مع بطاقة إماراتي الائتمانية من أبوظبي الأول الإسلامي",
       "link": "/store/fab-emirati-w"
+    },
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSArabic.png",
+      "bank_name": "ANB",
+      "desc": "احصل على خصم 30% عند الدفع ببطاقة مصرف الإنماء",
+      "link": "أنفقوا 400 د.إ أو أكثر، واحصلوا على فرصة للفوز بجهاز آيباد."
     }
   ],
   "similar_product_eligible_category": {

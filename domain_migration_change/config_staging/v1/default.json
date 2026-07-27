@@ -8,6 +8,7 @@
       "is_cookies_consent_enabled": false,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
+      "isAlgoliaEventsEnabled_app": true,
       "promise_timer_duration": 180,
       "promise_sla": {
         "international": "5-7",
@@ -582,6 +583,7 @@
       "value": "SA",
       "currency": "SAR",
       "price_strip_insignificant_zeros": true,
+      "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
@@ -1158,6 +1160,7 @@
       "value": "KW",
       "currency": "KWD",
       "price_strip_insignificant_zeros": false,
+      "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": false,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
@@ -1726,6 +1729,7 @@
       "value": "OM",
       "currency": "OMR",
       "price_strip_insignificant_zeros": false,
+      "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
@@ -2295,6 +2299,7 @@
       "value": "BH",
       "currency": "BHD",
       "price_strip_insignificant_zeros": false,
+      "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
@@ -2867,6 +2872,7 @@
       "value": "QA",
       "currency": "QAR",
       "price_strip_insignificant_zeros": true,
+      "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": true,
       "is_cookies_consent_enabled": false,
@@ -2925,7 +2931,7 @@
         "city_ar": "الريان"
       },
       "club_apparel_support": {
-        "support_email": "CAsupport@clubapparel.com",
+        "support_email": "customercare@aivi.com",
         "toll_free": "8000321"
       },
       "aivi_onboarding_data": {
@@ -3181,7 +3187,7 @@
         "stlMaxSize": 30
       },
       "spcc_config": {
-        "isSpccEnabledPWA": false,
+        "isSpccEnabledPWA": true,
         "isSpccEnabledAPP": true
       },
       "isSpccEnabled": false,

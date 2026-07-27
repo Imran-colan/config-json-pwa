@@ -134,7 +134,7 @@
                 "type": "text",
                 "key": "discounted_products_text",
                 "text": [
-                  "إذا لم تكن راضيًا تمامًا عن مشترياتك منآيفي، فستحصل على قسيمة شرائية بقيمة مشترياتك إذا كنت قد دفعت نقدًا عند الاستلام، وهي صالحة للاستخدام عبر الإنترنت فقط على الموقع الإلكتروني:",
+                  "إذا لم تكن راضيًا تمامًا عن مشترياتك من آيفي، فستحصل على قسيمة شرائية بقيمة مشترياتك إذا كنت قد دفعت نقدًا عند الاستلام، وهي صالحة للاستخدام عبر الإنترنت فقط على الموقع الإلكتروني:",
                   "www.AIVI.com. يرجى الملاحظة: القسيمة الشرائية صالحة لمدة ستة أشهر من تاريخ إصدارها. يمكن استخدام هذه القسيمة مرة واحدة فقط، ولا يمكن استخدامها جزئيًا. يمكنك استخدام هذه القسيمة الشرائية لشراء منتجات بنفس القيمة أو بقيمة أعلى. في حال عدم استلام أي منتج طلبته منا بحالة جيدة، أو كان تالفًا أو معيبًا، أو إذا كان المنتج المُسلّم مختلفًا عما توقعته، يمكنك إرجاع المنتج غير مستخدم وفي حالته الأصلية، مع عبوته الأصلية وبطاقاته الأصلية، لإرجاعه أو استبداله، وذلك خلال 14 يومًا من تاريخ استلامه."
                 ]
               }
@@ -172,10 +172,10 @@
                 "type": "text",
                 "key": "courier_collection_text",
                 "text": [
-                  "الإرجاع",
-                  "يمكنك إرجاع أي منتج خلال 14 يومًا من تاريخ الشراء. ستتم معالجة طلبات الإرجاع خلال 7 أيام عمل من استلام المنتج غير المستخدم مع فاتورة البيع الأصلية. في حال إلغاء الطلب، سيتم ردّ المبالغ المدفوعة ببطاقة الائتمان إلى حساب البطاقة الأصلي المستخدم في الطلب. يُرجى العلم بأن أي تأخير في إضافة المبلغ إلى حساب حامل البطاقة خارج عن سيطرتنا ويخضع لإدارة البنك المُصدر. بالنسبة لعمليات الدفع عند الاستلام، سيتم استبدال المنتجات المُعادة برصيد في المتجر، والذي يُمكن استخدامه للشراء عبر الإنترنت على موقع آيفي.com. يُرجى العلم أن رصيد المتجر صالح لمدة عام واحد من تاريخ إصداره.",
-                  "الاستبدال",
-                  "يُتاح الاستبدال فقط للمنتجات التي لها نفس القيمة\nالمنتج المراد استبداله. يمكنك استبدال المنتج بمقاس أو لون مختلف مباشرةً عبر التطبيق أو الموقع الإلكتروني أو من خلال خدمة العملاء. بمجرد استلام المنتجات ووصولها إلى مستودعاتنا (عادةً خلال 48 إلى 72 ساعة)؛ سنقوم بشحن المنتجات البديلة بعد فحص دقيق للمنتجات المُعادة. يُرجى التأكد من أن المنتجات غير مستخدمة وفي حالة جيدة مع وجود الملصقات الأصلية والتغليف سليمًا. يُرجى العلم أن المنتجات المشتراة من شركائنا الدوليين غير قابلة للاستبدال، وإنما قابلة للإرجاع فقط."
+                  "الإرجاع \n",
+                  "يمكنك إرجاع أي منتج خلال 14 يومًا من تاريخ الشراء. ستتم معالجة طلبات الإرجاع خلال 7 أيام عمل من استلام المنتج غير المستخدم مع فاتورة البيع الأصلية. في حال إلغاء الطلب، سيتم ردّ المبالغ المدفوعة ببطاقة الائتمان إلى حساب البطاقة الأصلي المستخدم في الطلب. يُرجى العلم بأن أي تأخير في إضافة المبلغ إلى حساب حامل البطاقة خارج عن سيطرتنا ويخضع لإدارة البنك المُصدر. بالنسبة لعمليات الدفع عند الاستلام، سيتم استبدال المنتجات المُعادة برصيد في المتجر، والذي يُمكن استخدامه للشراء عبر الإنترنت على موقع AIVI.com. يُرجى العلم أن رصيد المتجر صالح لمدة عام واحد من تاريخ إصداره. \n",
+                  "الاستبدال \n",
+                  "يُتاح الاستبدال فقط للمنتجات التي لها نفس قيمة المنتج المراد استبداله. يمكنك استبدال المنتج بمقاس أو لون مختلف مباشرةً عبر التطبيق أو الموقع الإلكتروني أو من خلال خدمة العملاء. بمجرد استلام المنتجات ووصولها إلى مستودعاتنا (عادةً خلال 48 إلى 72 ساعة)، سنقوم بشحن المنتجات البديلة بعد فحص دقيق للمنتجات المُعادة. يُرجى التأكد من أن المنتجات غير مستخدمة، وفي حالة جيدة، مع وجود الملصقات الأصلية وسلامة التغليف. يُرجى العلم أن المنتجات المشتراة من شركائنا الدوليين غير قابلة للاستبدال، وإنما قابلة للإرجاع فقط"
                 ]
               }
             ]
@@ -191,8 +191,7 @@
                 "type": "text",
                 "key": "modification_of_terms_text",
                 "text": [
-                  "يجوز لـ AIVI.com تعديل اتفاقية المستخدم في أي وقت",
-                  "دون إشعار مسبق. ويكون قرار إدارة www.AIVI.com نهائيًا. بعد أي تعديل على اتفاقية المستخدم، سنبلغك بالتعديلات عبر البريد الإلكتروني على العنوان الذي قدمته عند التسجيل في www.AIVI.com. في حال عدم قبولك لاتفاقية المستخدم المعدلة، يجب عليك التوقف عن استخدام الخدمة. أما إذا واصلت استخدام الخدمة، فسيُعتبر ذلك موافقة منك على قبول اتفاقية المستخدم المعدلة والالتزام بها."
+                  "يجوز لـ www.AIVI.com تعديل اتفاقية المستخدم في أي وقت دون إشعار مسبق. ويكون قرار إدارة www.AIVI.com نهائيًا. بعد أي تعديل على اتفاقية المستخدم، سنبلغك بالتعديلات عبر البريد الإلكتروني على العنوان الذي قدمته عند التسجيل في www.AIVI.com. في حال عدم قبولك لاتفاقية المستخدم المعدلة، يجب عليك التوقف عن استخدام الخدمة. أما إذا واصلت استخدام الخدمة، فسيُعتبر ذلك موافقة منك على قبول اتفاقية المستخدم المعدلة والالتزام بها."
                 ]
               }
             ]
@@ -522,9 +521,9 @@
                 "type": "text",
                 "key": "courier_collection_text",
                 "text": [
-                  "Return",
-                  "You can return an item within 14-days of the purchase. Refunds for return requests will be processed within 7 working days upon receipt of the unused merchandise along with the original sales invoice. If a cancellation occurs, refunds for credit card payments will be credited back to the original credit card account used for the initial order. Please note that any delays in crediting the cardholder's account are beyond our control and are managed by the issuing bank. For Cash on Delivery (COD) transactions, returned items will result in store credit, which can be utilized for online purchases at AIVI.com. Keep in mind that store credit is valid for one year from the date of issuance.",
-                  "Exchange",
+                  "Return \n",
+                  "You can return an item within 14-days of the purchase. Refunds for return requests will be processed within 7 working days upon receipt of the unused merchandise along with the original sales invoice. If a cancellation occurs, refunds for credit card payments will be credited back to the original credit card account used for the initial order. Please note that any delays in crediting the cardholder's account are beyond our control and are managed by the issuing bank. For Cash on Delivery (COD) transactions, returned items will result in store credit, which can be utilized for online purchases at AIVI.com. Keep in mind that store credit is valid for one year from the date of issuance. \n",
+                  "Exchange \n",
                   "Exchange is only available for items with an identical value to the merchandise being exchanged. You can exchange an item for a different size or color directly on the application or website or through Customer Care. Once the items have been picked up and reach our warehouse (usually within 48 to 72 hours); we will ship out your exchange items upon thorough inspection of the returned items. Please ensure the items are unused and in good condition with original tags and packaging intact. Please note, items shopped from our international partners are not eligible for exchange, only for returns."
                 ]
               }

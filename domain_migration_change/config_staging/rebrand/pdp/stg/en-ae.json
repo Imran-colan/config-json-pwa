@@ -318,6 +318,12 @@
       "bank_name": "FAB",
       "desc": "25% off with FAB Emirati Islamic Credit card!",
       "link": "/store/fab-emirati-w"
+    },
+    {
+      "icon": "",
+      "bank_name": "",
+      "desc": "Spend AED 400+ and get a chance to win an iPad",
+      "link": ""
     }
   ],
   "similar_product_eligible_category": {
