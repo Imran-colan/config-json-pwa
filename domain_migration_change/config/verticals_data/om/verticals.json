@@ -55,9 +55,9 @@
           },
           "sales": {
             "is_enabled": true,
-            "label": "SALE %",
+            "label": "Sale",
             "file": "sales.json",
-            "color": "#D12229"
+            "color": null
           }
         },
         "ar": {
@@ -83,9 +83,9 @@
           },
           "sales": {
             "is_enabled": true,
-            "label": "تخفيضات %",
+            "label": "تخفيضات",
             "file": "sales.json",
-            "color": "#D12229"
+            "color": null
           }
         }
       },

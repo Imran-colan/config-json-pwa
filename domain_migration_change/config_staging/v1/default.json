@@ -23,6 +23,7 @@
       "showIconInSize": true,
       "download_invoice": false,
       "write_to_us": true,
+      "write_to_us_online": true,
       "nps_form": false,
       "handsfree": false,
       "vto": true,
@@ -586,6 +587,7 @@
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
       "verticalBasedSearchEnabled": false,
+      "write_to_us_online": true,
       "promise_sla": {
         "international": "5-7",
         "cross_border": "3-5",
@@ -1160,6 +1162,7 @@
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
+      "write_to_us_online": true,
       "verticalBasedSearchEnabled": false,
       "promise_sla": {
         "international": "5-7",
@@ -1726,6 +1729,7 @@
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
+      "write_to_us_online": true,
       "promise_timer_duration": 180,
       "promise_sla": {
         "international": "5-7",
@@ -2294,6 +2298,7 @@
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
+      "write_to_us_online": true,
       "promise_timer_duration": 180,
       "promise_sla": {
         "international": "5-7",
@@ -2865,6 +2870,7 @@
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": true,
       "is_cookies_consent_enabled": false,
+      "write_to_us_online": true,
       "promise_timer_duration": 180,
       "promise_sla": {
         "international": "5-7",
