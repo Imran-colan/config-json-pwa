@@ -129,7 +129,7 @@
         {
           "id": 1,
           "type": "image",
-          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_authenticity_badge_ar.png",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/ic_authenticity_badge_ar.png",
           "key": "authenticity_badge"
         },
         {
@@ -137,7 +137,7 @@
           "type": "info",
           "key": "authorised_retailer_certification",
           "heading": "شهادة بائع التجزئة المعتمد",
-          "body": "تؤكد مجموعة Apparel Group أن شركة 6thStreet، بما في ذلك شركاتها القابضة ومتاجر البيع بالتجزئة، هي بائع تجزئة معتمد عبر الإنترنت وخارجه لمنتجات أصلية 100% من جميع العلامات التجارية المعروضة."
+          "body": "تؤكد مجموعة Apparel Group أن شركة آيفي، بما في ذلك شركاتها القابضة ومتاجر البيع بالتجزئة، هي بائع تجزئة معتمد عبر الإنترنت وخارجه لمنتجات أصلية 100% من جميع العلامات التجارية المعروضة."
         },
         {
           "id": 4,
@@ -180,7 +180,7 @@
           "id": 1,
           "type": "text",
           "key": "delivery_description",
-          "text": "في 6thStreet، نضمن لك أفضل العروض دائمًا. إذا وجدت نفس المنتج بسعر أقل على موقع إلكتروني أو تطبيق آخر، فسنرد لك الفرق إلى حسابك في My Cash."
+          "text": "في آيفي، نضمن لك أفضل العروض دائمًا. إذا وجدت نفس المنتج بسعر أقل على موقع إلكتروني أو تطبيق آخر، فسنرد لك الفرق إلى حسابك في My Cash."
         }
       ]
     },
@@ -322,6 +322,12 @@
       "bank_name": "ANB",
       "desc": "احصل على خصم 30% عند الدفع ببطاقة مصرف الإنماء",
       "link": "/store/alnami-bank-offer"
+    },
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSArabic.png",
+      "bank_name": "",
+      "desc": "أنفق 400 ريال سعودي أو أكثر واحصل على فرصة للفوز بجهاز iPad.",
+      "link": ""
     }
   ],
   "similar_product_eligible_category": {

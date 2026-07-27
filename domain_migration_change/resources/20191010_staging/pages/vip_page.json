@@ -16,7 +16,7 @@
             {
               "title": "How can I reach your customer service?",
               "description": "You can contact our customer service team through the following channels:",
-              "htmlContent": "<ul class=\"vip_customerCare\"><li> Phone: <a href=\"tel:048142666\" target=\"_blank\">048142666</a> (9:00 am to 9:00 pm) </li><li> WhatsApp: <a href=\"https://api.whatsapp.com/send?phone=97148142666\" target=\"_blank\">+97148142666</a></li><li> Email: <a href=\"mailto:customercare@AIVI.com\">customercare@AIVI.com</a></li></ul>"
+              "htmlContent": "<ul class=\"vip_customerCare\"><li> Phone: <a href=\"tel:048142666\" target=\"_blank\">048142666</a> (9:00 am to 9:00 pm) </li><li> WhatsApp: <a href=\"https://api.whatsapp.com/send?phone=97148142666\" target=\"_blank\">+97148142666</a></li><li> Email: <a href=\"mailto:customercare@aivi.com\">customercare@aivi.com</a></li></ul>"
             },
             {
               "title": "How do I update my account information?",
@@ -46,7 +46,7 @@
             {
               "title": "كيف يمكنني التواصل مع فريق خدمة العملاء التابع لكم؟",
               "description": "يمكنك التواصل مع فريق خدمة العملاء من خلال:",
-              "htmlContent": "<ul class=\"vip_customerCare\"><li> الهاتف: <a href=\"tel:048142666\" target=\"_blank\">048142666</a> ( 9:00 صباحاً وحتى 9:00 مساءً ) </li><li> الواتس آب: <a href=\"https://api.whatsapp.com/send?phone=97148142666\" target=\"_blank\">97148142666+</a></li><li> البريد الإلكتروني: <a href=\"mailto:customercare@AIVI.com\">customercare@AIVI.com</a></li></ul>"
+              "htmlContent": "<ul class=\"vip_customerCare\"><li> الهاتف: <a href=\"tel:048142666\" target=\"_blank\">048142666</a> ( 9:00 صباحاً وحتى 9:00 مساءً ) </li><li> الواتس آب: <a href=\"https://api.whatsapp.com/send?phone=97148142666\" target=\"_blank\">97148142666+</a></li><li> البريد الإلكتروني: <a href=\"mailto:customercare@aivi.com\">customercare@aivi.com</a></li></ul>"
             },
             {
               "title": "كيف يمكنني تحديث بيانات حسابي؟",

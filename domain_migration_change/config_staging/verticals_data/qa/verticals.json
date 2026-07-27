@@ -52,6 +52,12 @@
             "is_enabled": true,
             "label": "Premium",
             "file": "premium.json"
+          },
+          "sales": {
+            "is_enabled": true,
+            "label": "Sale",
+            "file": "sales.json",
+            "color": null
           }
         },
         "ar": {
@@ -74,6 +80,12 @@
             "is_enabled": true,
             "label": "بريميوم",
             "file": "premium.json"
+          },
+          "sales": {
+            "is_enabled": true,
+            "label": "تخفيضات",
+            "file": "sales.json",
+            "color": null
           }
         }
       },
@@ -110,6 +122,43 @@
             "is_enabled": true,
             "label": "أطفال",
             "file": "kids.json"
+          }
+        }
+      }
+    },
+    {
+      "text_en": "School",
+      "text_ar": "المدرسة",
+      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_home_bts_selected_ar.png",
+      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_home_bts_unselected_ar.png",
+      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_home_bts_selected_en.png",
+      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_home_bts_unselected_en.png",
+      "type": "brand",
+      "name": "school",
+      "identifier": "bts",
+      "tabs_home": {
+        "en": {
+          "girls": {
+            "is_enabled": true,
+            "label": "Girls",
+            "file": "girls.json"
+          },
+          "boys": {
+            "is_enabled": true,
+            "label": "Boys",
+            "file": "boys.json"
+          }
+        },
+        "ar": {
+          "girls": {
+            "is_enabled": true,
+            "label": "اناث",
+            "file": "girls.json"
+          },
+          "boys": {
+            "is_enabled": true,
+            "label": "ذكور",
+            "file": "boys.json"
           }
         }
       }

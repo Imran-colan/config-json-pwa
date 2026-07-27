@@ -1,0 +1,36 @@
+{
+  "en": [
+    {
+      "title": "Shipping Policy",
+      "items": [
+        "AIVI.com delivers across the United Arab Emirates.",
+        "We accept Cash on Delivery (COD), Credit Cards, Debit Cards, Apple Pay, Tabby, Tamara, and My Cash as payment methods.",
+        "Orders are typically delivered within 3–5 business days for most locations.",
+        "Once your shipment is dispatched, an Air Waybill (AWB) number will be generated and shared with you via your registered email address and mobile number, allowing you to track your order.",
+        "A shipping fee of AED 9 applies to orders below AED 100.",
+        "If your order includes products sourced from international markets, an international shipping fee may apply.",
+        "If all international shipment items in your order are cancelled, the international shipping fee will be refunded. However, if only some international items are cancelled, the international shipping fee will still apply and is non-refundable.",
+        "Products marked with the \"International Shipment\" label on the product page and Shopping Bag are sourced from international markets.",
+        "Applicable fees: Orders below AED 100 are subject to an AED 9 shipping fee. Orders paid using Cash on Delivery (COD) are subject to an AED 20 COD service fee. A AED 3 platform fee applies to all eligible orders. International Shipment orders are subject to an AED 30 international shipping fee, where applicable. These fees may change without prior notice.",
+        "Deliveries to out-of-service locations may require additional transit time."
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "title": "سياسة الشحن",
+      "items": [
+        "يوفر AIVI.com خدمة التوصيل إلى جميع أنحاء الإمارات العربية المتحدة.",
+        "نقبل الدفع باستخدام بطاقات الائتمان، وبطاقات الخصم، وApple Pay، وTabby، وTamara، والدفع عند الاستلام، ورصيد ماي كاش.",
+        "يتم توصيل الطلبات خلال 3 إلى 5 أيام عمل لمعظم المناطق.",
+        "بمجرد شحن طلبك، سيتم إصدار رقم بوليصة الشحن (AWB) وإرساله إلى بريدك الإلكتروني ورقم هاتفك المسجلين، لتتمكن من تتبع شحنتك.",
+        "تُطبق رسوم شحن بقيمة 9 درهم إماراتي على الطلبات التي تقل قيمتها عن 100 درهم إماراتي.",
+        "قد تُطبق رسوم شحن دولي على المنتجات المشمولة بخدمة الشحن الدولي.",
+        "في حال إلغاء جميع المنتجات المشمولة بالشحن الدولي في الطلب، سيتم استرداد رسوم الشحن الدولي. أما إذا تم إلغاء جزء منها فقط، فلن يتم استرداد رسوم الشحن الدولي.",
+        "المنتجات التي تحمل علامة الشحن الدولي في صفحة المنتج أو سلة التسوق يتم شحنها من الأسواق الدولية.",
+        "الرسوم المطبقة: تُطبق رسوم شحن بقيمة 9 درهم إماراتي ورسوم خدمة الدفع عند الاستلام بقيمة 20 درهمًا إماراتيًا ورسوم منصة بقيمة 3 دراهم إماراتية. وتخضع طلبات الشحن الدولي لرسوم 30 درهمًا إماراتيًا حيثما ينطبق ذلك.",
+        "قد يستغرق التوصيل إلى المناطق الواقعة خارج نطاق الخدمة وقتًا إضافيًا."
+      ]
+    }
+  ]
+}

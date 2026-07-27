@@ -1,30 +1,25 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "6thStreet.com",
-  "legalName": "6thStreet General Trading LLC",
-  "url": "https://en-ae.6thstreet.com/",
+  "name": "AIVI.com",
+  "legalName": "AIVI General Trading LLC",
+  "url": "https://en-ae.aivi.com/",
   "logo": "https://d33potchz7aua6.cloudfront.net/static/media/6TH_Logo.bc4c18f8.svg",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Street No 14 B, Al Quoz , Al Quoz Industrial Area 4, Dubai",
-    "addressLocality": "Al Quoz",
+    "streetAddress": "PO BOX No 27401",
+    "addressLocality": "Dubai",
     "addressCountry": "UAE"
   },
-  "contactPoint": [
-    {
-      "@type": "ContactPoint",
-      "telephone": "+971800 3852 633",
-      "contactType": "customer service"
-    }
-  ],
-  "email": "customercare@6thstreet.com",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+971 4 814 2666",
+    "contactType": "customer service"
+  },
+  "email": "customercare@aivi.com",
   "sameAs": [
-    "https://www.instagram.com/Shop6thStreet/",
-    "https://www.facebook.com/shop6thstreet",
-    "https://twitter.com/shop6thstreet",
-    "https://in.pinterest.com/6thstreetonline/",
-    "https://www.youtube.com/c/6thStreet",
-    "https://www.tiktok.com/@shop6thstreet"
+    "https://www.instagram.com/aivi_ar",
+    "https://www.instagram.com/aivi_en",
+    "https://www.facebook.com/aivi"
   ]
 }

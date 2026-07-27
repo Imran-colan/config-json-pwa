@@ -1,0 +1,36 @@
+{
+  "en": [
+    {
+      "title": "Shipping Policy",
+      "items": [
+        "AIVI.com delivers across the Sultanate of Oman.",
+        "We accept Cash on Delivery (COD), Credit Cards, Debit Cards, and My Cash as payment methods.",
+        "Orders are typically delivered within 5–7 business days for most locations.",
+        "Once dispatched, AWB details will be shared.",
+        "A shipping fee of OMR 2 applies to orders below OMR 12.",
+        "International shipping fees may apply.",
+        "International shipping fees are refundable only when all international items are cancelled.",
+        "Products marked with International Shipment are sourced internationally.",
+        "Applicable fees include OMR 2 COD fee and OMR 0.5 platform fee.",
+        "Deliveries to out-of-service locations may require additional transit time."
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "title": "سياسة الشحن",
+      "items": [
+        "يوفر AIVI.com خدمة التوصيل إلى جميع أنحاء سلطنة عُمان.",
+        "نقبل الدفع باستخدام بطاقات الائتمان وبطاقات الخصم والدفع عند الاستلام ورصيد ماي كاش.",
+        "يتم توصيل الطلبات خلال 5 إلى 7 أيام عمل لمعظم المناطق.",
+        "سيتم إرسال تفاصيل بوليصة الشحن (AWB) بعد الشحن.",
+        "تُطبق رسوم شحن بقيمة 2 ريال عُماني على الطلبات التي تقل قيمتها عن 12 ريالًا عُمانيًا.",
+        "قد تُطبق رسوم شحن دولي.",
+        "تُسترد رسوم الشحن الدولي فقط عند إلغاء جميع المنتجات الدولية.",
+        "المنتجات التي تحمل علامة الشحن الدولي يتم شحنها من الأسواق الدولية.",
+        "تُطبق رسوم خدمة الدفع عند الاستلام بقيمة 2 ريال عُماني ورسوم منصة بقيمة 0.5 ريال عُماني.",
+        "قد يستغرق التوصيل إلى المناطق الواقعة خارج نطاق الخدمة وقتًا إضافيًا."
+      ]
+    }
+  ]
+}

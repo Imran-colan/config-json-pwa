@@ -15,7 +15,7 @@
     },
     "HPP": {
       "campaignName": "hpp",
-      "defaultUserSegment": "new_user",
+      "defaultUserSegment": "repeat_user",
       "type": 1,
       "defaultVariant": "c",
       "defaultValue": "1",
@@ -97,7 +97,7 @@
     },
     "HPP": {
       "campaignName": "hpp",
-      "defaultUserSegment": "new_user",
+      "defaultUserSegment": "repeat_user",
       "type": 1,
       "defaultVariant": "c",
       "defaultValue": "1",
@@ -154,7 +154,7 @@
     },
     "HPP": {
       "campaignName": "hpp",
-      "defaultUserSegment": "new_user",
+      "defaultUserSegment": "repeat_user",
       "type": 1,
       "defaultVariant": "c",
       "defaultValue": "1",
@@ -211,7 +211,7 @@
     },
     "HPP": {
       "campaignName": "hpp",
-      "defaultUserSegment": "new_user",
+      "defaultUserSegment": "repeat_user",
       "type": 1,
       "defaultVariant": "c",
       "defaultValue": "1",
@@ -268,7 +268,7 @@
     },
     "HPP": {
       "campaignName": "hpp",
-      "defaultUserSegment": "new_user",
+      "defaultUserSegment": "repeat_user",
       "type": 1,
       "defaultVariant": "c",
       "defaultValue": "1",
@@ -325,7 +325,7 @@
     },
     "HPP": {
       "campaignName": "hpp",
-      "defaultUserSegment": "new_user",
+      "defaultUserSegment": "repeat_user",
       "type": 1,
       "defaultVariant": "c",
       "defaultValue": "1",

@@ -91,7 +91,7 @@
     "genuine": {
       "tile_icon": "genuineIcon",
       "tile_text": "100% Genuine",
-      "popup_desc": "Rest assured, 6thStreet offers only 100% genuine and authentic products",
+      "popup_desc": "Rest assured, AIVI offers only 100% genuine and authentic products",
       "popup_title": "100% Authentic"
     },
     "handInExchange": {
@@ -118,7 +118,7 @@
       "key": "genuineProduct",
       "tile_icon": "genuineProduct",
       "tile_text": "100% Genuine",
-      "popup_desc": "Rest assured, 6thStreet offers only 100% genuine and authentic products",
+      "popup_desc": "Rest assured, AIVI offers only 100% genuine and authentic products",
       "popup_title": "100% Authentic",
       "title": "100% Genuine Products",
       "popup_body": [
@@ -131,7 +131,7 @@
         {
           "id": 1,
           "type": "image",
-          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/authenticity_badge.png",
+          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi/ic_authenticity_badge.png",
           "key": "authenticity_badge"
         },
         {
@@ -139,7 +139,7 @@
           "type": "info",
           "key": "authorised_retailer_certification",
           "heading": "Authorised Retailer Certification",
-          "body": "Apparel Group certifies that 6thStreet, including its holding companies and retail stores, is an authorized online and offline retailer of 100% genuine and original products across all featured brands."
+          "body": "Apparel Group certifies that At AIVI including its holding companies and retail stores, is an authorized online and offline retailer of 100% genuine and original products across all featured brands."
         },
         {
           "id": 4,
@@ -182,7 +182,7 @@
           "id": 1,
           "type": "text",
           "key": "delivery_description",
-          "text": "At 6thStreet, we promise the best deal every time.If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
+          "text": "At AIVI, we promise the best deal every time.If you find the same item at a lower price on another website or app, we’ll refund the difference to your My Cash account."
         }
       ]
     },
