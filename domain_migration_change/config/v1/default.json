@@ -776,7 +776,7 @@
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
-        "start": "10",
+        "start": "14",
         "end": "22",
         "timer_start_at": "15"
       },
@@ -1272,7 +1272,7 @@
       },
       "club_apparel_support": {
         "support_email": "customercare@aivi.com",
-        "toll_free": "+965 2226 1111"
+        "toll_free": "+965 2226 111"
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
@@ -1395,7 +1395,7 @@
         "nudgeTimerInSeconds": 300
       },
       "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
-      "toll_free": "+96522261111",
+      "toll_free": "+9652226111",
       "has_en_new_coupon": true,
       "has_ar_new_coupon": true,
       "is_new_address_enabled": false,
@@ -1480,7 +1480,8 @@
       "addressFormConfig": {
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
-        "is_map_view_enabled": true
+        "is_map_view_enabled": true,
+        "is_map_view_enabled_web": true
       },
       "custom_clearance_msg": {
         "en": "For orders over KWD 100, Kuwait Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
@@ -1766,7 +1767,7 @@
       },
       "club_apparel_support": {
         "support_email": "customercare@aivi.com",
-        "toll_free": "+971 4814 2666"
+        "toll_free": "+968 2485 6889"
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
@@ -1891,7 +1892,7 @@
         "nudgeTimerInSeconds": 300
       },
       "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
-      "toll_free": "+971 4814 2666",
+      "toll_free": "+968 2485 6889",
       "has_en_new_coupon": true,
       "has_ar_new_coupon": true,
       "is_new_address_enabled": false,
@@ -1977,7 +1978,8 @@
       "addressFormConfig": {
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
-        "is_map_view_enabled": true
+        "is_map_view_enabled": true,
+        "is_map_view_enabled_web": true
       },
       "custom_clearance_msg": {
         "en": "For orders over OMR 300, Oman Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
@@ -2263,7 +2265,7 @@
       },
       "club_apparel_support": {
         "support_email": "customercare@aivi.com",
-        "toll_free": "+971 4814 2666"
+        "toll_free": "+973 1661 5565"
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
@@ -2388,7 +2390,7 @@
         "nudgeTimerInSeconds": 300
       },
       "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
-      "toll_free": "+971 4814 2666",
+      "toll_free": "+973 1661 5565",
       "has_en_new_coupon": true,
       "has_ar_new_coupon": true,
       "is_new_address_enabled": false,
@@ -2474,7 +2476,8 @@
       "addressFormConfig": {
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
-        "is_map_view_enabled": true
+        "is_map_view_enabled": true,
+        "is_map_view_enabled_web": true
       },
       "custom_clearance_msg": {
         "en": "For orders over BHD 300, Bahrain Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",
@@ -2760,7 +2763,7 @@
       },
       "club_apparel_support": {
         "support_email": "customercare@aivi.com",
-        "toll_free": "+971 4814 2666"
+        "toll_free": "+974 4004 7675"
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
@@ -2885,7 +2888,7 @@
         "nudgeTimerInSeconds": 300
       },
       "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
-      "toll_free": "+971 4814 2666",
+      "toll_free": "+974 4004 7675",
       "has_en_new_coupon": true,
       "has_ar_new_coupon": true,
       "is_new_address_enabled": false,
@@ -2971,7 +2974,8 @@
       "addressFormConfig": {
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
-        "is_map_view_enabled": true
+        "is_map_view_enabled": true,
+        "is_map_view_enabled_web": true
       },
       "custom_clearance_msg": {
         "en": "For orders over QAR 1000, Qatar Customs needs your ID to clear the shipment. Please enter correct details to avoid delays.",

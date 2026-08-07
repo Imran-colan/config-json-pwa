@@ -314,6 +314,12 @@
   ],
   "bank_offers": [
     {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/SNB.png",
+      "bank_name": "SNB",
+      "desc": "Get 20% Off with SNB Credit Cards",
+      "link": "/page/snb-bank-offer"
+    },
+    {
       "icon": "https://mobilecdn.6thstreet.com/pdp/images/sab.png",
       "bank_name": "SAB",
       "desc": "Extra 20% on SAB Credit Card holders",

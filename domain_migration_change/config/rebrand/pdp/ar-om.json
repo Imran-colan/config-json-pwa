@@ -312,10 +312,10 @@
   ],
   "bank_offers": [
     {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/muscat_bank.jpg",
-      "bank_name": "Muscat Bank",
-      "desc": "20% خصم إضافي على جميع بطاقات فيزا من بنك مسقط",
-      "link": "/store/muscat-bank-w"
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/BOM.png",
+      "bank_name": "بنك مسقط",
+      "desc": "احصل على خصم 20% عند الدفع ببطاقات بنك مسقط",
+      "link": "/page/muscat-bank-offer"
     }
   ],
   "similar_product_eligible_category": {

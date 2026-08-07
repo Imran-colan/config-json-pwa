@@ -30,9 +30,17 @@
       "vto": true,
       "locatiq": true,
       "useRECAPTCHA": false,
-      "useGoogleRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "payLater": {
+        "isAppEnable": true,
+        "isPwaEnable": true,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -608,9 +616,17 @@
       "vto": true,
       "locatiq": true,
       "useRECAPTCHA": false,
-      "useGoogleRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "payLater": {
+        "isAppEnable": true,
+        "isPwaEnable": true,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -1189,6 +1205,14 @@
       "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "payLater": {
+        "isAppEnable": true,
+        "isPwaEnable": true,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -1527,7 +1551,7 @@
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
         "is_map_view_enabled": true,
-        "is_map_view_enabled_web": false
+        "is_map_view_enabled_web": true
       },
       "bottomMenu": {
         "categoriesMobileMenu": {
@@ -1711,7 +1735,7 @@
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
-        "start": "10",
+        "start": "08",
         "end": "24",
         "timer_start_at": "10"
       },
@@ -1758,6 +1782,14 @@
       "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "payLater": {
+        "isAppEnable": true,
+        "isPwaEnable": true,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -2096,7 +2128,7 @@
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
         "is_map_view_enabled": true,
-        "is_map_view_enabled_web": false
+        "is_map_view_enabled_web": true
       },
       "bottomMenu": {
         "categoriesMobileMenu": {
@@ -2325,9 +2357,17 @@
       "handsfree": false,
       "verticalBasedPlpEnabled": true,
       "useRECAPTCHA": false,
-      "useGoogleRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "payLater": {
+        "isAppEnable": true,
+        "isPwaEnable": true,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -2666,7 +2706,7 @@
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
         "is_map_view_enabled": true,
-        "is_map_view_enabled_web": false
+        "is_map_view_enabled_web": true
       },
       "bottomMenu": {
         "categoriesMobileMenu": {
@@ -2898,9 +2938,17 @@
       "handsfree": false,
       "verticalBasedPlpEnabled": true,
       "useRECAPTCHA": false,
-      "useGoogleRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "payLater": {
+        "isAppEnable": true,
+        "isPwaEnable": true,
+        "min": 1,
+        "max": 25000
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -3238,7 +3286,7 @@
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
         "is_map_view_enabled": true,
-        "is_map_view_enabled_web": false
+        "is_map_view_enabled_web": true
       },
       "nationality_cart_limit": -1,
       "bottomMenu": {
