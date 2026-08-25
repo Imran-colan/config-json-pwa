@@ -17,6 +17,12 @@
       "layout": {
         "title": "Style it with"
       }
+    },
+    {
+      "type": "image_gallery",
+      "layout": {
+        "title": "Image gallery"
+      }
     }
   ]
 }

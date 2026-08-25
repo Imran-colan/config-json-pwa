@@ -10,6 +10,8 @@
       "shouldShowGlobalDateRange": false,
       "isAlgoliaEventsEnabled_app": true,
       "promise_timer_duration": 180,
+      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "promise_sla": {
         "international": "5-7",
         "cross_border": "3-5",
@@ -23,6 +25,10 @@
       },
       "showIconInSize": true,
       "download_invoice": false,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "write_to_us": true,
       "write_to_us_online": true,
       "nps_form": false,
@@ -36,8 +42,8 @@
       "isTrackingWidgetViewCTAEnabledApp": false,
       "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
-        "isAppEnable": true,
-        "isPwaEnable": true,
+        "isAppEnable": false,
+        "isPwaEnable": false,
         "min": 0,
         "max": 0
       },
@@ -351,7 +357,7 @@
       "is_modyai_enabled": false,
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -597,6 +603,12 @@
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
       "verticalBasedSearchEnabled": false,
+      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "write_to_us_online": true,
       "promise_sla": {
         "international": "5-7",
@@ -622,8 +634,8 @@
       "isTrackingWidgetViewCTAEnabledApp": false,
       "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
-        "isAppEnable": true,
-        "isPwaEnable": true,
+        "isAppEnable": false,
+        "isPwaEnable": false,
         "min": 0,
         "max": 0
       },
@@ -938,7 +950,7 @@
       "modyai_profiles_limit": 5,
       "price_show_discount_percent": true,
       "is_map_view_enabled": true,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -1181,6 +1193,12 @@
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
+      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "write_to_us_online": true,
       "verticalBasedSearchEnabled": false,
       "promise_sla": {
@@ -1208,8 +1226,8 @@
       "isTrackingWidgetViewCTAEnabledApp": false,
       "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
-        "isAppEnable": true,
-        "isPwaEnable": true,
+        "isAppEnable": false,
+        "isPwaEnable": false,
         "min": 0,
         "max": 0
       },
@@ -1523,7 +1541,7 @@
       "modyai_profiles_limit": 5,
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -1757,8 +1775,14 @@
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "write_to_us_online": true,
       "promise_timer_duration": 180,
+      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "promise_sla": {
         "international": "5-7",
         "cross_border": "3-5",
@@ -1785,8 +1809,8 @@
       "isTrackingWidgetViewCTAEnabledApp": false,
       "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
-        "isAppEnable": true,
-        "isPwaEnable": true,
+        "isAppEnable": false,
+        "isPwaEnable": false,
         "min": 0,
         "max": 0
       },
@@ -2100,7 +2124,7 @@
       },
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -2336,6 +2360,12 @@
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
+      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "promise_timer_duration": 180,
       "promise_sla": {
         "international": "5-7",
@@ -2363,8 +2393,8 @@
       "isTrackingWidgetViewCTAEnabledApp": false,
       "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
-        "isAppEnable": true,
-        "isPwaEnable": true,
+        "isAppEnable": false,
+        "isPwaEnable": false,
         "min": 0,
         "max": 0
       },
@@ -2678,7 +2708,7 @@
       "modyai_profiles_limit": 5,
       "is_map_view_enabled": false,
       "price_show_discount_percent": true,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -2917,6 +2947,12 @@
       "shouldShowGlobalDateRange": true,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
+      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "promise_timer_duration": 180,
       "promise_sla": {
         "international": "5-7",
@@ -3259,7 +3295,7 @@
       "modyai_profiles_limit": 5,
       "is_map_view_enabled": false,
       "price_show_discount_percent": false,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,

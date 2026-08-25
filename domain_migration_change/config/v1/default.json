@@ -7,8 +7,19 @@
       "price_strip_insignificant_zeros": true,
       "instore_orders_returns": true,
       "nps_form": false,
-      "write_to_us": false,
+      "write_to_us": true,
       "download_invoice": false,
+      "write_to_us_online": true,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "price_show_discount_percent": true,
       "is_signin_cart_nudge_enabled": false,
       "vto": true,
@@ -63,7 +74,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -81,7 +92,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -509,9 +520,20 @@
       "price_strip_insignificant_zeros": true,
       "price_show_discount_percent": true,
       "instore_orders_returns": true,
+      "write_to_us_online": true,
       "nps_form": false,
-      "write_to_us": false,
+      "write_to_us": true,
       "download_invoice": false,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "is_signin_cart_nudge_enabled": false,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
@@ -564,7 +586,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -582,7 +604,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -776,7 +798,7 @@
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
-        "start": "14",
+        "start": "10",
         "end": "22",
         "timer_start_at": "15"
       },
@@ -1010,9 +1032,20 @@
       "currency": "KWD",
       "price_strip_insignificant_zeros": false,
       "instore_orders_returns": true,
+      "write_to_us_online": true,
       "nps_form": false,
-      "write_to_us": false,
+      "write_to_us": true,
       "download_invoice": false,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "handsfree": false,
       "vto": true,
       "locatiq": true,
@@ -1064,7 +1097,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -1082,7 +1115,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -1272,7 +1305,7 @@
       },
       "club_apparel_support": {
         "support_email": "customercare@aivi.com",
-        "toll_free": "+965 2226 111"
+        "toll_free": "+965 5222 61111"
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
@@ -1395,7 +1428,7 @@
         "nudgeTimerInSeconds": 300
       },
       "search": "https://mobilecdn.6thstreet.com/resources/20190121/$LOCALE/search/v1/$FILE_NAME",
-      "toll_free": "+9652226111",
+      "toll_free": "+965522261111",
       "has_en_new_coupon": true,
       "has_ar_new_coupon": true,
       "is_new_address_enabled": false,
@@ -1503,9 +1536,20 @@
       "currency": "OMR",
       "price_strip_insignificant_zeros": false,
       "instore_orders_returns": true,
+      "write_to_us_online": true,
       "nps_form": false,
-      "write_to_us": false,
+      "write_to_us": true,
       "download_invoice": false,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "price_show_discount_percent": true,
       "handsfree": false,
       "vto": true,
@@ -1559,7 +1603,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -1577,7 +1621,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -2002,10 +2046,21 @@
       "price_strip_insignificant_zeros": false,
       "price_show_discount_percent": true,
       "is_signin_cart_nudge_enabled": true,
+      "write_to_us_online": true,
       "instore_orders_returns": true,
       "nps_form": false,
-      "write_to_us": false,
+      "write_to_us": true,
       "download_invoice": false,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "handsfree": false,
       "vto": true,
       "locatiq": true,
@@ -2057,7 +2112,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -2075,7 +2130,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -2500,15 +2555,26 @@
       "price_strip_insignificant_zeros": true,
       "price_show_discount_percent": false,
       "is_signin_cart_nudge_enabled": false,
+      "write_to_us_online": true,
       "instore_orders_returns": true,
       "nps_form": false,
-      "write_to_us": false,
+      "write_to_us": true,
       "download_invoice": false,
       "handsfree": false,
       "vto": true,
       "locatiq": true,
       "useRECAPTCHA": false,
       "useGoogleRECAPTCHA": true,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
+      "payLater": {
+        "isAppEnable": true,
+        "isPwaEnable": true,
+        "min": 1,
+        "max": 25000
+      },
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isAlgoliaEventsEnabled_app": true,
@@ -2555,7 +2621,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
@@ -2573,7 +2639,7 @@
               "text": [],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/APPSTORE_IOS_VIDEO_AIVI.mp4"
               },
               "brandUrl": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_logo.png"
             }
