@@ -1,6 +1,5 @@
 {
   "more_filter": [
-    "fit",
     "sleeve_length",
     "sleeve_type",
     "material",
@@ -18,10 +17,6 @@
     "wired"
   ],
   "more_filter_traslation": {
-    "fit": {
-      "en": "Fit",
-      "ar": "القياس"
-    },
     "sleeve_length": {
       "en": "SLV",
       "ar": "طول الأكمام"
