@@ -11,7 +11,7 @@
       "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "promise_timer_duration": 180,
-      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledApp": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
@@ -613,7 +613,7 @@
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
       "verticalBasedSearchEnabled": false,
-      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledApp": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
@@ -1212,7 +1212,7 @@
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
-      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledApp": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
@@ -1817,7 +1817,7 @@
       },
       "write_to_us_online": true,
       "promise_timer_duration": 180,
-      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledApp": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "promise_sla": {
         "international": "5-7",
@@ -2397,7 +2397,7 @@
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
-      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledApp": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
@@ -2993,7 +2993,7 @@
       "shouldShowGlobalDateRange": true,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
-      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledApp": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
