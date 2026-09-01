@@ -314,16 +314,10 @@
   ],
   "bank_offers": [
     {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/sab.png",
-      "bank_name": "SAB",
-      "desc": "Extra 20% on SAB Credit Card holders",
-      "link": "/store/sab-bank-offer"
-    },
-    {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/Alinma_Bank.png",
-      "bank_name": "ANB",
-      "desc": "Get 30% off with Alinma bank card",
-      "link": "/store/alnami-bank-offer"
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/SNB.png",
+      "bank_name": "SNB",
+      "desc": "Get 20% Off with SNB Credit Cards",
+      "link": "/page/snb-bank-offer"
     },
     {
       "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSEnglish.png",

@@ -312,6 +312,12 @@
   ],
   "bank_offers": [
     {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/EI.png",
+      "bank_name": "مصرف الإمارات الإسلامي",
+      "desc": "احصل على خصم 10% عند الدفع ببطاقات مصرف الإمارات الإسلامي",
+      "link": "/page/enbd-islamic-bank-offer"
+    },
+    {
       "icon": "https://mobilecdn.6thstreet.com/pdp/images/FAB.jpg",
       "bank_name": "FAB",
       "desc": "خصم 25% مع بطاقة إماراتي الائتمانية من أبوظبي الأول الإسلامي",

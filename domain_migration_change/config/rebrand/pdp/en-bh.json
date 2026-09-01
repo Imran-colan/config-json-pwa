@@ -312,7 +312,14 @@
       ]
     }
   ],
-  "bank_offers": [],
+  "bank_offers": [
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/NBB.png",
+      "bank_name": "NBB",
+      "desc": "Get 10% Off with NBB Cards",
+      "link": "/page/nbb-bank-offer"
+    }
+  ],
   "similar_product_eligible_category": {
     "Men": [
       "Clothing",

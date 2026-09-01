@@ -20,14 +20,18 @@
       "rebrand_icon_en_mega_menu_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/fashion_selected_en.png",
       "rebrand_icon_en_mega_menu_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/fashion_unselected_en.png",
       "home_header_background": "https://mobilecdn.6thstreet.com/config/verticals_data/om/home/backgrounds/fashion_background.png",
-      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_fashion_selected_ar.png",
-      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_fashion_unselected_ar.png",
-      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_fashion_selected_en.png",
-      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_fashion_unselected_en.png",
-      "aivi_icon_megamenu_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_fashion_selected_ar.png",
-      "aivi_icon_megamenu_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_fashion_unselected_ar.png",
-      "aivi_icon_megamenu_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_fashion_selected_en.png",
-      "aivi_icon_megamenu_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_fashion_unselected_en.png",
+      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_fashion_selected_ar.png",
+      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_fashion_unselected_ar.png",
+      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_fashion_selected_en.png",
+      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_fashion_unselected_en.png",
+      "aivi_icon_megamenu_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_fashion_selected_ar.png",
+      "aivi_icon_megamenu_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_fashion_unselected_ar.png",
+      "aivi_icon_megamenu_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_fashion_selected_en.png",
+      "aivi_icon_megamenu_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_fashion_unselected_en.png",
+      "aivi_icon_ar_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/FashionSelectedAr.png",
+      "aivi_icon_ar_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/FashionUnselectedAr.png",
+      "aivi_icon_en_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/FashionSelectedEn.png",
+      "aivi_icon_en_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/FashionUnselectedEn.png",
       "type": "global",
       "name": "fashion",
       "identifier": "fashion",
@@ -127,6 +131,47 @@
       }
     },
     {
+      "text_en": "School",
+      "text_ar": "المدرسة",
+      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_bts_selected_ar.png",
+      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_bts_unselected_ar.png",
+      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_bts_selected_en.png",
+      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_bts_unselected_en.png",
+      "aivi_icon_ar_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/SchoolSelectedAr.png",
+      "aivi_icon_ar_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/SchoolUnselectedAr.png",
+      "aivi_icon_en_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/SchoolSelectedEn.png",
+      "aivi_icon_en_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/SchoolUnselectedEn.png",
+      "type": "brand",
+      "name": "school",
+      "identifier": "bts",
+      "tabs_home": {
+        "en": {
+          "girls": {
+            "is_enabled": true,
+            "label": "Girls",
+            "file": "girls.json"
+          },
+          "boys": {
+            "is_enabled": true,
+            "label": "Boys",
+            "file": "boys.json"
+          }
+        },
+        "ar": {
+          "girls": {
+            "is_enabled": true,
+            "label": "اناث",
+            "file": "girls.json"
+          },
+          "boys": {
+            "is_enabled": true,
+            "label": "ذكور",
+            "file": "boys.json"
+          }
+        }
+      }
+    },
+    {
       "text_en": "Beauty",
       "text_ar": "جمال",
       "icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/verticals_data/om/home/beauty/beauty_selected_ar.png",
@@ -146,14 +191,18 @@
       "rebrand_icon_en_mega_menu_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/beauty_selected_en.png",
       "rebrand_icon_en_mega_menu_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/beauty_unselected_en.png",
       "home_header_background": "https://mobilecdn.6thstreet.com/config/verticals_data/om/home/backgrounds/beauty_background.png",
-      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_beauty_selected_ar.png",
-      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_beauty_unselected_ar.png",
-      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_beauty_selected_en.png",
-      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_beauty_unselected_en.png",
-      "aivi_icon_megamenu_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_beauty_selected_ar.png",
-      "aivi_icon_megamenu_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_beauty_unselected_ar.png",
-      "aivi_icon_megamenu_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_beauty_selected_en.png",
-      "aivi_icon_megamenu_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_beauty_unselected_en.png",
+      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_beauty_selected_ar.png",
+      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_beauty_unselected_ar.png",
+      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_beauty_selected_en.png",
+      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_beauty_unselected_en.png",
+      "aivi_icon_megamenu_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_beauty_selected_ar.png",
+      "aivi_icon_megamenu_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_beauty_unselected_ar.png",
+      "aivi_icon_megamenu_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_beauty_selected_en.png",
+      "aivi_icon_megamenu_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_beauty_unselected_en.png",
+      "aivi_icon_ar_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/BeautySelectedAr.png",
+      "aivi_icon_ar_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/BeautyUnselectedAr.png",
+      "aivi_icon_en_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/BeautySelectedEn.png",
+      "aivi_icon_en_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/BeautyUnselectedEn.png",
       "type": "category",
       "name": "beauty",
       "identifier": "beauty",
@@ -211,6 +260,114 @@
       }
     },
     {
+      "text_en": "R&B",
+      "text_ar": "آر أند بي",
+      "icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/home/rnb/rnb_selected_ar.png",
+      "icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/home/rnb/rnb_unselected_ar.png",
+      "icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/home/rnb/rnb_selected_en.png",
+      "icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/home/rnb/rnb_unselected_en.png",
+      "rebrand_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/rnb_selected_ar.png",
+      "rebrand_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/rnb_unselected_ar.png",
+      "rebrand_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/rnb_selected_en.png",
+      "rebrand_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/rnb_unselected_en.png",
+      "icon_ar_mega_menu_selected": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/plp/rnb/rnb_selected_ar.png",
+      "icon_ar_mega_menu_unselected": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/plp/rnb/rnb_unselected_ar.png",
+      "icon_en_mega_menu_selected": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/plp/rnb/rnb_selected_en.png",
+      "icon_en_mega_menu_unselected": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/plp/rnb/rnb_unselected_en.png",
+      "rebrand_icon_ar_mega_menu_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/rnb_selected_ar.png",
+      "rebrand_icon_ar_mega_menu_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/rnb_unselected_ar.png",
+      "rebrand_icon_en_mega_menu_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/rnb_selected_en.png",
+      "rebrand_icon_en_mega_menu_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/rnb_unselected_en.png",
+      "home_header_background": "https://mobilecdn.6thstreet.com/config/verticals_data/bh/home/backgrounds/rnb_background.png",
+      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_r_b_selected_ar.png",
+      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_r_b_unselected_ar.png",
+      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_r_b_selected_en.png",
+      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_r_b_unselected_en.png",
+      "aivi_icon_megamenu_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_r_b_selected_ar.png",
+      "aivi_icon_megamenu_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_r_b_unselected_ar.png",
+      "aivi_icon_megamenu_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_r_b_selected_en.png",
+      "aivi_icon_megamenu_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_r_b_unselected_en.png",
+      "aivi_icon_ar_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/RBSelectedAr.png",
+      "aivi_icon_ar_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/RBUnselectedAr.png",
+      "aivi_icon_en_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/RBSelectedEn.png",
+      "aivi_icon_en_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/RBUnselectedEn.png",
+      "type": "brand",
+      "name": "R&B",
+      "identifier": "rb",
+      "tabs_home": {
+        "en": {
+          "women": {
+            "is_enabled": true,
+            "label": "Women",
+            "file": "women.json"
+          },
+          "men": {
+            "is_enabled": true,
+            "label": "Men",
+            "file": "men.json"
+          },
+          "kids": {
+            "is_enabled": true,
+            "label": "Kids",
+            "file": "kids.json"
+          }
+        },
+        "ar": {
+          "women": {
+            "is_enabled": true,
+            "label": "نساء",
+            "file": "women.json"
+          },
+          "men": {
+            "is_enabled": true,
+            "label": "رجال",
+            "file": "men.json"
+          },
+          "kids": {
+            "is_enabled": true,
+            "label": "أطفال",
+            "file": "kids.json"
+          }
+        }
+      },
+      "tabs_mega_menu": {
+        "en": {
+          "women": {
+            "is_enabled": true,
+            "label": "Women",
+            "file": "women.json"
+          },
+          "men": {
+            "is_enabled": true,
+            "label": "Men",
+            "file": "men.json"
+          },
+          "kids": {
+            "is_enabled": true,
+            "label": "Kids",
+            "file": "kids.json"
+          }
+        },
+        "ar": {
+          "women": {
+            "is_enabled": true,
+            "label": "نساء",
+            "file": "women.json"
+          },
+          "men": {
+            "is_enabled": true,
+            "label": "رجال",
+            "file": "men.json"
+          },
+          "kids": {
+            "is_enabled": true,
+            "label": "أطفال",
+            "file": "kids.json"
+          }
+        }
+      }
+    },
+    {
       "text_en": "Babies & More",
       "text_ar": "الأطفال والمزيد",
       "icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/verticals_data/om/home/babies/babies_selected_ar.png",
@@ -230,14 +387,18 @@
       "rebrand_icon_en_mega_menu_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/babies_selected_en.png",
       "rebrand_icon_en_mega_menu_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/babies_unselected_en.png",
       "home_header_background": "https://mobilecdn.6thstreet.com/config/verticals_data/om/home/backgrounds/babies_background.png",
-      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_babies_more_selected_ar.png",
-      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_babies_more_unselected_ar.png",
-      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_babies_more_selected_en.png",
-      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_babies_more_unselected_en.png",
-      "aivi_icon_megamenu_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_babies_more_selected_ar.png",
-      "aivi_icon_megamenu_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_babies_more_unselected_ar.png",
-      "aivi_icon_megamenu_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_babies_more_selected_en.png",
-      "aivi_icon_megamenu_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/aivi_home_babies_more_unselected_en.png",
+      "aivi_icon_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_babies_more_selected_ar.png",
+      "aivi_icon_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_babies_more_unselected_ar.png",
+      "aivi_icon_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_babies_more_selected_en.png",
+      "aivi_icon_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_babies_more_unselected_en.png",
+      "aivi_icon_megamenu_ar_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_babies_more_selected_ar.png",
+      "aivi_icon_megamenu_ar_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_babies_more_unselected_ar.png",
+      "aivi_icon_megamenu_en_home_selected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_babies_more_selected_en.png",
+      "aivi_icon_megamenu_en_home_unselected": "https://mobilecdn.6thstreet.com/config/rebrand/images/home_babies_more_unselected_en.png",
+      "aivi_icon_ar_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/BabiesNmoreSelectedAr.png",
+      "aivi_icon_ar_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/BabiesNmoreUnselectedAr.png",
+      "aivi_icon_en_home_selected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/BabiesNmoreSelectedEn.png",
+      "aivi_icon_en_home_unselected_large": "https://mobilecdn.6thstreet.com/config/rebrand/images/BabiesNmoreUnselectedEn.png",
       "type": "brand",
       "name": "BABIES & MORE",
       "identifier": "bm",

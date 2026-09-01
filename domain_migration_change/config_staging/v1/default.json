@@ -8,8 +8,19 @@
       "is_cookies_consent_enabled": false,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
+      "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "promise_timer_duration": 180,
+      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
       "promise_sla": {
         "international": "5-7",
         "cross_border": "3-5",
@@ -23,6 +34,10 @@
       },
       "showIconInSize": true,
       "download_invoice": false,
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "write_to_us": true,
       "write_to_us_online": true,
       "nps_form": false,
@@ -30,9 +45,17 @@
       "vto": true,
       "locatiq": true,
       "useRECAPTCHA": false,
-      "useGoogleRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -343,7 +366,7 @@
       "is_modyai_enabled": false,
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -583,12 +606,27 @@
       "value": "SA",
       "currency": "SAR",
       "price_strip_insignificant_zeros": true,
+      "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
       "verticalBasedSearchEnabled": false,
+      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "write_to_us_online": true,
       "promise_sla": {
         "international": "5-7",
@@ -608,9 +646,17 @@
       "vto": true,
       "locatiq": true,
       "useRECAPTCHA": false,
-      "useGoogleRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -922,7 +968,7 @@
       "modyai_profiles_limit": 5,
       "price_show_discount_percent": true,
       "is_map_view_enabled": true,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -1162,9 +1208,24 @@
       "price_strip_insignificant_zeros": false,
       "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": false,
+      "isPdpVideoEnabled": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
+      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "write_to_us_online": true,
       "verticalBasedSearchEnabled": false,
       "promise_sla": {
@@ -1189,6 +1250,14 @@
       "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -1499,7 +1568,7 @@
       "modyai_profiles_limit": 5,
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -1527,7 +1596,7 @@
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
         "is_map_view_enabled": true,
-        "is_map_view_enabled_web": false
+        "is_map_view_enabled_web": true
       },
       "bottomMenu": {
         "categoriesMobileMenu": {
@@ -1711,7 +1780,7 @@
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
-        "start": "10",
+        "start": "08",
         "end": "24",
         "timer_start_at": "10"
       },
@@ -1732,9 +1801,24 @@
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
+      "isPdpVideoEnabled": true,
       "is_cookies_consent_enabled": false,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "write_to_us_online": true,
       "promise_timer_duration": 180,
+      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "promise_sla": {
         "international": "5-7",
         "cross_border": "3-5",
@@ -1758,6 +1842,14 @@
       "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -2068,7 +2160,7 @@
       },
       "price_show_discount_percent": true,
       "is_map_view_enabled": false,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -2096,7 +2188,7 @@
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
         "is_map_view_enabled": true,
-        "is_map_view_enabled_web": false
+        "is_map_view_enabled_web": true
       },
       "bottomMenu": {
         "categoriesMobileMenu": {
@@ -2299,11 +2391,26 @@
       "value": "BH",
       "currency": "BHD",
       "price_strip_insignificant_zeros": false,
+      "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
+      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "promise_timer_duration": 180,
       "promise_sla": {
         "international": "5-7",
@@ -2325,9 +2432,17 @@
       "handsfree": false,
       "verticalBasedPlpEnabled": true,
       "useRECAPTCHA": false,
-      "useGoogleRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "payLater": {
+        "isAppEnable": false,
+        "isPwaEnable": false,
+        "min": 0,
+        "max": 0
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -2638,7 +2753,7 @@
       "modyai_profiles_limit": 5,
       "is_map_view_enabled": false,
       "price_show_discount_percent": true,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -2666,7 +2781,7 @@
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
         "is_map_view_enabled": true,
-        "is_map_view_enabled_web": false
+        "is_map_view_enabled_web": true
       },
       "bottomMenu": {
         "categoriesMobileMenu": {
@@ -2872,11 +2987,26 @@
       "value": "QA",
       "currency": "QAR",
       "price_strip_insignificant_zeros": true,
+      "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": true,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
+      "isOrderTrackingWidgetEnabledApp": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
+      "isCheckoutCOM": {
+        "isPWAEnable": true,
+        "isAPPEnable": true
+      },
       "promise_timer_duration": 180,
       "promise_sla": {
         "international": "5-7",
@@ -2898,9 +3028,17 @@
       "handsfree": false,
       "verticalBasedPlpEnabled": true,
       "useRECAPTCHA": false,
-      "useGoogleRECAPTCHA": false,
+      "useGoogleRECAPTCHA": true,
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
+      "isTrackingWidgetViewCTAEnabledApp": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "payLater": {
+        "isAppEnable": true,
+        "isPwaEnable": true,
+        "min": 1,
+        "max": 25000
+      },
       "social_login": {
         "app": {
           "is_google_login_enabled": true,
@@ -3211,7 +3349,7 @@
       "modyai_profiles_limit": 5,
       "is_map_view_enabled": false,
       "price_show_discount_percent": false,
-      "is_referral_enabled": false,
+      "is_referral_enabled": true,
       "live_party_carousel_enabled": false,
       "pn_nudge_enabled": false,
       "hasSizePredictor": true,
@@ -3238,7 +3376,7 @@
         "isApartmentEnabled": true,
         "isBuildingEnabled": true,
         "is_map_view_enabled": true,
-        "is_map_view_enabled_web": false
+        "is_map_view_enabled_web": true
       },
       "nationality_cart_limit": -1,
       "bottomMenu": {

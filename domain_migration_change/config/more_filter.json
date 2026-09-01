@@ -1,6 +1,5 @@
 {
   "more_filter": [
-    "fit",
     "sleeve_length",
     "sleeve_type",
     "material",
@@ -38,10 +37,6 @@
     "closure"
   ],
   "more_filter_traslation": {
-    "fit": {
-      "en": "Fit",
-      "ar": "القياس"
-    },
     "sleeve_length": {
       "en": "Sleeve Length",
       "ar": "طول الأكمام"

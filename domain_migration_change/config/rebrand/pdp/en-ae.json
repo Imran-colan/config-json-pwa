@@ -314,6 +314,12 @@
   ],
   "bank_offers": [
     {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/EI.png",
+      "bank_name": "Emirates Islamic",
+      "desc": "10% Off with Emirates Islamic Cards",
+      "link": "/page/enbd-islamic-bank-offer"
+    },
+    {
       "icon": "https://mobilecdn.6thstreet.com/pdp/images/FAB.jpg",
       "bank_name": "FAB",
       "desc": "25% off with FAB Emirati Islamic Credit card!",
@@ -322,7 +328,7 @@
     {
       "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSEnglish.png",
       "bank_name": "ANB",
-      "desc": "Spend SAR 400+ and get a \n chance to win an iPad",
+      "desc": "Spend AED 400+ and get a \n chance to win an iPad",
       "link": ""
     }
   ],

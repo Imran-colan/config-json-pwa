@@ -312,16 +312,10 @@
   ],
   "bank_offers": [
     {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/sab.png",
-      "bank_name": "SAB",
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/SNB.png",
+      "bank_name": "SNB",
       "desc": "خصم إضافي 20% لدى عند استخدام بطاقات الأول الائتمانية",
-      "link": "/store/sab-bank-offer"
-    },
-    {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/Alinma_Bank.png",
-      "bank_name": "ANB",
-      "desc": "احصل على خصم 30% عند الدفع ببطاقة مصرف الإنماء",
-      "link": "/store/alnami-bank-offer"
+      "link": "/page/snb-bank-offer"
     },
     {
       "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSArabic.png",

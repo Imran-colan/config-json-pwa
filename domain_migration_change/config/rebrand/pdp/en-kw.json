@@ -312,7 +312,14 @@
       ]
     }
   ],
-  "bank_offers": [],
+  "bank_offers": [
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/NBK.png",
+      "bank_name": "National Bank of Kuwait",
+      "desc": "Get 10% off with NBK cards",
+      "link": "/page/nbk-bank-offer"
+    }
+  ],
   "similar_product_eligible_category": {
     "Men": [
       "Clothing",

@@ -310,7 +310,14 @@
       ]
     }
   ],
-  "bank_offers": [],
+  "bank_offers": [
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/NBK.png",
+      "bank_name": "بنك الكويت الوطني",
+      "desc": "احصل على خصم 10% عند الدفع ببطاقات بنك الكويت الوطني",
+      "link": "/page/nbk-bank-offer"
+    }
+  ],
   "similar_product_eligible_category": {
     "Men": [
       "Clothing",

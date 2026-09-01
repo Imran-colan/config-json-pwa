@@ -312,7 +312,14 @@
       ]
     }
   ],
-  "bank_offers": [],
+  "bank_offers": [
+    {
+      "icon": "https://mobilecdn.6thstreet.com/pdp/images/QNB.png",
+      "bank_name": "Qatar National Bank",
+      "desc": "Get 20% Off with QNB Credit Cards",
+      "link": "/page/qnb-bank-offer"
+    }
+  ],
   "similar_product_eligible_category": {
     "Men": [
       "Clothing",
