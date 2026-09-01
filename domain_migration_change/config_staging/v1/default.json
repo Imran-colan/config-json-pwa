@@ -8,10 +8,19 @@
       "is_cookies_consent_enabled": false,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
+      "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "promise_timer_duration": 180,
-      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledApp": false,
       "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
       "promise_sla": {
         "international": "5-7",
         "cross_border": "3-5",
@@ -40,7 +49,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -597,14 +606,23 @@
       "value": "SA",
       "currency": "SAR",
       "price_strip_insignificant_zeros": true,
+      "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
       "verticalBasedSearchEnabled": false,
-      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledApp": false,
       "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
       "isCheckoutCOM": {
         "isPWAEnable": true,
         "isAPPEnable": true
@@ -632,7 +650,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -1190,11 +1208,20 @@
       "price_strip_insignificant_zeros": false,
       "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": false,
+      "isPdpVideoEnabled": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
-      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledApp": false,
       "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
       "isCheckoutCOM": {
         "isPWAEnable": true,
         "isAPPEnable": true
@@ -1224,7 +1251,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -1774,14 +1801,23 @@
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
+      "isPdpVideoEnabled": true,
       "is_cookies_consent_enabled": false,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
       "isCheckoutCOM": {
         "isPWAEnable": true,
         "isAPPEnable": true
       },
       "write_to_us_online": true,
       "promise_timer_duration": 180,
-      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledApp": false,
       "isOrderTrackingWidgetEnabledWeb": true,
       "promise_sla": {
         "international": "5-7",
@@ -1807,7 +1843,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -2355,13 +2391,22 @@
       "value": "BH",
       "currency": "BHD",
       "price_strip_insignificant_zeros": false,
+      "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
-      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledApp": false,
       "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
       "isCheckoutCOM": {
         "isPWAEnable": true,
         "isAPPEnable": true
@@ -2391,7 +2436,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -2942,13 +2987,22 @@
       "value": "QA",
       "currency": "QAR",
       "price_strip_insignificant_zeros": true,
+      "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": true,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
-      "isOrderTrackingWidgetEnabledApp": true,
+      "isOrderTrackingWidgetEnabledApp": false,
       "isOrderTrackingWidgetEnabledWeb": true,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": false
+        }
+      },
       "isCheckoutCOM": {
         "isPWAEnable": true,
         "isAPPEnable": true
@@ -2978,7 +3032,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": false,
+      "isTrackingWidgetViewCTAEnabledWeb": true,
       "payLater": {
         "isAppEnable": true,
         "isPwaEnable": true,
