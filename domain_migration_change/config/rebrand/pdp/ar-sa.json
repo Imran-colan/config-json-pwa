@@ -310,20 +310,7 @@
       ]
     }
   ],
-  "bank_offers": [
-    {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/SNB.png",
-      "bank_name": "SNB",
-      "desc": "خصم إضافي 20% لدى عند استخدام بطاقات الأول الائتمانية",
-      "link": "/page/snb-bank-offer"
-    },
-    {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSArabic.png",
-      "bank_name": "",
-      "desc": "أنفق 400 ريال سعودي أو أكثر واحصل على فرصة للفوز بجهاز iPad.",
-      "link": ""
-    }
-  ],
+  "bank_offers": [],
   "similar_product_eligible_category": {
     "Men": [
       "Clothing",

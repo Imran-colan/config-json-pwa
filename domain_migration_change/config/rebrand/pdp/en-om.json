@@ -312,14 +312,7 @@
       ]
     }
   ],
-  "bank_offers": [
-    {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/BOM.png",
-      "bank_name": "Bank of Muscat",
-      "desc": "Get 20% Off with Bank Muscat Cards",
-      "link": "/page/muscat-bank-offer"
-    }
-  ],
+  "bank_offers": [],
   "similar_product_eligible_category": {
     "Men": [
       "Clothing",

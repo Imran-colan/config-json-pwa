@@ -12,6 +12,8 @@
       "isAlgoliaEventsEnabled_app": true,
       "promise_timer_duration": 180,
       "isOrderTrackingWidgetEnabledApp": true,
+      "showGridInPLP": true,
+      "isAiviSnapFeatureEnabled": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
@@ -49,7 +51,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -614,7 +616,9 @@
       "promise_timer_duration": 180,
       "verticalBasedSearchEnabled": false,
       "isOrderTrackingWidgetEnabledApp": true,
+      "showGridInPLP": true,
       "isOrderTrackingWidgetEnabledWeb": true,
+      "isAiviSnapFeatureEnabled": true,
       "blogs": {
         "app": {
           "enabled": false
@@ -650,7 +654,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -1189,7 +1193,7 @@
       "isQuickDelivery": true,
       "quick_delivery_time": {
         "start": "07",
-        "end": "24",
+        "end": "11",
         "timer_start_at": "10"
       },
       "inhouse_widget_config": {
@@ -1214,6 +1218,8 @@
       "promise_timer_duration": 180,
       "isOrderTrackingWidgetEnabledApp": true,
       "isOrderTrackingWidgetEnabledWeb": true,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "blogs": {
         "app": {
           "enabled": false
@@ -1251,7 +1257,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -1803,6 +1809,8 @@
       "shouldShowGlobalDateRange": false,
       "isPdpVideoEnabled": true,
       "is_cookies_consent_enabled": false,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "blogs": {
         "app": {
           "enabled": false
@@ -1843,7 +1851,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -2398,6 +2406,8 @@
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
       "isOrderTrackingWidgetEnabledApp": true,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
@@ -2436,7 +2446,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
         "isAppEnable": false,
         "isPwaEnable": false,
@@ -2994,6 +3004,8 @@
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
       "isOrderTrackingWidgetEnabledApp": true,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
@@ -3032,7 +3044,7 @@
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,
       "isTrackingWidgetViewCTAEnabledApp": false,
-      "isTrackingWidgetViewCTAEnabledWeb": true,
+      "isTrackingWidgetViewCTAEnabledWeb": false,
       "payLater": {
         "isAppEnable": true,
         "isPwaEnable": true,
@@ -3566,7 +3578,7 @@
       "isQuickDelivery": true,
       "quick_delivery_time": {
         "start": "10",
-        "end": "24",
+        "end": "11",
         "timer_start_at": "10"
       },
       "inhouse_widget_config": {

@@ -312,20 +312,7 @@
       ]
     }
   ],
-  "bank_offers": [
-    {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/SNB.png",
-      "bank_name": "SNB",
-      "desc": "Get 20% Off with SNB Credit Cards",
-      "link": "/page/snb-bank-offer"
-    },
-    {
-      "icon": "https://mobilecdn.6thstreet.com/pdp/images/BTSEnglish.png",
-      "bank_name": "",
-      "desc": "Spend SAR 400+ and get a \n chance to win an iPad",
-      "link": ""
-    }
-  ],
+  "bank_offers": [],
   "similar_product_eligible_category": {
     "Men": [
       "Clothing",
