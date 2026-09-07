@@ -123,13 +123,13 @@
         {
           "id": 0,
           "type": "image",
-          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/appareal_group_banner_logo.png",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/appareal_group_banner_logo.png",
           "key": "apparel_group_full_logo"
         },
         {
           "id": 1,
           "type": "image",
-          "url": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/ic_authenticity_badge_ar.png",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/ic_authenticity_badge_ar.png",
           "key": "authenticity_badge"
         },
         {
@@ -147,7 +147,7 @@
         {
           "id": 5,
           "type": "image",
-          "url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ceoSignature.png",
+          "url": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/ceoSignature.png",
           "key": "signature"
         },
         {
@@ -197,19 +197,19 @@
             {
               "id": 1,
               "icon": "speed",
-              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_delivery-flash.png",
+              "icon_url": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/ic_delivery-flash.png",
               "text": "سرعة يمكنك الاعتماد عليها"
             },
             {
               "id": 2,
               "icon": "clock",
-              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_clock.png",
+              "icon_url": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/ic_clock.png",
               "text": "في الموعد أو علينا"
             },
             {
               "id": 3,
               "icon": "location",
-              "icon_url": "https://mobilecdn.6thstreet.com/config/rebrand/images/ic_location.png",
+              "icon_url": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/ic_location.png",
               "text": "اعرف مكانه، في أي وقت"
             }
           ]
