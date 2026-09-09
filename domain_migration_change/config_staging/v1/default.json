@@ -3577,8 +3577,8 @@
       },
       "isQuickDelivery": true,
       "quick_delivery_time": {
-        "start": "10",
-        "end": "11",
+        "start": "07",
+        "end": "17",
         "timer_start_at": "10"
       },
       "inhouse_widget_config": {
