@@ -103,9 +103,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "Rewards",
@@ -114,16 +114,16 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -134,9 +134,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "مكافآت",
@@ -145,68 +145,68 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
         {
           "brand_name": "Levis",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_8.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_1.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_1.png"
         },
         {
           "brand_name": "Skechers",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_3.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Aldo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_aldo_brand.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_3.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_3.png"
         },
         {
           "brand_name": "Koton",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_4.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_10.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_10.png"
         },
         {
           "brand_name": "Pumaa",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Crocs",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_9.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_9.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_9.png"
         },
         {
           "brand_name": "Steve Madden",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_6.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_8.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_8.png"
         },
         {
           "brand_name": "Adidas",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_7.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_6.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_6.png"
         },
         {
           "brand_name": "Puma",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_4.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_4.png"
         },
         {
           "brand_name": "Boohoo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_5.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_5.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_5.png"
         }
       ],
       "onBoardingBrands": [
@@ -706,9 +706,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "Rewards",
@@ -717,16 +717,16 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -737,9 +737,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "مكافآت",
@@ -748,68 +748,68 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
         {
           "brand_name": "Levis",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_8.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_1.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_1.png"
         },
         {
           "brand_name": "Skechers",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_3.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Aldo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_aldo_brand.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_3.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_3.png"
         },
         {
           "brand_name": "Koton",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_4.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_10.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_10.png"
         },
         {
           "brand_name": "Pumaa",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Crocs",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_9.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_9.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_9.png"
         },
         {
           "brand_name": "Steve Madden",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_6.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_8.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_8.png"
         },
         {
           "brand_name": "Adidas",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_7.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_6.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_6.png"
         },
         {
           "brand_name": "Puma",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_4.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_4.png"
         },
         {
           "brand_name": "Boohoo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_5.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_5.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_5.png"
         }
       ],
       "onBoardingBrands": [
@@ -1308,9 +1308,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "Rewards",
@@ -1319,16 +1319,16 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -1339,9 +1339,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "مكافآت",
@@ -1350,68 +1350,68 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
         {
           "brand_name": "Levis",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_8.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_1.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_1.png"
         },
         {
           "brand_name": "Skechers",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_3.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Aldo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_aldo_brand.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_3.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_3.png"
         },
         {
           "brand_name": "Koton",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_4.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_10.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_10.png"
         },
         {
           "brand_name": "Pumaa",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Crocs",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_9.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_9.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_9.png"
         },
         {
           "brand_name": "Steve Madden",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_6.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_8.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_8.png"
         },
         {
           "brand_name": "Adidas",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_7.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_6.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_6.png"
         },
         {
           "brand_name": "Puma",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_4.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_4.png"
         },
         {
           "brand_name": "Boohoo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_5.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_5.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_5.png"
         }
       ],
       "onBoardingBrands": [
@@ -1902,9 +1902,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "Rewards",
@@ -1913,16 +1913,16 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -1933,9 +1933,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "مكافآت",
@@ -1944,68 +1944,68 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
         {
           "brand_name": "Levis",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_8.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_1.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_1.png"
         },
         {
           "brand_name": "Skechers",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_3.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Aldo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_aldo_brand.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_3.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_3.png"
         },
         {
           "brand_name": "Koton",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_4.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_10.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_10.png"
         },
         {
           "brand_name": "Pumaa",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Crocs",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_9.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_9.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_9.png"
         },
         {
           "brand_name": "Steve Madden",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_6.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_8.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_8.png"
         },
         {
           "brand_name": "Adidas",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_7.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_6.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_6.png"
         },
         {
           "brand_name": "Puma",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_4.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_4.png"
         },
         {
           "brand_name": "Boohoo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_5.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_5.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_5.png"
         }
       ],
       "onBoardingBrands": [
@@ -2497,9 +2497,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "Rewards",
@@ -2508,16 +2508,16 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -2528,9 +2528,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "مكافآت",
@@ -2539,68 +2539,68 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
         {
           "brand_name": "Levis",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_8.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_1.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_1.png"
         },
         {
           "brand_name": "Skechers",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_3.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Aldo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_aldo_brand.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_3.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_3.png"
         },
         {
           "brand_name": "Koton",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_4.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_10.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_10.png"
         },
         {
           "brand_name": "Pumaa",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Crocs",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_9.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_9.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_9.png"
         },
         {
           "brand_name": "Steve Madden",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_6.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_8.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_8.png"
         },
         {
           "brand_name": "Adidas",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_7.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_6.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_6.png"
         },
         {
           "brand_name": "Puma",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_4.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_4.png"
         },
         {
           "brand_name": "Boohoo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_5.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_5.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_5.png"
         }
       ],
       "onBoardingBrands": [
@@ -3095,9 +3095,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "Rewards",
@@ -3106,16 +3106,16 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_en.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_en.jpg"
         },
         "ar": {
           "onboarding": [
@@ -3126,9 +3126,9 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/shop_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/shop_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             },
             {
               "title": "مكافآت",
@@ -3137,68 +3137,68 @@
               ],
               "media": {
                 "type": "video",
-                "source": "https://mobilecdn.6thstreet.com/config_staging/rebrand/videos/rewards_video.mp4"
+                "source": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/videos/rewards_video.mp4"
               },
-              "brandUrl": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png"
+              "brandUrl": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png"
             }
           ],
-          "textureBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/splash_texture.png",
-          "aiviLogo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_logo.png",
-          "aiviWelcome": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "permissionsBg": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/onboarding_bg.jpg",
-          "forceUpdate": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi/force_update_ar.jpg"
+          "textureBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/splash_texture.png",
+          "aiviLogo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_logo.png",
+          "aiviWelcome": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "permissionsBg": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/onboarding_bg.jpg",
+          "forceUpdate": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi/force_update_ar.jpg"
         }
       },
       "aivi_onboarding_brands": [
         {
           "brand_name": "Levis",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_8.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_1.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_8.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_1.png"
         },
         {
           "brand_name": "Skechers",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_3.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_3.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Aldo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_aldo_brand.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_3.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_aldo_brand.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_3.png"
         },
         {
           "brand_name": "Koton",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_4.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_10.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_4.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_10.png"
         },
         {
           "brand_name": "Pumaa",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_2.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_2.png"
         },
         {
           "brand_name": "Crocs",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_9.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_9.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_9.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_9.png"
         },
         {
           "brand_name": "Steve Madden",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_6.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_8.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_6.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_8.png"
         },
         {
           "brand_name": "Adidas",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_7.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_6.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_7.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_6.png"
         },
         {
           "brand_name": "Puma",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_2.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_4.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_2.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_4.png"
         },
         {
           "brand_name": "Boohoo",
-          "brand_logo": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_icon_5.png",
-          "brand_image": "https://mobilecdn.6thstreet.com/config_staging/rebrand/images/aivi_brand_5.png"
+          "brand_logo": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_icon_5.png",
+          "brand_image": "https://mobilecdn.6thstreet.com/AllBanners/rebrand/images/aivi_brand_5.png"
         }
       ],
       "onBoardingBrands": [
