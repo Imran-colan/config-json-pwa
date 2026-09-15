@@ -283,6 +283,12 @@
       }
     },
     {
+      "type": "promotion_bts_slider",
+      "layout": {
+        "title": ""
+      }
+    },
+    {
       "type": "dynamic_widget",
       "index": 4,
       "promotion_name": "Dynamic Wigets Promo Name Slider",

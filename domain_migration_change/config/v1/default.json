@@ -33,6 +33,15 @@
       "isProfilePicEnabledApp": true,
       "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": false,
+      "isOrderTrackingWidgetEnabledWeb": false,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": true
+        }
+      },
       "social_login": {
         "app": {
           "is_apple_login_enabled": true,
@@ -539,6 +548,15 @@
         "isPwaEnable": false,
         "min": 0,
         "max": 0
+      },
+      "isOrderTrackingWidgetEnabledWeb": false,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": true
+        }
       },
       "is_signin_cart_nudge_enabled": false,
       "isProfilePicEnabledWeb": true,
@@ -1055,6 +1073,15 @@
         "min": 0,
         "max": 0
       },
+      "isOrderTrackingWidgetEnabledWeb": false,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": true
+        }
+      },
       "handsfree": false,
       "vto": true,
       "locatiq": true,
@@ -1561,6 +1588,15 @@
         "isPwaEnable": false,
         "min": 0,
         "max": 0
+      },
+      "isOrderTrackingWidgetEnabledWeb": false,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": true
+        }
       },
       "price_show_discount_percent": true,
       "handsfree": false,
@@ -2075,6 +2111,15 @@
         "isPwaEnable": false,
         "min": 0,
         "max": 0
+      },
+      "isOrderTrackingWidgetEnabledWeb": false,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": true
+        }
       },
       "handsfree": false,
       "vto": true,
@@ -2592,6 +2637,15 @@
         "isPwaEnable": true,
         "min": 1,
         "max": 25000
+      },
+      "isOrderTrackingWidgetEnabledWeb": false,
+      "blogs": {
+        "app": {
+          "enabled": false
+        },
+        "pwa": {
+          "enabled": true
+        }
       },
       "isProfilePicEnabledWeb": true,
       "isProfilePicEnabledApp": true,

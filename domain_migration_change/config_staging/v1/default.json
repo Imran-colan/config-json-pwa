@@ -14,7 +14,7 @@
       "isAlgoliaEventsEnabled_app": true,
       "promise_timer_duration": 180,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isOrderTrackingWidgetEnabledWeb": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
           "enabled": false
@@ -618,7 +618,7 @@
       "promise_timer_duration": 180,
       "verticalBasedSearchEnabled": false,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isOrderTrackingWidgetEnabledWeb": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
           "enabled": false
@@ -1219,7 +1219,7 @@
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isOrderTrackingWidgetEnabledWeb": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
           "enabled": false
@@ -1826,7 +1826,7 @@
       "write_to_us_online": true,
       "promise_timer_duration": 180,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isOrderTrackingWidgetEnabledWeb": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "promise_sla": {
         "international": "5-7",
         "cross_border": "3-5",
@@ -2408,7 +2408,7 @@
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isOrderTrackingWidgetEnabledWeb": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
           "enabled": false
@@ -3006,7 +3006,7 @@
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isOrderTrackingWidgetEnabledWeb": false,
+      "isOrderTrackingWidgetEnabledWeb": true,
       "blogs": {
         "app": {
           "enabled": false
