@@ -7,14 +7,14 @@
       "price_strip_insignificant_zeros": true,
       "is_cookies_consent_enabled": false,
       "instore_orders_returns": true,
-      "shouldShowGlobalDateRange": false,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "isPdpVideoEnabled": true,
+      "shouldShowGlobalDateRange": false,
       "isAlgoliaEventsEnabled_app": true,
       "promise_timer_duration": 180,
       "isOrderTrackingWidgetEnabledApp": true,
-      "showGridInPLP": true,
-      "isAiviSnapFeatureEnabled": true,
-      "isOrderTrackingWidgetEnabledWeb": true,
+      "isOrderTrackingWidgetEnabledWeb": false,
       "blogs": {
         "app": {
           "enabled": false
@@ -611,14 +611,14 @@
       "isPdpVideoEnabled": true,
       "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": true,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
       "verticalBasedSearchEnabled": false,
       "isOrderTrackingWidgetEnabledApp": true,
-      "showGridInPLP": true,
-      "isOrderTrackingWidgetEnabledWeb": true,
-      "isAiviSnapFeatureEnabled": true,
+      "isOrderTrackingWidgetEnabledWeb": false,
       "blogs": {
         "app": {
           "enabled": false
@@ -1212,14 +1212,14 @@
       "price_strip_insignificant_zeros": false,
       "isAlgoliaEventsEnabled_app": true,
       "is_cookies_consent_enabled": false,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "isPdpVideoEnabled": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
       "promise_timer_duration": 180,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isOrderTrackingWidgetEnabledWeb": true,
-      "isAiviSnapFeatureEnabled": true,
-      "showGridInPLP": true,
+      "isOrderTrackingWidgetEnabledWeb": false,
       "blogs": {
         "app": {
           "enabled": false
@@ -1807,10 +1807,10 @@
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
-      "isPdpVideoEnabled": true,
-      "is_cookies_consent_enabled": false,
       "isAiviSnapFeatureEnabled": true,
       "showGridInPLP": true,
+      "isPdpVideoEnabled": true,
+      "is_cookies_consent_enabled": false,
       "blogs": {
         "app": {
           "enabled": false
@@ -1826,7 +1826,7 @@
       "write_to_us_online": true,
       "promise_timer_duration": 180,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isOrderTrackingWidgetEnabledWeb": true,
+      "isOrderTrackingWidgetEnabledWeb": false,
       "promise_sla": {
         "international": "5-7",
         "cross_border": "3-5",
@@ -2403,12 +2403,12 @@
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": false,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isAiviSnapFeatureEnabled": true,
-      "showGridInPLP": true,
-      "isOrderTrackingWidgetEnabledWeb": true,
+      "isOrderTrackingWidgetEnabledWeb": false,
       "blogs": {
         "app": {
           "enabled": false
@@ -3001,12 +3001,12 @@
       "isAlgoliaEventsEnabled_app": true,
       "instore_orders_returns": true,
       "shouldShowGlobalDateRange": true,
+      "isAiviSnapFeatureEnabled": true,
+      "showGridInPLP": true,
       "is_cookies_consent_enabled": false,
       "write_to_us_online": true,
       "isOrderTrackingWidgetEnabledApp": true,
-      "isAiviSnapFeatureEnabled": true,
-      "showGridInPLP": true,
-      "isOrderTrackingWidgetEnabledWeb": true,
+      "isOrderTrackingWidgetEnabledWeb": false,
       "blogs": {
         "app": {
           "enabled": false
